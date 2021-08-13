@@ -1,5 +1,5 @@
 ---
 title: "Le remue méninges"
 url: /quimper/le-remue-meninges/
-shop: jouets
+shop: jeux
 ---
