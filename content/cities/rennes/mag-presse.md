@@ -1,5 +1,5 @@
 ---
 title: "Mag Presse"
 url: /rennes/mag-presse/
-shop: kiosque
+shop: marchand de journaux
 ---

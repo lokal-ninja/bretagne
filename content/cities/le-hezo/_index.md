@@ -1,6 +1,6 @@
 ---
 title: Le Hézo
 url: /le-hezo/
-latitude: 47.585120200000006
-longitude: -2.7044018000000003
+latitude: 47.5853807
+longitude: -2.7028139
 ---
