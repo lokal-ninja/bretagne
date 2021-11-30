@@ -1,6 +1,6 @@
 ---
 title: Domloup
 url: /domloup/
-latitude: 48.063097600000006
-longitude: -1.523711
+latitude: 48.0626279
+longitude: -1.5236949000000002
 ---
