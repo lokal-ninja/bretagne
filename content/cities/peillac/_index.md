@@ -1,6 +1,6 @@
 ---
 title: Peillac
 url: /peillac/
-latitude: 47.888836500000004
-longitude: -2.1295846000000003
+latitude: 48.580969800000005
+longitude: -2.5332146
 ---
