@@ -1,6 +1,6 @@
 ---
 title: Dahouët
 url: /dahouet/
-latitude: 48.5786917
-longitude: -2.564483
+latitude: 48.579
+longitude: -2.564
 ---

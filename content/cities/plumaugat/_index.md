@@ -1,6 +1,6 @@
 ---
 title: Plumaugat
 url: /plumaugat/
-latitude: 48.255281700000005
-longitude: -2.2379672
+latitude: 48.255
+longitude: -2.239
 ---

@@ -1,6 +1,6 @@
 ---
 title: Guingamp
 url: /guingamp/
-latitude: 48.5618483
-longitude: -3.1502007
+latitude: 48.56
+longitude: -3.143
 ---

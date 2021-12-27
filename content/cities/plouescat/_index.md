@@ -1,6 +1,6 @@
 ---
 title: Plouescat
 url: /plouescat/
-latitude: 48.657205700000006
-longitude: -4.1743159
+latitude: 48.657
+longitude: -4.176
 ---

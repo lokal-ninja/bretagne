@@ -1,6 +1,6 @@
 ---
 title: Plozévet
 url: /plozevet/
-latitude: 47.9859232
-longitude: -4.4258889
+latitude: 47.988
+longitude: -4.429
 ---

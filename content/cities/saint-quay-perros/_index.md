@@ -1,6 +1,6 @@
 ---
 title: Saint-Quay-Perros
 url: /saint-quay-perros/
-latitude: 
-longitude: 
+latitude: 48.787
+longitude: -3.448
 ---

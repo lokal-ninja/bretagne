@@ -1,6 +1,6 @@
 ---
 title: Guerlesquin
 url: /guerlesquin/
-latitude: 48.517454
-longitude: -3.588165
+latitude: 48.512
+longitude: -3.605
 ---

@@ -1,6 +1,6 @@
 ---
 title: Paimpol
 url: /paimpol/
-latitude: 48.779481800000006
-longitude: -3.0484022000000004
+latitude: 48.779
+longitude: -3.044
 ---

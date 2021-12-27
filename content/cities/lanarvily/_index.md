@@ -1,6 +1,6 @@
 ---
 title: Lanarvily
 url: /lanarvily/
-latitude: 48.5519569
-longitude: -4.3888658000000005
+latitude: 48.554
+longitude: -4.387
 ---

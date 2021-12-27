@@ -1,6 +1,6 @@
 ---
 title: Ploudaniel
 url: /ploudaniel/
-latitude: 48.5368963
-longitude: -4.3101807
+latitude: 48.487
+longitude: -4.284
 ---

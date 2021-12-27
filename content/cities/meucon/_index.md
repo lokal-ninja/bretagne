@@ -1,6 +1,6 @@
 ---
 title: Meucon
 url: /meucon/
-latitude: 47.716590000000004
-longitude: -2.76411
+latitude: 47.717
+longitude: -2.763
 ---

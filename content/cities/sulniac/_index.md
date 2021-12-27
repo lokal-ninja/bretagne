@@ -1,6 +1,6 @@
 ---
 title: Sulniac
 url: /sulniac/
-latitude: 47.6766517
-longitude: -2.5685294
+latitude: 47.676
+longitude: -2.571
 ---

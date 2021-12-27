@@ -1,6 +1,6 @@
 ---
 title: Vannes
 url: /vannes/
-latitude: 
-longitude: 
+latitude: 47.659
+longitude: -2.792
 ---

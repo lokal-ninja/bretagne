@@ -1,6 +1,6 @@
 ---
 title: Romagné
 url: /romagne/
-latitude: 48.342159200000005
-longitude: -1.2754346
+latitude: 48.347
+longitude: -1.269
 ---

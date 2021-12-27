@@ -1,6 +1,6 @@
 ---
 title: Rimou
 url: /rimou/
-latitude: 48.399075800000006
-longitude: -1.5148721
+latitude: 48.406
+longitude: -1.507
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pordic
 url: /pordic/
-latitude: 48.5722681
-longitude: -2.8140481000000004
+latitude: 48.559
+longitude: -2.809
 ---

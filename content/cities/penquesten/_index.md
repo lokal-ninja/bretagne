@@ -1,6 +1,6 @@
 ---
 title: Penquesten
 url: /penquesten/
-latitude: 48.035594
-longitude: -3.4188536000000003
+latitude: 47.866
+longitude: -3.233
 ---

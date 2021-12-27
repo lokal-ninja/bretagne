@@ -1,6 +1,6 @@
 ---
 title: Hillion
 url: /hillion/
-latitude: 48.5145266
-longitude: -2.6671457000000003
+latitude: 48.516
+longitude: -2.668
 ---

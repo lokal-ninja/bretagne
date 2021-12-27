@@ -1,6 +1,6 @@
 ---
 title: Lécousse
 url: /lecousse/
-latitude: 48.368382700000005
-longitude: -1.2177018000000002
+latitude: 48.352
+longitude: -1.224
 ---

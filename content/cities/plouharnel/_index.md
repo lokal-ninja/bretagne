@@ -1,6 +1,6 @@
 ---
 title: Plouharnel
 url: /plouharnel/
-latitude: 47.598013900000005
-longitude: -3.1128349
+latitude: 47.599
+longitude: -3.105
 ---

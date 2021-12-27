@@ -1,6 +1,6 @@
 ---
 title: Laillé
 url: /laille/
-latitude: 47.9784056
-longitude: -1.7199066
+latitude: 47.978
+longitude: -1.722
 ---

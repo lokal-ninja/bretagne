@@ -1,6 +1,6 @@
 ---
 title: Cap Malo - La Mézière
 url: /cap-malo-la-meziere/
-latitude: 
-longitude: 
+latitude: 48.205
+longitude: -1.728
 ---

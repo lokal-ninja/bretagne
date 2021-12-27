@@ -1,6 +1,6 @@
 ---
 title: Nostang
 url: /nostang/
-latitude: 47.749877600000005
-longitude: -3.1870609
+latitude: 47.75
+longitude: -3.184
 ---

@@ -1,6 +1,6 @@
 ---
 title: Locqueltas
 url: /locqueltas/
-latitude: 47.7648986
-longitude: -3.1861489
+latitude: 47.76
+longitude: -2.768
 ---

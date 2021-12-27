@@ -1,6 +1,6 @@
 ---
 title: Montauban-de-Bretagne
 url: /montauban-de-bretagne/
-latitude: 48.1998838
-longitude: -2.0462319
+latitude: 48.201
+longitude: -2.047
 ---

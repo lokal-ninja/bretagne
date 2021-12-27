@@ -1,6 +1,6 @@
 ---
 title: Pabu
 url: /pabu/
-latitude: 48.598414000000005
-longitude: -2.9302133
+latitude: 48.575
+longitude: -3.146
 ---

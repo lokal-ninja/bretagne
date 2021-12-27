@@ -1,6 +1,6 @@
 ---
 title: Breteil
 url: /breteil/
-latitude: 48.1459113
-longitude: -1.8996064000000001
+latitude: 48.145
+longitude: -1.898
 ---

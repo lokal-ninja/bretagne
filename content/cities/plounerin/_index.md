@@ -1,6 +1,6 @@
 ---
 title: Plounerin
 url: /plounerin/
-latitude: 
-longitude: 
+latitude: 48.574
+longitude: -3.568
 ---

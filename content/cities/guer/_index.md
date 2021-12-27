@@ -1,6 +1,6 @@
 ---
 title: Guer
 url: /guer/
-latitude: 47.9036655
-longitude: -2.1221276000000002
+latitude: 47.904
+longitude: -2.12
 ---

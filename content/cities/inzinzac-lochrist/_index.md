@@ -1,6 +1,6 @@
 ---
 title: Inzinzac-Lochrist
 url: /inzinzac-lochrist/
-latitude: 47.843460900000004
-longitude: -3.2662889
+latitude: 47.84
+longitude: -3.265
 ---

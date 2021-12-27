@@ -1,6 +1,6 @@
 ---
 title: Rostrenen
 url: /rostrenen/
-latitude: 48.237574
-longitude: -3.316142
+latitude: 48.236
+longitude: -3.317
 ---

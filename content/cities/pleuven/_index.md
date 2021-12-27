@@ -1,6 +1,6 @@
 ---
 title: Pleuven
 url: /pleuven/
-latitude: 47.9075933
-longitude: -4.0434663
+latitude: 47.917
+longitude: -4.07
 ---

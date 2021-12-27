@@ -1,6 +1,6 @@
 ---
 title: Landudec
 url: /landudec/
-latitude: 48
-longitude: -4.3357542
+latitude: 48.001
+longitude: -4.337
 ---

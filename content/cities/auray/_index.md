@@ -1,6 +1,6 @@
 ---
 title: Auray
 url: /auray/
-latitude: 47.6664485
-longitude: -2.9833718
+latitude: 47.671
+longitude: -2.991
 ---

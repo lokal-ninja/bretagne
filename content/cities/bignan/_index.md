@@ -1,6 +1,6 @@
 ---
 title: Bignan
 url: /bignan/
-latitude: 47.879936400000005
-longitude: -2.7718416
+latitude: 47.879
+longitude: -2.783
 ---

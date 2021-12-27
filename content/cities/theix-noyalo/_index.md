@@ -1,6 +1,6 @@
 ---
 title: Theix-Noyalo
 url: /theix-noyalo/
-latitude: 
-longitude: 
+latitude: 47.647
+longitude: -2.707
 ---

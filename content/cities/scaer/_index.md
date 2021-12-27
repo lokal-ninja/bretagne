@@ -1,6 +1,6 @@
 ---
 title: Scaër
 url: /scaer/
-latitude: 48.0268097
-longitude: -3.7020023
+latitude: 48.027
+longitude: -3.703
 ---

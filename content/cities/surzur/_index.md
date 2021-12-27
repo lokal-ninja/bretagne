@@ -1,6 +1,6 @@
 ---
 title: surzur
 url: /surzur/
-latitude: 
-longitude: 
+latitude: 47.559
+longitude: -2.611
 ---

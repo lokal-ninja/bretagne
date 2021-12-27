@@ -1,6 +1,6 @@
 ---
 title: Ploufragan
 url: /ploufragan/
-latitude: 48.4893432
-longitude: -2.7933133000000003
+latitude: 48.489
+longitude: -2.794
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saint-Jean-sur-Vilaine
 url: /saint-jean-sur-vilaine/
-latitude: 48.1172885
-longitude: -1.3604736000000002
+latitude: 48.117
+longitude: -1.361
 ---

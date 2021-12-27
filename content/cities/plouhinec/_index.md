@@ -1,6 +1,6 @@
 ---
 title: Plouhinec
 url: /plouhinec/
-latitude: 48.0153626
-longitude: -4.487786300000001
+latitude: 48.016
+longitude: -4.502
 ---

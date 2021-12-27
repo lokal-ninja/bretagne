@@ -1,6 +1,6 @@
 ---
 title: Plovan
 url: /plovan/
-latitude: 47.915713000000004
-longitude: -4.361785
+latitude: 47.951
+longitude: -4.356
 ---

@@ -1,6 +1,6 @@
 ---
 title: Camors
 url: /camors/
-latitude: 47.847484
-longitude: -3.0000626
+latitude: 47.846
+longitude: -2.999
 ---

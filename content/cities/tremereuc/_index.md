@@ -1,6 +1,6 @@
 ---
 title: Tréméreuc
 url: /tremereuc/
-latitude: 48.557747000000006
-longitude: -2.065197
+latitude: 48.565
+longitude: -2.059
 ---

@@ -1,6 +1,6 @@
 ---
 title: Névez
 url: /nevez/
-latitude: 47.8201167
-longitude: -3.7921065
+latitude: 47.805
+longitude: -3.74
 ---

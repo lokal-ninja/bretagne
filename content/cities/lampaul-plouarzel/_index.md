@@ -1,6 +1,6 @@
 ---
 title: Lampaul-Plouarzel
 url: /lampaul-plouarzel/
-latitude: 48.4472607
-longitude: -4.7603399
+latitude: 48.447
+longitude: -4.76
 ---

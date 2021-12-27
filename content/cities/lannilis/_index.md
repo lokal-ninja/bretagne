@@ -1,6 +1,6 @@
 ---
 title: Lannilis
 url: /lannilis/
-latitude: 48.377676
-longitude: -4.6141839000000004
+latitude: 48.57
+longitude: -4.522
 ---

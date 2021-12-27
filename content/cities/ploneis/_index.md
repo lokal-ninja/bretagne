@@ -1,6 +1,6 @@
 ---
 title: Plonéis
 url: /ploneis/
-latitude: 48.0158575
-longitude: -4.2078869
+latitude: 47.991
+longitude: -4.158
 ---

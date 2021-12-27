@@ -1,6 +1,6 @@
 ---
 title: Brech
 url: /brech/
-latitude: 47.721585000000005
-longitude: -2.9969193
+latitude: 47.678
+longitude: -3.009
 ---

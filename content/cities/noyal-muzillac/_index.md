@@ -1,6 +1,6 @@
 ---
 title: Noyal-Muzillac
 url: /noyal-muzillac/
-latitude: 47.591480000000004
-longitude: -2.45712
+latitude: 47.591
+longitude: -2.457
 ---

@@ -1,6 +1,6 @@
 ---
 title: La Bouëxière
 url: /la-bouexiere/
-latitude: 47.9004838
-longitude: -1.8918059
+latitude: 48.184
+longitude: -1.438
 ---

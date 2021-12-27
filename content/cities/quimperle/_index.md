@@ -1,6 +1,6 @@
 ---
 title: Quimperlé
 url: /quimperle/
-latitude: 47.8692882
-longitude: -3.5505644000000003
+latitude: 47.871
+longitude: -3.546
 ---

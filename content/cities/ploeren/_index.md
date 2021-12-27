@@ -1,6 +1,6 @@
 ---
 title: Ploeren
 url: /ploeren/
-latitude: 47.6554463
-longitude: -2.8690655
+latitude: 47.655
+longitude: -2.869
 ---

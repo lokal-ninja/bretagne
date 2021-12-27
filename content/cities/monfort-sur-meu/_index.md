@@ -1,6 +1,6 @@
 ---
 title: Monfort-sur-Meu
 url: /monfort-sur-meu/
-latitude: 
-longitude: 
+latitude: 48.138
+longitude: -1.954
 ---

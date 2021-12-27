@@ -1,6 +1,6 @@
 ---
 title: Lamballe
 url: /lamballe/
-latitude: 48.468805800000005
-longitude: -2.5174411
+latitude: 48.469
+longitude: -2.515
 ---

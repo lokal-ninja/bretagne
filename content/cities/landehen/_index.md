@@ -1,6 +1,6 @@
 ---
 title: Landéhen
 url: /landehen/
-latitude: 48.430202
-longitude: -2.5391730000000003
+latitude: 48.43
+longitude: -2.541
 ---

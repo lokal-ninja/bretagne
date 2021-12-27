@@ -1,6 +1,6 @@
 ---
 title: Pont-Péan
 url: /pont-pean/
-latitude: 48.013109400000005
-longitude: -1.7023101
+latitude: 48.009
+longitude: -1.7
 ---

@@ -1,6 +1,6 @@
 ---
 title: roscoff
 url: /roscoff/
-latitude: 
-longitude: 
+latitude: 48.725
+longitude: -3.983
 ---

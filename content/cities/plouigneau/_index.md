@@ -1,6 +1,6 @@
 ---
 title: Plouigneau
 url: /plouigneau/
-latitude: 48.567703
-longitude: -3.7011457
+latitude: 48.574
+longitude: -3.716
 ---

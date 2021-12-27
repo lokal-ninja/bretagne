@@ -1,6 +1,6 @@
 ---
 title: Chevaigné
 url: /chevaigne/
-latitude: 
-longitude: 
+latitude: 48.211
+longitude: -1.631
 ---

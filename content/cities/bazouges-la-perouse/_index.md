@@ -1,6 +1,6 @@
 ---
 title: Bazouges-la-Pérouse
 url: /bazouges-la-perouse/
-latitude: 48.426349800000004
-longitude: -1.5744163
+latitude: 48.427
+longitude: -1.575
 ---

@@ -1,6 +1,6 @@
 ---
 title: Commana
 url: /commana/
-latitude: 48.4139586
-longitude: -3.9554613
+latitude: 48.412
+longitude: -3.956
 ---

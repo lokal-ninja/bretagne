@@ -1,6 +1,6 @@
 ---
 title: Planguenoual
 url: /planguenoual/
-latitude: 48.5334276
-longitude: -2.5773174
+latitude: 48.533
+longitude: -2.575
 ---

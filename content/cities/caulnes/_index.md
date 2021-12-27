@@ -1,6 +1,6 @@
 ---
 title: Caulnes
 url: /caulnes/
-latitude: 48.2880795
-longitude: -2.1543918
+latitude: 48.29
+longitude: -2.154
 ---

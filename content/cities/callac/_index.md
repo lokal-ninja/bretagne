@@ -1,6 +1,6 @@
 ---
 title: Callac
 url: /callac/
-latitude: 48.2486399
-longitude: -2.9645762
+latitude: 48.407
+longitude: -3.42
 ---

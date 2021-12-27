@@ -1,6 +1,6 @@
 ---
 title: Plédran
 url: /pledran/
-latitude: 48.443400000000004
-longitude: -2.7421800000000003
+latitude: 48.457
+longitude: -2.792
 ---

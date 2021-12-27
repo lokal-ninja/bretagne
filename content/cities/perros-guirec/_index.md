@@ -1,6 +1,6 @@
 ---
 title: Perros-Guirec
 url: /perros-guirec/
-latitude: 48.8151133
-longitude: -3.4394662
+latitude: 48.801
+longitude: -3.443
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sauzon
 url: /sauzon/
-latitude: 47.3711688
-longitude: -3.221511
+latitude: 47.37
+longitude: -3.221
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fouesnant
 url: /fouesnant/
-latitude: 47.8945402
-longitude: -4.0115365
+latitude: 47.895
+longitude: -4.017
 ---

@@ -1,6 +1,6 @@
 ---
 title: Inguiniel
 url: /inguiniel/
-latitude: 47.9767121
-longitude: -3.2819444
+latitude: 47.971
+longitude: -3.288
 ---

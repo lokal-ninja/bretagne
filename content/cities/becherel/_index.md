@@ -1,6 +1,6 @@
 ---
 title: Bécherel
 url: /becherel/
-latitude: 48.1228865
-longitude: -4.213621300000001
+latitude: 48.295
+longitude: -1.945
 ---

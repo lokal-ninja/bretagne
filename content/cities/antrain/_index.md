@@ -1,6 +1,6 @@
 ---
 title: Antrain
 url: /antrain/
-latitude: 48.4608672
-longitude: -1.4848517
+latitude: 48.461
+longitude: -1.486
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bohars
 url: /bohars/
-latitude: 48.1092856
-longitude: -4.1710459
+latitude: 48.429
+longitude: -4.514
 ---

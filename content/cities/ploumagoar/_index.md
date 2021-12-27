@@ -1,6 +1,6 @@
 ---
 title: Ploumagoar
 url: /ploumagoar/
-latitude: 48.544672000000006
-longitude: -3.1315516000000003
+latitude: 48.556
+longitude: -3.124
 ---

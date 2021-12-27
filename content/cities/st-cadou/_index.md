@@ -1,6 +1,6 @@
 ---
 title: St Cadou
 url: /st-cadou/
-latitude: 
-longitude: 
+latitude: 48.374
+longitude: -4.021
 ---

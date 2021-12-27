@@ -1,6 +1,6 @@
 ---
 title: Carhaix-Plouguer
 url: /carhaix-plouguer/
-latitude: 48.2764997
-longitude: -3.5711477
+latitude: 48.277
+longitude: -3.571
 ---

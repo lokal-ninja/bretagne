@@ -1,6 +1,6 @@
 ---
 title: Maël-Pestivien
 url: /mael-pestivien/
-latitude: 48.394171
-longitude: -3.296997
+latitude: 48.405
+longitude: -3.319
 ---

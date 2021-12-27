@@ -1,6 +1,6 @@
 ---
 title: Quéven
 url: /queven/
-latitude: 47.788792
-longitude: -3.4161464
+latitude: 47.779
+longitude: -3.419
 ---

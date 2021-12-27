@@ -1,6 +1,6 @@
 ---
 title: Langouët
 url: /langouet/
-latitude: 
-longitude: 
+latitude: 48.263
+longitude: -1.798
 ---

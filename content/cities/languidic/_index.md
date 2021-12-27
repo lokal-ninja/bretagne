@@ -1,6 +1,6 @@
 ---
 title: Languidic
 url: /languidic/
-latitude: 47.8340055
-longitude: -3.1583936
+latitude: 47.831
+longitude: -3.158
 ---

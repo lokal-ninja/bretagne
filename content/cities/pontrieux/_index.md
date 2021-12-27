@@ -1,6 +1,6 @@
 ---
 title: Pontrieux
 url: /pontrieux/
-latitude: 48.6972419
-longitude: -3.1629787
+latitude: 48.697
+longitude: -3.161
 ---

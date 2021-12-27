@@ -1,6 +1,6 @@
 ---
 title: Plumaudan
 url: /plumaudan/
-latitude: 48.358016000000006
-longitude: -2.1253450000000003
+latitude: 48.357
+longitude: -2.125
 ---

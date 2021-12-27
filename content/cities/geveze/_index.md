@@ -1,6 +1,6 @@
 ---
 title: Gévezé
 url: /geveze/
-latitude: 48.2204891
-longitude: -1.7896366000000001
+latitude: 48.221
+longitude: -1.79
 ---

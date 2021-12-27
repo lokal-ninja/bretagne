@@ -1,6 +1,6 @@
 ---
 title: Chantepie
 url: /chantepie/
-latitude: 48.088155
-longitude: -1.6171482000000001
+latitude: 48.088
+longitude: -1.616
 ---

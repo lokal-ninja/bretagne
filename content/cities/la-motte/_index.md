@@ -1,6 +1,6 @@
 ---
 title: La Motte
 url: /la-motte/
-latitude: 47.871428
-longitude: -2.7805009000000003
+latitude: 48.226
+longitude: -2.734
 ---

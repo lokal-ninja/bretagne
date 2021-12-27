@@ -1,6 +1,6 @@
 ---
 title: Férel
 url: /ferel/
-latitude: 47.482486200000004
-longitude: -2.3437351
+latitude: 47.482
+longitude: -2.343
 ---

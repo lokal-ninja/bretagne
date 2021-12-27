@@ -1,6 +1,6 @@
 ---
 title: Plerguer
 url: /plerguer/
-latitude: 
-longitude: 
+latitude: 48.53
+longitude: -1.852
 ---

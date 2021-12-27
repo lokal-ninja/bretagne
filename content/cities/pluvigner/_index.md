@@ -1,6 +1,6 @@
 ---
 title: Pluvigner
 url: /pluvigner/
-latitude: 47.777090900000005
-longitude: -3.0095755000000004
+latitude: 47.769
+longitude: -3.018
 ---

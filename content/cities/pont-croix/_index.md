@@ -1,6 +1,6 @@
 ---
 title: Pont-Croix
 url: /pont-croix/
-latitude: 48.040945900000004
-longitude: -4.4879445
+latitude: 48.041
+longitude: -4.487
 ---

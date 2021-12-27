@@ -1,6 +1,6 @@
 ---
 title: Médréac
 url: /medreac/
-latitude: 48.0502216
-longitude: -1.7998263
+latitude: 48.267
+longitude: -2.066
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brasparts
 url: /brasparts/
-latitude: 48.3019638
-longitude: -3.9558632000000005
+latitude: 48.303
+longitude: -3.955
 ---

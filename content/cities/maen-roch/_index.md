@@ -1,6 +1,6 @@
 ---
 title: Maen-Roch
 url: /maen-roch/
-latitude: 
-longitude: 
+latitude: 48.411
+longitude: -1.364
 ---

@@ -1,6 +1,6 @@
 ---
 title: Arzal
 url: /arzal/
-latitude: 47.516074800000005
-longitude: -2.3768159
+latitude: 47.538
+longitude: -2.403
 ---

@@ -1,6 +1,6 @@
 ---
 title: Locoal-Mendon
 url: /locoal-mendon/
-latitude: 47.711724000000004
-longitude: -3.1050963
+latitude: 47.709
+longitude: -3.106
 ---

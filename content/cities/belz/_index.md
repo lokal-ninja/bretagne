@@ -1,6 +1,6 @@
 ---
 title: Belz
 url: /belz/
-latitude: 47.675968100000006
-longitude: -3.1687227
+latitude: 47.672
+longitude: -3.182
 ---

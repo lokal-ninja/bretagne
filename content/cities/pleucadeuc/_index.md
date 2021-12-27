@@ -1,6 +1,6 @@
 ---
 title: Pleucadeuc
 url: /pleucadeuc/
-latitude: 47.758591300000006
-longitude: -2.3758451000000003
+latitude: 47.759
+longitude: -2.376
 ---

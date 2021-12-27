@@ -1,6 +1,6 @@
 ---
 title: Questembert
 url: /questembert/
-latitude: 47.660407400000004
-longitude: -2.4527138
+latitude: 47.663
+longitude: -2.458
 ---

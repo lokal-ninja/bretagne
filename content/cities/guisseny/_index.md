@@ -1,6 +1,6 @@
 ---
 title: Guissény
 url: /guisseny/
-latitude: 48.6342787
-longitude: -4.409954
+latitude: 48.634
+longitude: -4.411
 ---

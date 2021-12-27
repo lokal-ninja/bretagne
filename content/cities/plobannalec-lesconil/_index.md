@@ -1,6 +1,6 @@
 ---
 title: Plobannalec-Lesconil
 url: /plobannalec-lesconil/
-latitude: 
-longitude: 
+latitude: 47.799
+longitude: -4.219
 ---

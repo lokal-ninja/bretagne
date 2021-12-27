@@ -1,6 +1,6 @@
 ---
 title: Erdeven
 url: /erdeven/
-latitude: 47.6417056
-longitude: -3.1557523
+latitude: 47.627
+longitude: -3.179
 ---

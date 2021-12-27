@@ -1,6 +1,6 @@
 ---
 title: Douarnenez
 url: /douarnenez/
-latitude: 48.094445900000004
-longitude: -4.3311243
+latitude: 48.093
+longitude: -4.327
 ---

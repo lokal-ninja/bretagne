@@ -1,6 +1,6 @@
 ---
 title: Ploulec'h
 url: /ploulech/
-latitude: 48.717922900000005
-longitude: -3.5014976000000004
+latitude: 48.718
+longitude: -3.489
 ---

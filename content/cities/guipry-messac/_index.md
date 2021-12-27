@@ -1,6 +1,6 @@
 ---
 title: Guipry-Messac
 url: /guipry-messac/
-latitude: 
-longitude: 
+latitude: 47.825
+longitude: -1.842
 ---

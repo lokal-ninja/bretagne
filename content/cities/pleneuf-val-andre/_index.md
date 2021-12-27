@@ -1,6 +1,6 @@
 ---
 title: Pléneuf-Val-André
 url: /pleneuf-val-andre/
-latitude: 
-longitude: 
+latitude: 48.586
+longitude: -2.536
 ---

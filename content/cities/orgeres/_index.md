@@ -1,6 +1,6 @@
 ---
 title: Orgères
 url: /orgeres/
-latitude: 48.003185800000004
-longitude: -1.6679484
+latitude: 48
+longitude: -1.667
 ---

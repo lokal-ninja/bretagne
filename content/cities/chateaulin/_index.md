@@ -1,6 +1,6 @@
 ---
 title: Châteaulin
 url: /chateaulin/
-latitude: 48.196802600000005
-longitude: -4.0916875
+latitude: 48.197
+longitude: -4.093
 ---

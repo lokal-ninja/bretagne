@@ -1,6 +1,6 @@
 ---
 title: La Richardais
 url: /la-richardais/
-latitude: 48.4599847
-longitude: -2.1368569
+latitude: 48.615
+longitude: -2.051
 ---

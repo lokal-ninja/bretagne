@@ -1,6 +1,6 @@
 ---
 title: Plestin-les-Grèves
 url: /plestin-les-greves/
-latitude: 48.6546054
-longitude: -3.6317207000000002
+latitude: 48.654
+longitude: -3.631
 ---
