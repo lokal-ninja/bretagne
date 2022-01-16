@@ -1,6 +1,6 @@
 ---
 title: Landujan
 url: /landujan/
-latitude: 48.249
-longitude: -1.998
+latitude: 48.261
+longitude: -1.986
 ---
