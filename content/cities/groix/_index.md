@@ -1,6 +1,6 @@
 ---
 title: Groix
 url: /groix/
-latitude: 47.638
-longitude: -3.459
+latitude: 47.639
+longitude: -3.46
 ---
