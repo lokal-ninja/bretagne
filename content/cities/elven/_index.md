@@ -1,6 +1,6 @@
 ---
 title: Elven
 url: /elven/
-latitude: 47.691
-longitude: -2.578
+latitude: 47.724
+longitude: -2.594
 ---
