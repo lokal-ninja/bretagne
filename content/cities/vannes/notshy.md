@@ -1,5 +1,5 @@
 ---
-title: "NOTSHY"
+title: "Notshy"
 url: /vannes/notshy/
 shop: vêtements
 ---
