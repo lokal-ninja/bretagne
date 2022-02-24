@@ -1,5 +1,5 @@
 ---
-title: "Café de la place"
+title: "Café de la Place"
 url: /moelan-sur-mer/cafe-de-la-place/
 shop: tabac
 ---

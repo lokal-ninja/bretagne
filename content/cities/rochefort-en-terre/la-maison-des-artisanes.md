@@ -1,5 +1,5 @@
 ---
-title: "La maison des ARTisanes"
+title: "La Maison des ARTisanes"
 url: /rochefort-en-terre/la-maison-des-artisanes/
 shop: art
 ---
