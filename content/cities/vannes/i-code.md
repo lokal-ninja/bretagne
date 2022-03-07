@@ -1,5 +1,5 @@
 ---
-title: "I. Code"
+title: "I.Code"
 url: /vannes/i-code/
 shop: vêtements
 ---
