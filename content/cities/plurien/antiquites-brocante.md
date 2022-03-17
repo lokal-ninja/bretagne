@@ -1,5 +1,5 @@
 ---
-title: "Antiquités-brocante"
+title: "Antiquités-Brocante"
 url: /plurien/antiquites-brocante/
 shop: antiquités
 ---
