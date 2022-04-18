@@ -1,6 +1,6 @@
 ---
 title: Pleubian
 url: /pleubian/
-latitude: 48.841
-longitude: -3.139
+latitude: 48.843
+longitude: -3.138
 ---
