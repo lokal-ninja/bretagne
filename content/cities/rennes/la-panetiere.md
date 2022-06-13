@@ -1,5 +1,5 @@
 ---
-title: "La Panetiere"
+title: "La Panetière"
 url: /rennes/la-panetiere/
 shop: boulangerie
 ---

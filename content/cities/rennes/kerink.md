@@ -1,5 +1,5 @@
 ---
 title: "KERink"
 url: /rennes/kerink/
-shop: shop
+shop: copyshop
 ---
