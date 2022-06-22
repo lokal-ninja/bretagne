@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/bretagne"
+baseURL = "https://fr.shoogle.net/bretagne/"
 languageCode = "fr"
 title = "Bretagne"
 theme = "ln-base"
