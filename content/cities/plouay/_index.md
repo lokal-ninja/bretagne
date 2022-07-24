@@ -1,6 +1,6 @@
 ---
-title: Plouay
+title: PLOUAY
 url: /plouay/
-latitude: 47.915
-longitude: -3.331
+latitude: 47.917
+longitude: -3.336
 ---

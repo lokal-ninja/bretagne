@@ -1,5 +1,5 @@
 ---
 title: "AUDIKA"
-url: /guilvinec/audika/
+url: /le-guilvinec/audika/
 shop: les appareils auditifs
 ---
