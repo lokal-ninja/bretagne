@@ -1,5 +1,5 @@
 ---
-title: "LDLC"
+title: "Ldlc"
 url: /saint-gregoire/ldlc/
 shop: ordinateur
 ---
