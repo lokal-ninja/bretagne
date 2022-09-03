@@ -1,11 +1,11 @@
-id: 5565191447
-type: node
-latitude: 48.10854
-longitude: -1.67885
+id: 81189405
+type: way
+latitude: 48.10186
+longitude: -1.71321
 postcode: "35000"
 city: Rennes
-street: "Rue Vasselot"
-housenumber: 10
-phone: "+33 2 90 22 69 79"
-opening_hours: "Mo-Sa 09:30-19:30"
+street: "Rue Eugène Pottier"
+housenumber: 132
+phone: "+33 2 99 67 38 63"
+opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-19:00"
 website: "https://scarabee-biocoop.fr/"

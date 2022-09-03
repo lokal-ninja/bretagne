@@ -2,5 +2,5 @@
 title: Tréguier
 url: /treguier/
 latitude: 48.787
-longitude: -3.232
+longitude: -3.231
 ---

@@ -1,6 +1,6 @@
 ---
 title: Matignon
 url: /matignon/
-latitude: 48.598
-longitude: -2.288
+latitude: 48.596
+longitude: -2.29
 ---
