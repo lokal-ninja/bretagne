@@ -1,5 +1,5 @@
 ---
-title: "le gwenn-phil"
+title: "Le Gwenn-phil"
 url: /plougourvest/le-gwenn-phil/
 shop: tabac
 ---
