@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /tregastel/super-u/
-shop: supermarché
+shop: commodité
 ---

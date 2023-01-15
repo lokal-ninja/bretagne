@@ -1,6 +1,6 @@
 ---
 title: Trégastel
 url: /tregastel/
-latitude: 48.827
-longitude: -3.51
+latitude: 48.824
+longitude: -3.497
 ---
