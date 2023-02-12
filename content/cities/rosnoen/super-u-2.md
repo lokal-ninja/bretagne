@@ -1,5 +1,5 @@
 ---
 title: "Super U"
-url: /rosnoen/super-u-2/
+url: /rosnoen/super-u/
 shop: supermarché
 ---

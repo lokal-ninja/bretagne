@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
-url: /bain-de-bretagne/e-leclerc-2/
+url: /bain-de-bretagne/e-leclerc/
 shop: gaz
 ---

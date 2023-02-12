@@ -1,5 +1,5 @@
 ---
 title: "Super U"
-url: /lanvollon/super-u-2/
+url: /lanvollon/super-u/
 shop: gaz
 ---

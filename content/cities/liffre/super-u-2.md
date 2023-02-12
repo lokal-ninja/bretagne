@@ -1,5 +1,5 @@
 ---
 title: "Super U"
-url: /liffre/super-u-2/
+url: /liffre/super-u/
 shop: commodité
 ---

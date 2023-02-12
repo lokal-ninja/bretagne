@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
-url: /saint-aubin-du-cormier/carrefour-market-2/
+url: /saint-aubin-du-cormier/carrefour-market/
 shop: supermarché
 ---

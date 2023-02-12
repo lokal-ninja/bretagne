@@ -1,5 +1,5 @@
 ---
 title: "Super U"
-url: /caden/super-u-2/
+url: /caden/super-u/
 shop: commodité
 ---
