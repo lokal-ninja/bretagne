@@ -1,5 +1,5 @@
 ---
 title: "Side-Shore"
 url: /brest/side-shore/
-shop: shop
+shop: vêtements
 ---
