@@ -1,6 +1,6 @@
 ---
 title: Riantec
 url: /riantec/
-latitude: 47.713
-longitude: -3.316
+latitude: 47.723
+longitude: -3.321
 ---

@@ -1,6 +1,6 @@
 ---
-title: LE GUILVINEC
+title: Le Guilvinec
 url: /le-guilvinec/
-latitude: 47.795
-longitude: -4.284
+latitude: 47.794
+longitude: -4.282
 ---
