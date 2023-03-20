@@ -1,5 +1,5 @@
 ---
 title: "Kalinka"
-url: /rennes/kalinka/
+url: /saint-jacques-de-la-lande/kalinka/
 shop: commodité
 ---
