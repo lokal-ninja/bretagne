@@ -1,6 +1,6 @@
 ---
 title: Locminé
 url: /locmine/
-latitude: 47.889
-longitude: -2.836
+latitude: 47.884
+longitude: -2.832
 ---
