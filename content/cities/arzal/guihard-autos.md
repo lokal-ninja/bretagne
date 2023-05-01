@@ -1,5 +1,5 @@
 ---
 title: "Guihard Autos"
 url: /arzal/guihard-autos/
-shop: voiture
+shop: réparation de voitures
 ---
