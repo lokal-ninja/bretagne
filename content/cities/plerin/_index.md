@@ -1,6 +1,6 @@
 ---
 title: Plérin
 url: /plerin/
-latitude: 48.544
-longitude: -2.78
+latitude: 48.541
+longitude: -2.727
 ---

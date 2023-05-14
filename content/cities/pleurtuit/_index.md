@@ -1,6 +1,6 @@
 ---
 title: Pleurtuit
 url: /pleurtuit/
-latitude: 48.607
-longitude: -2.07
+latitude: 48.579
+longitude: -2.057
 ---
