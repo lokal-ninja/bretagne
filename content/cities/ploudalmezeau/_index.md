@@ -1,6 +1,6 @@
 ---
 title: Ploudalmézeau
 url: /ploudalmezeau/
-latitude: 48.557
+latitude: 48.555
 longitude: -4.7
 ---
