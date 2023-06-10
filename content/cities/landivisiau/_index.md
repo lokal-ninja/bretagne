@@ -2,5 +2,5 @@
 title: Landivisiau
 url: /landivisiau/
 latitude: 48.51
-longitude: -4.07
+longitude: -4.072
 ---

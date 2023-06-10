@@ -1,6 +1,6 @@
 ---
-title: IFFENDIC
+title: Iffendic
 url: /iffendic/
-latitude: 48.129
+latitude: 48.112
 longitude: -2.035
 ---
