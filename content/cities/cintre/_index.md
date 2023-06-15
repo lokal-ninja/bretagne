@@ -1,6 +1,6 @@
 ---
 title: Cintré
 url: /cintre/
-latitude: 48.102
-longitude: -1.865
+latitude: 48.106
+longitude: -1.87
 ---
