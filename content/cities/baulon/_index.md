@@ -1,6 +1,6 @@
 ---
 title: Baulon
 url: /baulon/
-latitude: 48.014
-longitude: -1.946
+latitude: 47.986
+longitude: -1.934
 ---
