@@ -1,6 +1,6 @@
 ---
 title: Nivillac
 url: /nivillac/
-latitude: 47.521
-longitude: -2.287
+latitude: 47.517
+longitude: -2.296
 ---
