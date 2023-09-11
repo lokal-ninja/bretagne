@@ -1,5 +1,5 @@
 ---
-title: "ADOMI CYCLE L'ATELIER"
+title: "Adomi Cycle l'atelier"
 url: /audierne/adomi-cycle-latelier/
 shop: vélo
 ---
