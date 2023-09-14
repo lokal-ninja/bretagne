@@ -1,5 +1,5 @@
 ---
 title: "Super U"
-url: /tregastel/super-u/
+url: /tregastel/super-u-rue-poul-palud/
 shop: supermarché
 ---

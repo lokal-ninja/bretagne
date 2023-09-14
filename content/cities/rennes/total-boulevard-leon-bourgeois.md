@@ -1,5 +1,5 @@
 ---
 title: "Total"
-url: /rennes/total/
+url: /rennes/total-boulevard-leon-bourgeois/
 shop: gaz
 ---

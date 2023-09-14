@@ -1,5 +1,5 @@
 ---
 title: "Briconautes"
-url: /penvenan/briconautes/
+url: /penvenan/briconautes-place-de-leglise/
 shop: matériel informatique
 ---

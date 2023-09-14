@@ -1,5 +1,5 @@
 ---
 title: "Krys"
-url: /vern-sur-seiche/krys/
+url: /vern-sur-seiche/krys-rue-de-la-blanche-hermine/
 shop: opticien
 ---

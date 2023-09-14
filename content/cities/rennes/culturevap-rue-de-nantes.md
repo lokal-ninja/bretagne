@@ -1,5 +1,5 @@
 ---
 title: "Culturevap"
-url: /rennes/culturevap/
+url: /rennes/culturevap-rue-de-nantes/
 shop: e-cigarette
 ---

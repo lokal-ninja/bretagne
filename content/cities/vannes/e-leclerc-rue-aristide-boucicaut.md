@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
-url: /vannes/e-leclerc/
+url: /vannes/e-leclerc-rue-aristide-boucicaut/
 shop: gaz
 ---

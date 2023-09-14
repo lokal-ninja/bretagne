@@ -1,5 +1,5 @@
 ---
 title: "Devred"
-url: /rennes/devred/
+url: /rennes/devred-2/
 shop: vêtements
 ---

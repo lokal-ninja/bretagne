@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /brest/picard/
+url: /brest/picard-rue-francois-lettre/
 shop: aliments surgelés
 ---

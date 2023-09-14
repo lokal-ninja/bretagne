@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Lemaire"
-url: /sizun/boulangerie-lemaire/
+url: /sizun/boulangerie-lemaire-rue-de-cornouaille/
 shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atol"
-url: /rennes/atol/
+url: /rennes/atol-place-du-colombier/
 shop: opticien
 ---

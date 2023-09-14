@@ -1,5 +1,5 @@
 ---
 title: "La Procure"
-url: /vannes/la-procure/
+url: /vannes/la-procure-place-valencia/
 shop: livres
 ---

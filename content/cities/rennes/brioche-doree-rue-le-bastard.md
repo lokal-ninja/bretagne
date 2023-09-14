@@ -1,5 +1,5 @@
 ---
 title: "Brioche Dorée"
-url: /rennes/brioche-doree/
+url: /rennes/brioche-doree-rue-le-bastard/
 shop: boulangerie
 ---

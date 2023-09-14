@@ -1,5 +1,5 @@
 ---
 title: "Greyhound"
-url: /quimper/greyhound/
+url: /quimper/greyhound-rue-du-salle/
 shop: extérieur
 ---

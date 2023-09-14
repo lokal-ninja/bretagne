@@ -1,5 +1,5 @@
 ---
 title: "Clopinette"
-url: /vannes/clopinette/
+url: /vannes/clopinette-avenue-de-la-marne/
 shop: e-cigarette
 ---

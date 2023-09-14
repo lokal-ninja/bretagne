@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
-url: /vannes/intermarche-super/
+url: /vannes/intermarche-super-avenue-georges-pompidou/
 shop: supermarché
 ---

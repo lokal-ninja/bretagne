@@ -1,5 +1,5 @@
 ---
 title: "Total"
-url: /rennes/total/
+url: /rennes/total-rue-de-lorient/
 shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Devred"
-url: /lannion/devred/
+url: /lannion/devred-place-du-general-leclerc/
 shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /concarneau/aldi/
+url: /concarneau/aldi-rue-lucien-vidie/
 shop: supermarché
 ---

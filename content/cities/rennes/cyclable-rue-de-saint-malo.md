@@ -1,5 +1,5 @@
 ---
 title: "Cyclable"
-url: /rennes/cyclable/
+url: /rennes/cyclable-rue-de-saint-malo/
 shop: vélo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
-url: /rennes/biocoop/
+url: /rennes/biocoop-rue-vasselot/
 shop: supermarché
 ---
