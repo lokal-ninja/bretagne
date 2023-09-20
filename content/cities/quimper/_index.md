@@ -1,6 +1,6 @@
 ---
 title: Quimper
 url: /quimper/
-latitude: 47.974
-longitude: -4.095
+latitude: 48.006
+longitude: -4.097
 ---
