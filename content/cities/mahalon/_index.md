@@ -1,6 +1,6 @@
 ---
 title: Mahalon
 url: /mahalon/
-latitude: 48.026
-longitude: -4.409
+latitude: 48.027
+longitude: -4.435
 ---
