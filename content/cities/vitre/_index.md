@@ -1,6 +1,6 @@
 ---
 title: Vitré
 url: /vitre/
-latitude: 48.123
-longitude: -1.21
+latitude: 48.122
+longitude: -1.206
 ---
