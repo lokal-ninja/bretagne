@@ -1,6 +1,6 @@
 ---
 title: Bruz
 url: /bruz/
-latitude: 48.023
-longitude: -1.738
+latitude: 48.022
+longitude: -1.743
 ---
