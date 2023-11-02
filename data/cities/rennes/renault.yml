@@ -1,11 +1,11 @@
-id: 6469667760
-type: node
-latitude: 48.10671
-longitude: -1.7242
-postcode: "35000"
+id: 80742781
+type: way
+latitude: 48.08418
+longitude: -1.67796
+postcode: "35200"
 city: Rennes
-street: "Rue de Lorient"
-housenumber: 145
-phone: "+33 2 23 48 49 50"
-opening_hours: "Mo-Fr 08:15-12:15, 13:30-18:15; Sa 09:00-12:00"
-website: "https://www.hubert-automobiles.fr/enseignes/renault-a-rennes"
+street: "Rue du Bosphore"
+housenumber: 15
+phone: "+33 2 99 22 67 68"
+opening_hours: "Mo-Fr 07:30-18:30"
+website: "https://www.renault.fr/"

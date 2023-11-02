@@ -1,5 +1,5 @@
 ---
 title: "Bretagne Matériaux"
 url: /rennes/bretagne-materiaux/
-shop: commerce
+shop: matériel informatique
 ---

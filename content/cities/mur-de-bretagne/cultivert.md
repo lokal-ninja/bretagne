@@ -1,5 +1,5 @@
 ---
-title: "Cultivert"
+title: "Cultivert "
 url: /mur-de-bretagne/cultivert/
-shop: centre de jardinage
+shop: entretien des terrains
 ---

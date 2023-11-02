@@ -1,5 +1,5 @@
 ---
-title: "Cultivert"
+title: "Cultivert "
 url: /carhaix-plouguer/cultivert/
-shop: agraire
+shop: entretien des terrains
 ---

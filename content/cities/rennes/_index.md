@@ -1,6 +1,6 @@
 ---
 title: Rennes
 url: /rennes/
-latitude: 48.091
-longitude: -1.641
+latitude: 48.105
+longitude: -1.651
 ---
