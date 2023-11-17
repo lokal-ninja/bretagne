@@ -1,6 +1,6 @@
 ---
 title: Daoulas
 url: /daoulas/
-latitude: 48.362
-longitude: -4.26
+latitude: 48.364
+longitude: -4.259
 ---
