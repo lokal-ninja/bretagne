@@ -1,5 +1,5 @@
 ---
-title: "CRANOU fleurs"
+title: "Cranou Fleurs"
 url: /le-faou/cranou-fleurs/
 shop: fleuriste
 ---
