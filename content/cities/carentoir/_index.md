@@ -1,6 +1,6 @@
 ---
 title: Carentoir
 url: /carentoir/
-latitude: 47.818
-longitude: -2.13
+latitude: 47.817
+longitude: -2.136
 ---
