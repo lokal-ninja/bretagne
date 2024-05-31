@@ -2,5 +2,5 @@
 title: Priziac
 url: /priziac/
 latitude: 48.056
-longitude: -3.416
+longitude: -3.415
 ---
