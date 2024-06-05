@@ -1,6 +1,6 @@
 ---
 title: Rosporden
 url: /rosporden/
-latitude: 47.959
-longitude: -3.83
+latitude: 47.958
+longitude: -3.829
 ---
