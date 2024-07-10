@@ -1,6 +1,6 @@
 ---
 title: Châteaugiron
 url: /chateaugiron/
-latitude: 48.042
-longitude: -1.514
+latitude: 48.043
+longitude: -1.515
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /ploermel/netto/
-shop: magasin de variétés
+shop: supermarché
 ---
