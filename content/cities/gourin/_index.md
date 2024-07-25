@@ -2,5 +2,5 @@
 title: Gourin
 url: /gourin/
 latitude: 48.141
-longitude: -3.616
+longitude: -3.604
 ---
