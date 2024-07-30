@@ -1,5 +1,5 @@
 ---
 title: "Les idées folles"
 url: /acigne/les-idees-folles/
-shop: shop
+shop: boulangerie
 ---

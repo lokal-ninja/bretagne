@@ -1,5 +1,5 @@
 ---
-title: "QUAI DES BRUMES"
+title: "Quai Des Brumes"
 url: /brest/quai-des-brumes/
 shop: e-cigarette
 ---
