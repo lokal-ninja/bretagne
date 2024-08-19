@@ -1,5 +1,5 @@
 ---
-title: "Distinxion "
+title: "Distinxion"
 url: /breteil/distinxion/
 shop: voiture
 ---
