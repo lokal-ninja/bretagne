@@ -1,6 +1,6 @@
 ---
-title: Bourg-Blanc
+title: Bourg Blanc
 url: /bourg-blanc/
-latitude: 48.499
-longitude: -4.506
+latitude: 48.494
+longitude: -4.502
 ---
