@@ -1,5 +1,5 @@
 ---
 title: "Mouvance"
 url: /hennebont/mouvance/
-shop: vêtements
+shop: Kleidung
 ---

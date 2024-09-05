@@ -1,5 +1,5 @@
 ---
 title: "Zénitude"
 url: /erquy/zenitude/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /chantepie/renault/
-shop: voiture
+shop: Autohaus
 ---

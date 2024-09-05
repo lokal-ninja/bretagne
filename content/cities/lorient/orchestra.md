@@ -1,5 +1,5 @@
 ---
 title: "Orchestra"
 url: /lorient/orchestra/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'atelier"
 url: /melesse/latelier/
-shop: meubles
+shop: Möbel
 ---

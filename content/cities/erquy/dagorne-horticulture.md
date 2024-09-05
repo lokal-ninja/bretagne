@@ -1,5 +1,5 @@
 ---
 title: "Dagorne Horticulture"
 url: /erquy/dagorne-horticulture/
-shop: centre de jardinage
+shop: Garten-Center
 ---

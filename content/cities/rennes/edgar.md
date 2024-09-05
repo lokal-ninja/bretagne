@@ -1,5 +1,5 @@
 ---
 title: "Edgar"
 url: /rennes/edgar/
-shop: blanchisserie
+shop: Wäscherei
 ---

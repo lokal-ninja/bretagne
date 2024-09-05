@@ -1,5 +1,5 @@
 ---
 title: "Touche Perso"
 url: /rennes/touche-perso/
-shop: tatouage
+shop: Tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /tregueux/noz/
-shop: magasin de variétés
+shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /langueux/giant/
-shop: vélo
+shop: Fahrrad
 ---

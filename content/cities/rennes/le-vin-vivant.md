@@ -1,5 +1,5 @@
 ---
 title: "Le Vin Vivant"
 url: /rennes/le-vin-vivant/
-shop: alcool
+shop: Spirituosen
 ---

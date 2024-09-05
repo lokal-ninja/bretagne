@@ -1,5 +1,5 @@
 ---
 title: "Ardéco"
 url: /rennes/ardeco/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Adresse Coiffure"
 url: /carantec/ladresse-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

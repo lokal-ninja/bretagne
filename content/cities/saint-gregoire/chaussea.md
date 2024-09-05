@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /saint-gregoire/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

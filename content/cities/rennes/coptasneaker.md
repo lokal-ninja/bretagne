@@ -1,5 +1,5 @@
 ---
 title: "Coptasneaker"
 url: /rennes/coptasneaker/
-shop: chaussures
+shop: Schuhe
 ---

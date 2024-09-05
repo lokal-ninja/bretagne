@@ -1,5 +1,5 @@
 ---
 title: "CBDVAP"
 url: /vannes/cbdvap/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Optique Stéphan"
 url: /auray/optique-stephan/
-shop: opticien
+shop: Optiker
 ---

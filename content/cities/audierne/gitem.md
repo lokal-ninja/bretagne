@@ -1,5 +1,5 @@
 ---
 title: "GITEM"
 url: /audierne/gitem/
-shop: appareil ménager
+shop: Haushaltsgeräte
 ---

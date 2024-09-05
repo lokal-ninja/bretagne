@@ -1,5 +1,5 @@
 ---
 title: "Superdry"
 url: /pontivy/superdry/
-shop: vêtements
+shop: Kleidung
 ---

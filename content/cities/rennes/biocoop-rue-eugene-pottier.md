@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /rennes/biocoop-rue-eugene-pottier/
-shop: supermarché
+shop: Supermarkt
 ---

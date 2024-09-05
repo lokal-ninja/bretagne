@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /quimper/utile/
-shop: supermarché
+shop: Supermarkt
 ---

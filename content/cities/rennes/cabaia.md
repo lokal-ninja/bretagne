@@ -1,5 +1,5 @@
 ---
 title: "Cabaïa"
 url: /rennes/cabaia/
-shop: sac
+shop: Taschen & Koffer
 ---

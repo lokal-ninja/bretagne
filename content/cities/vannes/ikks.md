@@ -1,5 +1,5 @@
 ---
 title: "Ikks"
 url: /vannes/ikks/
-shop: vêtements
+shop: Kleidung
 ---

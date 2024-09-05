@@ -1,5 +1,5 @@
 ---
 title: "Ixina"
 url: /lorient/ixina/
-shop: cuisine
+shop: Küchen
 ---

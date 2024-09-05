@@ -1,5 +1,5 @@
 ---
 title: "But"
 url: /mellac/but/
-shop: meubles
+shop: Möbel
 ---

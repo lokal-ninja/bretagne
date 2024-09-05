@@ -1,5 +1,5 @@
 ---
 title: "Styléco"
 url: /lannion/styleco/
-shop: vêtements
+shop: Kleidung
 ---

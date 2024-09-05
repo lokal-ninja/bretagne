@@ -1,5 +1,5 @@
 ---
 title: "But"
 url: /la-meziere/but/
-shop: meubles
+shop: Möbel
 ---

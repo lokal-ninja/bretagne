@@ -1,5 +1,5 @@
 ---
 title: "L'Esprit Jardin"
 url: /montgermont/lesprit-jardin/
-shop: meubles
+shop: Möbel
 ---

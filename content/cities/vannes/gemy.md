@@ -1,5 +1,5 @@
 ---
 title: "Gemy"
 url: /vannes/gemy/
-shop: voiture
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Accasti Mer"
 url: /kervignac/accasti-mer/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Erquy Motoculture"
 url: /plurien/garage-erquy-motoculture/
-shop: centre de jardinage
+shop: Garten-Center
 ---

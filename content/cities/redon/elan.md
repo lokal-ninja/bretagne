@@ -1,5 +1,5 @@
 ---
 title: "Elan"
 url: /redon/elan/
-shop: gaz
+shop: Gasflaschen
 ---

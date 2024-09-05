@@ -1,5 +1,5 @@
 ---
 title: "Undiz"
 url: /brest/undiz/
-shop: vêtements
+shop: Kleidung
 ---

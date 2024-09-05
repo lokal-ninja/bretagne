@@ -1,5 +1,5 @@
 ---
 title: "Urban"
 url: /hennebont/urban/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Distinxion"
 url: /breteil/distinxion/
-shop: voiture
+shop: Autohaus
 ---

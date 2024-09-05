@@ -1,5 +1,5 @@
 ---
 title: "Nicot"
 url: /bannalec/nicot/
-shop: meubles
+shop: Möbel
 ---

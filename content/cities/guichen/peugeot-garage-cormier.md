@@ -1,5 +1,5 @@
 ---
 title: "Peugeot - Garage Cormier"
 url: /guichen/peugeot-garage-cormier/
-shop: voiture
+shop: Autohaus
 ---

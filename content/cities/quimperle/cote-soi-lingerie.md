@@ -1,5 +1,5 @@
 ---
 title: "Côté Soi Lingerie"
 url: /quimperle/cote-soi-lingerie/
-shop: vêtements
+shop: Kleidung
 ---

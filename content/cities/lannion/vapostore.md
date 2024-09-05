@@ -1,5 +1,5 @@
 ---
 title: "Vapostore"
 url: /lannion/vapostore/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /auray/sfr/
-shop: téléphone portable
+shop: Handy
 ---

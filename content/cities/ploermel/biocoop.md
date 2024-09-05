@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /ploermel/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

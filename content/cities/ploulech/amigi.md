@@ -1,5 +1,5 @@
 ---
 title: "Amigi"
 url: /ploulech/amigi/
-shop: blanchisserie
+shop: Wäscherei
 ---

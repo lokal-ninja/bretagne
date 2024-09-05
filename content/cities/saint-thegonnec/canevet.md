@@ -1,5 +1,5 @@
 ---
 title: "Canevet"
 url: /saint-thegonnec/canevet/
-shop: boulangerie
+shop: Bäckerei
 ---

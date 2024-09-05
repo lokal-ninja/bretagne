@@ -1,5 +1,5 @@
 ---
 title: "ozlaloc"
 url: /liffre/ozlaloc/
-shop: outils
+shop: Werkzeuge
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /brest/sephora/
-shop: beauté
+shop: Kosmetik
 ---

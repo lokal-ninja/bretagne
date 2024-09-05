@@ -1,5 +1,5 @@
 ---
 title: "Macadam"
 url: /baud/macadam/
-shop: vêtements
+shop: Kleidung
 ---

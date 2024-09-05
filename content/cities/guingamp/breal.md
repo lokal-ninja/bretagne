@@ -1,5 +1,5 @@
 ---
 title: "Breal"
 url: /guingamp/breal/
-shop: vêtements
+shop: Kleidung
 ---

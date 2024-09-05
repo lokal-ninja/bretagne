@@ -1,5 +1,5 @@
 ---
 title: "Cultivert"
 url: /quimper/cultivert/
-shop: centre de jardinage
+shop: Garten-Center
 ---

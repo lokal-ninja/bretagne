@@ -1,5 +1,5 @@
 ---
 title: "Onaé"
 url: /rennes/onae/
-shop: beauté
+shop: Kosmetik
 ---

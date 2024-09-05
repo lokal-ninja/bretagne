@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /plerin/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

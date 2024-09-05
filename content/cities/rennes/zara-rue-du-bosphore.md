@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /rennes/zara-rue-du-bosphore/
-shop: vêtements
+shop: Kleidung
 ---

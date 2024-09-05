@@ -1,5 +1,5 @@
 ---
 title: "BAUDE ANTIQUITES"
 url: /audierne/baude-antiquites/
-shop: antiquités
+shop: Antiquitäten
 ---

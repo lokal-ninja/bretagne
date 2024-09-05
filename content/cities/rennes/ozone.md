@@ -1,5 +1,5 @@
 ---
 title: "Ozone"
 url: /rennes/ozone/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

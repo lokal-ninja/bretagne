@@ -1,5 +1,5 @@
 ---
 title: "Magasin Vert"
 url: /saint-martin-des-champs/magasin-vert/
-shop: centre de jardinage
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Larivière"
 url: /chantepie/lariviere/
-shop: commerce
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oska"
 url: /rennes/oska/
-shop: vêtements
+shop: Kleidung
 ---

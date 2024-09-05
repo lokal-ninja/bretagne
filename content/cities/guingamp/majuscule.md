@@ -1,5 +1,5 @@
 ---
 title: "Majuscule"
 url: /guingamp/majuscule/
-shop: artisanat
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allo Numérique"
 url: /vezin-le-coquet/allo-numerique/
-shop: électronique
+shop: Elektronik
 ---

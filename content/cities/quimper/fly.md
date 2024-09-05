@@ -1,5 +1,5 @@
 ---
 title: "Fly"
 url: /quimper/fly/
-shop: meubles
+shop: Möbel
 ---

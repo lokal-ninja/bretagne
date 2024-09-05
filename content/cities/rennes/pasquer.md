@@ -1,5 +1,5 @@
 ---
 title: "Pasquer"
 url: /rennes/pasquer/
-shop: boulangerie
+shop: Bäckerei
 ---

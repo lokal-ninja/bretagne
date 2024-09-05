@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /la-chapelle-caro/boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coccinelle express"
 url: /vitre/coccinelle-express/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /saint-gregoire/bmw/
-shop: voiture
+shop: Autohaus
 ---

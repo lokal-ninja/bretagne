@@ -1,5 +1,5 @@
 ---
 title: "Boa"
 url: /rennes/boa/
-shop: décoration intérieure
+shop: Raumausstattung
 ---

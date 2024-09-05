@@ -1,5 +1,5 @@
 ---
 title: "LTM"
 url: /gouesnou/ltm/
-shop: matériel informatique
+shop: Eisenwaren
 ---

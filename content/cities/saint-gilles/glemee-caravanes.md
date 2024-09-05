@@ -1,5 +1,5 @@
 ---
 title: "Glémee Caravanes"
 url: /saint-gilles/glemee-caravanes/
-shop: caravane
+shop: Wohnwagen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cueillette de Thorigné"
 url: /thorigne-fouillard/cueillette-de-thorigne/
-shop: ferme
+shop: Hofladen
 ---

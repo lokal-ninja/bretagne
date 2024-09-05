@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /saint-martin-des-champs/decathlon/
-shop: sports
+shop: Sport
 ---

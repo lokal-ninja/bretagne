@@ -1,5 +1,5 @@
 ---
 title: "DistriCenter"
 url: /guichen/districenter/
-shop: vêtements
+shop: Kleidung
 ---

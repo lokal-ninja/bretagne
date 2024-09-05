@@ -1,5 +1,5 @@
 ---
 title: "Lissac"
 url: /benodet/lissac/
-shop: opticien
+shop: Optiker
 ---

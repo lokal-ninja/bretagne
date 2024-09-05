@@ -1,5 +1,5 @@
 ---
 title: "Bokoloko"
 url: /taden/bokoloko/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /ploermel/centrakor/
-shop: magasin de variétés
+shop: Kramladen
 ---

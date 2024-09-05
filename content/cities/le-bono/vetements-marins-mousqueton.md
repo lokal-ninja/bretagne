@@ -1,5 +1,5 @@
 ---
 title: "Vêtements marins Mousqueton"
 url: /le-bono/vetements-marins-mousqueton/
-shop: vêtements
+shop: Kleidung
 ---

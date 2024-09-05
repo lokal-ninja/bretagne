@@ -1,5 +1,5 @@
 ---
 title: "Kaparka"
 url: /guingamp/kaparka/
-shop: vêtements
+shop: Kleidung
 ---

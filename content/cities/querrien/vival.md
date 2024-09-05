@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /querrien/vival/
-shop: commodité
+shop: Lebensmittel
 ---

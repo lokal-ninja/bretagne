@@ -1,5 +1,5 @@
 ---
 title: "L'Ampélographe"
 url: /quiberon/lampelographe/
-shop: vin
+shop: Wein
 ---

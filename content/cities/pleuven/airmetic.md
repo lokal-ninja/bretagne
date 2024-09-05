@@ -1,5 +1,5 @@
 ---
 title: "Airmetic"
 url: /pleuven/airmetic/
-shop: cheminée
+shop: Kamine & Öfen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cheminées Lebeau"
 url: /vezin-le-coquet/cheminees-lebeau/
-shop: cheminée
+shop: Kamine & Öfen
 ---

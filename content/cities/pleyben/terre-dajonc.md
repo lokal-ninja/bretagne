@@ -1,5 +1,5 @@
 ---
 title: "Terre d'Ajonc"
 url: /pleyben/terre-dajonc/
-shop: cadeau
+shop: Andenken
 ---

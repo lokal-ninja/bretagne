@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /sarzeau/carrefour-express/
-shop: supermarché
+shop: Supermarkt
 ---

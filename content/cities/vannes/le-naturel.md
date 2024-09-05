@@ -1,5 +1,5 @@
 ---
 title: "Le Naturel"
 url: /vannes/le-naturel/
-shop: fleuriste
+shop: Blumen
 ---

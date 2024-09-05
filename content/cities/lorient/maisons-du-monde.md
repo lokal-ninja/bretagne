@@ -1,5 +1,5 @@
 ---
 title: "Maisons du Monde"
 url: /lorient/maisons-du-monde/
-shop: meubles
+shop: Möbel
 ---

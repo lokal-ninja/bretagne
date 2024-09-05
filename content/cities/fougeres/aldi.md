@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /fougeres/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

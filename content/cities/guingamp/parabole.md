@@ -1,5 +1,5 @@
 ---
 title: "Parabole"
 url: /guingamp/parabole/
-shop: cadeau
+shop: Andenken
 ---

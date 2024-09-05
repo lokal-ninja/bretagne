@@ -1,5 +1,5 @@
 ---
 title: "Cyclable"
 url: /rennes/cyclable/
-shop: vélo
+shop: Fahrrad
 ---

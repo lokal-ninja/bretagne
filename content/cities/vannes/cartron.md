@@ -1,5 +1,5 @@
 ---
 title: "Cartron"
 url: /vannes/cartron/
-shop: pâtisserie
+shop: Konditorei
 ---

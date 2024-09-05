@@ -1,5 +1,5 @@
 ---
 title: "Vintage Belle"
 url: /la-gacilly/vintage-belle/
-shop: boutique
+shop: Modehaus
 ---

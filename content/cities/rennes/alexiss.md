@@ -1,5 +1,5 @@
 ---
 title: "Alexiss"
 url: /rennes/alexiss/
-shop: beauté
+shop: Kosmetik
 ---

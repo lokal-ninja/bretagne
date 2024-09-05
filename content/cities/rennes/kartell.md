@@ -1,5 +1,5 @@
 ---
 title: "Kartell"
 url: /rennes/kartell/
-shop: meubles
+shop: Möbel
 ---

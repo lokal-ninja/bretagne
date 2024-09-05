@@ -1,5 +1,5 @@
 ---
 title: "Laverie"
 url: /chantepie/laverie/
-shop: blanchisserie
+shop: Wäscherei
 ---

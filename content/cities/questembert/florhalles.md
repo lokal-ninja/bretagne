@@ -1,5 +1,5 @@
 ---
 title: "Flor'Halles"
 url: /questembert/florhalles/
-shop: légumes
+shop: Gemüse & Obst
 ---

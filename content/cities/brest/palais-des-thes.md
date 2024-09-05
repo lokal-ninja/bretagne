@@ -1,5 +1,5 @@
 ---
 title: "Palais des Thés"
 url: /brest/palais-des-thes/
-shop: thé
+shop: Tee
 ---

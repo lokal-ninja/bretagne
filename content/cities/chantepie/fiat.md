@@ -1,5 +1,5 @@
 ---
 title: "Fiat"
 url: /chantepie/fiat/
-shop: voiture
+shop: Autohaus
 ---

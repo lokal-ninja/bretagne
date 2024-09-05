@@ -1,5 +1,5 @@
 ---
 title: "Alti'coif"
 url: /rennes/alticoif/
-shop: coiffeur
+shop: Friseur
 ---

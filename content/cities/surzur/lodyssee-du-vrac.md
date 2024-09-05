@@ -1,5 +1,5 @@
 ---
 title: "L'Odyssée du Vrac"
 url: /surzur/lodyssee-du-vrac/
-shop: commodité
+shop: Lebensmittel
 ---

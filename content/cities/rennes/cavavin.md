@@ -1,5 +1,5 @@
 ---
 title: "Cavavin"
 url: /rennes/cavavin/
-shop: alcool
+shop: Spirituosen
 ---

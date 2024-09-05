@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /vezin-le-coquet/kiloutou/
-shop: outils
+shop: Werkzeuge
 ---

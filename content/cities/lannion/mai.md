@@ -1,5 +1,5 @@
 ---
 title: "Maï"
 url: /lannion/mai/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ty Melen"
 url: /gourin/ty-melen/
-shop: antiquités
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ollygan"
 url: /vannes/ollygan/
-shop: vêtements
+shop: Kleidung
 ---

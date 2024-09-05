@@ -1,5 +1,5 @@
 ---
 title: "Truffaut"
 url: /lorient/truffaut/
-shop: centre de jardinage
+shop: Garten-Center
 ---

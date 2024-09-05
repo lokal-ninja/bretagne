@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /saint-gregoire/cuisinella/
-shop: cuisine
+shop: Küchen
 ---

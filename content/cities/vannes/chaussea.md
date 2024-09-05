@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /vannes/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

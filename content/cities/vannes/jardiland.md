@@ -1,5 +1,5 @@
 ---
 title: "Jardiland"
 url: /vannes/jardiland/
-shop: centre de jardinage
+shop: Garten-Center
 ---

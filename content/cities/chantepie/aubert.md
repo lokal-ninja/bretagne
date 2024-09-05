@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /chantepie/aubert/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /rennes/zara/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charcuterie"
 url: /pont-pean/boucherie-charcuterie/
-shop: boucherie
+shop: Metzgerei
 ---

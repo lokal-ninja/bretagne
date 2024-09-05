@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /janze/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

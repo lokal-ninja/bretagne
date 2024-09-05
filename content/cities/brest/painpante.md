@@ -1,5 +1,5 @@
 ---
 title: "Painpante"
 url: /brest/painpante/
-shop: boulangerie
+shop: Bäckerei
 ---

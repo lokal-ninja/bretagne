@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /redon/intersport/
-shop: sports
+shop: Sport
 ---

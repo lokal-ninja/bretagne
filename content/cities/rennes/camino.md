@@ -1,5 +1,5 @@
 ---
 title: "Camino"
 url: /rennes/camino/
-shop: vêtements
+shop: Kleidung
 ---

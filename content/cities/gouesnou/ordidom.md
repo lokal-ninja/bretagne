@@ -1,5 +1,5 @@
 ---
 title: "Ordidom"
 url: /gouesnou/ordidom/
-shop: ordinateur
+shop: Computer
 ---

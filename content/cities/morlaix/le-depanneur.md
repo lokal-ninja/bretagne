@@ -1,5 +1,5 @@
 ---
 title: "Le dépanneur"
 url: /morlaix/le-depanneur/
-shop: commodité
+shop: Lebensmittel
 ---

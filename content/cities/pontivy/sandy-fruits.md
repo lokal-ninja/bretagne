@@ -1,5 +1,5 @@
 ---
 title: "Sandy Fruits"
 url: /pontivy/sandy-fruits/
-shop: légumes
+shop: Gemüse & Obst
 ---

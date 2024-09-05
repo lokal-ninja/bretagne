@@ -1,5 +1,5 @@
 ---
 title: "Cigusto"
 url: /vannes/cigusto/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

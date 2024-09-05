@@ -1,5 +1,5 @@
 ---
 title: "Batistyl Habitat"
 url: /rennes/batistyl-habitat/
-shop: commerce
+shop: Baustoffe
 ---

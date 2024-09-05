@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /ploermel/darty/
-shop: électronique
+shop: Elektronik
 ---

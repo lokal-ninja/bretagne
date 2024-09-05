@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /lorient/casa/
-shop: meubles
+shop: Möbel
 ---

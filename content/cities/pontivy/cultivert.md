@@ -1,5 +1,5 @@
 ---
 title: "Cultivert"
 url: /pontivy/cultivert/
-shop: centre de jardinage
+shop: Garten-Center
 ---

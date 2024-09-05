@@ -1,5 +1,5 @@
 ---
 title: "ShopForGeek"
 url: /vannes/shopforgeek/
-shop: collecteur
+shop: Sammler
 ---

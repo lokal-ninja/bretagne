@@ -1,5 +1,5 @@
 ---
 title: "Breizh Prim'"
 url: /vannes/breizh-prim/
-shop: légumes
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lysadis"
 url: /chateaugiron/lysadis/
-shop: centre de jardinage
+shop: Garten-Center
 ---

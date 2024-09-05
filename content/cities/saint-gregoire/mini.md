@@ -1,5 +1,5 @@
 ---
 title: "Mini"
 url: /saint-gregoire/mini/
-shop: voiture
+shop: Autohaus
 ---

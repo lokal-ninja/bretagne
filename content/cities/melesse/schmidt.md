@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /melesse/schmidt/
-shop: cuisine
+shop: Küchen
 ---

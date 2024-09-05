@@ -1,5 +1,5 @@
 ---
 title: "L'instant coiffure"
 url: /inguiniel/linstant-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

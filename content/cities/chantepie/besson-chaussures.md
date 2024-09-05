@@ -1,5 +1,5 @@
 ---
 title: "Besson Chaussures"
 url: /chantepie/besson-chaussures/
-shop: chaussures
+shop: Schuhe
 ---

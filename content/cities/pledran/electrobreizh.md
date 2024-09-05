@@ -1,5 +1,5 @@
 ---
 title: "Electrobreizh"
 url: /pledran/electrobreizh/
-shop: radiotechnique
+shop: Radiotechnik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /rennes/uniqlo/
-shop: vêtements
+shop: Kleidung
 ---

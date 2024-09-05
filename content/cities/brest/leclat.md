@@ -1,5 +1,5 @@
 ---
 title: "L'éclat"
 url: /brest/leclat/
-shop: coiffeur
+shop: Friseur
 ---

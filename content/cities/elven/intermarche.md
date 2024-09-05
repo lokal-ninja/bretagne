@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /elven/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

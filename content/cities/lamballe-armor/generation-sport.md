@@ -1,5 +1,5 @@
 ---
 title: "Génération sport"
 url: /lamballe-armor/generation-sport/
-shop: sports
+shop: Sport
 ---

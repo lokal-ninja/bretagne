@@ -1,5 +1,5 @@
 ---
 title: "Ti Grains"
 url: /rennes/ti-grains/
-shop: commodité
+shop: Lebensmittel
 ---

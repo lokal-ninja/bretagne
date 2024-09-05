@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /baud/peugeot/
-shop: voiture
+shop: Autohaus
 ---

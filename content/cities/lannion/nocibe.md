@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /lannion/nocibe/
-shop: beauté
+shop: Kosmetik
 ---

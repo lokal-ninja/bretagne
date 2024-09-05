@@ -1,5 +1,5 @@
 ---
 title: "Jardiland"
 url: /la-meziere/jardiland/
-shop: centre de jardinage
+shop: Garten-Center
 ---

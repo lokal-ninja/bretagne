@@ -1,5 +1,5 @@
 ---
 title: "Lolliclope"
 url: /guingamp/lolliclope/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

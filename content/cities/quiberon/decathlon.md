@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /quiberon/decathlon/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /quimper/etam/
-shop: vêtements
+shop: Kleidung
 ---

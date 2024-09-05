@@ -1,5 +1,5 @@
 ---
-title: "Kookai"
+title: "Kookaï"
 url: /brest/kookai/
-shop: vêtements
+shop: Kleidung
 ---

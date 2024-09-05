@@ -1,5 +1,5 @@
 ---
 title: "Librairie curiosités"
 url: /quimper/librairie-curiosites/
-shop: livres
+shop: Bücher
 ---

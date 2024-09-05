@@ -1,5 +1,5 @@
 ---
 title: "Coccimarket"
 url: /gestel/coccimarket/
-shop: supermarché
+shop: Supermarkt
 ---

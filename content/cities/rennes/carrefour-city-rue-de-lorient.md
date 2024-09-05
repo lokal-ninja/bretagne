@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /rennes/carrefour-city-rue-de-lorient/
-shop: supermarché
+shop: Supermarkt
 ---

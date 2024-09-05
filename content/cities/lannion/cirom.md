@@ -1,5 +1,5 @@
 ---
 title: "Cirom"
 url: /lannion/cirom/
-shop: ordinateur
+shop: Computer
 ---

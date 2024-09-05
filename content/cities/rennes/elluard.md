@@ -1,5 +1,5 @@
 ---
 title: "Elluard"
 url: /rennes/elluard/
-shop: boulangerie
+shop: Bäckerei
 ---

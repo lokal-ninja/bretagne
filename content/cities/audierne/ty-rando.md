@@ -1,5 +1,5 @@
 ---
 title: "Ty Rando"
 url: /audierne/ty-rando/
-shop: extérieur
+shop: Outdoor
 ---

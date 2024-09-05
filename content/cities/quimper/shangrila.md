@@ -1,5 +1,5 @@
 ---
 title: "Shangrila"
 url: /quimper/shangrila/
-shop: vêtements
+shop: Kleidung
 ---

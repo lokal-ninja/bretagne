@@ -1,5 +1,5 @@
 ---
 title: "Jardi+"
 url: /theix-noyalo/jardi/
-shop: centre de jardinage
+shop: Garten-Center
 ---

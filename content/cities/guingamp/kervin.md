@@ -1,5 +1,5 @@
 ---
 title: "Kervin"
 url: /guingamp/kervin/
-shop: coiffeur
+shop: Friseur
 ---

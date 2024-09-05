@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /fougeres/blackstore/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Victorie"
 url: /morlaix/victorie/
-shop: vêtements
+shop: Kleidung
 ---

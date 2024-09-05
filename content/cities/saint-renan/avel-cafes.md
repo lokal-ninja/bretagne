@@ -1,5 +1,5 @@
 ---
 title: "Avel Cafés"
 url: /saint-renan/avel-cafes/
-shop: café
+shop: Kaffee
 ---

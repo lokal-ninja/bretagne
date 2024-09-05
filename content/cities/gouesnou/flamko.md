@@ -1,5 +1,5 @@
 ---
 title: "Flamko"
 url: /gouesnou/flamko/
-shop: cheminée
+shop: Kamine & Öfen
 ---

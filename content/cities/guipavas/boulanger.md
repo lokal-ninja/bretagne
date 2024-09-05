@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
 url: /guipavas/boulanger/
-shop: électronique
+shop: Elektronik
 ---

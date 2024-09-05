@@ -1,5 +1,5 @@
 ---
 title: "Brisach"
 url: /la-chapelle-des-fougeretz/brisach/
-shop: cheminée
+shop: Kamine & Öfen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Passage Bleu"
 url: /chantepie/passage-bleu/
-shop: beauté
+shop: Kosmetik
 ---

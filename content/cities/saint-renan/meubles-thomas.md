@@ -1,5 +1,5 @@
 ---
 title: "Meubles Thomas"
 url: /saint-renan/meubles-thomas/
-shop: meubles
+shop: Möbel
 ---

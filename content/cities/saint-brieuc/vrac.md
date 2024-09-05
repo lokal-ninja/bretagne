@@ -1,5 +1,5 @@
 ---
 title: "Vrac !"
 url: /saint-brieuc/vrac/
-shop: commodité
+shop: Lebensmittel
 ---

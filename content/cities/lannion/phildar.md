@@ -1,5 +1,5 @@
 ---
 title: "Phildar"
 url: /lannion/phildar/
-shop: tissu
+shop: Textil
 ---

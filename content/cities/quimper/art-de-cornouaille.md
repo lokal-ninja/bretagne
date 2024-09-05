@@ -1,5 +1,5 @@
 ---
 title: "Art de Cornouaille"
 url: /quimper/art-de-cornouaille/
-shop: cadeau
+shop: Andenken
 ---

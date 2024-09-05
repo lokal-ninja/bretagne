@@ -1,5 +1,5 @@
 ---
 title: "Clopinnette"
 url: /brest/clopinnette/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

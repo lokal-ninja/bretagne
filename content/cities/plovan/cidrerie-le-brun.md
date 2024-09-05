@@ -1,5 +1,5 @@
 ---
 title: "Cidrerie Le Brun"
 url: /plovan/cidrerie-le-brun/
-shop: ferme
+shop: Hofladen
 ---

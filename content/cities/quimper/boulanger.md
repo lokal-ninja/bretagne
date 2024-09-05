@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
 url: /quimper/boulanger/
-shop: électronique
+shop: Elektronik
 ---

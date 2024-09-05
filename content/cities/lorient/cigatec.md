@@ -1,5 +1,5 @@
 ---
 title: "Cigatec"
 url: /lorient/cigatec/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

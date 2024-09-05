@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /riantec/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

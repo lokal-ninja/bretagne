@@ -1,5 +1,5 @@
 ---
 title: "Confidentiel"
 url: /rennes/confidentiel/
-shop: vêtements
+shop: Kleidung
 ---

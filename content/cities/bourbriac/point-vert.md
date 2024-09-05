@@ -1,5 +1,5 @@
 ---
 title: "Point Vert"
 url: /bourbriac/point-vert/
-shop: centre de jardinage
+shop: Garten-Center
 ---

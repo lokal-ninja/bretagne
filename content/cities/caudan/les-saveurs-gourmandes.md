@@ -1,5 +1,5 @@
 ---
 title: "Les Saveurs Gourmandes"
 url: /caudan/les-saveurs-gourmandes/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Altera'Cig"
 url: /quimper/alteracig/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

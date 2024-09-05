@@ -1,5 +1,5 @@
 ---
 title: "Optique Roussel"
 url: /moelan-sur-mer/optique-roussel/
-shop: opticien
+shop: Optiker
 ---

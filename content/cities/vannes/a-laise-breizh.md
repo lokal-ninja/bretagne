@@ -1,5 +1,5 @@
 ---
 title: "À l'Aise Breizh"
 url: /vannes/a-laise-breizh/
-shop: vêtements
+shop: Kleidung
 ---

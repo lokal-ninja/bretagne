@@ -1,5 +1,5 @@
 ---
 title: "Clopissime"
 url: /begard/clopissime/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

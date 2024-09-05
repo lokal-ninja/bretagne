@@ -1,5 +1,5 @@
 ---
 title: "Litrimarché"
 url: /montgermont/litrimarche/
-shop: lit
+shop: Betten
 ---

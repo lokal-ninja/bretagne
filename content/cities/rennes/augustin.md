@@ -1,5 +1,5 @@
 ---
 title: "Augustin"
 url: /rennes/augustin/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VéloandCo"
 url: /auray/veloandco/
-shop: sports
+shop: Sport
 ---

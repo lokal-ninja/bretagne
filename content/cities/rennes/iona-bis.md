@@ -1,5 +1,5 @@
 ---
 title: "Iona Bis"
 url: /rennes/iona-bis/
-shop: vêtements
+shop: Kleidung
 ---

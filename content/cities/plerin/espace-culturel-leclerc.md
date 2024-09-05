@@ -1,5 +1,5 @@
 ---
 title: "espace culturel Leclerc"
 url: /plerin/espace-culturel-leclerc/
-shop: livres
+shop: Bücher
 ---

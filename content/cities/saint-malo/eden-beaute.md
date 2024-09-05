@@ -1,5 +1,5 @@
 ---
 title: "Eden Beauté"
 url: /saint-malo/eden-beaute/
-shop: beauté
+shop: Kosmetik
 ---

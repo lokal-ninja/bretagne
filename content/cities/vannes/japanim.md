@@ -1,5 +1,5 @@
 ---
 title: "Japanim"
 url: /vannes/japanim/
-shop: anime
+shop: Anime
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aquarelle"
 url: /rennes/aquarelle/
-shop: fleuriste
+shop: Blumen
 ---

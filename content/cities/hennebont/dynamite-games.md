@@ -1,5 +1,5 @@
 ---
 title: "Dynamite Games"
 url: /hennebont/dynamite-games/
-shop: jeux vidéo
+shop: Videospiele
 ---

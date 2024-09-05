@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /chantepie/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

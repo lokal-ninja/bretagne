@@ -1,5 +1,5 @@
 ---
 title: "Noham"
 url: /rennes/noham/
-shop: beauté
+shop: Kosmetik
 ---

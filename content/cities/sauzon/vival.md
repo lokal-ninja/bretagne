@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /sauzon/vival/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "4murs"
 url: /chantepie/4murs/
-shop: rideau
+shop: Gardinen
 ---

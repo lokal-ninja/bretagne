@@ -1,5 +1,5 @@
 ---
 title: "Soulabaille"
 url: /rennes/soulabaille/
-shop: boulangerie
+shop: Bäckerei
 ---

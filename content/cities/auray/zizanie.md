@@ -1,5 +1,5 @@
 ---
 title: "Zizanie"
 url: /auray/zizanie/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intimissimi"
 url: /rennes/intimissimi/
-shop: vêtements
+shop: Kleidung
 ---

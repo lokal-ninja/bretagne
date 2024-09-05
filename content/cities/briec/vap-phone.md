@@ -1,5 +1,5 @@
 ---
 title: "Vap Phone"
 url: /briec/vap-phone/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

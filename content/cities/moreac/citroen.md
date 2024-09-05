@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /moreac/citroen/
-shop: voiture
+shop: Autohaus
 ---

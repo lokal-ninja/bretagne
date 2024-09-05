@@ -1,5 +1,5 @@
 ---
 title: "Optique Bouvet"
 url: /rostrenen/optique-bouvet/
-shop: opticien
+shop: Optiker
 ---

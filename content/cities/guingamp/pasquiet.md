@@ -1,5 +1,5 @@
 ---
 title: "Pasquiet"
 url: /guingamp/pasquiet/
-shop: boulangerie
+shop: Bäckerei
 ---

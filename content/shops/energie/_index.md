@@ -1,5 +1,5 @@
 ---
-title: énergie
+title: Energie
 url: /energie/
 icon: other
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /brest/blackstore/
-shop: vêtements
+shop: Kleidung
 ---

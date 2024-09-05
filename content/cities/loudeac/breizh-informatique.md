@@ -1,5 +1,5 @@
 ---
 title: "BREIZH INFORMATIQUE"
 url: /loudeac/breizh-informatique/
-shop: ordinateur
+shop: Computer
 ---

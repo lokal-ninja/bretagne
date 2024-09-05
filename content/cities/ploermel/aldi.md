@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ploermel/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

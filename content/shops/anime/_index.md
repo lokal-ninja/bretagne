@@ -1,5 +1,5 @@
 ---
-title: anime
+title: Anime
 url: /anime/
 icon: other
 ---

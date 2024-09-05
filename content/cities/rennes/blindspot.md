@@ -1,5 +1,5 @@
 ---
 title: "Blindspot"
 url: /rennes/blindspot/
-shop: musique
+shop: Musik
 ---

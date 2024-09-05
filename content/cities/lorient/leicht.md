@@ -1,5 +1,5 @@
 ---
 title: "Leicht"
 url: /lorient/leicht/
-shop: cuisine
+shop: Küchen
 ---

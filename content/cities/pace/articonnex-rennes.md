@@ -1,5 +1,5 @@
 ---
 title: "Articonnex Rennes"
 url: /pace/articonnex-rennes/
-shop: vente en gros
+shop: Großhandel
 ---

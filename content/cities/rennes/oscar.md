@@ -1,5 +1,5 @@
 ---
 title: "Oscar"
 url: /rennes/oscar/
-shop: boulangerie
+shop: Bäckerei
 ---

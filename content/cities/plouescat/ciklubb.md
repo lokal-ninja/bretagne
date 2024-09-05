@@ -1,5 +1,5 @@
 ---
 title: "CIKLUBB"
 url: /plouescat/ciklubb/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

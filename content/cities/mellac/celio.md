@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /mellac/celio/
-shop: vêtements
+shop: Kleidung
 ---

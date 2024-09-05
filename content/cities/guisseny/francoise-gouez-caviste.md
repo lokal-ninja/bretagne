@@ -1,5 +1,5 @@
 ---
 title: "Françoise Gouez Caviste"
 url: /guisseny/francoise-gouez-caviste/
-shop: alcool
+shop: Spirituosen
 ---

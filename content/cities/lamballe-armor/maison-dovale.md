@@ -1,5 +1,5 @@
 ---
 title: "Maison Dovale"
 url: /lamballe-armor/maison-dovale/
-shop: boucherie
+shop: Metzgerei
 ---

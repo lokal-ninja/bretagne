@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /rennes/noz/
-shop: magasin de variétés
+shop: Kramladen
 ---

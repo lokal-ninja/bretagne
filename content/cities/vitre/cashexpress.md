@@ -1,5 +1,5 @@
 ---
 title: "CashExpress"
 url: /vitre/cashexpress/
-shop: charité
+shop: Gebrauchtwaren
 ---

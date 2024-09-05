@@ -1,5 +1,5 @@
 ---
 title: "Pressing"
 url: /la-gacilly/pressing/
-shop: blanchisserie
+shop: Wäscherei
 ---

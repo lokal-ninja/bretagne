@@ -1,5 +1,5 @@
 ---
 title: "Devred"
 url: /quimper/devred/
-shop: vêtements
+shop: Kleidung
 ---

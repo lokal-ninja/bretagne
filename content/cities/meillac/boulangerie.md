@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /meillac/boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rivalin"
 url: /quimper/rivalin/
-shop: chaussures
+shop: Schuhe
 ---

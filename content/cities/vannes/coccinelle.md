@@ -1,5 +1,5 @@
 ---
 title: "Coccinelle"
 url: /vannes/coccinelle/
-shop: chaussures
+shop: Schuhe
 ---

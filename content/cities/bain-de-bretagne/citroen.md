@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /bain-de-bretagne/citroen/
-shop: voiture
+shop: Autohaus
 ---

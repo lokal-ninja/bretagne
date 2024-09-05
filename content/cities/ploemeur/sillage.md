@@ -1,5 +1,5 @@
 ---
 title: "Sillage"
 url: /ploemeur/sillage/
-shop: livres
+shop: Bücher
 ---

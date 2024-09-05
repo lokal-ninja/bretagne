@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /brest/cultura/
-shop: livres
+shop: Bücher
 ---

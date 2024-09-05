@@ -1,5 +1,5 @@
 ---
 title: "Hydrozen"
 url: /vannes/hydrozen/
-shop: massage
+shop: Massage
 ---

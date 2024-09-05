@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /ploulech/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

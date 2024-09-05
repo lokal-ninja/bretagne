@@ -1,5 +1,5 @@
 ---
 title: "Coqcinelle"
 url: /rennes/coqcinelle/
-shop: légumes
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VSP Full Race"
 url: /brece/vsp-full-race/
-shop: voiture
+shop: Autohaus
 ---

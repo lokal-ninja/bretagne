@@ -1,5 +1,5 @@
 ---
 title: "Boucherie charcuterie Sandol"
 url: /quimper/boucherie-charcuterie-sandol/
-shop: boucherie
+shop: Metzgerei
 ---

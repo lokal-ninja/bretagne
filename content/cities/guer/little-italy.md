@@ -1,5 +1,5 @@
 ---
 title: "Little Italy"
 url: /guer/little-italy/
-shop: vacant
+shop: Leerstehend
 ---

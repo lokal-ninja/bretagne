@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /langueux/jules/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Réserve"
 url: /bain-de-bretagne/la-reserve/
-shop: charcuterie
+shop: Feinkost
 ---

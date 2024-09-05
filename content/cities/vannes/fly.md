@@ -1,5 +1,5 @@
 ---
 title: "Fly"
 url: /vannes/fly/
-shop: meubles
+shop: Möbel
 ---

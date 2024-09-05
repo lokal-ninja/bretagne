@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /esquibien/total/
-shop: gaz
+shop: Gasflaschen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mousqueton"
 url: /vannes/mousqueton/
-shop: vêtements
+shop: Kleidung
 ---

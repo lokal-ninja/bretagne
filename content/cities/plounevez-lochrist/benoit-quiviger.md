@@ -1,5 +1,5 @@
 ---
 title: "Benoit Quiviger"
 url: /plounevez-lochrist/benoit-quiviger/
-shop: légumes
+shop: Gemüse & Obst
 ---

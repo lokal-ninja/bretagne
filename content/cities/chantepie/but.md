@@ -1,5 +1,5 @@
 ---
 title: "But"
 url: /chantepie/but/
-shop: meubles
+shop: Möbel
 ---

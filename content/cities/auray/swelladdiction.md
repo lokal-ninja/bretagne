@@ -1,5 +1,5 @@
 ---
 title: "SwellAddiction"
 url: /auray/swelladdiction/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jeff de Bruges"
 url: /vannes/jeff-de-bruges/
-shop: chocolat
+shop: Schokolade
 ---

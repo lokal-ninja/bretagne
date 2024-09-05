@@ -1,5 +1,5 @@
 ---
 title: "Lebisibel"
 url: /quimper/lebisibel/
-shop: vêtements
+shop: Kleidung
 ---

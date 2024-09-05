@@ -1,5 +1,5 @@
 ---
 title: "Bonobo"
 url: /vannes/bonobo/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrélia"
 url: /vitre/carrelia/
-shop: tuiles
+shop: Fliesen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vapoway"
 url: /hennebont/vapoway/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ty-Smoky"
 url: /louannec/ty-smoky/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

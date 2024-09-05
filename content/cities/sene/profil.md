@@ -1,5 +1,5 @@
 ---
 title: "Profil+"
 url: /sene/profil/
-shop: pneus
+shop: Reifen
 ---

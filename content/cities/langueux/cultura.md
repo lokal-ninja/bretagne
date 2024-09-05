@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /langueux/cultura/
-shop: livres
+shop: Bücher
 ---

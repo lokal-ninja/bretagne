@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /vannes/noz/
-shop: magasin de variétés
+shop: Kramladen
 ---

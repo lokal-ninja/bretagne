@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /theix-noyalo/stokomani/
-shop: magasin de variétés
+shop: Kramladen
 ---

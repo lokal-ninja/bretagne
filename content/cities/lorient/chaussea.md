@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /lorient/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

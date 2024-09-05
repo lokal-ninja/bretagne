@@ -1,5 +1,5 @@
 ---
 title: "Fleurs"
 url: /plozevet/fleurs/
-shop: fleuriste
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Isope"
 url: /rennes/isope/
-shop: chaussures
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /pace/micromania/
-shop: jeux vidéo
+shop: Videospiele
 ---

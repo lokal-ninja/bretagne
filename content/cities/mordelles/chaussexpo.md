@@ -1,5 +1,5 @@
 ---
 title: "Chaussexpo"
 url: /mordelles/chaussexpo/
-shop: chaussures
+shop: Schuhe
 ---

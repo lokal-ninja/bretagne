@@ -1,5 +1,5 @@
 ---
 title: "L'Ampélographe"
 url: /auray/lampelographe/
-shop: alcool
+shop: Spirituosen
 ---

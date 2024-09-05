@@ -1,5 +1,5 @@
 ---
 title: "La Manufacture de Pandore"
 url: /la-gacilly/la-manufacture-de-pandore/
-shop: antiquités
+shop: Antiquitäten
 ---

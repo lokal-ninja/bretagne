@@ -1,5 +1,5 @@
 ---
 title: "La Boutik"
 url: /grand-champ/la-boutik/
-shop: cadeau
+shop: Andenken
 ---

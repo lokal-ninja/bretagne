@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Le Quéré"
 url: /plozevet/boucherie-le-quere/
-shop: boucherie
+shop: Metzgerei
 ---

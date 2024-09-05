@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /quimperle/noz/
-shop: magasin de variétés
+shop: Kramladen
 ---

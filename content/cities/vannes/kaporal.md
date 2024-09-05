@@ -1,5 +1,5 @@
 ---
 title: "Kaporal"
 url: /vannes/kaporal/
-shop: vêtements
+shop: Kleidung
 ---

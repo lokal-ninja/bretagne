@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /brest/total/
-shop: commodité
+shop: Lebensmittel
 ---
