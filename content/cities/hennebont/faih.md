@@ -1,5 +1,5 @@
 ---
 title: "FAIH"
 url: /hennebont/faih/
-shop: Autoteile
+shop: pièces de voitures
 ---

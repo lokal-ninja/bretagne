@@ -1,5 +1,5 @@
 ---
 title: "Anthropology"
 url: /auray/anthropology/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

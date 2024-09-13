@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /bain-de-bretagne/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

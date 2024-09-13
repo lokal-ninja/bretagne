@@ -1,5 +1,5 @@
 ---
 title: "Le Petit Studio"
 url: /pluherlin/le-petit-studio/
-shop: Friseur
+shop: coiffeur
 ---

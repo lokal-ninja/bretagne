@@ -1,5 +1,5 @@
 ---
 title: "Nuances végétales"
 url: /mordelles/nuances-vegetales/
-shop: Blumen
+shop: fleuriste
 ---

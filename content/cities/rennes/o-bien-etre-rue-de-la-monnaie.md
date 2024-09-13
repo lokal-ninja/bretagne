@@ -1,5 +1,5 @@
 ---
 title: "Ô bien-être"
 url: /rennes/o-bien-etre-rue-de-la-monnaie/
-shop: Kosmetik
+shop: beauté
 ---

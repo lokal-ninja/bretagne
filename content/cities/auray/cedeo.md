@@ -1,5 +1,5 @@
 ---
 title: "Cedeo"
 url: /auray/cedeo/
-shop: Badezimmer
+shop: salle de bains
 ---

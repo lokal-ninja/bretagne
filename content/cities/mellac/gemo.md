@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /mellac/gemo/
-shop: Kleidung
+shop: vêtements
 ---

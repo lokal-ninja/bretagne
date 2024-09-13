@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /redon/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

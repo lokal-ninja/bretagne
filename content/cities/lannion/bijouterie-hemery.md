@@ -1,5 +1,5 @@
 ---
 title: "Bijouterie Hémery"
 url: /lannion/bijouterie-hemery/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bijouterie Gandubert"
 url: /quimperle/bijouterie-gandubert/
-shop: Schmuck
+shop: bijoux
 ---

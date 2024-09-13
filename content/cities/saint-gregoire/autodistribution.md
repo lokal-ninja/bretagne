@@ -1,5 +1,5 @@
 ---
 title: "Autodistribution"
 url: /saint-gregoire/autodistribution/
-shop: Autoteile
+shop: pièces de voitures
 ---

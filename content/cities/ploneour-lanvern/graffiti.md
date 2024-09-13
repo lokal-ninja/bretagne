@@ -1,5 +1,5 @@
 ---
 title: "Graffiti"
 url: /ploneour-lanvern/graffiti/
-shop: Zeitungen
+shop: marchand de journaux
 ---

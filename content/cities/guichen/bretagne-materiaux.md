@@ -1,5 +1,5 @@
 ---
 title: "Bretagne Matériaux"
 url: /guichen/bretagne-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

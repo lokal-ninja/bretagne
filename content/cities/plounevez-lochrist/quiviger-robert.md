@@ -1,5 +1,5 @@
 ---
 title: "Quiviger Robert"
 url: /plounevez-lochrist/quiviger-robert/
-shop: Lebensmittel
+shop: commodité
 ---

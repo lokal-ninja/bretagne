@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Loto"
 url: /bourg-des-comptes/tabac-presse-loto/
-shop: Zeitungen
+shop: marchand de journaux
 ---

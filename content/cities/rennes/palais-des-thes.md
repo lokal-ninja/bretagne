@@ -1,5 +1,5 @@
 ---
 title: "Palais des Thés"
 url: /rennes/palais-des-thes/
-shop: Tee
+shop: thé
 ---

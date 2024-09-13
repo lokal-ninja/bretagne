@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Desmarieux"
 url: /la-chapelle-chaussee/boulangerie-desmarieux/
-shop: Bäckerei
+shop: boulangerie
 ---

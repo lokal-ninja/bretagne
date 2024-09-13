@@ -1,5 +1,5 @@
 ---
 title: "La Maison d'Eté"
 url: /audierne/la-maison-dete/
-shop: Tee
+shop: thé
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoSécuritas Ploemeur"
 url: /ploemeur/autosecuritas-ploemeur/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

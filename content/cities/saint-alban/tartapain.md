@@ -1,5 +1,5 @@
 ---
 title: "Tartapain"
 url: /saint-alban/tartapain/
-shop: Bäckerei
+shop: boulangerie
 ---

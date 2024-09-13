@@ -1,5 +1,5 @@
 ---
 title: "Livinside"
 url: /brest/livinside/
-shop: Küchen
+shop: cuisine
 ---

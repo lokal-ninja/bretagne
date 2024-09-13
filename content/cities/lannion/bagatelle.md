@@ -1,5 +1,5 @@
 ---
 title: "Bagatelle"
 url: /lannion/bagatelle/
-shop: Andenken
+shop: cadeau
 ---

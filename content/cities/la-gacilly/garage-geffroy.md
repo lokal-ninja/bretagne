@@ -1,5 +1,5 @@
 ---
 title: "Garage Geffroy"
 url: /la-gacilly/garage-geffroy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

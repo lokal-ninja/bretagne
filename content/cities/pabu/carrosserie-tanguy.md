@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Tanguy"
 url: /pabu/carrosserie-tanguy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

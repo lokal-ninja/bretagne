@@ -1,5 +1,5 @@
 ---
 title: "Vap' Station"
 url: /rennes/vap-station/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

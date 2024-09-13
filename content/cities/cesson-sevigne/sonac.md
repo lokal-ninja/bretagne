@@ -1,5 +1,5 @@
 ---
 title: "Sonac"
 url: /cesson-sevigne/sonac/
-shop: Baustoffe
+shop: commerce
 ---

@@ -1,5 +1,5 @@
 ---
 title: "France Rurale - Terres de de Fougères"
 url: /fougeres/france-rurale-terres-de-de-fougeres/
-shop: Garten-Center
+shop: centre de jardinage
 ---

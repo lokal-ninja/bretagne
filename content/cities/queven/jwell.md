@@ -1,5 +1,5 @@
 ---
 title: "Jwell"
 url: /queven/jwell/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

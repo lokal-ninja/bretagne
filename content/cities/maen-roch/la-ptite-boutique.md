@@ -1,5 +1,5 @@
 ---
 title: "La P'tite Boutique"
 url: /maen-roch/la-ptite-boutique/
-shop: Lebensmittel
+shop: commodité
 ---

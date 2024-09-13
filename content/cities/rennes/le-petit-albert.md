@@ -1,5 +1,5 @@
 ---
 title: "Le Petit Albert"
 url: /rennes/le-petit-albert/
-shop: Friseur
+shop: coiffeur
 ---

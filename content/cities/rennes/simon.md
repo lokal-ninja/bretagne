@@ -1,5 +1,5 @@
 ---
 title: "Simon"
 url: /rennes/simon/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

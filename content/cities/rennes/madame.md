@@ -1,5 +1,5 @@
 ---
 title: "Madame."
 url: /rennes/madame/
-shop: Kleidung
+shop: vêtements
 ---

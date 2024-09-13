@@ -1,5 +1,5 @@
 ---
 title: "Fournil de l’Europe"
 url: /brest/fournil-de-leurope/
-shop: Bäckerei
+shop: boulangerie
 ---

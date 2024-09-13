@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /lanester/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

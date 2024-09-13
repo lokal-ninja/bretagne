@@ -1,5 +1,5 @@
 ---
 title: "Paraboot"
 url: /rennes/paraboot/
-shop: Schuhe
+shop: chaussures
 ---

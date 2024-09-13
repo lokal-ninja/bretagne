@@ -1,5 +1,5 @@
 ---
 title: "Taillandier Laurence"
 url: /la-meziere/taillandier-laurence/
-shop: Optiker
+shop: opticien
 ---

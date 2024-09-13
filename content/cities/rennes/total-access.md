@@ -1,5 +1,5 @@
 ---
 title: "Total Access"
 url: /rennes/total-access/
-shop: Lebensmittel
+shop: commodité
 ---

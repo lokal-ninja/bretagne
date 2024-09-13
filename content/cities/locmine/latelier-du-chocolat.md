@@ -1,5 +1,5 @@
 ---
 title: "L'atelier du chocolat"
 url: /locmine/latelier-du-chocolat/
-shop: Schokolade
+shop: chocolat
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quai de l'Imaginaire"
 url: /audierne/quai-de-limaginaire/
-shop: Bücher
+shop: livres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electro Ouest"
 url: /chantepie/electro-ouest/
-shop: Radiotechnik
+shop: radiotechnique
 ---

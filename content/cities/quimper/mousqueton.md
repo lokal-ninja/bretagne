@@ -1,5 +1,5 @@
 ---
 title: "Mousqueton"
 url: /quimper/mousqueton/
-shop: Kleidung
+shop: vêtements
 ---

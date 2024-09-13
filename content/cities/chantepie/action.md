@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /chantepie/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

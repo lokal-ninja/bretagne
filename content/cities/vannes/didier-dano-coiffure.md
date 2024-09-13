@@ -1,5 +1,5 @@
 ---
 title: "Didier Dano Coiffure"
 url: /vannes/didier-dano-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

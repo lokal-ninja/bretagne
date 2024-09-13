@@ -1,5 +1,5 @@
 ---
 title: "Endurance Shop"
 url: /tregueux/endurance-shop/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decathlon Quimper"
 url: /quimper/decathlon-quimper/
-shop: Sport
+shop: sports
 ---

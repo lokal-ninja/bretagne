@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /auray/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

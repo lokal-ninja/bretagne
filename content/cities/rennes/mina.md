@@ -1,5 +1,5 @@
 ---
 title: "Mina"
 url: /rennes/mina/
-shop: Spielzeug
+shop: jouets
 ---

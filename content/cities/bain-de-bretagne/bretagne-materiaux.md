@@ -1,5 +1,5 @@
 ---
 title: "Bretagne Matériaux"
 url: /bain-de-bretagne/bretagne-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

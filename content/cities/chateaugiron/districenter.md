@@ -1,5 +1,5 @@
 ---
 title: "DistriCenter"
 url: /chateaugiron/districenter/
-shop: Kleidung
+shop: vêtements
 ---

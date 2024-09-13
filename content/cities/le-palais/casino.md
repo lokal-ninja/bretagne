@@ -1,5 +1,5 @@
 ---
 title: "Casino"
 url: /le-palais/casino/
-shop: Supermarkt
+shop: supermarché
 ---

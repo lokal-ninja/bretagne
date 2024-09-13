@@ -1,5 +1,5 @@
 ---
 title: "Sylvie Coiffure"
 url: /rennes/sylvie-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

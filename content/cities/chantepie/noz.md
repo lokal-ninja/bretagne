@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /chantepie/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

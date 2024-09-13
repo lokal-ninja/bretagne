@@ -1,5 +1,5 @@
 ---
 title: "Jacadi"
 url: /rennes/jacadi/
-shop: Kleidung
+shop: vêtements
 ---

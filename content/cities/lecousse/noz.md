@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /lecousse/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

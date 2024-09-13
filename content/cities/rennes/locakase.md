@@ -1,5 +1,5 @@
 ---
 title: "LocaKase"
 url: /rennes/locakase/
-shop: Mieten
+shop: location de stockage
 ---

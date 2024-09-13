@@ -1,5 +1,5 @@
 ---
 title: "Blot"
 url: /rennes/blot/
-shop: Großhandel
+shop: vente en gros
 ---

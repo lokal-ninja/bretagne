@@ -1,5 +1,5 @@
 ---
 title: "MBC Remorques"
 url: /brece/mbc-remorques/
-shop: Anhänger
+shop: remorque
 ---

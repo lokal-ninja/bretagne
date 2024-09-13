@@ -1,5 +1,5 @@
 ---
 title: "La Boutix"
 url: /bazouges-sous-hede/la-boutix/
-shop: Lebensmittel
+shop: commodité
 ---

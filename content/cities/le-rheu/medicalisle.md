@@ -1,5 +1,5 @@
 ---
 title: "Médical'Isle"
 url: /le-rheu/medicalisle/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

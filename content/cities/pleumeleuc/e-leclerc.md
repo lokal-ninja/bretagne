@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /pleumeleuc/e-leclerc/
-shop: Gasflaschen
+shop: gaz
 ---

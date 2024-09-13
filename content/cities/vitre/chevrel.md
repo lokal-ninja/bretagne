@@ -1,5 +1,5 @@
 ---
 title: "Chevrel"
 url: /vitre/chevrel/
-shop: Kleidung
+shop: vêtements
 ---

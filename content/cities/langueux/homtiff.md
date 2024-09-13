@@ -1,5 +1,5 @@
 ---
 title: "Hom'Tiff"
 url: /langueux/homtiff/
-shop: Friseur
+shop: coiffeur
 ---

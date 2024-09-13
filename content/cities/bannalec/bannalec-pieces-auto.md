@@ -1,5 +1,5 @@
 ---
 title: "Bannalec Pièces Auto"
 url: /bannalec/bannalec-pieces-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

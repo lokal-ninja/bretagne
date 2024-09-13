@@ -1,5 +1,5 @@
 ---
 title: "L'Art Gourmand"
 url: /rochefort-en-terre/lart-gourmand/
-shop: Süßwaren
+shop: confiserie
 ---

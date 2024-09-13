@@ -1,5 +1,5 @@
 ---
 title: "Greenyard Foods"
 url: /moreac/greenyard-foods/
-shop: Baustoffe
+shop: commerce
 ---

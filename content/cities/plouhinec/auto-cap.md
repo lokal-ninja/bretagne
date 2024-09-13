@@ -1,5 +1,5 @@
 ---
 title: "Auto CAP"
 url: /plouhinec/auto-cap/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

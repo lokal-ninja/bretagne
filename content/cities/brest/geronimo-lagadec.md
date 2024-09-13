@@ -1,5 +1,5 @@
 ---
 title: "Geronimo Lagadec"
 url: /brest/geronimo-lagadec/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Bovida"
 url: /rennes/la-bovida/
-shop: Baustoffe
+shop: commerce
 ---

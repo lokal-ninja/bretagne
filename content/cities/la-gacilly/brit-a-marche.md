@@ -1,5 +1,5 @@
 ---
 title: "Brit-à-Marché"
 url: /la-gacilly/brit-a-marche/
-shop: Kramladen
+shop: magasin de variétés
 ---

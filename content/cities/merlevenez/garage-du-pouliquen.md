@@ -1,5 +1,5 @@
 ---
 title: "Garage du Pouliquen"
 url: /merlevenez/garage-du-pouliquen/
-shop: Autohaus
+shop: voiture
 ---

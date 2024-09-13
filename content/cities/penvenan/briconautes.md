@@ -1,5 +1,5 @@
 ---
 title: "Briconautes"
 url: /penvenan/briconautes/
-shop: Eisenwaren
+shop: matériel informatique
 ---

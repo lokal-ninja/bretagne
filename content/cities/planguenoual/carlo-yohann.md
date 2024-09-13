@@ -1,5 +1,5 @@
 ---
 title: "Carlo Yohann"
 url: /planguenoual/carlo-yohann/
-shop: Bäckerei
+shop: boulangerie
 ---

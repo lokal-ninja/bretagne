@@ -1,5 +1,5 @@
 ---
 title: "Idéalmode"
 url: /baud/idealmode/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /janze/intermarche/
-shop: Gasflaschen
+shop: gaz
 ---

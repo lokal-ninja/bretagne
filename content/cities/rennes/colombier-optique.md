@@ -1,5 +1,5 @@
 ---
 title: "Colombier Optique"
 url: /rennes/colombier-optique/
-shop: Optiker
+shop: opticien
 ---

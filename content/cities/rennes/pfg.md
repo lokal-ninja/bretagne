@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /rennes/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

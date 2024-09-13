@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /ploermel/optical-center/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vannes Utilitaires"
 url: /theix-noyalo/vannes-utilitaires/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

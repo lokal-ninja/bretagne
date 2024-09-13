@@ -1,5 +1,5 @@
 ---
 title: "Princesse tam.tam"
 url: /vannes/princesse-tam-tam/
-shop: Kleidung
+shop: vêtements
 ---

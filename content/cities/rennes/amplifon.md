@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /rennes/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

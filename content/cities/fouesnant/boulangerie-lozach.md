@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Lozac’h"
 url: /fouesnant/boulangerie-lozach/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Banette"
 url: /fougeres/banette/
-shop: Bäckerei
+shop: boulangerie
 ---

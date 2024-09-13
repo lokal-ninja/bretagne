@@ -1,5 +1,5 @@
 ---
 title: "Frimousse"
 url: /rennes/frimousse/
-shop: Kleidung
+shop: vêtements
 ---

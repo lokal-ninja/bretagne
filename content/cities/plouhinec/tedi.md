@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /plouhinec/tedi/
-shop: Kramladen
+shop: magasin de variétés
 ---

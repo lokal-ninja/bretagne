@@ -1,5 +1,5 @@
 ---
 title: "Comera cuisine"
 url: /saint-renan/comera-cuisine/
-shop: Küchen
+shop: cuisine
 ---

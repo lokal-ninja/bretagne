@@ -1,5 +1,5 @@
 ---
 title: "Louchebem bio"
 url: /ploneour-lanvern/louchebem-bio/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /guipavas/decathlon/
-shop: Sport
+shop: sports
 ---

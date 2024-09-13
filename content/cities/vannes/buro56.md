@@ -1,5 +1,5 @@
 ---
 title: "Buro56"
 url: /vannes/buro56/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

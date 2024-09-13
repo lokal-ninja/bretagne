@@ -1,5 +1,5 @@
 ---
 title: "Laverie Wash N'Dry"
 url: /dinan/laverie-wash-ndry/
-shop: Wäscherei
+shop: blanchisserie
 ---

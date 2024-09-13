@@ -1,5 +1,5 @@
 ---
 title: "Maroquinerie - Tabac - Presse"
 url: /guer/maroquinerie-tabac-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

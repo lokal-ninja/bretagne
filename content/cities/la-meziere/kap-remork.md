@@ -1,5 +1,5 @@
 ---
 title: "Kap RemorK"
 url: /la-meziere/kap-remork/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

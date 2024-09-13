@@ -1,5 +1,5 @@
 ---
 title: "Lysadis"
 url: /noyal-chatillon-sur-seiche/lysadis/
-shop: Garten-Center
+shop: centre de jardinage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /pontivy/ford/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

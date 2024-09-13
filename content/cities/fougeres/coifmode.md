@@ -1,5 +1,5 @@
 ---
 title: "Coif'Mode"
 url: /fougeres/coifmode/
-shop: Friseur
+shop: coiffeur
 ---

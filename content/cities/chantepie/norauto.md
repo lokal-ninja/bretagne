@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /chantepie/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

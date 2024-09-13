@@ -1,5 +1,5 @@
 ---
 title: "Déco Pure"
 url: /chateaugiron/deco-pure/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

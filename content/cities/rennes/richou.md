@@ -1,5 +1,5 @@
 ---
 title: "Richou"
 url: /rennes/richou/
-shop: Reisebüro
+shop: agence de voyage
 ---

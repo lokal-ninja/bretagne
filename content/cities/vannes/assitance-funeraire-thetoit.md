@@ -1,5 +1,5 @@
 ---
 title: "Assitance Funéraire Thétoit"
 url: /vannes/assitance-funeraire-thetoit/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

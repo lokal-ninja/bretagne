@@ -1,5 +1,5 @@
 ---
 title: "Garage Peugeot"
 url: /audierne/garage-peugeot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

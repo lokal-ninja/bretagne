@@ -1,5 +1,5 @@
 ---
 title: "Kaméléon"
 url: /morlaix/kameleon/
-shop: Kleidung
+shop: vêtements
 ---

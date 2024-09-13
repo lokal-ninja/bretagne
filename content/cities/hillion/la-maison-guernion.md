@@ -1,5 +1,5 @@
 ---
 title: "La Maison Guernion"
 url: /hillion/la-maison-guernion/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bourgchevreuil"
 url: /cesson-sevigne/bourgchevreuil/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /liffre/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

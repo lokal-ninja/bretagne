@@ -1,5 +1,5 @@
 ---
 title: "L'Hair du Large"
 url: /guipavas/lhair-du-large/
-shop: Friseur
+shop: coiffeur
 ---

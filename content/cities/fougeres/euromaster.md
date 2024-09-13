@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /fougeres/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

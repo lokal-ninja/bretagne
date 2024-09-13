@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /moreac/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

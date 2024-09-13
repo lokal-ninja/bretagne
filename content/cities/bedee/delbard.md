@@ -1,5 +1,5 @@
 ---
 title: "Delbard"
 url: /bedee/delbard/
-shop: Garten-Center
+shop: centre de jardinage
 ---

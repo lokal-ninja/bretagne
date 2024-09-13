@@ -1,5 +1,5 @@
 ---
 title: "Luscanen"
 url: /vannes/luscanen/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

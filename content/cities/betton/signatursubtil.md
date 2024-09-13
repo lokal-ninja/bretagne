@@ -1,5 +1,5 @@
 ---
 title: "Signatur'Subtil"
 url: /betton/signatursubtil/
-shop: Friseur
+shop: coiffeur
 ---

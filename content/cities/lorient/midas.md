@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /lorient/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

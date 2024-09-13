@@ -1,5 +1,5 @@
 ---
 title: "Vincendon"
 url: /brest/vincendon/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

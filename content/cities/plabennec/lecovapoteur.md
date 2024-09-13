@@ -1,5 +1,5 @@
 ---
 title: "L'Ecovapoteur"
 url: /plabennec/lecovapoteur/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

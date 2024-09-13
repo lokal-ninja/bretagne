@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /la-guerche-de-bretagne/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

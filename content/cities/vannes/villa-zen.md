@@ -1,5 +1,5 @@
 ---
 title: "Villa Zen"
 url: /vannes/villa-zen/
-shop: Massage
+shop: massage
 ---

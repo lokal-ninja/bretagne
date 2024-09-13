@@ -1,5 +1,5 @@
 ---
 title: "Grand Litier"
 url: /lorient/grand-litier/
-shop: Betten
+shop: lit
 ---

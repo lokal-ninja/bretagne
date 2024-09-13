@@ -1,5 +1,5 @@
 ---
 title: "Natuzzi"
 url: /la-chapelle-des-fougeretz/natuzzi/
-shop: Möbel
+shop: meubles
 ---

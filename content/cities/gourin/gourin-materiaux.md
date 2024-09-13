@@ -1,5 +1,5 @@
 ---
 title: "Gourin Matériaux"
 url: /gourin/gourin-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

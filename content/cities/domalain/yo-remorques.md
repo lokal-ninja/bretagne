@@ -1,5 +1,5 @@
 ---
 title: "Yo Remorques"
 url: /domalain/yo-remorques/
-shop: Autoteile
+shop: pièces de voitures
 ---

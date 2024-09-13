@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /hennebont/peugeot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

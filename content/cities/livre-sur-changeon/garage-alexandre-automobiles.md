@@ -1,5 +1,5 @@
 ---
 title: "Garage Alexandre Automobiles"
 url: /livre-sur-changeon/garage-alexandre-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

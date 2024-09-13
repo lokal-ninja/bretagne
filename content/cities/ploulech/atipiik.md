@@ -1,5 +1,5 @@
 ---
 title: "atipiik"
 url: /ploulech/atipiik/
-shop: Blumen
+shop: fleuriste
 ---

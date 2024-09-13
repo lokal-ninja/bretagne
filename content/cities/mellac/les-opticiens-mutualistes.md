@@ -1,5 +1,5 @@
 ---
 title: "Les Opticiens Mutualistes"
 url: /mellac/les-opticiens-mutualistes/
-shop: Optiker
+shop: opticien
 ---

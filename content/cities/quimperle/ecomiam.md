@@ -1,5 +1,5 @@
 ---
 title: "Ecomiam"
 url: /quimperle/ecomiam/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

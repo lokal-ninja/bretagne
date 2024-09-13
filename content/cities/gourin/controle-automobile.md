@@ -1,5 +1,5 @@
 ---
 title: "Contrôle Automobile"
 url: /gourin/controle-automobile/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tendance Tropicale"
 url: /rennes/tendance-tropicale/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pascal Burlot"
 url: /guingamp/pascal-burlot/
-shop: Friseur
+shop: coiffeur
 ---

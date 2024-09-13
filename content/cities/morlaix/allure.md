@@ -1,5 +1,5 @@
 ---
 title: "Allure"
 url: /morlaix/allure/
-shop: Kleidung
+shop: vêtements
 ---

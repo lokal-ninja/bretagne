@@ -1,5 +1,5 @@
 ---
 title: "L'OOptiK"
 url: /lorient/looptik/
-shop: Optiker
+shop: opticien
 ---

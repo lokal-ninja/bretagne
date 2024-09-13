@@ -1,5 +1,5 @@
 ---
 title: "Porcelanosa"
 url: /vannes/porcelanosa/
-shop: Badezimmer
+shop: salle de bains
 ---

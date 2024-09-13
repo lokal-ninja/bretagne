@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /lannion/volkswagen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

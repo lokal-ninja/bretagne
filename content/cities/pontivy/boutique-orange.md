@@ -1,5 +1,5 @@
 ---
 title: "Boutique Orange"
 url: /pontivy/boutique-orange/
-shop: Handy
+shop: téléphone portable
 ---

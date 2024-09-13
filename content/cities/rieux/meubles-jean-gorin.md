@@ -1,5 +1,5 @@
 ---
 title: "Meubles Jean Gorin"
 url: /rieux/meubles-jean-gorin/
-shop: Möbel
+shop: meubles
 ---

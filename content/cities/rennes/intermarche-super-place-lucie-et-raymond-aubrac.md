@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /rennes/intermarche-super-place-lucie-et-raymond-aubrac/
-shop: Supermarkt
+shop: supermarché
 ---

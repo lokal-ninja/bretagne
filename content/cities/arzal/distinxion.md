@@ -1,5 +1,5 @@
 ---
 title: "Distinxion "
 url: /arzal/distinxion/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

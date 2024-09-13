@@ -1,5 +1,5 @@
 ---
 title: "PVA"
 url: /plouzane/pva/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

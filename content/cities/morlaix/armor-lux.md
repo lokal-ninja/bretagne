@@ -1,5 +1,5 @@
 ---
 title: "Armor Lux"
 url: /morlaix/armor-lux/
-shop: Kleidung
+shop: vêtements
 ---

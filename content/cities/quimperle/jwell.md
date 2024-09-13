@@ -1,5 +1,5 @@
 ---
 title: "JWell"
 url: /quimperle/jwell/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servi Couleurs Rennes"
 url: /rennes/servi-couleurs-rennes/
-shop: Farben
+shop: peinture
 ---

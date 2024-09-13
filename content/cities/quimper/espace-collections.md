@@ -1,5 +1,5 @@
 ---
 title: "Espace collections"
 url: /quimper/espace-collections/
-shop: Sammler
+shop: collecteur
 ---

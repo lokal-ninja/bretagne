@@ -1,5 +1,5 @@
 ---
 title: "La foire au troc"
 url: /saint-alban/la-foire-au-troc/
-shop: Antiquitäten
+shop: antiquités
 ---

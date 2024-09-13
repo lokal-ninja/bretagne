@@ -1,5 +1,5 @@
 ---
 title: "Jahier"
 url: /saint-gregoire/jahier/
-shop: Fisch
+shop: fruits de mer
 ---

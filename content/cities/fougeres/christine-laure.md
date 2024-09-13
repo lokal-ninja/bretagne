@@ -1,5 +1,5 @@
 ---
 title: "Christine Laure"
 url: /fougeres/christine-laure/
-shop: Kleidung
+shop: vêtements
 ---

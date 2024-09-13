@@ -1,5 +1,5 @@
 ---
 title: "Brico Dépôt"
 url: /brest/brico-depot/
-shop: Baumarkt
+shop: à faire soi-même
 ---

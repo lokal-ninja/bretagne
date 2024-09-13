@@ -1,5 +1,5 @@
 ---
 title: "Idée coif"
 url: /sizun/idee-coif/
-shop: Friseur
+shop: coiffeur
 ---

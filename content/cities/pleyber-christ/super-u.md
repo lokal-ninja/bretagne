@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /pleyber-christ/super-u/
-shop: Supermarkt
+shop: supermarché
 ---

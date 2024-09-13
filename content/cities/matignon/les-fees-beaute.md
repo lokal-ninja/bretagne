@@ -1,5 +1,5 @@
 ---
 title: "Les Fées Beauté"
 url: /matignon/les-fees-beaute/
-shop: Kosmetik
+shop: beauté
 ---

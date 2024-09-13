@@ -1,5 +1,5 @@
 ---
 title: "Le Griffon d'Or"
 url: /lannion/le-griffon-dor/
-shop: Bücher
+shop: livres
 ---

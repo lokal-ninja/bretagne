@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Déniel"
 url: /bain-de-bretagne/coiffure-deniel/
-shop: Friseur
+shop: coiffeur
 ---

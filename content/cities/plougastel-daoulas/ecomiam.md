@@ -1,5 +1,5 @@
 ---
 title: "Ecomiam"
 url: /plougastel-daoulas/ecomiam/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

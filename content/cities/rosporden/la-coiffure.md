@@ -1,5 +1,5 @@
 ---
 title: "La Coiffure"
 url: /rosporden/la-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

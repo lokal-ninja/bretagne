@@ -1,5 +1,5 @@
 ---
 title: "Burton of London"
 url: /quimper/burton-of-london/
-shop: Kleidung
+shop: vêtements
 ---

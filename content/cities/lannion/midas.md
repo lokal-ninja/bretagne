@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /lannion/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

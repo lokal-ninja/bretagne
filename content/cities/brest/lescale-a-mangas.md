@@ -1,5 +1,5 @@
 ---
 title: "L'escale à Mangas"
 url: /brest/lescale-a-mangas/
-shop: Bücher
+shop: livres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leroy Merlin"
 url: /chantepie/leroy-merlin/
-shop: Baumarkt
+shop: à faire soi-même
 ---

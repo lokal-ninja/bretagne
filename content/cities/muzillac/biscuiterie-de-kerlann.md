@@ -1,5 +1,5 @@
 ---
 title: "Biscuiterie de Kerlann"
 url: /muzillac/biscuiterie-de-kerlann/
-shop: Konditorei
+shop: pâtisserie
 ---

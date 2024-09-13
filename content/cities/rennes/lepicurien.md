@@ -1,5 +1,5 @@
 ---
 title: "L’épicurien"
 url: /rennes/lepicurien/
-shop: Spirituosen
+shop: alcool
 ---

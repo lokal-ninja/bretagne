@@ -1,5 +1,5 @@
 ---
 title: "Vigus'b"
 url: /rennes/vigusb/
-shop: Handy
+shop: téléphone portable
 ---

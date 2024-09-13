@@ -1,5 +1,5 @@
 ---
 title: "Les garçons bouchers"
 url: /binic/les-garcons-bouchers/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chez Simon"
 url: /ploubazlanec/chez-simon/
-shop: Fisch
+shop: fruits de mer
 ---

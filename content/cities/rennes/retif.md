@@ -1,5 +1,5 @@
 ---
 title: "Retif"
 url: /rennes/retif/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

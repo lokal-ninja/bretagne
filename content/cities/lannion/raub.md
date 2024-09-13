@@ -1,5 +1,5 @@
 ---
 title: "Raub"
 url: /lannion/raub/
-shop: Baumarkt
+shop: à faire soi-même
 ---

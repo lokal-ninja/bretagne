@@ -1,5 +1,5 @@
 ---
 title: "Wishop"
 url: /guingamp/wishop/
-shop: Kleidung
+shop: vêtements
 ---

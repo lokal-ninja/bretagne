@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /pipriac/vival/
-shop: Lebensmittel
+shop: commodité
 ---

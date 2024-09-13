@@ -1,5 +1,5 @@
 ---
 title: "Planet'Hair"
 url: /servon-sur-vilaine/planethair/
-shop: Friseur
+shop: coiffeur
 ---

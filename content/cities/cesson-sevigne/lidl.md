@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /cesson-sevigne/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

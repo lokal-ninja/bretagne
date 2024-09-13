@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /lannion/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

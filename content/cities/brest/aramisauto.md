@@ -1,5 +1,5 @@
 ---
 title: "Aramisauto"
 url: /brest/aramisauto/
-shop: Autohaus
+shop: voiture
 ---

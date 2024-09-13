@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /pontivy/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

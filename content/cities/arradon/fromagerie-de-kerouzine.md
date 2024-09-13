@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie de Kérouzine"
 url: /arradon/fromagerie-de-kerouzine/
-shop: Käse
+shop: fromage
 ---

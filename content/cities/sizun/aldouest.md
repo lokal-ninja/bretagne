@@ -1,5 +1,5 @@
 ---
 title: "Aldouest"
 url: /sizun/aldouest/
-shop: Großhandel
+shop: vente en gros
 ---

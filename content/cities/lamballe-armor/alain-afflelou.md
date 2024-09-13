@@ -1,5 +1,5 @@
 ---
 title: "Alain Afflelou"
 url: /lamballe-armor/alain-afflelou/
-shop: Optiker
+shop: opticien
 ---

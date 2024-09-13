@@ -1,5 +1,5 @@
 ---
 title: "Culinarion"
 url: /quimper/culinarion/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

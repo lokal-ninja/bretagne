@@ -1,5 +1,5 @@
 ---
 title: "Bilboquet Vivez Bougez !"
 url: /vannes/bilboquet-vivez-bougez/
-shop: Outdoor
+shop: extérieur
 ---

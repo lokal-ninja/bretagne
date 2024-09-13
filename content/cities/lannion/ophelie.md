@@ -1,5 +1,5 @@
 ---
 title: "Ophélie"
 url: /lannion/ophelie/
-shop: Schuhe
+shop: chaussures
 ---

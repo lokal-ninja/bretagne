@@ -1,5 +1,5 @@
 ---
 title: "Valia"
 url: /queven/valia/
-shop: Baustoffe
+shop: commerce
 ---

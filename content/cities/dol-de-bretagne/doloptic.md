@@ -1,5 +1,5 @@
 ---
 title: "Dol'Optic"
 url: /dol-de-bretagne/doloptic/
-shop: Optiker
+shop: opticien
 ---

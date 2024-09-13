@@ -1,5 +1,5 @@
 ---
 title: "CQM Matériaux"
 url: /yffiniac/cqm-materiaux/
-shop: Eisenwaren
+shop: matériel informatique
 ---

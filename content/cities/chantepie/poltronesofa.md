@@ -1,5 +1,5 @@
 ---
 title: "Poltronesofà"
 url: /chantepie/poltronesofa/
-shop: Möbel
+shop: meubles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Fabrik du Cheveu"
 url: /grand-champ/la-fabrik-du-cheveu/
-shop: Friseur
+shop: coiffeur
 ---

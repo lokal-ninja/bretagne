@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /breal-sous-montfort/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

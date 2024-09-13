@@ -1,5 +1,5 @@
 ---
 title: "Breizhtalia"
 url: /saint-renan/breizhtalia/
-shop: Feinkost
+shop: charcuterie
 ---

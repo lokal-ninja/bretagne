@@ -1,5 +1,5 @@
 ---
 title: "Tollens"
 url: /sene/tollens/
-shop: Farben
+shop: peinture
 ---

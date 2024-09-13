@@ -1,5 +1,5 @@
 ---
 title: "Sté Jahier"
 url: /cesson-sevigne/ste-jahier/
-shop: Fisch
+shop: fruits de mer
 ---

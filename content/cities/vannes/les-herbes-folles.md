@@ -1,5 +1,5 @@
 ---
 title: "Les Herbes Folles"
 url: /vannes/les-herbes-folles/
-shop: Blumen
+shop: fleuriste
 ---

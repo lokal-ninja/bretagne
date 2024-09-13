@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /vannes/nocibe/
-shop: Kosmetik
+shop: beauté
 ---

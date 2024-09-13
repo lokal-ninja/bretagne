@@ -1,5 +1,5 @@
 ---
 title: "Cueff Guitares"
 url: /brest/cueff-guitares/
-shop: Instrumente
+shop: instrument de musique
 ---

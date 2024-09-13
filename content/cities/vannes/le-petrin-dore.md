@@ -1,5 +1,5 @@
 ---
 title: "Le Pétrin Doré"
 url: /vannes/le-petrin-dore/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'atelier du chat Jaune"
 url: /lamballe/latelier-du-chat-jaune/
-shop: Basteln
+shop: artisanat
 ---

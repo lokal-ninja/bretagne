@@ -1,5 +1,5 @@
 ---
 title: "Vasselot Antiquités"
 url: /rennes/vasselot-antiquites/
-shop: Antiquitäten
+shop: antiquités
 ---

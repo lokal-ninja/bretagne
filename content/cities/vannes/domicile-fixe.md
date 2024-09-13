@@ -1,5 +1,5 @@
 ---
 title: "Domicile Fixe"
 url: /vannes/domicile-fixe/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

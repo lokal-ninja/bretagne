@@ -1,5 +1,5 @@
 ---
 title: "CGED"
 url: /rennes/cged/
-shop: Baustoffe
+shop: commerce
 ---

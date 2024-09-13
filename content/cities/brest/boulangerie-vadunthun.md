@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Vadunthun"
 url: /brest/boulangerie-vadunthun/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barber shop"
 url: /bobital/barber-shop/
-shop: Friseur
+shop: coiffeur
 ---

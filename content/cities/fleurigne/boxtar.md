@@ -1,5 +1,5 @@
 ---
 title: "Boxtar"
 url: /fleurigne/boxtar/
-shop: Mieten
+shop: location de stockage
 ---

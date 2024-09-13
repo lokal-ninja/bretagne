@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /redon/sfr/
-shop: Handy
+shop: téléphone portable
 ---

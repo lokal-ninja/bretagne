@@ -1,5 +1,5 @@
 ---
 title: "Moderne Audition"
 url: /guer/moderne-audition/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

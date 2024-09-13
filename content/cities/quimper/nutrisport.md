@@ -1,5 +1,5 @@
 ---
 title: "Nutrisport"
 url: /quimper/nutrisport/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

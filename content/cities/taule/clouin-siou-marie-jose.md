@@ -1,5 +1,5 @@
 ---
 title: "Clouin Siou Marie Jose"
 url: /taule/clouin-siou-marie-jose/
-shop: Metzgerei
+shop: boucherie
 ---

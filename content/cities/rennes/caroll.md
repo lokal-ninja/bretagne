@@ -1,5 +1,5 @@
 ---
 title: "Caroll"
 url: /rennes/caroll/
-shop: Kleidung
+shop: vêtements
 ---

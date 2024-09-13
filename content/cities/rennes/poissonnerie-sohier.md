@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie Sohier"
 url: /rennes/poissonnerie-sohier/
-shop: Fisch
+shop: fruits de mer
 ---

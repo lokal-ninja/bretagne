@@ -1,5 +1,5 @@
 ---
 title: "Look's"
 url: /lorient/looks/
-shop: Friseur
+shop: coiffeur
 ---

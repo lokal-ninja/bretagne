@@ -1,5 +1,5 @@
 ---
 title: "Orge et Houblon"
 url: /ploumagoar/orge-et-houblon/
-shop: Spirituosen
+shop: alcool
 ---

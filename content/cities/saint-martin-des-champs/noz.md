@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /saint-martin-des-champs/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

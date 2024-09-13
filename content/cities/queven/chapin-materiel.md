@@ -1,5 +1,5 @@
 ---
 title: "Chapin Matériel"
 url: /queven/chapin-materiel/
-shop: Baustoffe
+shop: commerce
 ---

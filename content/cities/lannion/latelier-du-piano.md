@@ -1,5 +1,5 @@
 ---
 title: "L'atelier du piano"
 url: /lannion/latelier-du-piano/
-shop: Instrumente
+shop: instrument de musique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SurDiscount"
 url: /caudan/surdiscount/
-shop: Kramladen
+shop: magasin de variétés
 ---

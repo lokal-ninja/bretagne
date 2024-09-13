@@ -1,5 +1,5 @@
 ---
 title: "Scott"
 url: /vannes/scott/
-shop: Schuhe
+shop: chaussures
 ---

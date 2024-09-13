@@ -1,5 +1,5 @@
 ---
 title: "Decathlon Essentiel"
 url: /rennes/decathlon-essentiel/
-shop: Sport
+shop: sports
 ---

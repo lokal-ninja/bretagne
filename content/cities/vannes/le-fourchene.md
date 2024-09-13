@@ -1,5 +1,5 @@
 ---
 title: "Le Fourchêne"
 url: /vannes/le-fourchene/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

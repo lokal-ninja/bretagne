@@ -1,5 +1,5 @@
 ---
 title: "Univairmer"
 url: /vannes/univairmer/
-shop: Reisebüro
+shop: agence de voyage
 ---

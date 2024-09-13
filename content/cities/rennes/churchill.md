@@ -1,5 +1,5 @@
 ---
 title: "Churchill"
 url: /rennes/churchill/
-shop: Zeitungen
+shop: marchand de journaux
 ---

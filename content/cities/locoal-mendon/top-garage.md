@@ -1,5 +1,5 @@
 ---
 title: "Top Garage"
 url: /locoal-mendon/top-garage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Groupe Michard"
 url: /theix-noyalo/groupe-michard/
-shop: Baustoffe
+shop: commerce
 ---

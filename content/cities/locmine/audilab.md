@@ -1,5 +1,5 @@
 ---
 title: "Audilab"
 url: /locmine/audilab/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

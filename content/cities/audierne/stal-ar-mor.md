@@ -1,5 +1,5 @@
 ---
 title: "STAL AR MOR"
 url: /audierne/stal-ar-mor/
-shop: Allgemein
+shop: shop
 ---

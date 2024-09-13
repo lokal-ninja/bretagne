@@ -1,5 +1,5 @@
 ---
 title: "Côté Coiffure"
 url: /le-faouet/cote-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /rennes/metro-rue-louis-kerautret-botmel/
-shop: Großhandel
+shop: vente en gros
 ---

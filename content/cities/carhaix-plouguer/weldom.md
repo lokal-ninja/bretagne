@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /carhaix-plouguer/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

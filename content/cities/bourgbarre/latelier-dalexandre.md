@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier d'Alexandre"
 url: /bourgbarre/latelier-dalexandre/
-shop: Bäckerei
+shop: boulangerie
 ---

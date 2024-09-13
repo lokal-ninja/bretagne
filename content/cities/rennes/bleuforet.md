@@ -1,5 +1,5 @@
 ---
 title: "Bleuforêt"
 url: /rennes/bleuforet/
-shop: Kleidung
+shop: vêtements
 ---

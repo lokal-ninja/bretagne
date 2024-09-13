@@ -1,5 +1,5 @@
 ---
 title: "Orthofiga"
 url: /vern-sur-seiche/orthofiga/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

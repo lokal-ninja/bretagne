@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /ploermel/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calipage"
 url: /ploermel/calipage/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

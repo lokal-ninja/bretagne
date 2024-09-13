@@ -1,5 +1,5 @@
 ---
 title: "Garage Lamandé"
 url: /chantepie/garage-lamande/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

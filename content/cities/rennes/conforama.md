@@ -1,5 +1,5 @@
 ---
 title: "Conforama"
 url: /rennes/conforama/
-shop: Möbel
+shop: meubles
 ---

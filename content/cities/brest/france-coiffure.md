@@ -1,5 +1,5 @@
 ---
 title: "France Coiffure"
 url: /brest/france-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

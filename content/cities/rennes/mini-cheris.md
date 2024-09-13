@@ -1,5 +1,5 @@
 ---
 title: "Mini Chéris"
 url: /rennes/mini-cheris/
-shop: Babysachen
+shop: produits pour bébés
 ---

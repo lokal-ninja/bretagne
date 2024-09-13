@@ -1,5 +1,5 @@
 ---
 title: "Thomas"
 url: /plumelec/thomas/
-shop: Metzgerei
+shop: boucherie
 ---

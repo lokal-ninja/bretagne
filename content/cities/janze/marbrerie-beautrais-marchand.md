@@ -1,5 +1,5 @@
 ---
 title: "Marbrerie Beautrais-Marchand"
 url: /janze/marbrerie-beautrais-marchand/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

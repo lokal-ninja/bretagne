@@ -1,5 +1,5 @@
 ---
 title: "Lesacher"
 url: /saint-malo/lesacher/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

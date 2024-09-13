@@ -1,5 +1,5 @@
 ---
 title: "Vapotez"
 url: /callac/vapotez/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

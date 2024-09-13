@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /caudan/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

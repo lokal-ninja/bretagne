@@ -1,5 +1,5 @@
 ---
 title: "Anne et Henri"
 url: /rennes/anne-et-henri/
-shop: Optiker
+shop: opticien
 ---

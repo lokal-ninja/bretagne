@@ -1,5 +1,5 @@
 ---
 title: "Ouest Boisson"
 url: /rennes/ouest-boisson/
-shop: Großhandel
+shop: vente en gros
 ---

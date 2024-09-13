@@ -1,5 +1,5 @@
 ---
 title: "Alain Afflelou"
 url: /saint-malo/alain-afflelou/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

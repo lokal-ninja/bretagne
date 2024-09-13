@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /vannes/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

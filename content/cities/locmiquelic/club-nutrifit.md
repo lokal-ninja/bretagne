@@ -1,5 +1,5 @@
 ---
 title: "Club Nutrifit"
 url: /locmiquelic/club-nutrifit/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

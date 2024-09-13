@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /hennebont/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

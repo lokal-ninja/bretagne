@@ -1,5 +1,5 @@
 ---
 title: "Le Galopin"
 url: /mauron/le-galopin/
-shop: Tabak
+shop: tabac
 ---

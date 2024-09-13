@@ -1,5 +1,5 @@
 ---
 title: "Exodia"
 url: /melesse/exodia/
-shop: Möbel
+shop: meubles
 ---

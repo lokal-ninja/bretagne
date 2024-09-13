@@ -1,5 +1,5 @@
 ---
 title: "Selectour"
 url: /quimper/selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

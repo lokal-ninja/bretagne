@@ -1,5 +1,5 @@
 ---
 title: "Garage Poligné Automobiles"
 url: /poligne/garage-poligne-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

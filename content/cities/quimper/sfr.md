@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /quimper/sfr/
-shop: Handy
+shop: téléphone portable
 ---

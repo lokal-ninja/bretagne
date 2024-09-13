@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /cesson-sevigne/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

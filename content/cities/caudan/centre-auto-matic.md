@@ -1,5 +1,5 @@
 ---
 title: "Centre Auto Matic"
 url: /caudan/centre-auto-matic/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

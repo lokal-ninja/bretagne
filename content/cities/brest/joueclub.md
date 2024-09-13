@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /brest/joueclub/
-shop: Spielzeug
+shop: jouets
 ---

@@ -1,5 +1,5 @@
 ---
 title: "West Boat"
 url: /la-meziere/west-boat/
-shop: Boot
+shop: bateau
 ---

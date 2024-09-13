@@ -1,5 +1,5 @@
 ---
 title: "Le Coin Breton"
 url: /erquy/le-coin-breton/
-shop: Andenken
+shop: cadeau
 ---

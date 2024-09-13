@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /brest/tui/
-shop: Reisebüro
+shop: agence de voyage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Komilfo"
 url: /chantepie/komilfo/
-shop: Gardinen
+shop: rideau
 ---

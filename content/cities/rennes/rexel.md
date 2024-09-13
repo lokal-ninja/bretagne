@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /rennes/rexel/
-shop: Elektrisch
+shop: électrique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "id fleurs"
 url: /hennebont/id-fleurs/
-shop: Blumen
+shop: fleuriste
 ---

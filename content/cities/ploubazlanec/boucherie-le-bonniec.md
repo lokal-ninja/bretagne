@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Le Bonniec"
 url: /ploubazlanec/boucherie-le-bonniec/
-shop: Metzgerei
+shop: boucherie
 ---

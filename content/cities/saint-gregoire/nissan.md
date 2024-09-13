@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /saint-gregoire/nissan/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almadies"
 url: /rennes/almadies/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

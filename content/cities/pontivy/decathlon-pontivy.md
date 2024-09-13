@@ -1,5 +1,5 @@
 ---
 title: "Decathlon Pontivy"
 url: /pontivy/decathlon-pontivy/
-shop: Sport
+shop: sports
 ---

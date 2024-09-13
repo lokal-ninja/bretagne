@@ -1,5 +1,5 @@
 ---
 title: "Chez Patou"
 url: /matignon/chez-patou/
-shop: Metzgerei
+shop: boucherie
 ---

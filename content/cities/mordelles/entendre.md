@@ -1,5 +1,5 @@
 ---
 title: "Entendre"
 url: /mordelles/entendre/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

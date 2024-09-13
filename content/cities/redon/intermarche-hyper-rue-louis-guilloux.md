@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Hyper"
 url: /redon/intermarche-hyper-rue-louis-guilloux/
-shop: Gasflaschen
+shop: gaz
 ---

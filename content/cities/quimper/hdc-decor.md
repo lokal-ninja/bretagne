@@ -1,5 +1,5 @@
 ---
 title: "HDC Décor"
 url: /quimper/hdc-decor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

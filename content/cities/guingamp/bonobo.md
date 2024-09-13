@@ -1,5 +1,5 @@
 ---
 title: "Bonobo"
 url: /guingamp/bonobo/
-shop: Kleidung
+shop: vêtements
 ---

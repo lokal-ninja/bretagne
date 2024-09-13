@@ -1,5 +1,5 @@
 ---
 title: "ABC Coiffure"
 url: /redon/abc-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /saint-gregoire/stokomani/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Escapade"
 url: /erquy/escapade/
-shop: Kleidung
+shop: vêtements
 ---

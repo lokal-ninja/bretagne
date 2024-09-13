@@ -1,5 +1,5 @@
 ---
 title: "La Plantisserie"
 url: /guenin/la-plantisserie/
-shop: Tee
+shop: thé
 ---

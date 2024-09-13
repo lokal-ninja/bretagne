@@ -1,5 +1,5 @@
 ---
 title: "Au Chat bleu"
 url: /quimper/au-chat-bleu/
-shop: Schokolade
+shop: chocolat
 ---

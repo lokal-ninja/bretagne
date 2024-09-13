@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /brasparts/coccimarket/
-shop: Lebensmittel
+shop: commodité
 ---

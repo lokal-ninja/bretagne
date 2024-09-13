@@ -1,5 +1,5 @@
 ---
 title: "Saga"
 url: /brest/saga/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pêcherie portsallaise"
 url: /ploudalmezeau/pecherie-portsallaise/
-shop: Fisch
+shop: fruits de mer
 ---

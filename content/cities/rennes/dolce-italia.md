@@ -1,5 +1,5 @@
 ---
 title: "Dolce Italia"
 url: /rennes/dolce-italia/
-shop: Feinkost
+shop: charcuterie
 ---

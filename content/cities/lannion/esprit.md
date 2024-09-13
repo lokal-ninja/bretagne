@@ -1,5 +1,5 @@
 ---
 title: "Esprit"
 url: /lannion/esprit/
-shop: Kleidung
+shop: vêtements
 ---

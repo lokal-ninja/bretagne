@@ -1,5 +1,5 @@
 ---
 title: "Breizh Lutherie"
 url: /lannilis/breizh-lutherie/
-shop: Instrumente
+shop: instrument de musique
 ---

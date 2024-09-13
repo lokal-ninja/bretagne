@@ -1,5 +1,5 @@
 ---
 title: "La Visitation"
 url: /rennes/la-visitation/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

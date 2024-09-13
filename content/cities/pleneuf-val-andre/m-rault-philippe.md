@@ -1,5 +1,5 @@
 ---
 title: "M. Rault Philippe"
 url: /pleneuf-val-andre/m-rault-philippe/
-shop: Supermarkt
+shop: supermarché
 ---

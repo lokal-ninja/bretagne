@@ -1,5 +1,5 @@
 ---
 title: "Michel Laroche"
 url: /la-gacilly/michel-laroche/
-shop: Kunst
+shop: art
 ---

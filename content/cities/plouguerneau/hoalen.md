@@ -1,5 +1,5 @@
 ---
 title: "Hoalen"
 url: /plouguerneau/hoalen/
-shop: Kleidung
+shop: vêtements
 ---

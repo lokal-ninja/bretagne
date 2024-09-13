@@ -1,5 +1,5 @@
 ---
 title: "Suzuki Morlaix"
 url: /morlaix/suzuki-morlaix/
-shop: Autohaus
+shop: voiture
 ---

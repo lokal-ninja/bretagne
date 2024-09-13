@@ -1,5 +1,5 @@
 ---
 title: "Castorama"
 url: /quimper/castorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

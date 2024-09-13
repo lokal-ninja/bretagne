@@ -1,5 +1,5 @@
 ---
 title: "Bellego"
 url: /locmiquelic/bellego/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

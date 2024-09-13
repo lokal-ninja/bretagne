@@ -1,5 +1,5 @@
 ---
 title: "Merlin Pièces Auto"
 url: /janze/merlin-pieces-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

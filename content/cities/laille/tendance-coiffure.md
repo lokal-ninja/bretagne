@@ -1,5 +1,5 @@
 ---
 title: "Tendance Coiffure"
 url: /laille/tendance-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

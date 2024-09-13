@@ -1,5 +1,5 @@
 ---
 title: "L'Hibiscus"
 url: /quimper/lhibiscus/
-shop: Kleidung
+shop: vêtements
 ---

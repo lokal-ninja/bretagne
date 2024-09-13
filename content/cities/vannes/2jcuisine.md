@@ -1,5 +1,5 @@
 ---
 title: "2jCuisine"
 url: /vannes/2jcuisine/
-shop: Küchen
+shop: cuisine
 ---

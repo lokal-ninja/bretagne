@@ -1,5 +1,5 @@
 ---
 title: "Maison Bihan"
 url: /quiberon/maison-bihan/
-shop: Bäckerei
+shop: boulangerie
 ---

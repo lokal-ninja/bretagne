@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /vannes/bata/
-shop: Schuhe
+shop: chaussures
 ---

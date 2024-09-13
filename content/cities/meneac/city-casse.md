@@ -1,5 +1,5 @@
 ---
 title: "City-Casse"
 url: /meneac/city-casse/
-shop: Autoteile
+shop: pièces de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre"
 url: /theix-noyalo/lapeyre/
-shop: Baumarkt
+shop: à faire soi-même
 ---

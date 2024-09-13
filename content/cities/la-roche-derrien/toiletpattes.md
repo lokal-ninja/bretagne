@@ -1,5 +1,5 @@
 ---
 title: "Toilet'pattes"
 url: /la-roche-derrien/toiletpattes/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

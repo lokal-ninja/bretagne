@@ -1,5 +1,5 @@
 ---
 title: "DistriCenter"
 url: /la-guerche-de-bretagne/districenter/
-shop: Kleidung
+shop: vêtements
 ---

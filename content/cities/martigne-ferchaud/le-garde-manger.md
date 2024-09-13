@@ -1,5 +1,5 @@
 ---
 title: "Le Garde Manger"
 url: /martigne-ferchaud/le-garde-manger/
-shop: Lebensmittel
+shop: commodité
 ---

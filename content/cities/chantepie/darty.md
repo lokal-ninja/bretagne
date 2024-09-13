@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /chantepie/darty/
-shop: Elektronik
+shop: électronique
 ---

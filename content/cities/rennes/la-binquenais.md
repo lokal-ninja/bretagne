@@ -1,5 +1,5 @@
 ---
 title: "La Binquenais"
 url: /rennes/la-binquenais/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

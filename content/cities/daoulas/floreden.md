@@ -1,5 +1,5 @@
 ---
 title: "Floreden"
 url: /daoulas/floreden/
-shop: Blumen
+shop: fleuriste
 ---

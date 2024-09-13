@@ -1,5 +1,5 @@
 ---
 title: "Génération coiffure"
 url: /saint-renan/generation-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

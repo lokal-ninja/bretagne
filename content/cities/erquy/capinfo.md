@@ -1,5 +1,5 @@
 ---
 title: "Cap'Info"
 url: /erquy/capinfo/
-shop: Computer
+shop: ordinateur
 ---

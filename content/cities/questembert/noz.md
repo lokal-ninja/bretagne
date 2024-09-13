@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /questembert/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

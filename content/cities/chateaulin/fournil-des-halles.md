@@ -1,5 +1,5 @@
 ---
 title: "Fournil des Halles"
 url: /chateaulin/fournil-des-halles/
-shop: Bäckerei
+shop: boulangerie
 ---

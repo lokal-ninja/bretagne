@@ -1,5 +1,5 @@
 ---
 title: "Flohic Motoculture"
 url: /muzillac/flohic-motoculture/
-shop: Fahrrad
+shop: vélo
 ---

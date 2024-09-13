@@ -1,5 +1,5 @@
 ---
 title: "Garage Brigand"
 url: /guerlesquin/garage-brigand/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

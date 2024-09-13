@@ -1,5 +1,5 @@
 ---
 title: "Bara*"
 url: /lanester/bara/
-shop: Bäckerei
+shop: boulangerie
 ---

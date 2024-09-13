@@ -1,5 +1,5 @@
 ---
 title: "Bessec"
 url: /rennes/bessec/
-shop: Schuhe
+shop: chaussures
 ---

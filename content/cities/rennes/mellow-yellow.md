@@ -1,5 +1,5 @@
 ---
 title: "Mellow Yellow"
 url: /rennes/mellow-yellow/
-shop: Schuhe
+shop: chaussures
 ---

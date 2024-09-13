@@ -1,5 +1,5 @@
 ---
 title: "Delora Tourisme"
 url: /bain-de-bretagne/delora-tourisme/
-shop: Reisebüro
+shop: agence de voyage
 ---

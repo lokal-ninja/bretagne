@@ -1,5 +1,5 @@
 ---
 title: "Centre Funéraire du Pays de Guingamp"
 url: /guingamp/centre-funeraire-du-pays-de-guingamp/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

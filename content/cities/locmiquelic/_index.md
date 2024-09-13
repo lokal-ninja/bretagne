@@ -1,6 +1,6 @@
 ---
 title: Locmiquélic
 url: /locmiquelic/
-latitude: 47.723
-longitude: -3.341
+latitude: 47.724
+longitude: -3.342
 ---

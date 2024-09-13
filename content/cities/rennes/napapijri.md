@@ -1,5 +1,5 @@
 ---
 title: "Napapijri"
 url: /rennes/napapijri/
-shop: Kleidung
+shop: vêtements
 ---

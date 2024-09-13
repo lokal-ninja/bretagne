@@ -1,5 +1,5 @@
 ---
 title: "Justecordes"
 url: /mael-pestivien/justecordes/
-shop: Instrumente
+shop: instrument de musique
 ---

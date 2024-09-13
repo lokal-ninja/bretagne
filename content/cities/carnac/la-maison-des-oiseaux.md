@@ -1,5 +1,5 @@
 ---
 title: "La Maison des Oiseaux"
 url: /carnac/la-maison-des-oiseaux/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

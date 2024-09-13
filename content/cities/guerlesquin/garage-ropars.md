@@ -1,5 +1,5 @@
 ---
 title: "Garage Ropars"
 url: /guerlesquin/garage-ropars/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

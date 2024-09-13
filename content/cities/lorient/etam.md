@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /lorient/etam/
-shop: Kleidung
+shop: vêtements
 ---

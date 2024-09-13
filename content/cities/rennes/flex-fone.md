@@ -1,5 +1,5 @@
 ---
 title: "Flex Fone"
 url: /rennes/flex-fone/
-shop: Handy
+shop: téléphone portable
 ---

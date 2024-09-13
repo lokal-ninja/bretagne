@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /lamballe/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

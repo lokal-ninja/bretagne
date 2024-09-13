@@ -1,5 +1,5 @@
 ---
 title: "Ixina"
 url: /melesse/ixina/
-shop: Küchen
+shop: cuisine
 ---

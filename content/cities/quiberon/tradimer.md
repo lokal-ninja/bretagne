@@ -1,5 +1,5 @@
 ---
 title: "tradimer"
 url: /quiberon/tradimer/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /rennes/avia/
-shop: Lebensmittel
+shop: commodité
 ---

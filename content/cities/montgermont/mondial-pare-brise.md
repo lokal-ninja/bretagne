@@ -1,5 +1,5 @@
 ---
 title: "Mondial Pare-Brise"
 url: /montgermont/mondial-pare-brise/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

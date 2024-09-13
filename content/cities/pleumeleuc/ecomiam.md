@@ -1,5 +1,5 @@
 ---
 title: "Ecomiam"
 url: /pleumeleuc/ecomiam/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

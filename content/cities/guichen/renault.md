@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /guichen/renault/
-shop: Autohaus
+shop: voiture
 ---

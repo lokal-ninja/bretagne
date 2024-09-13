@@ -1,5 +1,5 @@
 ---
 title: "Nymphéa"
 url: /sainte-anne-dauray/nymphea/
-shop: Blumen
+shop: fleuriste
 ---

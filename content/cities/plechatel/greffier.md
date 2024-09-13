@@ -1,5 +1,5 @@
 ---
 title: "Greffier"
 url: /plechatel/greffier/
-shop: Baumarkt
+shop: à faire soi-même
 ---

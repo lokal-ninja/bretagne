@@ -1,5 +1,5 @@
 ---
 title: "DPU"
 url: /quimperle/dpu/
-shop: Kramladen
+shop: magasin de variétés
 ---

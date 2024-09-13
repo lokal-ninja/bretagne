@@ -1,5 +1,5 @@
 ---
 title: "Les Fleurs d'Amande"
 url: /bain-de-bretagne/les-fleurs-damande/
-shop: Blumen
+shop: fleuriste
 ---

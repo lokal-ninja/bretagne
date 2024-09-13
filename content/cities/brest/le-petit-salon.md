@@ -1,5 +1,5 @@
 ---
 title: "Le Petit Salon"
 url: /brest/le-petit-salon/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /lanester/darty/
-shop: Elektronik
+shop: électronique
 ---

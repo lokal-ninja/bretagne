@@ -1,5 +1,5 @@
 ---
 title: "Rezin"
 url: /rennes/rezin/
-shop: Wein
+shop: vin
 ---

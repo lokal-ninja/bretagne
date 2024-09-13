@@ -1,5 +1,5 @@
 ---
 title: "Duros"
 url: /rennes/duros/
-shop: Instrumente
+shop: instrument de musique
 ---

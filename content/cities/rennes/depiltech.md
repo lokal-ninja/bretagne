@@ -1,5 +1,5 @@
 ---
 title: "Dépil'Tech"
 url: /rennes/depiltech/
-shop: Kosmetik
+shop: beauté
 ---

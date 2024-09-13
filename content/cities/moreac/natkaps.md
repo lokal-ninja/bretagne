@@ -1,5 +1,5 @@
 ---
 title: "Nat'Kaps"
 url: /moreac/natkaps/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

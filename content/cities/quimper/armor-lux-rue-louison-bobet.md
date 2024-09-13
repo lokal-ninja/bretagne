@@ -1,5 +1,5 @@
 ---
 title: "Armor Lux"
 url: /quimper/armor-lux-rue-louison-bobet/
-shop: Kleidung
+shop: vêtements
 ---

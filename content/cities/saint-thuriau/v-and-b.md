@@ -1,5 +1,5 @@
 ---
 title: "V and B"
 url: /saint-thuriau/v-and-b/
-shop: Spirituosen
+shop: alcool
 ---

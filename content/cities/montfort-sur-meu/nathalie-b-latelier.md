@@ -1,5 +1,5 @@
 ---
 title: "Nathalie. B L'Atelier"
 url: /montfort-sur-meu/nathalie-b-latelier/
-shop: Schmuck
+shop: bijoux
 ---

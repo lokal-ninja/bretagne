@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Pâtisserie Campeneac"
 url: /campeneac/boulangerie-patisserie-campeneac/
-shop: Bäckerei
+shop: boulangerie
 ---

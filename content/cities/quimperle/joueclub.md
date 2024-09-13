@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /quimperle/joueclub/
-shop: Spielzeug
+shop: jouets
 ---

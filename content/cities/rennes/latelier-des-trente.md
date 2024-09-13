@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier des Trente"
 url: /rennes/latelier-des-trente/
-shop: Friseur
+shop: coiffeur
 ---

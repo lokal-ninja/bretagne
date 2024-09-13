@@ -1,5 +1,5 @@
 ---
 title: "Imladris"
 url: /lanvollon/imladris/
-shop: Baumarkt
+shop: à faire soi-même
 ---

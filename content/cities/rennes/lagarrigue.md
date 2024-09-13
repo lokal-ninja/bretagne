@@ -1,5 +1,5 @@
 ---
 title: "Lagarrigue"
 url: /rennes/lagarrigue/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

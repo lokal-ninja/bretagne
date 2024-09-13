@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /plerin/krys/
-shop: Optiker
+shop: opticien
 ---

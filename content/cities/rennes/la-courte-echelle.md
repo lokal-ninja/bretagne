@@ -1,5 +1,5 @@
 ---
 title: "La Courte Échelle"
 url: /rennes/la-courte-echelle/
-shop: Bücher
+shop: livres
 ---

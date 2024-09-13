@@ -1,5 +1,5 @@
 ---
 title: "Tabac des Halles"
 url: /vannes/tabac-des-halles/
-shop: Zeitungen
+shop: marchand de journaux
 ---

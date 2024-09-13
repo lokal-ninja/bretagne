@@ -1,5 +1,5 @@
 ---
 title: "L’Odyssée Coiffure"
 url: /rennes/lodyssee-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

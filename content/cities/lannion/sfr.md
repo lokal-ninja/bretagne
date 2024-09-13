@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /lannion/sfr/
-shop: Handy
+shop: téléphone portable
 ---

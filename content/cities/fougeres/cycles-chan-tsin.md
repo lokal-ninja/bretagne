@@ -1,5 +1,5 @@
 ---
 title: "Cycles Chan Tsin"
 url: /fougeres/cycles-chan-tsin/
-shop: Fahrrad
+shop: vélo
 ---

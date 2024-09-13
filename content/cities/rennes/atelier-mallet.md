@@ -1,5 +1,5 @@
 ---
 title: "Atelier Mallet"
 url: /rennes/atelier-mallet/
-shop: Instrumente
+shop: instrument de musique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Franck Provost"
 url: /vannes/franck-provost/
-shop: Friseur
+shop: coiffeur
 ---

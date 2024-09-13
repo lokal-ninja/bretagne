@@ -1,5 +1,5 @@
 ---
 title: "Phoner"
 url: /rennes/phoner/
-shop: Handy
+shop: téléphone portable
 ---

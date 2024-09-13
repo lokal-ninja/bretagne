@@ -1,5 +1,5 @@
 ---
 title: "MGS SARL"
 url: /rieux/mgs-sarl/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

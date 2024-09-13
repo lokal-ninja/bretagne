@@ -1,5 +1,5 @@
 ---
 title: "Le Salon"
 url: /janze/le-salon/
-shop: Friseur
+shop: coiffeur
 ---

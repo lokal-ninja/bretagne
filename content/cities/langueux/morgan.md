@@ -1,5 +1,5 @@
 ---
 title: "Morgan"
 url: /langueux/morgan/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Marchand de Bière"
 url: /rennes/le-marchand-de-biere/
-shop: Getränke
+shop: boissons
 ---

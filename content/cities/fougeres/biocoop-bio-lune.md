@@ -1,5 +1,5 @@
 ---
 title: "Biocoop Bio Lune"
 url: /fougeres/biocoop-bio-lune/
-shop: Supermarkt
+shop: supermarché
 ---

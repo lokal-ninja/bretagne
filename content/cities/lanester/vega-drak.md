@@ -1,5 +1,5 @@
 ---
 title: "Veg'a-drak"
 url: /lanester/vega-drak/
-shop: Supermarkt
+shop: supermarché
 ---

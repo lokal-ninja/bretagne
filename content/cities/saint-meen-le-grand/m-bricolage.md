@@ -1,5 +1,5 @@
 ---
 title: "M. Bricolage"
 url: /saint-meen-le-grand/m-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

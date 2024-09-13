@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /quiberon/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

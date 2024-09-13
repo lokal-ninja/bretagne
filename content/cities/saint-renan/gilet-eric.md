@@ -1,5 +1,5 @@
 ---
 title: "Gilet Eric"
 url: /saint-renan/gilet-eric/
-shop: Bäckerei
+shop: boulangerie
 ---

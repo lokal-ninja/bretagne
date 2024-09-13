@@ -1,5 +1,5 @@
 ---
 title: "Nuance Coiffure"
 url: /quimper/nuance-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

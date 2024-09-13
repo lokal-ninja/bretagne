@@ -1,5 +1,5 @@
 ---
 title: "Xerox"
 url: /queven/xerox/
-shop: Elektronik
+shop: électronique
 ---

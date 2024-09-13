@@ -1,5 +1,5 @@
 ---
 title: "Yves Thuriès"
 url: /larmor-plage/yves-thuries/
-shop: Schokolade
+shop: chocolat
 ---

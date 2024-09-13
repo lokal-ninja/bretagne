@@ -1,5 +1,5 @@
 ---
 title: "Faguo"
 url: /rennes/faguo/
-shop: Kleidung
+shop: vêtements
 ---

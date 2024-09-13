@@ -1,5 +1,5 @@
 ---
 title: "Yfic tatouages"
 url: /morlaix/yfic-tatouages/
-shop: Tattoo
+shop: tatouage
 ---

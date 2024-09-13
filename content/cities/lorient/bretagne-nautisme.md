@@ -1,5 +1,5 @@
 ---
 title: "Bretagne Nautisme"
 url: /lorient/bretagne-nautisme/
-shop: Boot
+shop: bateau
 ---

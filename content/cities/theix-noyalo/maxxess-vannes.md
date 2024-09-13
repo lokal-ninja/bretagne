@@ -1,5 +1,5 @@
 ---
 title: "MaXxess Vannes"
 url: /theix-noyalo/maxxess-vannes/
-shop: Motorrad
+shop: moto
 ---

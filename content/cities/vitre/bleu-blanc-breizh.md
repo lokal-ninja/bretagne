@@ -1,5 +1,5 @@
 ---
 title: "Bleu Blanc Breizh"
 url: /vitre/bleu-blanc-breizh/
-shop: Andenken
+shop: cadeau
 ---

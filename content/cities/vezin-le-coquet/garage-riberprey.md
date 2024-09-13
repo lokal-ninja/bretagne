@@ -1,5 +1,5 @@
 ---
 title: "Garage Riberprey"
 url: /vezin-le-coquet/garage-riberprey/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

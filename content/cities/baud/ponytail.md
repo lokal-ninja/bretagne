@@ -1,5 +1,5 @@
 ---
 title: "Ponytail"
 url: /baud/ponytail/
-shop: Friseur
+shop: coiffeur
 ---

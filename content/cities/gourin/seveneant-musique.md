@@ -1,5 +1,5 @@
 ---
 title: "Sévénéant Musique"
 url: /gourin/seveneant-musique/
-shop: Instrumente
+shop: instrument de musique
 ---

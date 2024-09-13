@@ -1,5 +1,5 @@
 ---
 title: "Garage Morvan"
 url: /inzinzac-lochrist/garage-morvan/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

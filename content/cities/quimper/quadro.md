@@ -1,5 +1,5 @@
 ---
 title: "Quadro'"
 url: /quimper/quadro/
-shop: Möbel
+shop: meubles
 ---

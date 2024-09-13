@@ -1,5 +1,5 @@
 ---
 title: "La Belle Verte"
 url: /pluvigner/la-belle-verte/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Krustanord"
 url: /lorient/krustanord/
-shop: Baustoffe
+shop: commerce
 ---

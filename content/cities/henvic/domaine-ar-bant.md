@@ -1,5 +1,5 @@
 ---
 title: "Domaine Ar Bant"
 url: /henvic/domaine-ar-bant/
-shop: Spirituosen
+shop: alcool
 ---

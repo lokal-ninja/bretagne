@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Banette"
 url: /poullan-sur-mer/boulangerie-banette/
-shop: Bäckerei
+shop: boulangerie
 ---

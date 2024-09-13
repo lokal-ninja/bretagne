@@ -1,5 +1,5 @@
 ---
 title: "P'tit Gibus"
 url: /carhaix-plouguer/ptit-gibus/
-shop: Spielzeug
+shop: jouets
 ---

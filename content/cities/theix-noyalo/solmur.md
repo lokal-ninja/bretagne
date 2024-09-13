@@ -1,5 +1,5 @@
 ---
 title: "Solmur"
 url: /theix-noyalo/solmur/
-shop: Fußböden
+shop: revêtement de sol
 ---

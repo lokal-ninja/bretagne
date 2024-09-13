@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Drive"
 url: /cesson-sevigne/e-leclerc-drive/
-shop: Außenstelle
+shop: avant-poste
 ---

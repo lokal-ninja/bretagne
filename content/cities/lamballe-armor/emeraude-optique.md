@@ -1,5 +1,5 @@
 ---
 title: "Émeraude Optique"
 url: /lamballe-armor/emeraude-optique/
-shop: Optiker
+shop: opticien
 ---

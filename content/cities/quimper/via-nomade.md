@@ -1,5 +1,5 @@
 ---
 title: "Via Nomade"
 url: /quimper/via-nomade/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

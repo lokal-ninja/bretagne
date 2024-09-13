@@ -1,5 +1,5 @@
 ---
 title: "Saint Malo Debloque"
 url: /saint-malo/saint-malo-debloque/
-shop: Handy
+shop: téléphone portable
 ---

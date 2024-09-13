@@ -1,5 +1,5 @@
 ---
 title: "Station Total Access"
 url: /saint-nolff/station-total-access/
-shop: Lebensmittel
+shop: commodité
 ---

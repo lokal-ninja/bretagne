@@ -1,5 +1,5 @@
 ---
 title: "Brico Dépôt"
 url: /saint-gregoire/brico-depot/
-shop: Baumarkt
+shop: à faire soi-même
 ---

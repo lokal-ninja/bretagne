@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /guingamp/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

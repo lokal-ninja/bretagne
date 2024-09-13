@@ -1,5 +1,5 @@
 ---
 title: "Marc Bourgeois"
 url: /rennes/marc-bourgeois/
-shop: Friseur
+shop: coiffeur
 ---

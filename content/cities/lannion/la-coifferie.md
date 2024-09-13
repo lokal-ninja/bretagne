@@ -1,5 +1,5 @@
 ---
 title: "La Coifferie"
 url: /lannion/la-coifferie/
-shop: Friseur
+shop: coiffeur
 ---

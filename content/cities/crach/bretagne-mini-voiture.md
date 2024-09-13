@@ -1,5 +1,5 @@
 ---
 title: "Bretagne Mini Voiture"
 url: /crach/bretagne-mini-voiture/
-shop: Autohaus
+shop: voiture
 ---

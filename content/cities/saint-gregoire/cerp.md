@@ -1,5 +1,5 @@
 ---
 title: "Cerp"
 url: /saint-gregoire/cerp/
-shop: Baustoffe
+shop: commerce
 ---

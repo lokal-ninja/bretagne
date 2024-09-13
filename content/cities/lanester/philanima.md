@@ -1,5 +1,5 @@
 ---
 title: "Philanima"
 url: /lanester/philanima/
-shop: Tiere
+shop: animal de compagnie
 ---

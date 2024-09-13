@@ -1,5 +1,5 @@
 ---
 title: "La Compagnie des Ateliers"
 url: /melesse/la-compagnie-des-ateliers/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

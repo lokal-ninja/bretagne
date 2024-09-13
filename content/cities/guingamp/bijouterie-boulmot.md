@@ -1,5 +1,5 @@
 ---
 title: "Bijouterie Boulmot"
 url: /guingamp/bijouterie-boulmot/
-shop: Schmuck
+shop: bijoux
 ---

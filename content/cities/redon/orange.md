@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /redon/orange/
-shop: Handy
+shop: téléphone portable
 ---

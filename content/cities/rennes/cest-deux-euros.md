@@ -1,5 +1,5 @@
 ---
 title: "C'est deux euros..."
 url: /rennes/cest-deux-euros/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Milky Breizh"
 url: /pance/milky-breizh/
-shop: Hofladen
+shop: ferme
 ---

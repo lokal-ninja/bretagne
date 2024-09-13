@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /ploermel/schmidt/
-shop: Küchen
+shop: cuisine
 ---

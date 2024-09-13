@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /concarneau/spar/
-shop: Supermarkt
+shop: supermarché
 ---

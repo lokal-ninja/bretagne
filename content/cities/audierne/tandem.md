@@ -1,5 +1,5 @@
 ---
 title: "Tandem"
 url: /audierne/tandem/
-shop: Kleidung
+shop: vêtements
 ---

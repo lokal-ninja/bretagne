@@ -1,5 +1,5 @@
 ---
 title: "Perrette"
 url: /montfort-sur-meu/perrette/
-shop: Feinkost
+shop: charcuterie
 ---

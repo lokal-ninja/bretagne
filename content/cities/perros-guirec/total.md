@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /perros-guirec/total/
-shop: Gasflaschen
+shop: gaz
 ---

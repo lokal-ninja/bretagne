@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /brest/courir/
-shop: Schuhe
+shop: chaussures
 ---

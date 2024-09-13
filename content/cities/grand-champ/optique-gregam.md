@@ -1,5 +1,5 @@
 ---
 title: "Optique Gregam"
 url: /grand-champ/optique-gregam/
-shop: Optiker
+shop: opticien
 ---

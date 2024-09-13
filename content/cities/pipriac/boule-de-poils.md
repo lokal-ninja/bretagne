@@ -1,5 +1,5 @@
 ---
 title: "Boule de Poils"
 url: /pipriac/boule-de-poils/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

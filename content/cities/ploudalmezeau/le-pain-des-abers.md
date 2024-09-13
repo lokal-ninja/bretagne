@@ -1,5 +1,5 @@
 ---
 title: "Le pain des Abers"
 url: /ploudalmezeau/le-pain-des-abers/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morgan"
 url: /rennes/morgan/
-shop: Kleidung
+shop: vêtements
 ---

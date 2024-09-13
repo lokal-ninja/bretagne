@@ -1,5 +1,5 @@
 ---
 title: "La Chapelloise"
 url: /la-chapelle-des-fougeretz/la-chapelloise/
-shop: Bäckerei
+shop: boulangerie
 ---

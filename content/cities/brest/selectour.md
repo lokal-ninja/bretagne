@@ -1,5 +1,5 @@
 ---
 title: "Selectour"
 url: /brest/selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

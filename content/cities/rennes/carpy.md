@@ -1,5 +1,5 @@
 ---
 title: "Carpy"
 url: /rennes/carpy/
-shop: Friseur
+shop: coiffeur
 ---

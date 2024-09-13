@@ -1,5 +1,5 @@
 ---
 title: "Ki-Kazh"
 url: /rennes/ki-kazh/
-shop: Tiere
+shop: animal de compagnie
 ---

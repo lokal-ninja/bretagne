@@ -1,5 +1,5 @@
 ---
 title: "Rennes Réception"
 url: /cesson-sevigne/rennes-reception/
-shop: Mieten
+shop: location de stockage
 ---

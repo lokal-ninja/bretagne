@@ -1,5 +1,5 @@
 ---
 title: "Cavavin"
 url: /noyal-chatillon-sur-seiche/cavavin/
-shop: Spirituosen
+shop: alcool
 ---

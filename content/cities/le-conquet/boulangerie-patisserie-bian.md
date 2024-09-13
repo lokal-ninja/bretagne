@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Pâtisserie Bian"
 url: /le-conquet/boulangerie-patisserie-bian/
-shop: Bäckerei
+shop: boulangerie
 ---

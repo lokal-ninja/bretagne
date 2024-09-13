@@ -1,5 +1,5 @@
 ---
 title: "Atelier Avel Pewar"
 url: /saint-armel/atelier-avel-pewar/
-shop: Instrumente
+shop: instrument de musique
 ---

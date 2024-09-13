@@ -1,5 +1,5 @@
 ---
 title: "Fram"
 url: /guer/fram/
-shop: Reisebüro
+shop: agence de voyage
 ---

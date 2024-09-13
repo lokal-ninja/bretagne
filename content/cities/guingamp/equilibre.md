@@ -1,5 +1,5 @@
 ---
 title: "Equilibre"
 url: /guingamp/equilibre/
-shop: Schuhe
+shop: chaussures
 ---

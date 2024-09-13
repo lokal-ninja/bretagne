@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
 url: /rennes/foot-locker/
-shop: Schuhe
+shop: chaussures
 ---

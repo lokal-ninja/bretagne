@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Floc"
 url: /chantepie/carrosserie-floc/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

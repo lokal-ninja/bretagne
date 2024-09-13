@@ -1,5 +1,5 @@
 ---
 title: "Ti ar Sonerien"
 url: /concarneau/ti-ar-sonerien/
-shop: Instrumente
+shop: instrument de musique
 ---

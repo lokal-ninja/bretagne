@@ -1,5 +1,5 @@
 ---
 title: "Zig Zag"
 url: /plescop/zig-zag/
-shop: Friseur
+shop: coiffeur
 ---

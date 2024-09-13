@@ -1,5 +1,5 @@
 ---
 title: "Jardiman"
 url: /pace/jardiman/
-shop: Garten-Center
+shop: centre de jardinage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferron"
 url: /vitre/ferron/
-shop: Autoteile
+shop: pièces de voitures
 ---

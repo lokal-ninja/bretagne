@@ -1,5 +1,5 @@
 ---
 title: "Piment Rouge"
 url: /cesson-sevigne/piment-rouge/
-shop: Feinkost
+shop: charcuterie
 ---

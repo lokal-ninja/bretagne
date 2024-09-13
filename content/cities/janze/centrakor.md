@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /janze/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

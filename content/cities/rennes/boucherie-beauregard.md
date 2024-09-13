@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Beauregard"
 url: /rennes/boucherie-beauregard/
-shop: Metzgerei
+shop: boucherie
 ---

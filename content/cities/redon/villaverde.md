@@ -1,5 +1,5 @@
 ---
 title: "Villaverde"
 url: /redon/villaverde/
-shop: Garten-Center
+shop: centre de jardinage
 ---

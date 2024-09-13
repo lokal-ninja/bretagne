@@ -1,5 +1,5 @@
 ---
 title: "Cultivert "
 url: /carhaix-plouguer/cultivert/
-shop: Platzpflege
+shop: entretien des terrains
 ---

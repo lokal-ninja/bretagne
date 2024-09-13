@@ -1,5 +1,5 @@
 ---
 title: "Ecotel"
 url: /rennes/ecotel/
-shop: Baustoffe
+shop: commerce
 ---

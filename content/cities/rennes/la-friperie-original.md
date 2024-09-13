@@ -1,5 +1,5 @@
 ---
 title: "La Friperie Original"
 url: /rennes/la-friperie-original/
-shop: Kleidung
+shop: vêtements
 ---

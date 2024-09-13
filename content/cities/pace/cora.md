@@ -1,5 +1,5 @@
 ---
 title: "Cora"
 url: /pace/cora/
-shop: Supermarkt
+shop: supermarché
 ---

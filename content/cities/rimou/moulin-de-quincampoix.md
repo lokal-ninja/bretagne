@@ -1,5 +1,5 @@
 ---
 title: "Moulin de Quincampoix"
 url: /rimou/moulin-de-quincampoix/
-shop: Hofladen
+shop: ferme
 ---

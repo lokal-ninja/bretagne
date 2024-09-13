@@ -1,5 +1,5 @@
 ---
 title: "Animatopia"
 url: /plouigneau/animatopia/
-shop: Tiere
+shop: animal de compagnie
 ---

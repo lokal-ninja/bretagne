@@ -1,5 +1,5 @@
 ---
 title: "Point S"
 url: /lannion/point-s/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

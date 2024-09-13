@@ -1,5 +1,5 @@
 ---
 title: "Axial"
 url: /hennebont/axial/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

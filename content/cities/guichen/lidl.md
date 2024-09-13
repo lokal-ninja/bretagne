@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /guichen/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

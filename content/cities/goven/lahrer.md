@@ -1,5 +1,5 @@
 ---
 title: "Lahrer"
 url: /goven/lahrer/
-shop: Metzgerei
+shop: boucherie
 ---

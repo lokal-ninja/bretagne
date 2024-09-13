@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /daoulas/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

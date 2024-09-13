@@ -1,5 +1,5 @@
 ---
 title: "Océane Esthétique"
 url: /esquibien/oceane-esthetique/
-shop: Kosmetik
+shop: beauté
 ---

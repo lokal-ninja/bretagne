@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse du Pilate"
 url: /saint-jacques-de-la-lande/tabac-presse-du-pilate/
-shop: Zeitungen
+shop: marchand de journaux
 ---

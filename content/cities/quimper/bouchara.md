@@ -1,5 +1,5 @@
 ---
 title: "Bouchara"
 url: /quimper/bouchara/
-shop: Dorfladen
+shop: magasin de campagne
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /montgermont/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maud Lelièvre"
 url: /la-gacilly/maud-lelievre/
-shop: Töpferei
+shop: poterie
 ---

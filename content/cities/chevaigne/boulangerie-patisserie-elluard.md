@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Patisserie Elluard"
 url: /chevaigne/boulangerie-patisserie-elluard/
-shop: Bäckerei
+shop: boulangerie
 ---

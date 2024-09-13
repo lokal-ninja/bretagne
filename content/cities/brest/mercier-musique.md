@@ -1,5 +1,5 @@
 ---
 title: "Mercier Musique"
 url: /brest/mercier-musique/
-shop: Instrumente
+shop: instrument de musique
 ---

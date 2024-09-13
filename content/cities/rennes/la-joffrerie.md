@@ -1,5 +1,5 @@
 ---
 title: "La Joffrerie"
 url: /rennes/la-joffrerie/
-shop: Zeitungen
+shop: marchand de journaux
 ---

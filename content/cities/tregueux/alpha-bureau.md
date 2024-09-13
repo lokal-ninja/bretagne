@@ -1,5 +1,5 @@
 ---
 title: "Alpha Bureau"
 url: /tregueux/alpha-bureau/
-shop: Zeitungen
+shop: marchand de journaux
 ---

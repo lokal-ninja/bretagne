@@ -1,5 +1,5 @@
 ---
 title: "Blanc d'Ecume"
 url: /le-guilvinec/blanc-decume/
-shop: Kleidung
+shop: vêtements
 ---

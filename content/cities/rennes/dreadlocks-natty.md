@@ -1,5 +1,5 @@
 ---
 title: "Dreadlocks Natty"
 url: /rennes/dreadlocks-natty/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier 66"
 url: /lanester/latelier-66/
-shop: Friseur
+shop: coiffeur
 ---

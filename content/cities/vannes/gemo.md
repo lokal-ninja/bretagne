@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /vannes/gemo/
-shop: Kleidung
+shop: vêtements
 ---

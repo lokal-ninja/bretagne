@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /grand-champ/peugeot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

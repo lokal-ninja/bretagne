@@ -1,5 +1,5 @@
 ---
 title: "Lio"
 url: /vannes/lio/
-shop: Schmuck
+shop: bijoux
 ---

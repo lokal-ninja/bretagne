@@ -1,5 +1,5 @@
 ---
 title: "Le Marque Page"
 url: /bain-de-bretagne/le-marque-page/
-shop: Bücher
+shop: livres
 ---

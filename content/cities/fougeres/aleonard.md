@@ -1,5 +1,5 @@
 ---
 title: "Aléonard"
 url: /fougeres/aleonard/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zen et Belle"
 url: /locmiquelic/zen-et-belle/
-shop: Kosmetik
+shop: beauté
 ---

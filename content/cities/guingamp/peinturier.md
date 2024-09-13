@@ -1,5 +1,5 @@
 ---
 title: "Peinturier"
 url: /guingamp/peinturier/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giorgio"
 url: /rennes/giorgio/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Clech"
 url: /quimper/le-clech/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bleu Cerise"
 url: /lamballe/bleu-cerise/
-shop: Kleidung
+shop: vêtements
 ---

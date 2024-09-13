@@ -1,5 +1,5 @@
 ---
 title: "Riu Paris"
 url: /vannes/riu-paris/
-shop: Kleidung
+shop: vêtements
 ---

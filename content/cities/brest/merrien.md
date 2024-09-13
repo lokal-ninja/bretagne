@@ -1,5 +1,5 @@
 ---
 title: "Merrien"
 url: /brest/merrien/
-shop: Metzgerei
+shop: boucherie
 ---

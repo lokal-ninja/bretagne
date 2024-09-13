@@ -1,5 +1,5 @@
 ---
 title: "Maison Beucher"
 url: /chateaugiron/maison-beucher/
-shop: Metzgerei
+shop: boucherie
 ---

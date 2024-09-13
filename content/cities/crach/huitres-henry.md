@@ -1,5 +1,5 @@
 ---
 title: "Huitres Henry"
 url: /crach/huitres-henry/
-shop: Allgemein
+shop: shop
 ---

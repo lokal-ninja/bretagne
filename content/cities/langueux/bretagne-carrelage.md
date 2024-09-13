@@ -1,5 +1,5 @@
 ---
 title: "Bretagne carrelage"
 url: /langueux/bretagne-carrelage/
-shop: Fliesen
+shop: tuiles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Francisco Coiffure"
 url: /rennes/francisco-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

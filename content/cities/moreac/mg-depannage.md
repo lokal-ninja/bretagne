@@ -1,5 +1,5 @@
 ---
 title: "MG Dépannage"
 url: /moreac/mg-depannage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

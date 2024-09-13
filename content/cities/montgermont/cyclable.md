@@ -1,5 +1,5 @@
 ---
 title: "Cyclable"
 url: /montgermont/cyclable/
-shop: Fahrrad
+shop: vélo
 ---

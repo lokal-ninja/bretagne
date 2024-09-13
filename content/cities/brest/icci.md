@@ -1,5 +1,5 @@
 ---
 title: "ICCI"
 url: /brest/icci/
-shop: Supermarkt
+shop: supermarché
 ---

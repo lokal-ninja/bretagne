@@ -1,5 +1,5 @@
 ---
 title: "Allray"
 url: /guipavas/allray/
-shop: Baumarkt
+shop: à faire soi-même
 ---

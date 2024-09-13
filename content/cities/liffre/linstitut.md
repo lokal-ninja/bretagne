@@ -1,5 +1,5 @@
 ---
 title: "L'Institut"
 url: /liffre/linstitut/
-shop: Kosmetik
+shop: beauté
 ---

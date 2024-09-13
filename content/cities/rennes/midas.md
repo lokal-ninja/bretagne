@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /rennes/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Presse"
 url: /chateaugiron/presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

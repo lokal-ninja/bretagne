@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /saint-gregoire/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

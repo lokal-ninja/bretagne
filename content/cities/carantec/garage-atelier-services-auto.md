@@ -1,5 +1,5 @@
 ---
 title: "Garage atelier services auto"
 url: /carantec/garage-atelier-services-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

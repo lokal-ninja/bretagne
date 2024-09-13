@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /lannion/decathlon/
-shop: Sport
+shop: sports
 ---

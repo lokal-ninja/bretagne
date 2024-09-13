@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /saint-lormel/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

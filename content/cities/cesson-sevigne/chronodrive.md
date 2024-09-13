@@ -1,5 +1,5 @@
 ---
 title: "Chronodrive"
 url: /cesson-sevigne/chronodrive/
-shop: Supermarkt
+shop: supermarché
 ---

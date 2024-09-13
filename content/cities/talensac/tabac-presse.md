@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse"
 url: /talensac/tabac-presse/
-shop: Tabak
+shop: tabac
 ---

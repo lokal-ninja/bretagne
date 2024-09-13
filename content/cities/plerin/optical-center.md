@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /plerin/optical-center/
-shop: Optiker
+shop: opticien
 ---

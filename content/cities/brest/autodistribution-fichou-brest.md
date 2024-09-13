@@ -1,5 +1,5 @@
 ---
 title: "AutoDistribution  FICHOU Brest"
 url: /brest/autodistribution-fichou-brest/
-shop: Autoteile
+shop: pièces de voitures
 ---

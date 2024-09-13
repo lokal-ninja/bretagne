@@ -1,5 +1,5 @@
 ---
 title: "Pierre-Yves Fontaine"
 url: /pipriac/pierre-yves-fontaine/
-shop: Metzgerei
+shop: boucherie
 ---

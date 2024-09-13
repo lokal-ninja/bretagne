@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Lévêque"
 url: /rennes/boulangerie-leveque/
-shop: Bäckerei
+shop: boulangerie
 ---

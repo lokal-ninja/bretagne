@@ -1,5 +1,5 @@
 ---
 title: "Croix-Rouge"
 url: /vannes/croix-rouge/
-shop: Gebrauchtwaren
+shop: charité
 ---

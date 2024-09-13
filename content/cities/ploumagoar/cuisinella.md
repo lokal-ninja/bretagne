@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /ploumagoar/cuisinella/
-shop: Küchen
+shop: cuisine
 ---

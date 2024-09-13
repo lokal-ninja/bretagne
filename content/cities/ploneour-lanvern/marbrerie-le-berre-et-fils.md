@@ -1,5 +1,5 @@
 ---
 title: "Marbrerie Le Berre Et Fils"
 url: /ploneour-lanvern/marbrerie-le-berre-et-fils/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

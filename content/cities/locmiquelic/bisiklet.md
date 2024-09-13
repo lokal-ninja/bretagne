@@ -1,5 +1,5 @@
 ---
 title: "Bisiklet"
 url: /locmiquelic/bisiklet/
-shop: Fahrrad
+shop: vélo
 ---

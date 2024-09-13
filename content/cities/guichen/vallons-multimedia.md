@@ -1,5 +1,5 @@
 ---
 title: "Vallons Multimedia"
 url: /guichen/vallons-multimedia/
-shop: Computer
+shop: ordinateur
 ---

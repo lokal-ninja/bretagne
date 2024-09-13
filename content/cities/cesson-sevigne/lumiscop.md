@@ -1,5 +1,5 @@
 ---
 title: "Lumiscop"
 url: /cesson-sevigne/lumiscop/
-shop: Radiotechnik
+shop: radiotechnique
 ---

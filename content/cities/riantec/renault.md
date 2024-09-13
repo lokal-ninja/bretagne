@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /riantec/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

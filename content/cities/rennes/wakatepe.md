@@ -1,5 +1,5 @@
 ---
 title: "Wakatépé"
 url: /rennes/wakatepe/
-shop: Kleidung
+shop: vêtements
 ---

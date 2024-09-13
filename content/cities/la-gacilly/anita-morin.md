@@ -1,5 +1,5 @@
 ---
 title: "Anita Morin"
 url: /la-gacilly/anita-morin/
-shop: Kunst
+shop: art
 ---

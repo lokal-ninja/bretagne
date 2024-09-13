@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /rennes/metro/
-shop: Großhandel
+shop: vente en gros
 ---

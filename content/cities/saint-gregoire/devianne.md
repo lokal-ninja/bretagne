@@ -1,5 +1,5 @@
 ---
 title: "Devianne"
 url: /saint-gregoire/devianne/
-shop: Kleidung
+shop: vêtements
 ---

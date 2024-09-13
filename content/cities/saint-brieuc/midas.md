@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /saint-brieuc/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

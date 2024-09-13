@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /pace/renault/
-shop: Autohaus
+shop: voiture
 ---

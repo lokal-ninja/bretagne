@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Au fournil de Clem"
 url: /brasparts/boulangerie-au-fournil-de-clem/
-shop: Bäckerei
+shop: boulangerie
 ---

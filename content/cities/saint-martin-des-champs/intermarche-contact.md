@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Contact"
 url: /saint-martin-des-champs/intermarche-contact/
-shop: Lebensmittel
+shop: commodité
 ---

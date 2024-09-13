@@ -1,5 +1,5 @@
 ---
 title: "Materiaux Poly Ouest Composites"
 url: /frehel/materiaux-poly-ouest-composites/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Divine"
 url: /vezin-le-coquet/salon-divine/
-shop: Friseur
+shop: coiffeur
 ---

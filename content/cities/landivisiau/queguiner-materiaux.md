@@ -1,5 +1,5 @@
 ---
 title: "Quéguiner Matériaux"
 url: /landivisiau/queguiner-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

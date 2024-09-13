@@ -1,5 +1,5 @@
 ---
 title: "Hélène Coiffure"
 url: /plougastel-daoulas/helene-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

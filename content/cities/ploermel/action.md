@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /ploermel/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Cordonnerie"
 url: /saint-malo/la-cordonnerie/
-shop: Schuhe
+shop: chaussures
 ---

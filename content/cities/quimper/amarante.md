@@ -1,5 +1,5 @@
 ---
 title: "Amarante"
 url: /quimper/amarante/
-shop: Kleidung
+shop: vêtements
 ---

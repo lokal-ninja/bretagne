@@ -1,5 +1,5 @@
 ---
 title: "La Doloise"
 url: /dol-de-bretagne/la-doloise/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mod'Elles"
 url: /auray/modelles/
-shop: Kleidung
+shop: vêtements
 ---

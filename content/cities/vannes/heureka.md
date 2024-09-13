@@ -1,5 +1,5 @@
 ---
 title: "Heureka"
 url: /vannes/heureka/
-shop: Schmuck
+shop: bijoux
 ---

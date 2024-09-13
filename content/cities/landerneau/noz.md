@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /landerneau/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

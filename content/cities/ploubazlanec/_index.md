@@ -1,6 +1,6 @@
 ---
 title: Ploubazlanec
 url: /ploubazlanec/
-latitude: 48.797
-longitude: -3.035
+latitude: 48.801
+longitude: -3.031
 ---

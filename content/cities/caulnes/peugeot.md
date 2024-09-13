@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /caulnes/peugeot/
-shop: Autohaus
+shop: voiture
 ---

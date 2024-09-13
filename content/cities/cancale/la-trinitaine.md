@@ -1,5 +1,5 @@
 ---
 title: "La Trinitaine"
 url: /cancale/la-trinitaine/
-shop: Feinkost
+shop: charcuterie
 ---

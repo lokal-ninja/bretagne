@@ -1,5 +1,5 @@
 ---
 title: "Optique Baumont"
 url: /combrit/optique-baumont/
-shop: Optiker
+shop: opticien
 ---

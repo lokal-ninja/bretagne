@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
 url: /cesson-sevigne/bonjour/
-shop: Lebensmittel
+shop: commodité
 ---

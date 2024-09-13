@@ -1,5 +1,5 @@
 ---
 title: "Cycles Nicolas"
 url: /quimperle/cycles-nicolas/
-shop: Fahrrad
+shop: vélo
 ---

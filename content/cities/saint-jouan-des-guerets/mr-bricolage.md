@@ -1,5 +1,5 @@
 ---
 title: "Mr.Bricolage"
 url: /saint-jouan-des-guerets/mr-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

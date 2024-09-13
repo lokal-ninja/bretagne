@@ -1,5 +1,5 @@
 ---
 title: "Cartridge World"
 url: /vannes/cartridge-world/
-shop: Kopieren
+shop: copyshop
 ---

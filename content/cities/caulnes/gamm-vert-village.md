@@ -1,5 +1,5 @@
 ---
 title: "Gamm Vert Village"
 url: /caulnes/gamm-vert-village/
-shop: Garten-Center
+shop: centre de jardinage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RougeGorge"
 url: /auray/rougegorge/
-shop: Kleidung
+shop: vêtements
 ---

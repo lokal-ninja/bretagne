@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /daoulas/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

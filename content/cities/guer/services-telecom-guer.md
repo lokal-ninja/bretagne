@@ -1,5 +1,5 @@
 ---
 title: "Services Télécom - Guer"
 url: /guer/services-telecom-guer/
-shop: Handy
+shop: téléphone portable
 ---

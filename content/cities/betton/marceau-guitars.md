@@ -1,5 +1,5 @@
 ---
 title: "Marceau Guitars"
 url: /betton/marceau-guitars/
-shop: Instrumente
+shop: instrument de musique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maison du parquet"
 url: /chantepie/maison-du-parquet/
-shop: Fußböden
+shop: revêtement de sol
 ---

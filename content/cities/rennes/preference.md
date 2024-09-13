@@ -1,5 +1,5 @@
 ---
 title: "Préférence"
 url: /rennes/preference/
-shop: Reisebüro
+shop: agence de voyage
 ---

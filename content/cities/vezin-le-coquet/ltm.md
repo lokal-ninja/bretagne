@@ -1,5 +1,5 @@
 ---
 title: "LTM"
 url: /vezin-le-coquet/ltm/
-shop: Eisenwaren
+shop: matériel informatique
 ---

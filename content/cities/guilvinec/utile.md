@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /guilvinec/utile/
-shop: Lebensmittel
+shop: commodité
 ---

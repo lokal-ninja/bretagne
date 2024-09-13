@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /lannion/krys/
-shop: Optiker
+shop: opticien
 ---

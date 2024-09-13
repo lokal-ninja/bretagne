@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /ploumagoar/rexel/
-shop: Elektrisch
+shop: électrique
 ---

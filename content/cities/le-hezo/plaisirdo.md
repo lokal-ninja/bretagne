@@ -1,5 +1,5 @@
 ---
 title: "Plaisird'O"
 url: /le-hezo/plaisirdo/
-shop: Kramladen
+shop: magasin de variétés
 ---

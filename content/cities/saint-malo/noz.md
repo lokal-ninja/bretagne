@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /saint-malo/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

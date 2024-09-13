@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /guingamp/jules/
-shop: Kleidung
+shop: vêtements
 ---

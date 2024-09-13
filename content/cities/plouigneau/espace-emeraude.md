@@ -1,5 +1,5 @@
 ---
 title: "Espace Emeraude"
 url: /plouigneau/espace-emeraude/
-shop: Garten-Center
+shop: centre de jardinage
 ---

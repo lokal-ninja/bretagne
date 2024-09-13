@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /brest/orange/
-shop: Handy
+shop: téléphone portable
 ---

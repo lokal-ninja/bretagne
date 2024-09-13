@@ -1,5 +1,5 @@
 ---
 title: "Loops"
 url: /tregueux/loops/
-shop: Instrumente
+shop: instrument de musique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colombia"
 url: /rennes/colombia/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

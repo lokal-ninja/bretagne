@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /guer/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

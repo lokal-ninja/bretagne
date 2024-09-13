@@ -1,5 +1,5 @@
 ---
 title: "CDE"
 url: /rennes/cde/
-shop: Handy
+shop: téléphone portable
 ---

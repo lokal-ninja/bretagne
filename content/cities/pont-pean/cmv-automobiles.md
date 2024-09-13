@@ -1,5 +1,5 @@
 ---
 title: "CMV Automobiles"
 url: /pont-pean/cmv-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

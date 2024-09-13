@@ -1,5 +1,5 @@
 ---
 title: "IB informatique"
 url: /rennes/ib-informatique/
-shop: Computer
+shop: ordinateur
 ---

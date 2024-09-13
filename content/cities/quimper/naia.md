@@ -1,5 +1,5 @@
 ---
 title: "Naïa"
 url: /quimper/naia/
-shop: Kleidung
+shop: vêtements
 ---

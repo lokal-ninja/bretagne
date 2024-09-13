@@ -1,5 +1,5 @@
 ---
 title: "DBCourtage"
 url: /brest/dbcourtage/
-shop: Leiher
+shop: prêteur sur gages
 ---

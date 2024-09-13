@@ -1,5 +1,5 @@
 ---
 title: "Jardins de campagne"
 url: /rennes/jardins-de-campagne/
-shop: Blumen
+shop: fleuriste
 ---

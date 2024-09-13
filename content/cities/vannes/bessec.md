@@ -1,5 +1,5 @@
 ---
 title: "Bessec"
 url: /vannes/bessec/
-shop: Schuhe
+shop: chaussures
 ---

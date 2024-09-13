@@ -1,5 +1,5 @@
 ---
 title: "Aqualogia"
 url: /liffre/aqualogia/
-shop: Wäscherei
+shop: blanchisserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Funérarium"
 url: /inguiniel/funerarium/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

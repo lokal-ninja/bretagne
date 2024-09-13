@@ -1,5 +1,5 @@
 ---
 title: "Automick"
 url: /plounerin/automick/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier de Coiffure"
 url: /laille/latelier-de-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

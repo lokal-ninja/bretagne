@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /quimperle/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

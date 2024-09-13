@@ -1,5 +1,5 @@
 ---
 title: "Ridervan"
 url: /janze/ridervan/
-shop: Wohnwagen
+shop: caravane
 ---

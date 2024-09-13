@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /loudeac/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

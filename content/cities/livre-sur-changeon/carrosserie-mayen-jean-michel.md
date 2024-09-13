@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Mayen Jean-Michel"
 url: /livre-sur-changeon/carrosserie-mayen-jean-michel/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

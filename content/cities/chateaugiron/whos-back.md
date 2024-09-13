@@ -1,5 +1,5 @@
 ---
 title: "Who's Back"
 url: /chateaugiron/whos-back/
-shop: Kleidung
+shop: vêtements
 ---

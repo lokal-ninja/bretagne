@@ -1,5 +1,5 @@
 ---
 title: "Mag'Presse"
 url: /monfort-sur-meu/magpresse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

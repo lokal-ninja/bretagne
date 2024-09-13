@@ -1,5 +1,5 @@
 ---
 title: "Tati"
 url: /lorient/tati/
-shop: Kleidung
+shop: vêtements
 ---

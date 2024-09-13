@@ -1,5 +1,5 @@
 ---
 title: "Agrilec"
 url: /caulnes/agrilec/
-shop: Landwirtschaftlich
+shop: agraire
 ---

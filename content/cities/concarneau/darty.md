@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /concarneau/darty/
-shop: Elektronik
+shop: électronique
 ---

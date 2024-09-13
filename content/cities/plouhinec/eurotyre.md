@@ -1,5 +1,5 @@
 ---
 title: "Eurotyre"
 url: /plouhinec/eurotyre/
-shop: Reifen
+shop: pneus
 ---

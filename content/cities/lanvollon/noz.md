@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /lanvollon/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

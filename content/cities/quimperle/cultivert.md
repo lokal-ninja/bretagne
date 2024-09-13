@@ -1,5 +1,5 @@
 ---
 title: "Cultivert "
 url: /quimperle/cultivert/
-shop: Platzpflege
+shop: entretien des terrains
 ---

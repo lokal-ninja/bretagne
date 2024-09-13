@@ -1,5 +1,5 @@
 ---
 title: "HB Cuirs"
 url: /cesson-sevigne/hb-cuirs/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

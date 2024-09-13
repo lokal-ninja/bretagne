@@ -1,5 +1,5 @@
 ---
 title: "Les mouettes"
 url: /brest/les-mouettes/
-shop: Fisch
+shop: fruits de mer
 ---

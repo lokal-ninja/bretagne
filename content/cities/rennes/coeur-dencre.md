@@ -1,5 +1,5 @@
 ---
 title: "Cœur d'encre"
 url: /rennes/coeur-dencre/
-shop: Tattoo
+shop: tatouage
 ---

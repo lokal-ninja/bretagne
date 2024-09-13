@@ -1,5 +1,5 @@
 ---
 title: "Ecomiam"
 url: /chateaugiron/ecomiam/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

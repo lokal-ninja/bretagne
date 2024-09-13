@@ -1,5 +1,5 @@
 ---
 title: "Garage Picart"
 url: /saint-vougay/garage-picart/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

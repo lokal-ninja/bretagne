@@ -1,5 +1,5 @@
 ---
 title: "Pépinières du Jaudy"
 url: /la-roche-derrien/pepinieres-du-jaudy/
-shop: Garten-Center
+shop: centre de jardinage
 ---

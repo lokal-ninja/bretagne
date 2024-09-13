@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /brest/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

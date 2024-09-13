@@ -1,5 +1,5 @@
 ---
 title: "Armurerie Barreau"
 url: /vitre/armurerie-barreau/
-shop: Waffen
+shop: armes
 ---

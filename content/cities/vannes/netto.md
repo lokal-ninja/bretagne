@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /vannes/netto/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MicKaël auto"
 url: /lannion/mickael-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

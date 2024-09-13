@@ -1,5 +1,5 @@
 ---
 title: "Garage Salmon"
 url: /baulon/garage-salmon/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

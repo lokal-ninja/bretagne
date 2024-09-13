@@ -1,5 +1,5 @@
 ---
 title: "Magasin Vert"
 url: /plancoet/magasin-vert/
-shop: Garten-Center
+shop: centre de jardinage
 ---

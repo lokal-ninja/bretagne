@@ -1,5 +1,5 @@
 ---
 title: "Ozentis"
 url: /chevaigne/ozentis/
-shop: Friseur
+shop: coiffeur
 ---

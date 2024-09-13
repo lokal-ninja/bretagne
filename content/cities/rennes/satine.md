@@ -1,5 +1,5 @@
 ---
 title: "Satine"
 url: /rennes/satine/
-shop: Kosmetik
+shop: beauté
 ---

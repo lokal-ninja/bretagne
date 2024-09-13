@@ -1,5 +1,5 @@
 ---
 title: "Le Tonic"
 url: /rennes/le-tonic/
-shop: Zeitungen
+shop: marchand de journaux
 ---

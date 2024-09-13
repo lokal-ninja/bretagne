@@ -1,5 +1,5 @@
 ---
 title: "+2Bad"
 url: /cesson-sevigne/2bad/
-shop: Sport
+shop: sports
 ---

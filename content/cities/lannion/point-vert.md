@@ -1,5 +1,5 @@
 ---
 title: "Point Vert"
 url: /lannion/point-vert/
-shop: Blumen
+shop: fleuriste
 ---

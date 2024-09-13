@@ -1,5 +1,5 @@
 ---
 title: "M. Roty Jérôme"
 url: /pleneuf-val-andre/m-roty-jerome/
-shop: Metzgerei
+shop: boucherie
 ---

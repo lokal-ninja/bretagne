@@ -1,5 +1,5 @@
 ---
 title: "Frigomob"
 url: /cesson-sevigne/frigomob/
-shop: Eisenwaren
+shop: matériel informatique
 ---

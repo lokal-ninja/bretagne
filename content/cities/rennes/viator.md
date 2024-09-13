@@ -1,5 +1,5 @@
 ---
 title: "Viator"
 url: /rennes/viator/
-shop: Reisebüro
+shop: agence de voyage
 ---

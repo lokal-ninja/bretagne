@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /chateaugiron/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

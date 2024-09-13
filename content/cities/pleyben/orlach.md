@@ -1,5 +1,5 @@
 ---
 title: "Orlac'h"
 url: /pleyben/orlach/
-shop: Fisch
+shop: fruits de mer
 ---

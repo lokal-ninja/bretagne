@@ -1,5 +1,5 @@
 ---
 title: "Le Sagittaire"
 url: /janze/le-sagittaire/
-shop: Zeitungen
+shop: marchand de journaux
 ---

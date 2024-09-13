@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier d'Audrey"
 url: /quimper/latelier-daudrey/
-shop: Schmuck
+shop: bijoux
 ---

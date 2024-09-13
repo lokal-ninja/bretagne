@@ -1,5 +1,5 @@
 ---
 title: "3 Soleils"
 url: /rennes/3-soleils/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

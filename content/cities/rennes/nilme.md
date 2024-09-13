@@ -1,5 +1,5 @@
 ---
 title: "Nilmë"
 url: /rennes/nilme/
-shop: Bücher
+shop: livres
 ---

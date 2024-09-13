@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /saint-brieuc/super-u/
-shop: Gasflaschen
+shop: gaz
 ---

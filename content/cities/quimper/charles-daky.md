@@ -1,5 +1,5 @@
 ---
 title: "Charles Daky"
 url: /quimper/charles-daky/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Loric Accordéons"
 url: /plescop/loric-accordeons/
-shop: Instrumente
+shop: instrument de musique
 ---

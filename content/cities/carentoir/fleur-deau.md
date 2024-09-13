@@ -1,5 +1,5 @@
 ---
 title: "Fleur d’Eau"
 url: /carentoir/fleur-deau/
-shop: Blumen
+shop: fleuriste
 ---

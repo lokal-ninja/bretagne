@@ -1,5 +1,5 @@
 ---
 title: "TOP GARAGE"
 url: /camors/top-garage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

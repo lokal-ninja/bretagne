@@ -1,5 +1,5 @@
 ---
 title: "Marlène B"
 url: /bohars/marlene-b/
-shop: Friseur
+shop: coiffeur
 ---

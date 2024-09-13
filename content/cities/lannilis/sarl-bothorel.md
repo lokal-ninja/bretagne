@@ -1,5 +1,5 @@
 ---
 title: "SARL Bothorel"
 url: /lannilis/sarl-bothorel/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

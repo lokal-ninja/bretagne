@@ -1,5 +1,5 @@
 ---
 title: "Locamachine"
 url: /lamballe/locamachine/
-shop: Mieten
+shop: location de stockage
 ---

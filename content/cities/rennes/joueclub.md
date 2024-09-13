@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /rennes/joueclub/
-shop: Spielzeug
+shop: jouets
 ---

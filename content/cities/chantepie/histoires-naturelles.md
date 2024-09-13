@@ -1,5 +1,5 @@
 ---
 title: "Histoires naturelles"
 url: /chantepie/histoires-naturelles/
-shop: Blumen
+shop: fleuriste
 ---

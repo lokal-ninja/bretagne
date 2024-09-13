@@ -1,5 +1,5 @@
 ---
 title: "Tabac"
 url: /le-croisty/tabac/
-shop: Tabak
+shop: tabac
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LolliClope"
 url: /lannion/lolliclope/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

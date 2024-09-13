@@ -1,5 +1,5 @@
 ---
 title: "Métamorphose"
 url: /hennebont/metamorphose/
-shop: Friseur
+shop: coiffeur
 ---

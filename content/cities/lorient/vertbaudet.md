@@ -1,5 +1,5 @@
 ---
 title: "Vertbaudet"
 url: /lorient/vertbaudet/
-shop: Kleidung
+shop: vêtements
 ---

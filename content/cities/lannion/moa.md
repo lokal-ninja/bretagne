@@ -1,5 +1,5 @@
 ---
 title: "MOA"
 url: /lannion/moa/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brécé Auto Mécanique"
 url: /brece/brece-auto-mecanique/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

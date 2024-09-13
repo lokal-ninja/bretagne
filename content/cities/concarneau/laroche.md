@@ -1,5 +1,5 @@
 ---
 title: "Laroche"
 url: /concarneau/laroche/
-shop: Fisch
+shop: fruits de mer
 ---

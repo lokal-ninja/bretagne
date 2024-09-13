@@ -1,5 +1,5 @@
 ---
 title: "Douz'Arômes"
 url: /betton/douzaromes/
-shop: Hofladen
+shop: ferme
 ---

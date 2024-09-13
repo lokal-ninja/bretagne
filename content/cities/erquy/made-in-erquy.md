@@ -1,5 +1,5 @@
 ---
 title: "Made in Erquy"
 url: /erquy/made-in-erquy/
-shop: Metzgerei
+shop: boucherie
 ---

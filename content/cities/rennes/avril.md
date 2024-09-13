@@ -1,5 +1,5 @@
 ---
 title: "Avril"
 url: /rennes/avril/
-shop: Kosmetik
+shop: beauté
 ---

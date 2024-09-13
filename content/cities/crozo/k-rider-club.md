@@ -1,5 +1,5 @@
 ---
 title: "K rider club"
 url: /crozo/k-rider-club/
-shop: Sport
+shop: sports
 ---

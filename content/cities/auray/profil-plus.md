@@ -1,5 +1,5 @@
 ---
 title: "Profil Plus"
 url: /auray/profil-plus/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

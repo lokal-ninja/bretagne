@@ -1,5 +1,5 @@
 ---
 title: "Chic and Dog"
 url: /saint-malo/chic-and-dog/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

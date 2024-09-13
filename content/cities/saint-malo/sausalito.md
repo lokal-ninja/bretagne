@@ -1,5 +1,5 @@
 ---
 title: "Sausalito"
 url: /saint-malo/sausalito/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

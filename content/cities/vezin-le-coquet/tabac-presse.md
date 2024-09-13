@@ -1,5 +1,5 @@
 ---
 title: "Tabac-Presse"
 url: /vezin-le-coquet/tabac-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

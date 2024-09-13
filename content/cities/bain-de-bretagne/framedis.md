@@ -1,5 +1,5 @@
 ---
 title: "Framedis"
 url: /bain-de-bretagne/framedis/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

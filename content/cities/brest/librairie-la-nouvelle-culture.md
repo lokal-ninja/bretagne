@@ -1,5 +1,5 @@
 ---
 title: "Librairie La Nouvelle Culture"
 url: /brest/librairie-la-nouvelle-culture/
-shop: Bücher
+shop: livres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pianos Bazoin"
 url: /la-meziere/pianos-bazoin/
-shop: Instrumente
+shop: instrument de musique
 ---

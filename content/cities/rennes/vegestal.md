@@ -1,5 +1,5 @@
 ---
 title: "Végéstal"
 url: /rennes/vegestal/
-shop: Lebensmittel
+shop: commodité
 ---

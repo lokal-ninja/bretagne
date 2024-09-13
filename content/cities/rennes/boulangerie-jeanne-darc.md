@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Jeanne d'Arc"
 url: /rennes/boulangerie-jeanne-darc/
-shop: Bäckerei
+shop: boulangerie
 ---

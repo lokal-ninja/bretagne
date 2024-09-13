@@ -1,5 +1,5 @@
 ---
 title: "Mephisto"
 url: /quimper/mephisto/
-shop: Schuhe
+shop: chaussures
 ---

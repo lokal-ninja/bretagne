@@ -1,5 +1,5 @@
 ---
 title: "Le Cellier Rennais"
 url: /rennes/le-cellier-rennais/
-shop: Spirituosen
+shop: alcool
 ---

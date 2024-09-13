@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /caudan/citroen/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Korrig'âne"
 url: /planguenoual/korrigane/
-shop: Tiere
+shop: animal de compagnie
 ---

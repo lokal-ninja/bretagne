@@ -1,5 +1,5 @@
 ---
 title: "Parm'"
 url: /vezin-le-coquet/parm/
-shop: Farben
+shop: peinture
 ---

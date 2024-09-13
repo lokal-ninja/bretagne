@@ -1,5 +1,5 @@
 ---
 title: "Vianauto"
 url: /auray/vianauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bout d'chiffon"
 url: /la-gacilly/bout-dchiffon/
-shop: Nähzubehör
+shop: couture
 ---

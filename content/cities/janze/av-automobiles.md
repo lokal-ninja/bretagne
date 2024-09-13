@@ -1,5 +1,5 @@
 ---
 title: "AV Automobiles"
 url: /janze/av-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

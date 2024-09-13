@@ -1,5 +1,5 @@
 ---
 title: "Comptoir Seigneurie Gauthier"
 url: /vannes/comptoir-seigneurie-gauthier/
-shop: Farben
+shop: peinture
 ---

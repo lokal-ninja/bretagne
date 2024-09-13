@@ -1,5 +1,5 @@
 ---
 title: "Mauboussin"
 url: /rennes/mauboussin/
-shop: Schmuck
+shop: bijoux
 ---

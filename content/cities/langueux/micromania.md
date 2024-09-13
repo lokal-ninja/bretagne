@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /langueux/micromania/
-shop: Videospiele
+shop: jeux vidéo
 ---

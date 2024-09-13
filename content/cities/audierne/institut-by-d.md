@@ -1,5 +1,5 @@
 ---
 title: "Institut by D"
 url: /audierne/institut-by-d/
-shop: Kosmetik
+shop: beauté
 ---

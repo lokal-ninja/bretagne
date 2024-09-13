@@ -1,5 +1,5 @@
 ---
 title: "Profil+"
 url: /lamballe/profil/
-shop: Reifen
+shop: pneus
 ---

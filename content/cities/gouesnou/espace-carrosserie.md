@@ -1,5 +1,5 @@
 ---
 title: "Espace Carrosserie"
 url: /gouesnou/espace-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

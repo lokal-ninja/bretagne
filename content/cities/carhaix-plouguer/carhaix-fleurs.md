@@ -1,5 +1,5 @@
 ---
 title: "Carhaix Fleurs"
 url: /carhaix-plouguer/carhaix-fleurs/
-shop: Blumen
+shop: fleuriste
 ---

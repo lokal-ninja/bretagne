@@ -1,5 +1,5 @@
 ---
 title: "Aux Gourmandises de Grégoire"
 url: /rennes/aux-gourmandises-de-gregoire/
-shop: Bäckerei
+shop: boulangerie
 ---

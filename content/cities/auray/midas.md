@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /auray/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

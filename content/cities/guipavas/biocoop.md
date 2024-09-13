@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /guipavas/biocoop/
-shop: Supermarkt
+shop: supermarché
 ---

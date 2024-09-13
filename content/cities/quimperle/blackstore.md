@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /quimperle/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

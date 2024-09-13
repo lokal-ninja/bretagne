@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /bain-de-bretagne/coccimarket/
-shop: Lebensmittel
+shop: commodité
 ---

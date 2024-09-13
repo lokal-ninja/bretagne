@@ -1,5 +1,5 @@
 ---
 title: "BestDrive"
 url: /chantepie/bestdrive/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

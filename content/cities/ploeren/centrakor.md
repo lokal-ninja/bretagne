@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /ploeren/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

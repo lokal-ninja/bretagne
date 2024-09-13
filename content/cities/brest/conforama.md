@@ -1,5 +1,5 @@
 ---
 title: "Conforama"
 url: /brest/conforama/
-shop: Möbel
+shop: meubles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unic"
 url: /rennes/unic/
-shop: Friseur
+shop: coiffeur
 ---

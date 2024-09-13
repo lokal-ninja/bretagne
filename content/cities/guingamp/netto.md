@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /guingamp/netto/
-shop: Warenhaus
+shop: grand magasin
 ---

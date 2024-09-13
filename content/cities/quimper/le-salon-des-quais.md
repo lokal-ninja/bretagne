@@ -1,5 +1,5 @@
 ---
 title: "Le Salon des Quais"
 url: /quimper/le-salon-des-quais/
-shop: Friseur
+shop: coiffeur
 ---

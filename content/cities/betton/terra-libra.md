@@ -1,5 +1,5 @@
 ---
 title: "Terra Libra"
 url: /betton/terra-libra/
-shop: Baustoffe
+shop: commerce
 ---

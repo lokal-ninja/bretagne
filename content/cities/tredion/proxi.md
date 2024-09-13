@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /tredion/proxi/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

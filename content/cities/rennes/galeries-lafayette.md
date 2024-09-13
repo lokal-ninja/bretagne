@@ -1,5 +1,5 @@
 ---
 title: "Galeries Lafayette"
 url: /rennes/galeries-lafayette/
-shop: Warenhaus
+shop: grand magasin
 ---

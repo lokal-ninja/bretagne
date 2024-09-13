@@ -1,5 +1,5 @@
 ---
 title: "Yotsuya"
 url: /rennes/yotsuya/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

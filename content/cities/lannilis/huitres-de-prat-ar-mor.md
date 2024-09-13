@@ -1,5 +1,5 @@
 ---
 title: "Huitres de Prat ar Mor"
 url: /lannilis/huitres-de-prat-ar-mor/
-shop: Fisch
+shop: fruits de mer
 ---

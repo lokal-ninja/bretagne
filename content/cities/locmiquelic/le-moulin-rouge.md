@@ -1,5 +1,5 @@
 ---
 title: "Le Moulin Rouge"
 url: /locmiquelic/le-moulin-rouge/
-shop: Bäckerei
+shop: boulangerie
 ---

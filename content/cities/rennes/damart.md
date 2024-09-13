@@ -1,5 +1,5 @@
 ---
 title: "Damart"
 url: /rennes/damart/
-shop: Kleidung
+shop: vêtements
 ---

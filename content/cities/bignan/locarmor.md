@@ -1,5 +1,5 @@
 ---
 title: "Locarmor"
 url: /bignan/locarmor/
-shop: Mieten
+shop: location de stockage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /domloup/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Douchkanine"
 url: /morlaix/douchkanine/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

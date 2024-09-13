@@ -1,5 +1,5 @@
 ---
 title: "Kashgar"
 url: /morlaix/kashgar/
-shop: Feinkost
+shop: charcuterie
 ---

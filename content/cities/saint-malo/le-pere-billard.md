@@ -1,5 +1,5 @@
 ---
 title: "Le Père Billard"
 url: /saint-malo/le-pere-billard/
-shop: Fisch
+shop: fruits de mer
 ---

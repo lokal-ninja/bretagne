@@ -1,5 +1,5 @@
 ---
 title: "Clopinette Cigarette"
 url: /lorient/clopinette-cigarette/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alteracig Cigarette"
 url: /pont-labbe/alteracig-cigarette/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

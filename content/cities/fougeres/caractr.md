@@ -1,5 +1,5 @@
 ---
 title: "Caract'R"
 url: /fougeres/caractr/
-shop: Friseur
+shop: coiffeur
 ---

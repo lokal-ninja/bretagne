@@ -1,5 +1,5 @@
 ---
 title: "Coriolis Telecom"
 url: /janze/coriolis-telecom/
-shop: Handy
+shop: téléphone portable
 ---

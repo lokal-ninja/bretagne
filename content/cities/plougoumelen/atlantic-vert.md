@@ -1,5 +1,5 @@
 ---
 title: "Atlantic Vert"
 url: /plougoumelen/atlantic-vert/
-shop: Garten-Center
+shop: centre de jardinage
 ---

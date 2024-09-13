@@ -1,5 +1,5 @@
 ---
 title: "Ferme de Roger"
 url: /plouharnel/ferme-de-roger/
-shop: Käse
+shop: fromage
 ---

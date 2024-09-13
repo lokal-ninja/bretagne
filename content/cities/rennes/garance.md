@@ -1,5 +1,5 @@
 ---
 title: "Garance"
 url: /rennes/garance/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

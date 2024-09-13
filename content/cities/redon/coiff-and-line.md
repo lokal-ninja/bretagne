@@ -1,5 +1,5 @@
 ---
 title: "Coiff and Line"
 url: /redon/coiff-and-line/
-shop: Friseur
+shop: coiffeur
 ---

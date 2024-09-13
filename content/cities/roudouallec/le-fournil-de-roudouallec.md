@@ -1,5 +1,5 @@
 ---
 title: "Le Fournil de Roudouallec"
 url: /roudouallec/le-fournil-de-roudouallec/
-shop: Bäckerei
+shop: boulangerie
 ---

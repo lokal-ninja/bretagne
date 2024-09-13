@@ -1,5 +1,5 @@
 ---
 title: "EasyROOL"
 url: /sene/easyrool/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

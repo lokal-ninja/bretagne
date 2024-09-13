@@ -1,5 +1,5 @@
 ---
 title: "Kicéo"
 url: /vannes/kiceo/
-shop: Tickets
+shop: billet
 ---

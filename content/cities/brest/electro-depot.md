@@ -1,5 +1,5 @@
 ---
 title: "Électro Dépôt"
 url: /brest/electro-depot/
-shop: Elektronik
+shop: électronique
 ---

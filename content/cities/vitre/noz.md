@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /vitre/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

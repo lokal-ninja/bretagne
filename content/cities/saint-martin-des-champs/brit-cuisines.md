@@ -1,5 +1,5 @@
 ---
 title: "Brit Cuisines"
 url: /saint-martin-des-champs/brit-cuisines/
-shop: Küchen
+shop: cuisine
 ---

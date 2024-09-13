@@ -1,5 +1,5 @@
 ---
 title: "RougeGorge"
 url: /lannion/rougegorge/
-shop: Kleidung
+shop: vêtements
 ---

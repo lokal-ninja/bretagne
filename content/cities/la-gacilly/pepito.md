@@ -1,5 +1,5 @@
 ---
 title: "Pépito"
 url: /la-gacilly/pepito/
-shop: Kleidung
+shop: vêtements
 ---

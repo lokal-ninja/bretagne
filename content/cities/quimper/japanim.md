@@ -1,5 +1,5 @@
 ---
 title: "Japanim"
 url: /quimper/japanim/
-shop: Anime
+shop: anime
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Disgroup"
 url: /ploumagoar/disgroup/
-shop: Supermarkt
+shop: supermarché
 ---

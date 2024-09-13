@@ -1,5 +1,5 @@
 ---
 title: "Natur'elles"
 url: /auray/naturelles/
-shop: Kleidung
+shop: vêtements
 ---

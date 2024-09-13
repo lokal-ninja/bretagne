@@ -1,5 +1,5 @@
 ---
 title: "Mist-Maker"
 url: /quimperle/mist-maker/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Feeling"
 url: /gourin/salon-feeling/
-shop: Friseur
+shop: coiffeur
 ---

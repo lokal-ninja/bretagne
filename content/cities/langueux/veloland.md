@@ -1,5 +1,5 @@
 ---
 title: "Veloland"
 url: /langueux/veloland/
-shop: Fahrrad
+shop: vélo
 ---

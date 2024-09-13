@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /janze/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

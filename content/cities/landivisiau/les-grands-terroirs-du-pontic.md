@@ -1,5 +1,5 @@
 ---
 title: "Les grands terroirs du pontic"
 url: /landivisiau/les-grands-terroirs-du-pontic/
-shop: Metzgerei
+shop: boucherie
 ---

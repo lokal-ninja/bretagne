@@ -1,5 +1,5 @@
 ---
 title: "Celtys"
 url: /lorient/celtys/
-shop: Baustoffe
+shop: commerce
 ---

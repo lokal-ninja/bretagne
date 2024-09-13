@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /plerin/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

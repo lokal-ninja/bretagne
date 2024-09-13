@@ -1,5 +1,5 @@
 ---
 title: "Like cigarette electronique Gouesnou"
 url: /gouesnou/like-cigarette-electronique-gouesnou/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

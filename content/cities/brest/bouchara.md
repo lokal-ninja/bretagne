@@ -1,5 +1,5 @@
 ---
 title: "Bouchara"
 url: /brest/bouchara/
-shop: Kleidung
+shop: vêtements
 ---

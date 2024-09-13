@@ -1,5 +1,5 @@
 ---
 title: "One Step"
 url: /quimper/one-step/
-shop: Kleidung
+shop: vêtements
 ---

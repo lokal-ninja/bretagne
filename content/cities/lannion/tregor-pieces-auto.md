@@ -1,5 +1,5 @@
 ---
 title: "Trégor Pièces Auto"
 url: /lannion/tregor-pieces-auto/
-shop: Autoteile
+shop: pièces de voitures
 ---

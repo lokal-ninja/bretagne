@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /guichen/citroen/
-shop: Autohaus
+shop: voiture
 ---

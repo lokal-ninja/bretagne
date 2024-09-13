@@ -1,5 +1,5 @@
 ---
 title: "Cara Fermetures"
 url: /goven/cara-fermetures/
-shop: Türen
+shop: portes
 ---

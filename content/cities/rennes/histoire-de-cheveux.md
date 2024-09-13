@@ -1,5 +1,5 @@
 ---
 title: "Histoire de Cheveux"
 url: /rennes/histoire-de-cheveux/
-shop: Friseur
+shop: coiffeur
 ---

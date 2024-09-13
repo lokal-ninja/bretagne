@@ -1,5 +1,5 @@
 ---
 title: "Casino Shop"
 url: /vannes/casino-shop/
-shop: Lebensmittel
+shop: commodité
 ---

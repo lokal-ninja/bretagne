@@ -1,5 +1,5 @@
 ---
 title: "F.M. Automobiles"
 url: /vannes/f-m-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

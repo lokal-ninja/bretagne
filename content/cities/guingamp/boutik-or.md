@@ -1,5 +1,5 @@
 ---
 title: "Boutik or"
 url: /guingamp/boutik-or/
-shop: Schmuck
+shop: bijoux
 ---

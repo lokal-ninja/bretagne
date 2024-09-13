@@ -1,5 +1,5 @@
 ---
 title: "Saphira"
 url: /guingamp/saphira/
-shop: Leder
+shop: cuir
 ---

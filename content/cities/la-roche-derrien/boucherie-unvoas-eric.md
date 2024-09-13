@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Unvoas Eric"
 url: /la-roche-derrien/boucherie-unvoas-eric/
-shop: Metzgerei
+shop: boucherie
 ---

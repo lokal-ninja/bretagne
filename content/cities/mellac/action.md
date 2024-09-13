@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /mellac/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

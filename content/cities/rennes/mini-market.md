@@ -1,5 +1,5 @@
 ---
 title: "Mini Market"
 url: /rennes/mini-market/
-shop: Lebensmittel
+shop: commodité
 ---

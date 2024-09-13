@@ -1,5 +1,5 @@
 ---
 title: "Delko"
 url: /chantepie/delko/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

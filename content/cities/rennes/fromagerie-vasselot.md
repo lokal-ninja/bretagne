@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie Vasselot"
 url: /rennes/fromagerie-vasselot/
-shop: Käse
+shop: fromage
 ---

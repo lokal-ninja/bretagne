@@ -1,5 +1,5 @@
 ---
 title: "Nicolini Rino"
 url: /rennes/nicolini-rino/
-shop: Fisch
+shop: fruits de mer
 ---

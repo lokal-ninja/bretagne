@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /concarneau/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

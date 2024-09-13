@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /guer/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

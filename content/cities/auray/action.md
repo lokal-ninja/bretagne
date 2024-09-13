@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /auray/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SARL Quiguer Automobiles"
 url: /landevant/sarl-quiguer-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

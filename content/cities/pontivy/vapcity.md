@@ -1,5 +1,5 @@
 ---
 title: "Vapcity"
 url: /pontivy/vapcity/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

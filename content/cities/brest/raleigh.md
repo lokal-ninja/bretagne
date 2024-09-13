@@ -1,5 +1,5 @@
 ---
 title: "Raleigh"
 url: /brest/raleigh/
-shop: Fahrrad
+shop: vélo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Villa florale"
 url: /lorient/villa-florale/
-shop: Blumen
+shop: fleuriste
 ---

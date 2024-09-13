@@ -1,5 +1,5 @@
 ---
 title: "Nell Mod"
 url: /servon-sur-vilaine/nell-mod/
-shop: Friseur
+shop: coiffeur
 ---

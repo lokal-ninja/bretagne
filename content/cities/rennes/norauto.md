@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /rennes/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

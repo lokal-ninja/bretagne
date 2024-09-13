@@ -1,5 +1,5 @@
 ---
 title: "Onaki"
 url: /rennes/onaki/
-shop: Kleidung
+shop: vêtements
 ---

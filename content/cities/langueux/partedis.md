@@ -1,5 +1,5 @@
 ---
 title: "PARTEDIS"
 url: /langueux/partedis/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

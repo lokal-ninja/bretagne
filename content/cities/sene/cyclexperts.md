@@ -1,5 +1,5 @@
 ---
 title: "CyclExperts"
 url: /sene/cyclexperts/
-shop: Fahrrad
+shop: vélo
 ---

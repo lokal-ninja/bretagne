@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou TP"
 url: /caudan/kiloutou-tp/
-shop: Mieten
+shop: location de stockage
 ---

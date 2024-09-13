@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /mordelles/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

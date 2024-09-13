@@ -1,5 +1,5 @@
 ---
 title: "Ty Plant"
 url: /bannalec/ty-plant/
-shop: Kramladen
+shop: magasin de variétés
 ---

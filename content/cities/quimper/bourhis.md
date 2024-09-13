@@ -1,5 +1,5 @@
 ---
 title: "Bourhis"
 url: /quimper/bourhis/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

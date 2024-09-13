@@ -1,5 +1,5 @@
 ---
 title: "Cultivert"
 url: /combourg/cultivert/
-shop: Garten-Center
+shop: centre de jardinage
 ---

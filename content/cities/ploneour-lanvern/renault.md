@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /ploneour-lanvern/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

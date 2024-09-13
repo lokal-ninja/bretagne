@@ -1,5 +1,5 @@
 ---
 title: "Le Quartaut"
 url: /pleneuf-val-andre/le-quartaut/
-shop: Spirituosen
+shop: alcool
 ---

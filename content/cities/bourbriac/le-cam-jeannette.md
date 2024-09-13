@@ -1,5 +1,5 @@
 ---
 title: "Le Cam Jeannette"
 url: /bourbriac/le-cam-jeannette/
-shop: Friseur
+shop: coiffeur
 ---

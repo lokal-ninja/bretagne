@@ -1,5 +1,5 @@
 ---
 title: "Coopérative Maritime Paimpol"
 url: /paimpol/cooperative-maritime-paimpol/
-shop: Baustoffe
+shop: commerce
 ---

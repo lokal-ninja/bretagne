@@ -1,5 +1,5 @@
 ---
 title: "DZ BOIS"
 url: /douarnenez/dz-bois/
-shop: Holz
+shop: bois
 ---

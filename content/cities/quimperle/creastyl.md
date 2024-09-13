@@ -1,5 +1,5 @@
 ---
 title: "Créa'Styl"
 url: /quimperle/creastyl/
-shop: Friseur
+shop: coiffeur
 ---

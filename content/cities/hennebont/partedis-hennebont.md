@@ -1,5 +1,5 @@
 ---
 title: "Partedis Hennebont"
 url: /hennebont/partedis-hennebont/
-shop: Baustoffe
+shop: commerce
 ---

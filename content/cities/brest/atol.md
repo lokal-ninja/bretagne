@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /brest/atol/
-shop: Optiker
+shop: opticien
 ---

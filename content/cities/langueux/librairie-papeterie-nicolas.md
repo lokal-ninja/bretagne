@@ -1,5 +1,5 @@
 ---
 title: "Librairie papeterie Nicolas"
 url: /langueux/librairie-papeterie-nicolas/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

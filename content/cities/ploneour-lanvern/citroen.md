@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /ploneour-lanvern/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

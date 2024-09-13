@@ -1,5 +1,5 @@
 ---
 title: "Glastint"
 url: /caudan/glastint/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

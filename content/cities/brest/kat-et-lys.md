@@ -1,5 +1,5 @@
 ---
 title: "Kat et Lys"
 url: /brest/kat-et-lys/
-shop: Blumen
+shop: fleuriste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GeefTee"
 url: /rennes/geeftee/
-shop: Kleidung
+shop: vêtements
 ---

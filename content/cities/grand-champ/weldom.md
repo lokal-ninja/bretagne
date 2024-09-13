@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /grand-champ/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

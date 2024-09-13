@@ -1,5 +1,5 @@
 ---
 title: "Scoot Xtrem"
 url: /brest/scoot-xtrem/
-shop: Motorrad
+shop: moto
 ---
