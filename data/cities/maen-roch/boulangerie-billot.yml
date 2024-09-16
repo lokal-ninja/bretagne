@@ -1,11 +1,11 @@
 id: 127941193
-type: way
+type: node
 latitude: 48.40316
 longitude: -1.32604
 postcode: "35460"
 city: Maen Roch
-street: "Rue Charles de Gaulle - Saint-Etienne-en-Coglès"
-housenumber: 56
+street: Rue Charles de Gaulle - Saint-Etienne-en-Coglès
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

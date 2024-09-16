@@ -4,8 +4,8 @@ latitude: 48.5989
 longitude: -1.97311
 postcode: "35430"
 city: Saint-Jouan-des-Guérets
-street: "Place de l'Église"
-housenumber: 9
-phone: "+33 2 99 58 12 38"
-opening_hours: "Mo-We 07:00-20:00; Fr-Sa 07:00-20:00; Su 7:00-14:00,15:30-20:00"
-website: "https://auxdelicesdesaintjouan.maboulangerie.com/about"
+street: Place de l'Église
+housenumber: "9"
+phone: +33 2 99 58 12 38
+opening_hours: Mo-We 07:00-20:00; Fr-Sa 07:00-20:00; Su 7:00-14:00,15:30-20:00
+website: https://auxdelicesdesaintjouan.maboulangerie.com/about

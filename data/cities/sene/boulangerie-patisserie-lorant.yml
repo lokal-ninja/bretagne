@@ -1,11 +1,11 @@
 id: 125423526
-type: way
+type: node
 latitude: 47.65329
 longitude: -2.73434
 postcode: "56860"
 city: Séné
-street: "Route de Nantes"
-housenumber: 29
-phone: "+33 2 97 54 35 30"
-opening_hours: "Mo-Sa 06:30-19:00; Tu,We off; Su 06:00-19:00"
-website: "https://www.boulangerie-patisserie-lorant.fr/"
+street: Route de Nantes
+housenumber: "29"
+phone: +33 2 97 54 35 30
+opening_hours: Mo-Sa 06:30-19:00; Tu,We off; Su 06:00-19:00
+website: https://www.boulangerie-patisserie-lorant.fr/

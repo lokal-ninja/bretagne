@@ -1,11 +1,11 @@
 id: 250651860
-type: way
+type: node
 latitude: 48.76065
 longitude: -3.45325
 postcode: "22700"
 city: Saint-Quay-Perros
-street: "Z.A. Keringant"
-housenumber: 
-phone: "+33 2 96 48 83 40"
+street: Z.A. Keringant
+housenumber: ""
+phone: +33 2 96 48 83 40
 opening_hours: ""
-website: "http://www.cavedutregor.com/"
+website: http://www.cavedutregor.com/

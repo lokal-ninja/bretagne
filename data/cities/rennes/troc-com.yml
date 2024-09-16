@@ -1,11 +1,11 @@
 id: 80669214
-type: way
+type: node
 latitude: 48.1297
 longitude: -1.64075
 postcode: "35700"
 city: Rennes
-street: "Route de Fougères"
-housenumber: 288
-phone: "+33 2 99 36 36 36"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.troc.com/"
+street: Route de Fougères
+housenumber: "288"
+phone: +33 2 99 36 36 36
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.troc.com/

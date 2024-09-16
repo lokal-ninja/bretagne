@@ -1,11 +1,11 @@
 id: 116586125
-type: way
+type: node
 latitude: 48.56221
 longitude: -3.14663
 postcode: "22200"
 city: Guingamp
 street: ""
-housenumber: 10
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

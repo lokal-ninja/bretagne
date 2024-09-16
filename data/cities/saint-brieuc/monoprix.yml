@@ -4,8 +4,8 @@ latitude: 48.51147
 longitude: -2.7599
 postcode: "22000"
 city: Saint-Brieuc
-street: "Rue Sainte-Barbe"
-housenumber: 1
-phone: "+33 2 96 62 64 50"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.monoprix.fr/1355.html"
+street: Rue Sainte-Barbe
+housenumber: "1"
+phone: +33 2 96 62 64 50
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.monoprix.fr/1355.html

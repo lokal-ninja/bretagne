@@ -4,8 +4,8 @@ latitude: 48.40579
 longitude: -4.0786
 postcode: "29450"
 city: Sizun
-street: "Place Charles de Gaulle"
-housenumber: 3
-phone: "+33 2 98 68 81 59"
-opening_hours: "Mo-Sa 08:30-12:30,14:00-19:15; Su 09:00-12:30"
+street: Place Charles de Gaulle
+housenumber: "3"
+phone: +33 2 98 68 81 59
+opening_hours: Mo-Sa 08:30-12:30,14:00-19:15; Su 09:00-12:30
 website: ""

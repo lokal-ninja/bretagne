@@ -1,11 +1,11 @@
 id: 81785009
-type: way
+type: node
 latitude: 48.1151
 longitude: -1.5886
 postcode: "35510"
 city: Cesson-Sévigné
-street: "Rue de la Rigourdière"
-housenumber: 36
-phone: "+33 2 23 45 15 36"
+street: Rue de la Rigourdière
+housenumber: "36"
+phone: +33 2 23 45 15 36
 opening_hours: ""
-website: "https://www.comme-un-poisson-dans-l-eau.fr/"
+website: https://www.comme-un-poisson-dans-l-eau.fr/

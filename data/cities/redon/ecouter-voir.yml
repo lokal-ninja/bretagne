@@ -4,8 +4,8 @@ latitude: 47.65016
 longitude: -2.08486
 postcode: "35600"
 city: Redon
-street: "Grande Rue"
-housenumber: 4
-phone: "+33 2 99 72 50 00"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.ecoutervoir.fr/trouver-un-magasin/redon/"
+street: Grande Rue
+housenumber: "4"
+phone: +33 2 99 72 50 00
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://www.ecoutervoir.fr/trouver-un-magasin/redon/

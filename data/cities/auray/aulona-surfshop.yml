@@ -1,11 +1,11 @@
 id: 197225307
-type: way
+type: node
 latitude: 47.66278
 longitude: -3.01456
 postcode: "56400"
 city: Auray
-street: "Avenue Roland Garros"
-housenumber: 3
-phone: "+33 2 97 24 18 29"
+street: Avenue Roland Garros
+housenumber: "3"
+phone: +33 2 97 24 18 29
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 358255200
-type: way
+type: node
 latitude: 47.85601
 longitude: -1.68057
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue de la Seine"
-housenumber: 34
-phone: "+33 2 99 43 95 86"
+street: Rue de la Seine
+housenumber: "34"
+phone: +33 2 99 43 95 86
 opening_hours: ""
-website: "https://www.bretagne-materiaux.fr/"
+website: https://www.bretagne-materiaux.fr/

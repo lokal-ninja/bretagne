@@ -5,7 +5,7 @@ longitude: -1.5143
 postcode: "35410"
 city: Châteaugiron
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33299375431"
-opening_hours: "Mo-Fr 10:00-12:30, 14:00-19:00; Sa 10:00-19:00"
-website: "https://www.whosback.fr/whos-back-chateaugiron/"
+opening_hours: Mo-Fr 10:00-12:30, 14:00-19:00; Sa 10:00-19:00
+website: https://www.whosback.fr/whos-back-chateaugiron/

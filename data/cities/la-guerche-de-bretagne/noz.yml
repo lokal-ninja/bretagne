@@ -1,11 +1,11 @@
 id: 111227279
-type: way
+type: node
 latitude: 47.94042
 longitude: -1.22919
 postcode: "35130"
 city: La Guerche-de-Bretagne
-street: "Rue Henri Platier"
-housenumber: 12
+street: Rue Henri Platier
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/la-guerche-de-bretagne/"
+website: https://nozarrivages.com/magasin/la-guerche-de-bretagne/

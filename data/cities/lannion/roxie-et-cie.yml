@@ -1,11 +1,11 @@
 id: 117325911
-type: way
+type: node
 latitude: 48.73938
 longitude: -3.46644
 postcode: "22300"
 city: Lannion
-street: "route de trebeurden"
-housenumber: 5
-phone: "+332 96 13 96 12"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-19:00"
-website: "https://roxieetcie.fr"
+street: route de trebeurden
+housenumber: "5"
+phone: +332 96 13 96 12
+opening_hours: Mo-Sa 09:30-12:30,14:00-19:00
+website: https://roxieetcie.fr

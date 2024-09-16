@@ -4,8 +4,8 @@ latitude: 48.0424
 longitude: -1.5151
 postcode: "35410"
 city: Châteaugiron
-street: "Rue des Comptoirs"
-housenumber: 11
+street: Rue des Comptoirs
+housenumber: "11"
 phone: "+33223279796"
-opening_hours: "Mo,Th 14:30-19:00; Tu-We, Fr 10:00-13:00, 14:30-19:00; Sa 10:00-19:00"
-website: "https://www.deco-pure.com/"
+opening_hours: Mo,Th 14:30-19:00; Tu-We, Fr 10:00-13:00, 14:30-19:00; Sa 10:00-19:00
+website: https://www.deco-pure.com/

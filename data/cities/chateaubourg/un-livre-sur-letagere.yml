@@ -4,8 +4,8 @@ latitude: 48.10872
 longitude: -1.40485
 postcode: "35220"
 city: Châteaubourg
-street: "Cour des Artistes, Rue de Paris"
-housenumber: 1
+street: Cour des Artistes, Rue de Paris
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 14:30-19:00, Tu,We,Fr,Sa 10:00-13:00"
-website: "https://www.unlivresurletagere.fr/"
+opening_hours: Mo-Sa 14:30-19:00, Tu,We,Fr,Sa 10:00-13:00
+website: https://www.unlivresurletagere.fr/

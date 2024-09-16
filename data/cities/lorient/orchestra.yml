@@ -4,8 +4,8 @@ latitude: 47.76764
 longitude: -3.39572
 postcode: "56100"
 city: Lorient
-street: "Rue de l'Étang"
-housenumber: 1
-phone: "+33 2 97 87 20 55"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Rue de l'Étang
+housenumber: "1"
+phone: +33 2 97 87 20 55
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

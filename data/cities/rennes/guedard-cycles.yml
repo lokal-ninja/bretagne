@@ -4,8 +4,8 @@ latitude: 48.10374
 longitude: -1.67575
 postcode: "35000"
 city: Rennes
-street: "Boulevard Beaumont"
-housenumber: 13
-phone: "+33 2 99 30 43 78"
-opening_hours: "Mo 14:00-19:00; Tu-Th 09:00-12:30,14:00-19:00; Fr 10:00-19:00; Sa 09:00-18:30"
-website: "http://cycles-guedard.com"
+street: Boulevard Beaumont
+housenumber: "13"
+phone: +33 2 99 30 43 78
+opening_hours: Mo 14:00-19:00; Tu-Th 09:00-12:30,14:00-19:00; Fr 10:00-19:00; Sa 09:00-18:30
+website: http://cycles-guedard.com

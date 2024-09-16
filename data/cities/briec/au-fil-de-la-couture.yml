@@ -4,8 +4,9 @@ latitude: 48.10158
 longitude: -4.00066
 postcode: "29510"
 city: Briec
-street: "Rue de la Victoire"
-housenumber: 14
+street: Rue de la Victoire
+housenumber: "14"
 phone: ""
-opening_hours: "Mo,We 14:30-18:30; Tu,Th 09:30-12:30,14:30-18:30; Fr 09:30-12:30,14:30-19:00; Sa 09:30-12:30,14:30-18:00; Su,PH off"
-website: "https://aufildelacouture.fr/"
+opening_hours: Mo,We 14:30-18:30; Tu,Th 09:30-12:30,14:30-18:30; Fr 09:30-12:30,14:30-19:00;
+    Sa 09:30-12:30,14:30-18:00; Su,PH off
+website: https://aufildelacouture.fr/

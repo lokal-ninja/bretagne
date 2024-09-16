@@ -4,8 +4,8 @@ latitude: 48.1094
 longitude: -1.64597
 postcode: "35000"
 city: Rennes
-street: "Avenue Jorge Semprún"
-housenumber: 10
-phone: "02 23 28 21 35"
-opening_hours: "Inconnus"
-website: "https://www.biomonde.fr/le-petit-bio,3,458"
+street: Avenue Jorge Semprún
+housenumber: "10"
+phone: 02 23 28 21 35
+opening_hours: Inconnus
+website: https://www.biomonde.fr/le-petit-bio,3,458

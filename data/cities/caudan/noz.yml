@@ -1,11 +1,11 @@
 id: 70871733
-type: way
+type: node
 latitude: 47.78403
 longitude: -3.34268
 postcode: "56850"
 city: Caudan
-street: "Rue Ty Pichon"
-housenumber: 
+street: Rue Ty Pichon
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://nozarrivages.com/magasin/caudan/"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://nozarrivages.com/magasin/caudan/

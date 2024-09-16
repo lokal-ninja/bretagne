@@ -1,11 +1,11 @@
 id: 80942255
-type: way
+type: node
 latitude: 48.11431
 longitude: -1.64829
 postcode: ""
 city: Rennes
-street: "Avenue du Général Leclerc"
-housenumber: 211
+street: Avenue du Général Leclerc
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

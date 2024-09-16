@@ -4,8 +4,8 @@ latitude: 48.05737
 longitude: -1.87095
 postcode: "35310"
 city: Bréal-sous-Montfort
-street: "Rue de Montfort"
-housenumber: 53
+street: Rue de Montfort
+housenumber: "53"
 phone: "+33223411020"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-breal-sous-montfort"
+opening_hours: Mo-Sa 08:30-19:30; Su 09:30-12:30
+website: https://www.carrefour.fr/magasin/market-breal-sous-montfort

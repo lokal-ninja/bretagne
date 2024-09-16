@@ -1,11 +1,11 @@
 id: 94491237
-type: way
+type: node
 latitude: 48.49351
 longitude: -2.79599
 postcode: "22440"
 city: Ploufragan
-street: "Rue de la Croix Fichet"
-housenumber: 7
+street: Rue de la Croix Fichet
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Sa 09:00-20:00; Su 09:00-12:00"
+opening_hours: Tu-Sa 09:00-20:00; Su 09:00-12:00
 website: ""

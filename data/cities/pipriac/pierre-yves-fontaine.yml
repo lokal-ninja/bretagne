@@ -1,11 +1,11 @@
 id: 120202348
-type: way
+type: node
 latitude: 47.8083
 longitude: -1.94617
 postcode: "35550"
 city: Pipriac
-street: "Place de Verdun"
-housenumber: 9
-phone: "+33 2 99 34 42 13"
+street: Place de Verdun
+housenumber: "9"
+phone: +33 2 99 34 42 13
 opening_hours: ""
 website: ""

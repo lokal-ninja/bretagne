@@ -1,11 +1,11 @@
 id: 111381445
-type: way
+type: node
 latitude: 48.36407
 longitude: -1.22746
 postcode: "35133"
 city: Lécousse
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.coursesu.com/"
+website: https://www.coursesu.com/

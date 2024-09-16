@@ -4,8 +4,8 @@ latitude: 48.09265
 longitude: -4.32687
 postcode: "29100"
 city: Douarnenez
-street: "Rue des Plomarc'h"
-housenumber: 20
-phone: "+33 2 98923724"
-opening_hours: "Mo-Sa 06:15-19:30"
-website: "https://www.kouign-douarnenez.com/"
+street: Rue des Plomarc'h
+housenumber: "20"
+phone: +33 2 98923724
+opening_hours: Mo-Sa 06:15-19:30
+website: https://www.kouign-douarnenez.com/

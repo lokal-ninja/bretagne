@@ -4,8 +4,8 @@ latitude: 47.65547
 longitude: -2.75807
 postcode: "56000"
 city: Vannes
-street: "Place du Poids-Public"
-housenumber: 5
+street: Place du Poids-Public
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Sa 09:30-13:00,15:00-19:00"
-website: "https://leverredoseur.fr/"
+opening_hours: Tu-Sa 09:30-13:00,15:00-19:00
+website: https://leverredoseur.fr/

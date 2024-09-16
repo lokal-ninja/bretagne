@@ -1,11 +1,11 @@
 id: 117239103
-type: way
+type: node
 latitude: 48.73128
 longitude: -3.45905
 postcode: "22300"
 city: Lannion
-street: "Rue des Augustins"
-housenumber: 13
-phone: "+33 2 96 46 47 01"
-opening_hours: "Mo-Fr 09:30-19:00; Th,Sa 09:00-19:00"
-website: "https://www.jules.com/fr-fr/magasins/16001220/"
+street: Rue des Augustins
+housenumber: "13"
+phone: +33 2 96 46 47 01
+opening_hours: Mo-Fr 09:30-19:00; Th,Sa 09:00-19:00
+website: https://www.jules.com/fr-fr/magasins/16001220/

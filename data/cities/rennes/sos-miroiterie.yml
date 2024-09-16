@@ -4,8 +4,8 @@ latitude: 48.10898
 longitude: -1.65863
 postcode: "35000"
 city: Rennes
-street: "Rue Saint-Pol Roux"
-housenumber: 2
+street: Rue Saint-Pol Roux
+housenumber: "2"
 phone: ""
-opening_hours: "sur rendez-vous"
+opening_hours: '"sur rendez-vous"'
 website: ""

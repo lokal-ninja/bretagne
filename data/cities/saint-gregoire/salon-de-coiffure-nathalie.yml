@@ -4,8 +4,8 @@ latitude: 48.15192
 longitude: -1.68893
 postcode: "35760"
 city: Saint-Grégoire
-street: "Rue du Champ Marqué"
-housenumber: 30
-phone: "+33 2 99 68 85 93"
-opening_hours: "Tu-Th 09:00-12:00,14:00-19:00; Fr 08:30-19:00; Sa 08:30-18:00"
-website: "https://www.coiffurenathalie-saintgregoire.fr/"
+street: Rue du Champ Marqué
+housenumber: "30"
+phone: +33 2 99 68 85 93
+opening_hours: Tu-Th 09:00-12:00,14:00-19:00; Fr 08:30-19:00; Sa 08:30-18:00
+website: https://www.coiffurenathalie-saintgregoire.fr/

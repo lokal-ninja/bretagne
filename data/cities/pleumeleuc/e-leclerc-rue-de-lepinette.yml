@@ -1,11 +1,11 @@
 id: 440999210
-type: way
+type: node
 latitude: 48.17625
 longitude: -1.9174
 postcode: "35137"
 city: Pleumeleuc
-street: "Rue de l'Épinette"
-housenumber: 6
-phone: "+33 2 99 06 15 15"
-opening_hours: "Mo-Sa 09:00-19:30; Fr 09:00-20:00"
+street: Rue de l'Épinette
+housenumber: "6"
+phone: +33 2 99 06 15 15
+opening_hours: Mo-Sa 09:00-19:30; Fr 09:00-20:00
 website: ""

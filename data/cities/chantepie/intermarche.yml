@@ -1,11 +1,11 @@
 id: 430091359
-type: way
+type: node
 latitude: 48.08745
 longitude: -1.62137
 postcode: "35135"
 city: Chantepie
-street: "Place des Marelles"
-housenumber: 
+street: Place des Marelles
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

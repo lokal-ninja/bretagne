@@ -4,8 +4,8 @@ latitude: 48.17419
 longitude: -1.72405
 postcode: "35520"
 city: La Chapelle-des-Fougeretz
-street: "Route du Meuble"
-housenumber: 47
-phone: "+33 2 99 66 44 88"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-12:00, 14:00-19:00"
-website: "https://www.cuisines-morel.com/"
+street: Route du Meuble
+housenumber: "47"
+phone: +33 2 99 66 44 88
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-12:00, 14:00-19:00
+website: https://www.cuisines-morel.com/

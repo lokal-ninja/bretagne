@@ -1,11 +1,11 @@
 id: 80710941
-type: way
+type: node
 latitude: 48.0976
 longitude: -1.64322
 postcode: "35000"
 city: Rennes
-street: "Rue de Châteaugiron"
-housenumber: 182
-phone: "+33 2 99 53 89 16"
-opening_hours: "24/7"
+street: Rue de Châteaugiron
+housenumber: "182"
+phone: +33 2 99 53 89 16
+opening_hours: 24/7
 website: ""

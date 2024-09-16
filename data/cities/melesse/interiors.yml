@@ -1,11 +1,11 @@
 id: 46805280
-type: way
+type: node
 latitude: 48.1851
 longitude: -1.7242
 postcode: "35520"
 city: Melesse
-street: "Rue Besneraye"
-housenumber: 
-phone: "+33 2 99 63 78 62"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-12:30, 14:00-19:00; Sa 10:00-19:00"
-website: "https://www.interiors.fr/magasins-meubles-et-decorations/entry-61-rennes.html"
+street: Rue Besneraye
+housenumber: ""
+phone: +33 2 99 63 78 62
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-12:30, 14:00-19:00; Sa 10:00-19:00
+website: https://www.interiors.fr/magasins-meubles-et-decorations/entry-61-rennes.html

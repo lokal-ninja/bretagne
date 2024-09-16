@@ -1,11 +1,11 @@
 id: 66856221
-type: way
+type: node
 latitude: 47.97097
 longitude: -1.79096
 postcode: "35580"
 city: Guichen
-street: "Rue des Frères Lumière"
-housenumber: 2
+street: Rue des Frères Lumière
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

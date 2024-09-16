@@ -1,11 +1,11 @@
 id: 167336988
-type: way
+type: node
 latitude: 47.63415
 longitude: -2.82265
 postcode: "56610"
 city: Arradon
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.magasins-u.com/"
+opening_hours: 24/7
+website: https://www.magasins-u.com/

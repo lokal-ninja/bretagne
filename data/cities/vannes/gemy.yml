@@ -1,11 +1,11 @@
 id: 144036242
-type: way
+type: node
 latitude: 47.66908
 longitude: -2.78705
 postcode: "56000"
 city: Vannes
-street: "Rue Gertrude Bell"
-housenumber: 3
-phone: "+33 2 97 63 27 27"
+street: Rue Gertrude Bell
+housenumber: "3"
+phone: +33 2 97 63 27 27
 opening_hours: ""
-website: "https://www.gemy.fr/"
+website: https://www.gemy.fr/

@@ -4,8 +4,8 @@ latitude: 48.10907
 longitude: -1.73145
 postcode: "35000"
 city: Rennes
-street: "Rue Léon Berthault"
-housenumber: 7
+street: Rue Léon Berthault
+housenumber: "7"
 phone: "+33223300700"
 opening_hours: ""
-website: "https://www.aveltec.fr/"
+website: https://www.aveltec.fr/

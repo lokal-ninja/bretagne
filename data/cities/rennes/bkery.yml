@@ -4,8 +4,8 @@ latitude: 48.11023
 longitude: -1.68749
 postcode: "35000"
 city: Rennes
-street: "Mail François Mitterrand"
-housenumber: 16
-phone: "+33 2 30 21 10 09"
-opening_hours: "Tu-Sa 08:00-18:00"
-website: "https://ohmyb.fr/bkery/"
+street: Mail François Mitterrand
+housenumber: "16"
+phone: +33 2 30 21 10 09
+opening_hours: Tu-Sa 08:00-18:00
+website: https://ohmyb.fr/bkery/

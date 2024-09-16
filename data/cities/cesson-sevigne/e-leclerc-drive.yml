@@ -1,11 +1,11 @@
 id: 359946928
-type: way
+type: node
 latitude: 48.10781
 longitude: -1.61799
 postcode: "35510"
 city: Cesson-Sévigné
-street: "Rue de Bray"
-housenumber: 21
-phone: "+33 2 23 30 05 05"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.leclercdrive.fr/"
+street: Rue de Bray
+housenumber: "21"
+phone: +33 2 23 30 05 05
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.leclercdrive.fr/

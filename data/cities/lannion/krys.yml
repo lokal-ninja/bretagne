@@ -1,11 +1,11 @@
 id: 117239105
-type: way
+type: node
 latitude: 48.73126
 longitude: -3.45912
 postcode: "22300"
 city: Lannion
-street: "Rue des Augustins"
-housenumber: 11
+street: Rue des Augustins
+housenumber: "11"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-12:30,14:00-19:00"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-12:30,14:00-19:00
 website: ""

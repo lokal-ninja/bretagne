@@ -1,11 +1,11 @@
 id: 249269174
-type: way
+type: node
 latitude: 48.08059
 longitude: -1.83484
 postcode: "35310"
 city: Mordelles
-street: "Avenue des Platanes"
-housenumber: 6
+street: Avenue des Platanes
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

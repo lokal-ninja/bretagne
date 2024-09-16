@@ -1,11 +1,11 @@
 id: 336857824
-type: way
+type: node
 latitude: 47.90009
 longitude: -2.83722
 postcode: "56500"
 city: Moréac
 street: ""
-housenumber: 
-phone: "+33 2 97 25 42 66"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.leclercdrive.fr/region-bretagne/pontivy/drive-moreac.aspx"
+housenumber: ""
+phone: +33 2 97 25 42 66
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.leclercdrive.fr/region-bretagne/pontivy/drive-moreac.aspx

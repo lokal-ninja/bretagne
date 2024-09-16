@@ -4,8 +4,8 @@ latitude: 48.09271
 longitude: -4.32997
 postcode: "29100"
 city: Douarnenez
-street: "Rue Duguay-Trouin"
-housenumber: 14
-phone: "+33 6 67957279"
-opening_hours: "Tu-Sa 09:30-13:00,15:00-19:00"
-website: "https://epicerie-locale.fr/"
+street: Rue Duguay-Trouin
+housenumber: "14"
+phone: +33 6 67957279
+opening_hours: Tu-Sa 09:30-13:00,15:00-19:00
+website: https://epicerie-locale.fr/

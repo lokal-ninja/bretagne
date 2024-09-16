@@ -1,11 +1,11 @@
 id: 118444243
-type: way
+type: node
 latitude: 47.87379
 longitude: -3.9185
 postcode: "29900"
 city: Concarneau
-street: "Avenue Pierre Guéguin"
-housenumber: 19
+street: Avenue Pierre Guéguin
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

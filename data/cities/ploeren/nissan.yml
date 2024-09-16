@@ -1,11 +1,11 @@
 id: 181508165
-type: way
+type: node
 latitude: 47.66419
 longitude: -2.79771
 postcode: "56880"
 city: Ploeren
-street: "Avenue Louis de Cadoudal"
-housenumber: 19
-phone: "+33 2 97 40 03 52"
+street: Avenue Louis de Cadoudal
+housenumber: "19"
+phone: +33 2 97 40 03 52
 opening_hours: ""
-website: "https://www.bodemerauto.com/nissan-vannes"
+website: https://www.bodemerauto.com/nissan-vannes

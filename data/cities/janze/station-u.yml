@@ -1,11 +1,11 @@
 id: 83316131
-type: way
+type: node
 latitude: 47.95863
 longitude: -1.48737
 postcode: "35150"
 city: Janzé
-street: "Boulevard Jean Charcot"
-housenumber: 
+street: Boulevard Jean Charcot
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

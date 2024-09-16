@@ -4,8 +4,9 @@ latitude: 48.64797
 longitude: -2.02634
 postcode: "35400"
 city: Saint-Malo
-street: "Rue Broussais"
-housenumber: 1
-phone: "+33 7 86 76 50 28"
-opening_hours: "Mo 10:30-13:00,14:00-19:30; Th 14:00-19:30; We-Fr 10:30-13:00,14:00-19:00; Sa 10:00-13:00,14:00-19:00; Su 11:00-13:00,14:00-19:00"
-website: "https://www.loding.fr"
+street: Rue Broussais
+housenumber: "1"
+phone: +33 7 86 76 50 28
+opening_hours: Mo 10:30-13:00,14:00-19:30; Th 14:00-19:30; We-Fr 10:30-13:00,14:00-19:00;
+    Sa 10:00-13:00,14:00-19:00; Su 11:00-13:00,14:00-19:00
+website: https://www.loding.fr

@@ -1,11 +1,11 @@
 id: 197228278
-type: way
+type: node
 latitude: 47.66456
 longitude: -2.97707
 postcode: "56400"
 city: Auray
-street: "Rue du Petit Port"
-housenumber: 51
+street: Rue du Petit Port
+housenumber: "51"
 phone: ""
-opening_hours: "11:00-20:00"
-website: "http://galeriedesmoineaux.com/"
+opening_hours: 11:00-20:00
+website: http://galeriedesmoineaux.com/

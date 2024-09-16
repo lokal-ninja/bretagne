@@ -1,11 +1,11 @@
 id: 386708013
-type: way
+type: node
 latitude: 48.09247
 longitude: -1.69287
 postcode: "35136"
 city: Saint-Jacques-de-la-Lande
-street: "Rue de Nantes"
-housenumber: 256
-phone: "+33 2 99 65 14 36"
-opening_hours: "24/7"
-website: "https://www.magasins-u.com"
+street: Rue de Nantes
+housenumber: "256"
+phone: +33 2 99 65 14 36
+opening_hours: 24/7
+website: https://www.magasins-u.com

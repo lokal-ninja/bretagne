@@ -1,11 +1,11 @@
 id: 84342703
-type: way
+type: node
 latitude: 48.18013
 longitude: -1.43828
 postcode: "35340"
 city: La Bouëxière
-street: "Rue de la Forêt"
-housenumber: 44
+street: Rue de la Forêt
+housenumber: "44"
 phone: ""
-opening_hours: "Tu-Sa 06:30-13:15,15:00-19:30; Su 06:30-13:00"
+opening_hours: Tu-Sa 06:30-13:15,15:00-19:30; Su 06:30-13:00
 website: ""

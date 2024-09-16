@@ -1,11 +1,11 @@
 id: 369482185
-type: way
+type: node
 latitude: 48.09311
 longitude: -1.69147
 postcode: "35136"
 city: Saint-Jacques-de-la-Lande
-street: "Rue de Nantes"
-housenumber: 254
-phone: "+33 2 99 35 08 65"
-opening_hours: "Tu-Sa 10:00-12:30,15:00-19:30"
-website: "https://www.cavedes4vents.fr/"
+street: Rue de Nantes
+housenumber: "254"
+phone: +33 2 99 35 08 65
+opening_hours: Tu-Sa 10:00-12:30,15:00-19:30
+website: https://www.cavedes4vents.fr/

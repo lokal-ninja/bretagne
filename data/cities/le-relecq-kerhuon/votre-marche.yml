@@ -1,11 +1,11 @@
 id: 42630288
-type: way
+type: node
 latitude: 48.40638
 longitude: -4.38963
 postcode: "29480"
 city: Le Relecq-Kerhuon
-street: "Rue Brizeux"
-housenumber: 9
+street: Rue Brizeux
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

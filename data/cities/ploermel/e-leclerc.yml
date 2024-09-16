@@ -1,11 +1,11 @@
 id: 147941115
-type: way
+type: node
 latitude: 47.93799
 longitude: -2.4068
 postcode: "56800"
 city: Ploërmel
-street: "Rue du Lac"
-housenumber: 
-phone: "+33 2 97 74 23 10"
-opening_hours: "Mo-Fr 8:30-20:00, Sa 8:30-19:30"
-website: "https://www.e.leclerc/mag/e-leclerc-ploermel"
+street: Rue du Lac
+housenumber: ""
+phone: +33 2 97 74 23 10
+opening_hours: Mo-Fr 8:30-20:00, Sa 8:30-19:30
+website: https://www.e.leclerc/mag/e-leclerc-ploermel

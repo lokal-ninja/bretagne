@@ -4,8 +4,9 @@ latitude: 48.37228
 longitude: -4.59061
 postcode: "29280"
 city: Plouzané
-street: "Rue des Myosotis"
+street: Rue des Myosotis
 housenumber: 7bis
-phone: "+33 2 98 49 16 86"
-opening_hours: "Tu,We 09:00-12:00,14:00-18:30; Th 09:00-12:00,14:00-20:00; Fr 09:00-18:30; Sa 09:00-17:00"
+phone: +33 2 98 49 16 86
+opening_hours: Tu,We 09:00-12:00,14:00-18:30; Th 09:00-12:00,14:00-20:00; Fr 09:00-18:30;
+    Sa 09:00-17:00
 website: ""

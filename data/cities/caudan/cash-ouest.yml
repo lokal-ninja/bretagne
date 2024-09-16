@@ -1,11 +1,11 @@
 id: 70872189
-type: way
+type: node
 latitude: 47.78037
 longitude: -3.35619
 postcode: "56850"
 city: Caudan
-street: "Rue Gustave Eiffel"
-housenumber: 28
-phone: "+33 2 97 81 31 50"
+street: Rue Gustave Eiffel
+housenumber: "28"
+phone: +33 2 97 81 31 50
 opening_hours: ""
-website: "https://www.cashouest.fr/"
+website: https://www.cashouest.fr/

@@ -4,8 +4,8 @@ latitude: 48.35442
 longitude: -1.20213
 postcode: "35300"
 city: Fougères
-street: "Place Aristide Briand"
-housenumber: 6
-phone: "+33 2 99 99 15 94"
-opening_hours: "Tu-Th 09:00-13:30; Fr 09:00-19:00; Sa 08:30-19:00"
+street: Place Aristide Briand
+housenumber: "6"
+phone: +33 2 99 99 15 94
+opening_hours: Tu-Th 09:00-13:30; Fr 09:00-19:00; Sa 08:30-19:00
 website: ""

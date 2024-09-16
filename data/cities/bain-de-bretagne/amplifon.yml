@@ -4,8 +4,8 @@ latitude: 47.84261
 longitude: -1.68088
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Place de la République"
-housenumber: 23
-phone: "+33 2 99 43 82 03"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00"
-website: "https://www.amplifon.com"
+street: Place de la République
+housenumber: "23"
+phone: +33 2 99 43 82 03
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00
+website: https://www.amplifon.com

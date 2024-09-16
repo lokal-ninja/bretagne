@@ -4,8 +4,8 @@ latitude: 48.14588
 longitude: -1.90021
 postcode: "35160"
 city: Breteil
-street: "Rue Joseph Berrée"
-housenumber: 6
-phone: "+33 2 99 61 12 19"
-opening_hours: "Tu,We 10:00-12:30,14:00-19:00; Th,Fr 10:00-19:00; Sa 10:00-17:00"
+street: Rue Joseph Berrée
+housenumber: "6"
+phone: +33 2 99 61 12 19
+opening_hours: Tu,We 10:00-12:30,14:00-19:00; Th,Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

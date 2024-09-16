@@ -1,11 +1,11 @@
 id: 66428622
-type: way
+type: node
 latitude: 47.48411
 longitude: -3.11902
 postcode: "56170"
 city: Quiberon
-street: "Rue de la Gare"
-housenumber: 5
+street: Rue de la Gare
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

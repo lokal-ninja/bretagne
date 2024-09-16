@@ -1,11 +1,11 @@
 id: 71750226
-type: way
+type: node
 latitude: 48.66635
 longitude: -3.91608
 postcode: "29660"
 city: Carantec
-street: "Rue Pasteur"
-housenumber: 41
-phone: "+33 6 22 43 26 54"
+street: Rue Pasteur
+housenumber: "41"
+phone: +33 6 22 43 26 54
 opening_hours: ""
 website: ""

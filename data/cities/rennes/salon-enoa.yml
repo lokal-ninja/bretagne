@@ -4,8 +4,8 @@ latitude: 48.11043
 longitude: -1.69292
 postcode: "35000"
 city: Rennes
-street: "Rue Vaneau"
+street: Rue Vaneau
 housenumber: 23 bis
 phone: "+33223427510"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.salon-enoa-rennes.fr"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.salon-enoa-rennes.fr

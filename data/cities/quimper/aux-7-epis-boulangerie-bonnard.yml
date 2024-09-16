@@ -1,11 +1,11 @@
 id: 94283793
-type: way
+type: node
 latitude: 47.97777
 longitude: -4.01539
 postcode: "29000"
 city: Quimper
-street: "Hent Bihan"
-housenumber: 4
+street: Hent Bihan
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:40"
+opening_hours: Mo-Fr 06:30-19:40
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.62321
 longitude: -2.99647
 postcode: "56950"
 city: Crac'h
-street: "Impasse Lann Kermarquer"
-housenumber: 5
-phone: "+33 2 97 59 24 43"
-opening_hours: "Jul-Aug: Mo-Su 07:00-20:00"
+street: Impasse Lann Kermarquer
+housenumber: "5"
+phone: +33 2 97 59 24 43
+opening_hours: 'Jul-Aug: Mo-Su 07:00-20:00'
 website: ""

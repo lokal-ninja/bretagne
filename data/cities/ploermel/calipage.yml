@@ -1,11 +1,11 @@
 id: 147937678
-type: way
+type: node
 latitude: 47.94378
 longitude: -2.39612
 postcode: "56800"
 city: Ploërmel
-street: "Rue des Huloux"
-housenumber: 
-phone: "+33 2 97 74 17 22"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:30; Sa 09:00-12:00, 14:00-18:00"
-website: "http://www.tbi56-calipage.fr"
+street: Rue des Huloux
+housenumber: ""
+phone: +33 2 97 74 17 22
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:30; Sa 09:00-12:00, 14:00-18:00
+website: http://www.tbi56-calipage.fr

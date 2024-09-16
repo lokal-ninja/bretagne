@@ -4,8 +4,10 @@ latitude: 48.09668
 longitude: -1.69986
 postcode: "35000"
 city: Rennes
-street: "Rue des Munitionnettes"
-housenumber: 42
+street: Rue des Munitionnettes
+housenumber: "42"
 phone: ""
-opening_hours: "Tu 14:00-17:30; We-Sa 14:00-19:00, We[3] 19:00-22:00 open for women, trans, intersex, or self-identifying persons other than as a cisgender man; We[1],We[-1] 14:00-22:00"
+opening_hours: Tu 14:00-17:30; We-Sa 14:00-19:00, We[3] 19:00-22:00 open "for women,
+    trans, intersex, or self-identifying persons other than as a cisgender man"; We[1],We[-1]
+    14:00-22:00
 website: ""

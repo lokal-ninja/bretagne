@@ -4,8 +4,8 @@ latitude: 48.10878
 longitude: -1.69404
 postcode: "35000"
 city: Rennes
-street: "Mail François Mitterrand"
-housenumber: 70
-phone: "+33 2 99 59 35 29"
-opening_hours: "Mo-Fr 08:00-12:30,13:30-18:30"
-website: "https://centres.euromaster.fr/173-euromaster-rennes-mail"
+street: Mail François Mitterrand
+housenumber: "70"
+phone: +33 2 99 59 35 29
+opening_hours: Mo-Fr 08:00-12:30,13:30-18:30
+website: https://centres.euromaster.fr/173-euromaster-rennes-mail

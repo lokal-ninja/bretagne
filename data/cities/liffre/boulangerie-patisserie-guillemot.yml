@@ -1,11 +1,11 @@
 id: 62772602
-type: way
+type: node
 latitude: 48.21339
 longitude: -1.50616
 postcode: "35340"
 city: Liffré
-street: "Avenue du Président François Mitterand"
-housenumber: 18
+street: Avenue du Président François Mitterand
+housenumber: "18"
 phone: "+33299683089"
-opening_hours: "Tu-Sa 07:00-19:30; Su 07:00-13:00"
+opening_hours: Tu-Sa 07:00-19:30; Su 07:00-13:00
 website: ""

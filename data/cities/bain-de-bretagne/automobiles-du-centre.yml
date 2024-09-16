@@ -1,11 +1,11 @@
 id: 358247433
-type: way
+type: node
 latitude: 47.84134
 longitude: -1.68115
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue du Frère Émery"
-housenumber: 6
-phone: "+33 2 99 43 70 39"
+street: Rue du Frère Émery
+housenumber: "6"
+phone: +33 2 99 43 70 39
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 122391589
-type: way
+type: node
 latitude: 47.88733
 longitude: -1.68918
 postcode: "35320"
 city: Poligné
-street: "Rue de Rennes"
-housenumber: 97
-phone: "+33 2 23 08 04 97"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+street: Rue de Rennes
+housenumber: "97"
+phone: +33 2 23 08 04 97
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

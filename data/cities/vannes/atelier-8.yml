@@ -1,11 +1,11 @@
 id: 144155704
-type: way
+type: node
 latitude: 47.67071
 longitude: -2.75699
 postcode: "56000"
 city: Vannes
-street: "Avenue du 4 Août 1944"
-housenumber: 18
+street: Avenue du 4 Août 1944
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

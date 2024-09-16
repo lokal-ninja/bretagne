@@ -1,11 +1,11 @@
 id: 177191798
-type: way
+type: node
 latitude: 47.62982
 longitude: -2.65619
 postcode: "56450"
 city: Theix
-street: "Rue de Rosmadec"
-housenumber: 
-phone: "+33 2 97 43 65 14"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.carrefour.fr/magasin/market-theix"
+street: Rue de Rosmadec
+housenumber: ""
+phone: +33 2 97 43 65 14
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.carrefour.fr/magasin/market-theix

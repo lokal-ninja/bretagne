@@ -4,8 +4,8 @@ latitude: 48.11085
 longitude: -1.68054
 postcode: "35000"
 city: Rennes
-street: "Rue Beaumanoir"
-housenumber: 1
-phone: "+33 2 99 77 91 26"
-opening_hours: "Mo off; Tu-Fr 11:00-13:00,14:00-18:30; Sa 11:00-19:00"
-website: "https://www.oscar-home.com/"
+street: Rue Beaumanoir
+housenumber: "1"
+phone: +33 2 99 77 91 26
+opening_hours: Mo off; Tu-Fr 11:00-13:00,14:00-18:30; Sa 11:00-19:00
+website: https://www.oscar-home.com/

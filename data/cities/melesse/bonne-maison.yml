@@ -1,11 +1,11 @@
 id: 249567658
-type: way
+type: node
 latitude: 48.18455
 longitude: -1.724
 postcode: "35520"
 city: Melesse
-street: "Rue Besneraye"
-housenumber: 68
-phone: "+33 2 99 59 28 95"
+street: Rue Besneraye
+housenumber: "68"
+phone: +33 2 99 59 28 95
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 439786623
-type: way
+type: node
 latitude: 48.1377
 longitude: -1.76718
 postcode: "35740"
 city: Pacé
-street: "Boulevard de la Giraudais"
-housenumber: 
-phone: "+33 2 99 69 96 90"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.micromania.fr/"
+street: Boulevard de la Giraudais
+housenumber: ""
+phone: +33 2 99 69 96 90
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.micromania.fr/

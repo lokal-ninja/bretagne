@@ -1,11 +1,11 @@
 id: 144547241
-type: way
+type: node
 latitude: 47.6662
 longitude: -2.75282
 postcode: "56000"
 city: Vannes
-street: "Rue de Strasbourg"
-housenumber: 11
+street: Rue de Strasbourg
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

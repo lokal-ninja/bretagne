@@ -1,11 +1,11 @@
 id: 125425255
-type: way
+type: node
 latitude: 47.64199
 longitude: -2.71565
 postcode: "56860"
 city: Séné
-street: "Chemin de Balgan"
-housenumber: 
-phone: "+33 2 97 47 01 81"
-opening_hours: "Mo-Sa 10:00-18:30; Su 10:00-12:30; Su 14:00-18:30"
-website: "https://www.lejardindebalgan.fr/"
+street: Chemin de Balgan
+housenumber: ""
+phone: +33 2 97 47 01 81
+opening_hours: Mo-Sa 10:00-18:30; Su 10:00-12:30; Su 14:00-18:30
+website: https://www.lejardindebalgan.fr/

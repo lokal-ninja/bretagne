@@ -4,8 +4,8 @@ latitude: 47.97492
 longitude: -4.09424
 postcode: "29000"
 city: Quimper
-street: "Route de Bénodet"
-housenumber: 163
+street: Route de Bénodet
+housenumber: "163"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://lilou-coconut.fr"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://lilou-coconut.fr

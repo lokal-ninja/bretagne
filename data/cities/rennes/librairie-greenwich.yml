@@ -4,8 +4,8 @@ latitude: 48.1104
 longitude: -1.67798
 postcode: "35000"
 city: Rennes
-street: "Rue Jean Jaurès"
-housenumber: 1
-phone: "+33 2 99 78 34 90"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:30-12:30,14:00-19:00"
-website: "http://librairiegreenwich.fr"
+street: Rue Jean Jaurès
+housenumber: "1"
+phone: +33 2 99 78 34 90
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:30-12:30,14:00-19:00
+website: http://librairiegreenwich.fr

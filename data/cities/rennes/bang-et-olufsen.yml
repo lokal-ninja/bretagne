@@ -4,8 +4,8 @@ latitude: 48.11379
 longitude: -1.67854
 postcode: "35000"
 city: Rennes
-street: "Rue de Bertrand"
-housenumber: 7
-phone: "+33 2 23 20 24 15"
+street: Rue de Bertrand
+housenumber: "7"
+phone: +33 2 23 20 24 15
 opening_hours: ""
-website: "http://www.bang-olufsen-bretagne.fr/"
+website: http://www.bang-olufsen-bretagne.fr/

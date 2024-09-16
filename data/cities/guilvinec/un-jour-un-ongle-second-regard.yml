@@ -4,8 +4,8 @@ latitude: 47.79422
 longitude: -4.28436
 postcode: "29730"
 city: Guilvinec
-street: "Rue de la Paix"
-housenumber: 5
+street: Rue de la Paix
+housenumber: "5"
 phone: "+33661242314"
-opening_hours: "Mo-We 09:00-12:00,14:00-18:30; Fr-Sa 09:00-12:00,14:00-18:30"
+opening_hours: Mo-We 09:00-12:00,14:00-18:30; Fr-Sa 09:00-12:00,14:00-18:30
 website: ""

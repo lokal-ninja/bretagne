@@ -4,8 +4,8 @@ latitude: 48.11692
 longitude: -1.67781
 postcode: "35000"
 city: Rennes
-street: "Rue de Robien"
-housenumber: 15
-phone: "+33 2 99 60 55 43"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.ozoneshop.fr"
+street: Rue de Robien
+housenumber: "15"
+phone: +33 2 99 60 55 43
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.ozoneshop.fr

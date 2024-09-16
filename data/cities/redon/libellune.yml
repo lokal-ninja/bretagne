@@ -4,8 +4,8 @@ latitude: 47.64921
 longitude: -2.08479
 postcode: ""
 city: Redon
-street: "Grande Rue"
-housenumber: 33
-phone: "+33 2 99 71 14 58"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://librairie-libellune.fr/"
+street: Grande Rue
+housenumber: "33"
+phone: +33 2 99 71 14 58
+opening_hours: Mo-Sa 09:00-19:00
+website: https://librairie-libellune.fr/

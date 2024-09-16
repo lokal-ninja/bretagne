@@ -1,11 +1,11 @@
 id: 63900834
-type: way
+type: node
 latitude: 48.13695
 longitude: -1.68924
 postcode: "35760"
 city: Saint-Grégoire
-street: "Rue de la Longeraie"
-housenumber: 
-phone: "+33 2 23 28 92 65"
-opening_hours: "Mo-Sa 07:00-19:30"
+street: Rue de la Longeraie
+housenumber: ""
+phone: +33 2 23 28 92 65
+opening_hours: Mo-Sa 07:00-19:30
 website: ""

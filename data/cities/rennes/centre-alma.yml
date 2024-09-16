@@ -1,11 +1,11 @@
 id: 379435665
-type: way
+type: node
 latitude: 48.08255
 longitude: -1.6796
 postcode: "35200"
 city: Rennes
-street: "Rue du Bosphore"
-housenumber: 5
-phone: "+33 2 99 51 75 75"
+street: Rue du Bosphore
+housenumber: "5"
+phone: +33 2 99 51 75 75
 opening_hours: ""
-website: "https://www.rennes-alma.fr/"
+website: https://www.rennes-alma.fr/

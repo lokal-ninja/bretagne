@@ -1,11 +1,11 @@
 id: 81981589
-type: way
+type: node
 latitude: 48.15522
 longitude: -1.62831
 postcode: "35380"
 city: Betton
-street: "La Brandais"
-housenumber: 
-phone: "+33 299277926"
-opening_hours: "Tu,We,Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.douzaromes.fr/"
+street: La Brandais
+housenumber: ""
+phone: +33 299277926
+opening_hours: Tu,We,Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.douzaromes.fr/

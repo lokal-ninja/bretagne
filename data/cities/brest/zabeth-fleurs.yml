@@ -4,8 +4,8 @@ latitude: 48.37986
 longitude: -4.53447
 postcode: "29200"
 city: Brest
-street: "Rue Victor Eusen"
-housenumber: 44
+street: Rue Victor Eusen
+housenumber: "44"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:00,14:00-18:45; We 09:00-12:00; Su 09:00-12:30"
-website: "https://www.fleuriste-zabeth-brest.fr/"
+opening_hours: Tu-Sa 09:00-12:00,14:00-18:45; We 09:00-12:00; Su 09:00-12:30
+website: https://www.fleuriste-zabeth-brest.fr/

@@ -4,8 +4,8 @@ latitude: 48.11234
 longitude: -1.67922
 postcode: "35000"
 city: Rennes
-street: "Rue Nationale"
-housenumber: 2
+street: Rue Nationale
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:30-19:30"
-website: "https://www.jimmyfairly.com/pages/jimmy-fairly-rennes"
+opening_hours: Mo-Sa 10:30-19:30
+website: https://www.jimmyfairly.com/pages/jimmy-fairly-rennes

@@ -4,8 +4,8 @@ latitude: 47.65911
 longitude: -2.75918
 postcode: "56000"
 city: Vannes
-street: "Rue Joseph Le Brix"
-housenumber: 19
-phone: "+33 2974 27411"
-opening_hours: "Mo-Sa 09:15-19:00"
-website: "https://www.librairiecheminant.com/"
+street: Rue Joseph Le Brix
+housenumber: "19"
+phone: +33 2974 27411
+opening_hours: Mo-Sa 09:15-19:00
+website: https://www.librairiecheminant.com/

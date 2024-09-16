@@ -1,11 +1,11 @@
 id: 128756234
-type: way
+type: node
 latitude: 48.5166
 longitude: -4.05277
 postcode: "29400"
 city: Landivisiau
-street: "Zone Commerciale de Kerven, Kerivoal"
-housenumber: 
+street: Zone Commerciale de Kerven, Kerivoal
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-12:30, 14:00-19:00"
-website: "https://www.monmagasinvert.fr/localisation/contact/index/id/63/"
+opening_hours: Mo-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-12:30, 14:00-19:00
+website: https://www.monmagasinvert.fr/localisation/contact/index/id/63/

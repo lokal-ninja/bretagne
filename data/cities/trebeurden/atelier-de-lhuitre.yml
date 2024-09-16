@@ -1,11 +1,11 @@
 id: 482866953
-type: way
+type: node
 latitude: 48.7878
 longitude: -3.57838
 postcode: "22560"
 city: Trébeurden
-street: "Chemin du Toëno"
-housenumber: 
-phone: "+33 6 14 76 28 93"
-opening_hours: "Mo off; Tu-Sa 10:00-13:00,17:00-20:00; Su 10:30-13:00"
+street: Chemin du Toëno
+housenumber: ""
+phone: +33 6 14 76 28 93
+opening_hours: Mo off; Tu-Sa 10:00-13:00,17:00-20:00; Su 10:30-13:00
 website: ""

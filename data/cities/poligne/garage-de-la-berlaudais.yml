@@ -1,11 +1,11 @@
 id: 122391196
-type: way
+type: node
 latitude: 47.89505
 longitude: -1.68624
 postcode: "35320"
 city: Poligné
-street: "Choisel"
-housenumber: 
+street: Choisel
+housenumber: ""
 phone: "+33299438585"
-opening_hours: "Mo-Fr 8:00-12:00,14:00-18:00; Sa 8:00-12:00"
+opening_hours: Mo-Fr 8:00-12:00,14:00-18:00; Sa 8:00-12:00
 website: ""

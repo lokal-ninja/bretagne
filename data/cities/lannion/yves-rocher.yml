@@ -1,11 +1,11 @@
 id: 117239195
-type: way
+type: node
 latitude: 48.73109
 longitude: -3.45935
 postcode: "22300"
 city: Lannion
-street: "Rue des Augustins"
-housenumber: 5
+street: Rue des Augustins
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-19:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/bretagne/lannion/lannion/S-FRYROC218"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-19:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/bretagne/lannion/lannion/S-FRYROC218

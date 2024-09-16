@@ -4,8 +4,8 @@ latitude: 47.74852
 longitude: -3.36239
 postcode: "56100"
 city: Lorient
-street: "Rue de Liège"
-housenumber: 15
-phone: "+33 2 97 64 44 44"
+street: Rue de Liège
+housenumber: "15"
+phone: +33 2 97 64 44 44
 opening_hours: ""
-website: "https://www.pretapartir.fr/"
+website: https://www.pretapartir.fr/

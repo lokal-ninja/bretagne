@@ -1,11 +1,11 @@
 id: 83613916
-type: way
+type: node
 latitude: 48.21746
 longitude: -1.88683
 postcode: "35850"
 city: Romillé
 street: ""
-housenumber: 
-phone: "+33 2 99 68 28 30"
-opening_hours: "Mo-Th, Sa 08:30-19:30; Fr 08:30-20:00; Su 09:00-12:00"
-website: "https://www.magasins-u.com/magasin/superu-romille"
+housenumber: ""
+phone: +33 2 99 68 28 30
+opening_hours: Mo-Th, Sa 08:30-19:30; Fr 08:30-20:00; Su 09:00-12:00
+website: https://www.magasins-u.com/magasin/superu-romille

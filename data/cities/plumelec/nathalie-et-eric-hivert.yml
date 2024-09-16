@@ -1,11 +1,11 @@
 id: 168152818
-type: way
+type: node
 latitude: 47.8383
 longitude: -2.64052
 postcode: "56420"
 city: Plumelec
-street: "Rue des Martyrs de la Résistance"
-housenumber: 7
+street: Rue des Martyrs de la Résistance
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

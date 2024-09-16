@@ -4,8 +4,8 @@ latitude: 48.09728
 longitude: -1.69763
 postcode: "35000"
 city: Rennes
-street: "Place Jeanne Laurent"
-housenumber: 19
-phone: "+33 2 23 44 12 88"
-opening_hours: "Mo 14:30-19:00; Tu-Fr 11:00-19:00; Sa 10:00-19:00"
-website: "https://lacourrouze.sobhi-sport.com/"
+street: Place Jeanne Laurent
+housenumber: "19"
+phone: +33 2 23 44 12 88
+opening_hours: Mo 14:30-19:00; Tu-Fr 11:00-19:00; Sa 10:00-19:00
+website: https://lacourrouze.sobhi-sport.com/

@@ -4,8 +4,8 @@ latitude: 48.11246
 longitude: -1.67891
 postcode: "35000"
 city: Rennes
-street: "Rue Nationale"
-housenumber: 3
+street: Rue Nationale
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.nespresso.com/boutiques-fr/rennes"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.nespresso.com/boutiques-fr/rennes

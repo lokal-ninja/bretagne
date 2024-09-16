@@ -1,11 +1,11 @@
 id: 1030315313
-type: way
+type: node
 latitude: 47.80845
 longitude: -1.94472
 postcode: "35550"
 city: Pipriac
-street: "Place de la Minoterie"
-housenumber: 1
-phone: "+33 2 99 34 42 10"
+street: Place de la Minoterie
+housenumber: "1"
+phone: +33 2 99 34 42 10
 opening_hours: ""
 website: ""

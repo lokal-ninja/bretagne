@@ -4,8 +4,8 @@ latitude: 48.37227
 longitude: -4.58958
 postcode: "29280"
 city: Plouzané
-street: "Place du Commerce"
-housenumber: 10
-phone: "+33 2 98 05 22 79"
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-18:30; Sa 09:00-16:00; Mo off"
-website: "https://www.coiffeur-plouzane.fr/"
+street: Place du Commerce
+housenumber: "10"
+phone: +33 2 98 05 22 79
+opening_hours: Tu-Fr 09:00-12:00, 14:00-18:30; Sa 09:00-16:00; Mo off
+website: https://www.coiffeur-plouzane.fr/

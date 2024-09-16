@@ -1,11 +1,11 @@
 id: 123309568
-type: way
+type: node
 latitude: 47.76201
 longitude: -3.11717
 postcode: "56690"
 city: Landévant
-street: "Rue d'Auray"
-housenumber: 21
-phone: "+33 2 97 56 94 22"
+street: Rue d'Auray
+housenumber: "21"
+phone: +33 2 97 56 94 22
 opening_hours: ""
-website: "https://www.quiguer-automobiles.com/"
+website: https://www.quiguer-automobiles.com/

@@ -1,11 +1,12 @@
 id: 82687239
-type: way
+type: node
 latitude: 48.12867
 longitude: -2.0356
 postcode: "35750"
 city: Iffendic
-street: "Rue de Gaël"
-housenumber: 21
-phone: "+33 2 99 09 70 25"
-opening_hours: "Tu-Fr 09:00-12:50,15:00-19:30; Th 09:00-12:50; Sa 09:00-12:50,15:00-19:00; Su 09:30-12:30"
+street: Rue de Gaël
+housenumber: "21"
+phone: +33 2 99 09 70 25
+opening_hours: Tu-Fr 09:00-12:50,15:00-19:30; Th 09:00-12:50; Sa 09:00-12:50,15:00-19:00;
+    Su 09:30-12:30
 website: ""

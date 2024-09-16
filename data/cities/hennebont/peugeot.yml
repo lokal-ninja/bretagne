@@ -1,11 +1,11 @@
 id: 71254628
-type: way
+type: node
 latitude: 47.80034
 longitude: -3.2607
 postcode: "56700"
 city: Hennebont
-street: "Rue Anita Conti"
-housenumber: 4
+street: Rue Anita Conti
+housenumber: "4"
 phone: "+33297361532"
 opening_hours: ""
-website: "https://concessions.peugeot.fr/hennebont/nous-contacter/info-utiles/"
+website: https://concessions.peugeot.fr/hennebont/nous-contacter/info-utiles/

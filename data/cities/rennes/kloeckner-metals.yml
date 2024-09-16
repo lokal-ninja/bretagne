@@ -4,8 +4,8 @@ latitude: 48.10507
 longitude: -1.73386
 postcode: "35000"
 city: Rennes
-street: "Rue de Lorient"
-housenumber: 169
-phone: "+33 2 99 14 80 00"
+street: Rue de Lorient
+housenumber: "169"
+phone: +33 2 99 14 80 00
 opening_hours: ""
-website: "https://kdi.fr/"
+website: https://kdi.fr/

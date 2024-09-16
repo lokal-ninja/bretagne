@@ -4,8 +4,8 @@ latitude: 48.10663
 longitude: -1.66824
 postcode: "35000"
 city: Rennes
-street: "Rue Saint-Hélier"
-housenumber: 55
-phone: "+33 9 81 47 74 21"
-opening_hours: "Tu-Sa 09:30-12:30,14:00-19:00"
-website: "https://www.mallet-lutherie.com/"
+street: Rue Saint-Hélier
+housenumber: "55"
+phone: +33 9 81 47 74 21
+opening_hours: Tu-Sa 09:30-12:30,14:00-19:00
+website: https://www.mallet-lutherie.com/

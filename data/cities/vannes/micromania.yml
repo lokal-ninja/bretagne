@@ -4,8 +4,8 @@ latitude: 47.65905
 longitude: -2.79186
 postcode: "56000"
 city: Vannes
-street: "Avenue de la Marne"
-housenumber: 95
-phone: "+33 2 97 40 50 98"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.micromania.fr/"
+street: Avenue de la Marne
+housenumber: "95"
+phone: +33 2 97 40 50 98
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.micromania.fr/

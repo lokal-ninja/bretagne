@@ -4,8 +4,8 @@ latitude: 48.10745
 longitude: -1.67261
 postcode: "35000"
 city: Rennes
-street: "Rue Saint-Hélier"
-housenumber: 
+street: Rue Saint-Hélier
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30,14:00-19:00; Sa 13:00-18:00"
-website: "https://www.pixis.net/"
+opening_hours: Mo-Fr 10:00-12:30,14:00-19:00; Sa 13:00-18:00
+website: https://www.pixis.net/

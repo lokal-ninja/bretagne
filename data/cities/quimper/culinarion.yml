@@ -4,8 +4,8 @@ latitude: 47.99565
 longitude: -4.10474
 postcode: "29000"
 city: Quimper
-street: "Rue Astor"
-housenumber: 8
-phone: "+33 2 98 95 86 46"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 9:00-19:00"
+street: Rue Astor
+housenumber: "8"
+phone: +33 2 98 95 86 46
+opening_hours: Mo 14:00-19:00; Tu-Sa 9:00-19:00
 website: ""

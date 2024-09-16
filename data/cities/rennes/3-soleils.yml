@@ -1,11 +1,11 @@
 id: 135642897
-type: way
+type: node
 latitude: 48.1057
 longitude: -1.67869
 postcode: "35000"
 city: Rennes
-street: "Rue d'Isly"
-housenumber: 18
+street: Rue d'Isly
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

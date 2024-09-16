@@ -1,11 +1,11 @@
 id: 388322545
-type: way
+type: node
 latitude: 47.66159
 longitude: -2.79162
 postcode: "56000"
 city: Vannes
-street: "Impasse Théophraste Renaudot"
-housenumber: 50
+street: Impasse Théophraste Renaudot
+housenumber: "50"
 phone: ""
-opening_hours: "10:00-12:30,14:00-19:00"
+opening_hours: 10:00-12:30,14:00-19:00
 website: ""

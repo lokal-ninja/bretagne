@@ -4,8 +4,8 @@ latitude: 48.40132
 longitude: -4.4551
 postcode: "29200"
 city: Brest
-street: "Rue de Quimper"
-housenumber: 60
-phone: "+33 2 98 41 75 77"
-opening_hours: "Tu-Sa 07:00-19:30; Su 07:00-13:00"
+street: Rue de Quimper
+housenumber: "60"
+phone: +33 2 98 41 75 77
+opening_hours: Tu-Sa 07:00-19:30; Su 07:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 604698354
-type: way
+type: node
 latitude: 48.11443
 longitude: -1.67778
 postcode: "35000"
 city: Rennes
-street: "Rue de la Visitation"
-housenumber: 11
-phone: "+33 2 23 21 09 40"
+street: Rue de la Visitation
+housenumber: "11"
+phone: +33 2 23 21 09 40
 opening_hours: ""
 website: ""

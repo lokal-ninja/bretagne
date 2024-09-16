@@ -1,11 +1,11 @@
 id: 94287000
-type: way
+type: node
 latitude: 47.99692
 longitude: -4.07946
 postcode: "29000"
 city: Quimper
-street: "Avenue Saint-Denis"
-housenumber: 
+street: Avenue Saint-Denis
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:00"
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:00
 website: ""

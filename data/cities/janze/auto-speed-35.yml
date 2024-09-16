@@ -1,11 +1,11 @@
 id: 425258010
-type: way
+type: node
 latitude: 47.95367
 longitude: -1.48858
 postcode: "35150"
 city: Janzé
-street: "Rue Charles Lindbergh"
-housenumber: 6
-phone: "+33 2 99 43 57 54"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 07:30-12:00, 13:30-19:00"
-website: "https://www.autospeed35.fr/"
+street: Rue Charles Lindbergh
+housenumber: "6"
+phone: +33 2 99 43 57 54
+opening_hours: Mo 14:00-19:00; Tu-Fr 07:30-12:00, 13:30-19:00
+website: https://www.autospeed35.fr/

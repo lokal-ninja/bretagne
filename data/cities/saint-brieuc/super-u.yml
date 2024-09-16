@@ -1,11 +1,11 @@
 id: 78100522
-type: way
+type: node
 latitude: 48.52271
 longitude: -2.73142
 postcode: "22000"
 city: Saint-Brieuc
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

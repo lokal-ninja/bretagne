@@ -4,8 +4,8 @@ latitude: 48.10747
 longitude: -1.73119
 postcode: "35000"
 city: Rennes
-street: "Rue Léon Berthault"
-housenumber: 3
-phone: "+33 2 99 33 01 01"
+street: Rue Léon Berthault
+housenumber: "3"
+phone: +33 2 99 33 01 01
 opening_hours: ""
-website: "http://www.lorflex.fr/"
+website: http://www.lorflex.fr/

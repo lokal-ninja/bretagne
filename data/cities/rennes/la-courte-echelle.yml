@@ -1,11 +1,11 @@
 id: 82073736
-type: way
+type: node
 latitude: 48.10858
 longitude: -1.67762
 postcode: "35000"
 city: Rennes
-street: "Rue Vasselot"
-housenumber: 26
-phone: "+33 2 99 79 20 70"
-opening_hours: "Tu-Sa 10:30-19:00"
-website: "https://lacourteechelle.net/"
+street: Rue Vasselot
+housenumber: "26"
+phone: +33 2 99 79 20 70
+opening_hours: Tu-Sa 10:30-19:00
+website: https://lacourteechelle.net/

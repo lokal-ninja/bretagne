@@ -4,8 +4,8 @@ latitude: 48.2456
 longitude: -4.48942
 postcode: "29160"
 city: Crozon
-street: "Rue Alsace Lorraine"
-housenumber: 7
-phone: "+33 2 98 27 06 08"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-crozon"
+street: Rue Alsace Lorraine
+housenumber: "7"
+phone: +33 2 98 27 06 08
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-crozon

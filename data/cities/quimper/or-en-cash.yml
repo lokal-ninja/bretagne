@@ -4,8 +4,9 @@ latitude: 47.99435
 longitude: -4.10604
 postcode: "29000"
 city: Quimper
-street: "Rue René Madec"
-housenumber: 
+street: Rue René Madec
+housenumber: ""
 phone: ""
-opening_hours: "Mo 09:15-12:00,14:00-19:00 Sur rendez-vous le matin; Tu-Fr 09:15-12:30,13:30-18:30; Sa 09:15-12:00,12:00-18:00 Sur rendez-vous"
+opening_hours: Mo 09:15-12:00,14:00-19:00 "Sur rendez-vous le matin"; Tu-Fr 09:15-12:30,13:30-18:30;
+    Sa 09:15-12:00,12:00-18:00 "Sur rendez-vous"
 website: ""

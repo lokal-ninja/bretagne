@@ -4,8 +4,8 @@ latitude: 48.40236
 longitude: -4.48263
 postcode: "29200"
 city: Brest
-street: "Boulevard Montaigne"
-housenumber: 50
-phone: "+33 2 98 05 33 73"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00"
-website: "https://couleurscuisines.fr/"
+street: Boulevard Montaigne
+housenumber: "50"
+phone: +33 2 98 05 33 73
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00
+website: https://couleurscuisines.fr/

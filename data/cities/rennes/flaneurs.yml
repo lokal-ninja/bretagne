@@ -4,8 +4,8 @@ latitude: 48.11324
 longitude: -1.68097
 postcode: "35000"
 city: Rennes
-street: "Rue Leperdit"
-housenumber: 5
-phone: "+33 2 99 77 43 36"
-opening_hours: "Tu-Sa 10:00-13:00,14:00-19:00"
-website: "https://flaneurs.net"
+street: Rue Leperdit
+housenumber: "5"
+phone: +33 2 99 77 43 36
+opening_hours: Tu-Sa 10:00-13:00,14:00-19:00
+website: https://flaneurs.net

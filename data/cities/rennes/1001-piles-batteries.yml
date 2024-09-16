@@ -4,8 +4,8 @@ latitude: 48.10693
 longitude: -1.66965
 postcode: "35000"
 city: Rennes
-street: "Rue Saint-Hélier"
-housenumber: 37
-phone: "+33 2 99 85 84 56"
-opening_hours: "Mo-Fr 09:15-12:45,14:00-19:00; Sa 09:15-12:45,14:00-18:00"
-website: "https://www.1001piles.com/"
+street: Rue Saint-Hélier
+housenumber: "37"
+phone: +33 2 99 85 84 56
+opening_hours: Mo-Fr 09:15-12:45,14:00-19:00; Sa 09:15-12:45,14:00-18:00
+website: https://www.1001piles.com/

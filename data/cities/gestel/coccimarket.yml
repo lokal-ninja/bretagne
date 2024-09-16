@@ -1,11 +1,11 @@
 id: 70465518
-type: way
+type: node
 latitude: 47.80453
 longitude: -3.44283
 postcode: "56530"
 city: Gestel
-street: "Rue des Pins"
-housenumber: 2
-phone: "+33 2 97 05 10 85"
+street: ""
+housenumber: "2"
+phone: +33 2 97 05 10 85
 opening_hours: ""
-website: "http://coccimarket-gestel.com/"
+website: http://coccimarket-gestel.com/

@@ -1,11 +1,11 @@
 id: 120206797
-type: way
+type: node
 latitude: 47.80919
 longitude: -1.94667
 postcode: "35550"
 city: Pipriac
-street: "Place de la Mairie"
-housenumber: 10
-phone: "+33 2 99 34 44 94"
+street: Place de la Mairie
+housenumber: "10"
+phone: +33 2 99 34 44 94
 opening_hours: ""
 website: ""

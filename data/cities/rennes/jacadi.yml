@@ -4,8 +4,8 @@ latitude: 48.11329
 longitude: -1.67997
 postcode: "35000"
 city: Rennes
-street: "Rue du Champ Jacquet"
+street: Rue du Champ Jacquet
 housenumber: 14bis
-phone: "+33 2 99 78 18 41"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.jacadi.fr/"
+phone: +33 2 99 78 18 41
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.jacadi.fr/

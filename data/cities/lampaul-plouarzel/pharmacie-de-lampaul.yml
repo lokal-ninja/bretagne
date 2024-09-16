@@ -1,11 +1,11 @@
 id: 53712973
-type: way
+type: node
 latitude: 48.44723
 longitude: -4.76002
 postcode: "29810"
 city: Lampaul-Plouarzel
-street: "Rue de Brest"
-housenumber: 1
-phone: "+33 2 98 84 01 17"
+street: Rue de Brest
+housenumber: "1"
+phone: +33 2 98 84 01 17
 opening_hours: ""
 website: ""

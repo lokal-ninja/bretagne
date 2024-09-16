@@ -1,11 +1,11 @@
 id: 82655328
-type: way
+type: node
 latitude: 48.13611
 longitude: -1.93966
 postcode: "35160"
 city: Breteil
 street: ""
-housenumber: 
-phone: "+33 2 99 09 13 41"
-opening_hours: "24/7"
-website: "https://www.magasins-u.com/"
+housenumber: ""
+phone: +33 2 99 09 13 41
+opening_hours: 24/7
+website: https://www.magasins-u.com/

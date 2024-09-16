@@ -1,11 +1,11 @@
 id: 379450538
-type: way
+type: node
 latitude: 48.63978
 longitude: -1.98984
 postcode: "35400"
 city: Saint-Malo
-street: "Avenue du Général de Gaulle"
-housenumber: 65
+street: Avenue du Général de Gaulle
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30, 14:00-19:00; Sa 09:00-12:30, 14:00-19:00"
-website: "https://www.ford-st-malo.com/"
+opening_hours: Mo-Fr 08:00-12:30, 14:00-19:00; Sa 09:00-12:30, 14:00-19:00
+website: https://www.ford-st-malo.com/

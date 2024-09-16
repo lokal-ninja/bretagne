@@ -4,8 +4,8 @@ latitude: 47.65352
 longitude: -2.72041
 postcode: "56860"
 city: Séné
-street: "Avenue de Geispolsheim"
-housenumber: 12
-phone: "+33 2 97 42 49 63"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-19:00"
-website: "https://www.o2fleurs.fr/"
+street: Avenue de Geispolsheim
+housenumber: "12"
+phone: +33 2 97 42 49 63
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-19:00
+website: https://www.o2fleurs.fr/

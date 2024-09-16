@@ -1,11 +1,11 @@
 id: 302452088
-type: way
+type: node
 latitude: 48.29038
 longitude: -2.15172
 postcode: "22350"
 city: Caulnes
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th,Sa 08:30-19:30; Fr 08:30-20:00; Su 09:00-12:30"
+opening_hours: Mo-Th,Sa 08:30-19:30; Fr 08:30-20:00; Su 09:00-12:30
 website: ""

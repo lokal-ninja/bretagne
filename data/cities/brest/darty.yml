@@ -1,11 +1,11 @@
 id: 42574230
-type: way
+type: node
 latitude: 48.42676
 longitude: -4.46782
 postcode: "29200"
 city: Brest
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

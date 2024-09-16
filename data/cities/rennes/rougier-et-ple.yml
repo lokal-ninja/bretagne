@@ -4,8 +4,8 @@ latitude: 48.11322
 longitude: -1.67896
 postcode: "35000"
 city: Rennes
-street: "Rue le Bastard"
-housenumber: 14
-phone: "+33 2 23 30 60 60"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.rougier-ple.fr/magasin/rougier-ple-rennes.r.html"
+street: Rue le Bastard
+housenumber: "14"
+phone: +33 2 23 30 60 60
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.rougier-ple.fr/magasin/rougier-ple-rennes.r.html

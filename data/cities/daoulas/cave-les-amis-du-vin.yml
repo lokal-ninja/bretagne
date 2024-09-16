@@ -1,11 +1,11 @@
 id: 258460931
-type: way
+type: node
 latitude: 48.36068
 longitude: -4.25926
 postcode: "29460"
 city: Daoulas
-street: "Route de Quimper"
-housenumber: 
+street: Route de Quimper
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

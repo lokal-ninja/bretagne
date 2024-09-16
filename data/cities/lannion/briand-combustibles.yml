@@ -1,11 +1,11 @@
 id: 117411714
-type: way
+type: node
 latitude: 48.74329
 longitude: -3.46199
 postcode: "22300"
 city: Lannion
-street: "Avenue de la Résistance"
-housenumber: 
+street: Avenue de la Résistance
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

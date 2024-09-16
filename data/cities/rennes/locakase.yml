@@ -4,8 +4,8 @@ latitude: 48.09825
 longitude: -1.63121
 postcode: ""
 city: Rennes
-street: "Rue des Veyettes"
-housenumber: 30
-phone: "+33 6 48 33 69 00"
-opening_hours: "Mo-We,Fr 08:30-12:30,14:00-18:00; Th 14:00-18:00; Sa 09:00-12:00"
-website: "https://www.locakase.fr"
+street: Rue des Veyettes
+housenumber: "30"
+phone: +33 6 48 33 69 00
+opening_hours: Mo-We,Fr 08:30-12:30,14:00-18:00; Th 14:00-18:00; Sa 09:00-12:00
+website: https://www.locakase.fr

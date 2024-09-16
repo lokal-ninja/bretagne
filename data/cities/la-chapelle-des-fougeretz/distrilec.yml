@@ -4,8 +4,8 @@ latitude: 48.17235
 longitude: -1.72256
 postcode: "35520"
 city: La Chapelle-des-Fougeretz
-street: "Rue de la Garenne"
-housenumber: 10
-phone: "+33 2 99 13 36 89"
-opening_hours: "Mo-Th 07:30-12:00, 13:30-17:30; Fr 07:30-12:00, 13:30-16:30"
-website: "http://www.distrilec.fr"
+street: Rue de la Garenne
+housenumber: "10"
+phone: +33 2 99 13 36 89
+opening_hours: Mo-Th 07:30-12:00, 13:30-17:30; Fr 07:30-12:00, 13:30-16:30
+website: http://www.distrilec.fr

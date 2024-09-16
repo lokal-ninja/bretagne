@@ -1,11 +1,12 @@
 id: 251415941
-type: way
+type: node
 latitude: 47.81109
 longitude: -2.12972
 postcode: "56910"
 city: Carentoir
-street: "Rue du Chêne Heleuc"
-housenumber: 1
-phone: "+33 2 99 93 74 11"
-opening_hours: "Mo 09:00-13:00,14:00-19:00; Tu 09:00-13:30,14:00-19:00; Th 09:00-19:00; Fr 09:00-13:30,14:00-19:00; Sa 09:00-13:30,14:00-16:30"
-website: "https://www.ylang-beaute.fr/"
+street: Rue du Chêne Heleuc
+housenumber: "1"
+phone: +33 2 99 93 74 11
+opening_hours: Mo 09:00-13:00,14:00-19:00; Tu 09:00-13:30,14:00-19:00; Th 09:00-19:00;
+    Fr 09:00-13:30,14:00-19:00; Sa 09:00-13:30,14:00-16:30
+website: https://www.ylang-beaute.fr/

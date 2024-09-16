@@ -4,8 +4,8 @@ latitude: 48.11206
 longitude: -1.68378
 postcode: "35000"
 city: Rennes
-street: "Rue de la Monnaie"
-housenumber: 14
-phone: "+33 2 99 67 62 94"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.maisonarchibald.com/"
+street: Rue de la Monnaie
+housenumber: "14"
+phone: +33 2 99 67 62 94
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.maisonarchibald.com/

@@ -1,11 +1,11 @@
 id: 350880652
-type: way
+type: node
 latitude: 48.27795
 longitude: -3.55384
 postcode: "29270"
 city: Carhaix-Plouguer
-street: "Avenue Victor Hugo"
-housenumber: 76
+street: Avenue Victor Hugo
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Bretagne/Finistere/DOUAR-NEVEZ"
+website: https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Bretagne/Finistere/DOUAR-NEVEZ

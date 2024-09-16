@@ -1,11 +1,11 @@
 id: 428982550
-type: way
+type: node
 latitude: 47.66161
 longitude: -2.75813
 postcode: "56000"
 city: Vannes
-street: "Boulevard de la Paix"
-housenumber: 
+street: Boulevard de la Paix
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 47.98599
 longitude: -4.08395
 postcode: "29000"
 city: Quimper
-street: "Rue de l'Île d'Hoédic"
-housenumber: 6
-phone: "+33 2 98 53 16 85"
-opening_hours: "Mo-Tu 09:00-13:00, 14:00-18:00; We 09:00-13:00; Th-Sa 09:00-13:00, 14:00-18:00"
+street: Rue de l'Île d'Hoédic
+housenumber: "6"
+phone: +33 2 98 53 16 85
+opening_hours: Mo-Tu 09:00-13:00, 14:00-18:00; We 09:00-13:00; Th-Sa 09:00-13:00,
+    14:00-18:00
 website: ""

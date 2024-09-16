@@ -4,8 +4,8 @@ latitude: 48.1072
 longitude: -1.68825
 postcode: "35000"
 city: Rennes
-street: "Allée Émile-Marie Besnard"
-housenumber: 2
-phone: "+33 2 99 35 19 86"
-opening_hours: "Mo-Fr 10:00-12:00, 14:00-17:00"
-website: "https://www.editionsptitlouis.fr/"
+street: Allée Émile-Marie Besnard
+housenumber: "2"
+phone: +33 2 99 35 19 86
+opening_hours: Mo-Fr 10:00-12:00, 14:00-17:00
+website: https://www.editionsptitlouis.fr/

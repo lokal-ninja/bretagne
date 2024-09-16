@@ -4,8 +4,8 @@ latitude: 48.01647
 longitude: -4.502
 postcode: "29780"
 city: Plouhinec
-street: "Rue Brizeux"
-housenumber: 1
+street: Rue Brizeux
+housenumber: "1"
 phone: "+33298749257"
-opening_hours: "Mo-Sa 9:00-19:30; Su 9:00-12:30"
-website: "https://www.carrefour.fr/"
+opening_hours: Mo-Sa 9:00-19:30; Su 9:00-12:30
+website: https://www.carrefour.fr/

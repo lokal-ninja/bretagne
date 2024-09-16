@@ -4,8 +4,8 @@ latitude: 48.1104
 longitude: -1.66477
 postcode: "35000"
 city: Rennes
-street: "Avenue Aristide Briand"
-housenumber: 65
-phone: "+33 2 99 38 46 08"
-opening_hours: "Tu-Sa 10:00-12:30,14:00-19:00"
-website: "https://rennes-aristide-briand.cyclable.com"
+street: Avenue Aristide Briand
+housenumber: "65"
+phone: +33 2 99 38 46 08
+opening_hours: Tu-Sa 10:00-12:30,14:00-19:00
+website: https://rennes-aristide-briand.cyclable.com

@@ -4,8 +4,8 @@ latitude: 47.76646
 longitude: -3.40219
 postcode: "56100"
 city: Lorient
-street: "Rue du Colonel Jean Muller"
-housenumber: 152
-phone: "+33 2 97 35 47 16"
-opening_hours: "Mo 14:00-20:00; Tu-Sa 10:00-13:00,14:30-20:00; Th 10:00-20:00"
+street: Rue du Colonel Jean Muller
+housenumber: "152"
+phone: +33 2 97 35 47 16
+opening_hours: Mo 14:00-20:00; Tu-Sa 10:00-13:00,14:30-20:00; Th 10:00-20:00
 website: ""

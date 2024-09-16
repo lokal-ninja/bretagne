@@ -4,8 +4,8 @@ latitude: 48.10589
 longitude: -1.68042
 postcode: "35000"
 city: Rennes
-street: "Rue de Plélo"
-housenumber: 6
-phone: "+33 2 23 50 09 15"
+street: Rue de Plélo
+housenumber: "6"
+phone: +33 2 23 50 09 15
 opening_hours: ""
-website: "https://www.henrimichel.fr/"
+website: https://www.henrimichel.fr/

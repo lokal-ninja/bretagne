@@ -4,8 +4,8 @@ latitude: 48.56208
 longitude: -3.15241
 postcode: "22200"
 city: Guingamp
-street: "Rue Édouard Ollivro"
-housenumber: 29
+street: Rue Édouard Ollivro
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.vincentcoiffure.fr/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.vincentcoiffure.fr/

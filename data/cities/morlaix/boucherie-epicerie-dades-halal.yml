@@ -4,8 +4,8 @@ latitude: 48.57574
 longitude: -3.82881
 postcode: "29600"
 city: Morlaix
-street: "Place de l'Avant-Scène"
-housenumber: 3
-phone: "+33 298638128"
-opening_hours: "Tu-Fr 10:00-13:30,15:30-20:00; Sa 09:00-20:00; Su 10:00-13:30,16:30-20:00"
+street: Place de l'Avant-Scène
+housenumber: "3"
+phone: +33 298638128
+opening_hours: Tu-Fr 10:00-13:30,15:30-20:00; Sa 09:00-20:00; Su 10:00-13:30,16:30-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 117327644
-type: way
+type: node
 latitude: 48.7435
 longitude: -3.47481
 postcode: "22300"
 city: Lannion
-street: "Rue Jean-Paul Sartre"
-housenumber: 
-phone: "+33 2 96 48 90 74"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-19:00"
-website: "https://www.biocoop.fr/bretagne/cotes-d-armor/lannion/BIOCOOP-TRAOU-AN-DOUAR"
+street: Rue Jean-Paul Sartre
+housenumber: ""
+phone: +33 2 96 48 90 74
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-19:00
+website: https://www.biocoop.fr/bretagne/cotes-d-armor/lannion/BIOCOOP-TRAOU-AN-DOUAR

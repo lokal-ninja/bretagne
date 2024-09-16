@@ -4,8 +4,8 @@ latitude: 48.39845
 longitude: -4.47278
 postcode: "29200"
 city: Brest
-street: "Rue Jean Jaurès"
-housenumber: 201
-phone: "+33 7 69 14 69 78"
-opening_hours: "We-Fr 09:30-12:30,14:00-18:00, Sa[1] 10:00-17:00"
-website: "https://www.fricout.org/"
+street: Rue Jean Jaurès
+housenumber: "201"
+phone: +33 7 69 14 69 78
+opening_hours: We-Fr 09:30-12:30,14:00-18:00, Sa[1] 10:00-17:00
+website: https://www.fricout.org/

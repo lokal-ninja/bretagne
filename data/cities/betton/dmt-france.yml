@@ -4,8 +4,8 @@ latitude: 48.18043
 longitude: -1.63536
 postcode: "35830"
 city: Betton
-street: "Avenue de la Haye-Renaud"
-housenumber: 8
+street: Avenue de la Haye-Renaud
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:30-18:00"
-website: "https://www.laverie-automatique.bzh/"
+opening_hours: Mo-Sa 08:30-18:00
+website: https://www.laverie-automatique.bzh/

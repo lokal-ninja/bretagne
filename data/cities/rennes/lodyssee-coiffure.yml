@@ -4,8 +4,8 @@ latitude: 48.0943
 longitude: -1.68469
 postcode: "35200"
 city: Rennes
-street: "Boulevard Georges Clemenceau"
-housenumber: 60
-phone: "+33 2 99 50 93 98"
-opening_hours: "Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.odyssee-coiffure.fr/"
+street: Boulevard Georges Clemenceau
+housenumber: "60"
+phone: +33 2 99 50 93 98
+opening_hours: Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.odyssee-coiffure.fr/

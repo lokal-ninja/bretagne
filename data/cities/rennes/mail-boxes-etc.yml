@@ -4,8 +4,8 @@ latitude: 48.10119
 longitude: -1.68473
 postcode: "35000"
 city: Rennes
-street: "Rue de Nantes"
-housenumber: 121
-phone: "+33 2 23 45 34 82"
-opening_hours: "Mo-Fr 09:15-12:30,14:00-17:45"
-website: "https://www.mbefrance.fr"
+street: Rue de Nantes
+housenumber: "121"
+phone: +33 2 23 45 34 82
+opening_hours: Mo-Fr 09:15-12:30,14:00-17:45
+website: https://www.mbefrance.fr

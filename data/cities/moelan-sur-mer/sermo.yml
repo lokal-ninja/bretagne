@@ -1,11 +1,11 @@
 id: 57776001
-type: way
+type: node
 latitude: 47.81286
 longitude: -3.63033
 postcode: "29350"
 city: Moëlan-sur-Mer
-street: "Rue des Plages"
-housenumber: 7
-phone: "+33 2 98 39 61 15"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00"
-website: "https://ledoussalcloarecmarie.site-solocal.com/"
+street: Rue des Plages
+housenumber: "7"
+phone: +33 2 98 39 61 15
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00
+website: https://ledoussalcloarecmarie.site-solocal.com/

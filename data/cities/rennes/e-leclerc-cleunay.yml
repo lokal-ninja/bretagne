@@ -1,11 +1,11 @@
 id: 144789936
-type: way
+type: node
 latitude: 48.10454
 longitude: -1.71532
 postcode: "35000"
 city: Rennes
-street: "Rue Jules Vallès"
-housenumber: 2
+street: Rue Jules Vallès
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
+opening_hours: Mo-Sa 09:30-19:30
 website: ""

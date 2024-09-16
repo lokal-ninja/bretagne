@@ -4,8 +4,8 @@ latitude: 47.72341
 longitude: -3.34735
 postcode: "56570"
 city: Locmiquélic
-street: "Rue du Vieux Pont"
-housenumber: 6
-phone: "+33 6 16 03 90 20"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 08:00-17:30"
-website: "https://www.lesatelierszenetbelle.fr/"
+street: Rue du Vieux Pont
+housenumber: "6"
+phone: +33 6 16 03 90 20
+opening_hours: Mo-Fr 09:00-19:30; Sa 08:00-17:30
+website: https://www.lesatelierszenetbelle.fr/

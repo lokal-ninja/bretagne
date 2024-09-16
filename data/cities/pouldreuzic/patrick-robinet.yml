@@ -4,8 +4,8 @@ latitude: 47.95525
 longitude: -4.36041
 postcode: "29710"
 city: Pouldreuzic
-street: "Rue de Plozévet"
-housenumber: 7
+street: Rue de Plozévet
+housenumber: "7"
 phone: "+33298544506"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-18:30"
-website: "https://www.patrick-robinet.fr"
+opening_hours: Mo-Sa 09:00-12:30,14:00-18:30
+website: https://www.patrick-robinet.fr

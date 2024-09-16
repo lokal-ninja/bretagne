@@ -1,11 +1,11 @@
 id: 197221194
-type: way
+type: node
 latitude: 47.66454
 longitude: -3.01468
 postcode: "56400"
 city: Auray
-street: "Rue Maryse Bastié"
-housenumber: 
-phone: "+33 2 97 24 24 48"
+street: Rue Maryse Bastié
+housenumber: ""
+phone: +33 2 97 24 24 48
 opening_hours: ""
-website: "https://www.profilplus.fr/agence/104-auray"
+website: https://www.profilplus.fr/agence/104-auray

@@ -1,11 +1,11 @@
 id: 66602309
-type: way
+type: node
 latitude: 47.81626
 longitude: -4.37151
 postcode: "29760"
 city: Saint Guénolé
-street: "Rue Pierre Semard"
-housenumber: 197
+street: Rue Pierre Semard
+housenumber: "197"
 phone: ""
-opening_hours: "Fr-We 7:30-13:00"
-website: "https://baramarplij.com"
+opening_hours: Fr-We 7:30-13:00
+website: https://baramarplij.com

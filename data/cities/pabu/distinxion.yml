@@ -1,11 +1,11 @@
 id: 956400991
-type: way
+type: node
 latitude: 48.57424
 longitude: -3.1462
 postcode: "22200"
 city: Pabu
-street: "Espace commercial Saint-Loup"
-housenumber: 
+street: Espace commercial Saint-Loup
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

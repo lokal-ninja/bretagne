@@ -4,8 +4,8 @@ latitude: 48.10704
 longitude: -1.73624
 postcode: "35000"
 city: Rennes
-street: "Rue Lieutenant-Colonel Dubois"
-housenumber: 14
+street: Rue Lieutenant-Colonel Dubois
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 05:30-12:00,14:30-17:30; Sa 05:30-12:00"
-website: "https://www.tgvm.fr/"
+opening_hours: Mo-Fr 05:30-12:00,14:30-17:30; Sa 05:30-12:00
+website: https://www.tgvm.fr/

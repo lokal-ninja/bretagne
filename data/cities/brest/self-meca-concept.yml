@@ -4,8 +4,8 @@ latitude: 48.39919
 longitude: -4.46594
 postcode: "29200"
 city: Brest
-street: "Rue de Valmy"
-housenumber: 16
-phone: "+33 2 30 82 52 82"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00"
-website: "https://www.self-meca-concept.fr"
+street: Rue de Valmy
+housenumber: "16"
+phone: +33 2 30 82 52 82
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00
+website: https://www.self-meca-concept.fr

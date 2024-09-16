@@ -4,8 +4,8 @@ latitude: 48.53465
 longitude: -2.75545
 postcode: "22190"
 city: Plérin
-street: "Rue de la Croix Lormel"
-housenumber: 5
+street: Rue de la Croix Lormel
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://plerin.biocoop.net"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://plerin.biocoop.net

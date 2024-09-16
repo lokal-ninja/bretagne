@@ -1,11 +1,11 @@
 id: 80741931
-type: way
+type: node
 latitude: 48.08113
 longitude: -1.67952
 postcode: "35200"
 city: Rennes
-street: "Avenue du Canada"
-housenumber: 54
+street: Avenue du Canada
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-18:30"
-website: "https://www.truffaut.com/stores/rennes"
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-18:30
+website: https://www.truffaut.com/stores/rennes

@@ -1,11 +1,11 @@
 id: 266291325
-type: way
+type: node
 latitude: 48.30712
 longitude: -2.95541
 postcode: "22320"
 city: Saint-Martin-des-Prés
-street: "Rue des Écoles"
-housenumber: 1
+street: Rue des Écoles
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

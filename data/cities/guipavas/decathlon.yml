@@ -1,11 +1,11 @@
 id: 42598911
-type: way
+type: node
 latitude: 48.41592
 longitude: -4.43548
 postcode: "29490"
 city: Guipavas
-street: "Rue Pierre Jakez Hélias"
-housenumber: 105
+street: Rue Pierre Jakez Hélias
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/

@@ -1,11 +1,11 @@
 id: 968547755
-type: way
+type: node
 latitude: 47.48764
 longitude: -3.11989
 postcode: "56170"
 city: Quiberon
-street: "Avenue du Général de Gaulle"
-housenumber: 2
+street: Avenue du Général de Gaulle
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

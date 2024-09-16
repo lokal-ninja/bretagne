@@ -1,11 +1,11 @@
 id: 53698291
-type: way
+type: node
 latitude: 48.5399
 longitude: -4.66493
 postcode: "29830"
 city: Ploudalmézeau
-street: "Keruscat"
-housenumber: 
-phone: "+33 2 98 38 12 12"
-opening_hours: "Mo-Sa 09:00-19:45"
-website: "http://www.e-leclerc.com/magasin/ploudalmezeau/infospratiques"
+street: Keruscat
+housenumber: ""
+phone: +33 2 98 38 12 12
+opening_hours: Mo-Sa 09:00-19:45
+website: http://www.e-leclerc.com/magasin/ploudalmezeau/infospratiques

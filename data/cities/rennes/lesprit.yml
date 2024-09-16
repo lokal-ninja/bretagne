@@ -4,8 +4,8 @@ latitude: 48.11132
 longitude: -1.68142
 postcode: "35000"
 city: Rennes
-street: "Rue de Montfort"
-housenumber: 3
-phone: "+33 2 99 79 67 23"
-opening_hours: "Mo-Sa 10:30-13:00, 14:30-19:00"
-website: "https://www.lespritmusee.fr/"
+street: Rue de Montfort
+housenumber: "3"
+phone: +33 2 99 79 67 23
+opening_hours: Mo-Sa 10:30-13:00, 14:30-19:00
+website: https://www.lespritmusee.fr/

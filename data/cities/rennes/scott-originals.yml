@@ -4,8 +4,8 @@ latitude: 48.11374
 longitude: -1.6795
 postcode: "35000"
 city: Rennes
-street: "Rue de la Motte Fablet"
-housenumber: 1
-phone: "+33 2 99 78 14 34"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://scott-premium.fr"
+street: Rue de la Motte Fablet
+housenumber: "1"
+phone: +33 2 99 78 14 34
+opening_hours: Mo-Sa 10:00-19:00
+website: https://scott-premium.fr

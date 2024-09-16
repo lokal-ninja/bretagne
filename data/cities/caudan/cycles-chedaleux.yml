@@ -4,8 +4,8 @@ latitude: 47.78519
 longitude: -3.34067
 postcode: "56850"
 city: Caudan
-street: "Rue Jean-Baptiste Martenot"
-housenumber: 330
-phone: "+33 2 97 33 17 90"
-opening_hours: "Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00, 14:00-18:00"
-website: "https://www.cycles-chedaleux.fr/"
+street: Rue Jean-Baptiste Martenot
+housenumber: "330"
+phone: +33 2 97 33 17 90
+opening_hours: Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00, 14:00-18:00
+website: https://www.cycles-chedaleux.fr/

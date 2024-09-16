@@ -1,11 +1,11 @@
 id: 208473734
-type: way
+type: node
 latitude: 47.8751
 longitude: -3.02041
 postcode: "56150"
 city: Baud
-street: "Rue de la Mairie"
-housenumber: 2
+street: Rue de la Mairie
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

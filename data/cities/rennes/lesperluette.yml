@@ -4,8 +4,8 @@ latitude: 48.11374
 longitude: -1.67787
 postcode: "35000"
 city: Rennes
-street: "Rue de Bertrand"
-housenumber: 17
-phone: "+33 9 81 79 73 22"
+street: Rue de Bertrand
+housenumber: "17"
+phone: +33 9 81 79 73 22
 opening_hours: ""
-website: "https://www.lesperluette-rennes.fr/"
+website: https://www.lesperluette-rennes.fr/

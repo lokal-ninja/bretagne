@@ -1,11 +1,11 @@
 id: 497269816
-type: way
+type: node
 latitude: 48.42454
 longitude: -1.57055
 postcode: "35560"
 city: Bazouges-la-Pérouse
-street: "Rue du Lavoir"
-housenumber: 2
-phone: "+33 2 99 97 46 71"
+street: Rue du Lavoir
+housenumber: "2"
+phone: +33 2 99 97 46 71
 opening_hours: ""
 website: ""

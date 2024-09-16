@@ -1,11 +1,11 @@
 id: 852637980
-type: way
+type: node
 latitude: 47.56699
 longitude: -2.13049
 postcode: "56130"
 city: Théhillac
-street: "Z.A Les Brivaudais"
-housenumber: 3
+street: Z.A Les Brivaudais
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

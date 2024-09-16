@@ -4,8 +4,8 @@ latitude: 47.97413
 longitude: -3.27828
 postcode: "56240"
 city: Inguiniel
-street: "Rue de la Fontaine"
-housenumber: 
+street: Rue de la Fontaine
+housenumber: ""
 phone: ""
-opening_hours: "sur réservation"
+opening_hours: '"sur réservation"'
 website: ""

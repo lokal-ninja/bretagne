@@ -4,8 +4,8 @@ latitude: 47.6593
 longitude: -2.79242
 postcode: "56000"
 city: Vannes
-street: "Avenue de la Marne"
-housenumber: 95
-phone: "+33 2 97 40 44 56"
+street: Avenue de la Marne
+housenumber: "95"
+phone: +33 2 97 40 44 56
 opening_hours: ""
-website: "https://www.briochedoree.fr/"
+website: https://www.briochedoree.fr/

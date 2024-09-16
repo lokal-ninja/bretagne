@@ -1,11 +1,11 @@
 id: 472517735
-type: way
+type: node
 latitude: 48.57746
 longitude: -3.83953
 postcode: "29600"
 city: Saint-Martin-des-Champs
-street: "Rue Jean Jaurès"
-housenumber: 17
+street: Rue Jean Jaurès
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30; PH,Su 09:00-12:30"
+opening_hours: Mo-Sa 09:00-19:30; PH,Su 09:00-12:30
 website: ""

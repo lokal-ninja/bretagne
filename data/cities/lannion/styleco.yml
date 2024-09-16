@@ -1,11 +1,11 @@
 id: 405435074
-type: way
+type: node
 latitude: 48.73231
 longitude: -3.43806
 postcode: "22300"
 city: Lannion
-street: "Zone Commerciale Saint Marc"
-housenumber: 
+street: Zone Commerciale Saint Marc
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.styleco.fr/"
+website: http://www.styleco.fr/

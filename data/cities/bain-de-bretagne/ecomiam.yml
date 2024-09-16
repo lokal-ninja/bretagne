@@ -4,8 +4,8 @@ latitude: 47.8586
 longitude: -1.68845
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue des Estuaires"
-housenumber: 25
-phone: "+33 2 99 43 07 72"
-opening_hours: "Mo-Th 09:30-12:30,14:00-19:00; Fr-Sa 09:30-19:00"
-website: "https://www.ecomiam.com/magasins-ecomiam-baindebretagne-mgn-79.html"
+street: Rue des Estuaires
+housenumber: "25"
+phone: +33 2 99 43 07 72
+opening_hours: Mo-Th 09:30-12:30,14:00-19:00; Fr-Sa 09:30-19:00
+website: https://www.ecomiam.com/magasins-ecomiam-baindebretagne-mgn-79.html

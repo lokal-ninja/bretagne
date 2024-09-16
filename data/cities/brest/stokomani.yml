@@ -1,11 +1,11 @@
 id: 423119244
-type: way
+type: node
 latitude: 48.42664
 longitude: -4.47282
 postcode: "29200"
 city: Brest
-street: "Rue Graham Bell"
-housenumber: 
+street: Rue Graham Bell
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.stokomani.fr/magasins/brest"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.stokomani.fr/magasins/brest

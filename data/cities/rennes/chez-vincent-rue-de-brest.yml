@@ -1,11 +1,11 @@
 id: 230562705
-type: way
+type: node
 latitude: 48.11242
 longitude: -1.68907
 postcode: "35000"
 city: Rennes
-street: "Rue de Brest"
+street: Rue de Brest
 housenumber: 6e
-phone: "+33 2 99 59 29 76"
-opening_hours: "Mo-Sa 09:00-19:00"
+phone: +33 2 99 59 29 76
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

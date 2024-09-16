@@ -4,8 +4,8 @@ latitude: 48.77916
 longitude: -3.04406
 postcode: "22500"
 city: Paimpol
-street: "Quai Duguay-Trouin"
-housenumber: 6
-phone: "+33 2 96 20 18 39"
-opening_hours: "Tu-Sa 09:00-12:30,14:00-19:00; Su 10:00-12:30; Mo off"
+street: Quai Duguay-Trouin
+housenumber: "6"
+phone: +33 2 96 20 18 39
+opening_hours: Tu-Sa 09:00-12:30,14:00-19:00; Su 10:00-12:30; Mo off
 website: ""

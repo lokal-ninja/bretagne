@@ -1,11 +1,11 @@
 id: 81957866
-type: way
+type: node
 latitude: 48.81364
 longitude: -3.44305
 postcode: "22700"
 city: Perros-Guirec
-street: "Place de l'Église"
-housenumber: 5
-phone: "+33 2 96 23 25 99"
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-20:00"
+street: Place de l'Église
+housenumber: "5"
+phone: +33 2 96 23 25 99
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-20:00
 website: ""

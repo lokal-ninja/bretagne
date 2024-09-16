@@ -1,11 +1,11 @@
 id: 177438780
-type: way
+type: node
 latitude: 47.66082
 longitude: -2.45199
 postcode: "56230"
 city: Questembert
-street: "Rue Lebrun Malard"
-housenumber: 
-phone: "+33 2 97 53 09 02"
-opening_hours: "Mo-Sa 09:30-19:30"
+street: Rue Lebrun Malard
+housenumber: ""
+phone: +33 2 97 53 09 02
+opening_hours: Mo-Sa 09:30-19:30
 website: ""

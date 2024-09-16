@@ -4,8 +4,8 @@ latitude: 47.65827
 longitude: -2.75807
 postcode: "56000"
 city: Vannes
-street: "Rue Billault"
-housenumber: 4
-phone: "+33 297478521"
+street: Rue Billault
+housenumber: "4"
+phone: +33 297478521
 opening_hours: ""
-website: "https://www.antonelle.fr"
+website: https://www.antonelle.fr

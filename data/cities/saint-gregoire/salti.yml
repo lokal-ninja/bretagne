@@ -1,11 +1,11 @@
 id: 63896493
-type: way
+type: node
 latitude: 48.13918
 longitude: -1.69016
 postcode: "35760"
 city: Saint-Grégoire
-street: "Allée de la Cerisaie"
-housenumber: 6
-phone: "+33 2 99 84 06 06"
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-18:30"
+street: Allée de la Cerisaie
+housenumber: "6"
+phone: +33 2 99 84 06 06
+opening_hours: Mo-Fr 07:30-12:00, 13:30-18:30
 website: ""

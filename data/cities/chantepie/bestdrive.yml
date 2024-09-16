@@ -1,11 +1,11 @@
 id: 48920454
-type: way
+type: node
 latitude: 48.09816
 longitude: -1.62232
 postcode: "35135"
 city: Chantepie
-street: "Rue du Bignon"
-housenumber: 30
-phone: "+33 2 99 53 71 00"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:30"
-website: "https://bestdrive.fr/branches/garage-chantepie-pneu-entretien-auto-35135.html"
+street: Rue du Bignon
+housenumber: "30"
+phone: +33 2 99 53 71 00
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:30
+website: https://bestdrive.fr/branches/garage-chantepie-pneu-entretien-auto-35135.html

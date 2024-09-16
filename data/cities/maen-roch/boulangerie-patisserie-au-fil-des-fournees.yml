@@ -1,11 +1,11 @@
 id: 123857575
-type: way
+type: node
 latitude: 48.41056
 longitude: -1.3661
 postcode: "35460"
 city: Maen-Roch
-street: "Rue Joseph Tronchot"
-housenumber: 5
+street: Rue Joseph Tronchot
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

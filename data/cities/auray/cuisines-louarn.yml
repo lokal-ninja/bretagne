@@ -1,11 +1,11 @@
 id: 197222901
-type: way
+type: node
 latitude: 47.66315
 longitude: -3.01313
 postcode: "56400"
 city: Auray
-street: "Rue Louis Blériot"
-housenumber: 3
-phone: "+33 2 97 76 15 81"
+street: Rue Louis Blériot
+housenumber: "3"
+phone: +33 2 97 76 15 81
 opening_hours: ""
-website: "https://louarn-interieurs.com"
+website: https://louarn-interieurs.com

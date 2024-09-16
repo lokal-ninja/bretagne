@@ -1,11 +1,11 @@
 id: 358246478
-type: way
+type: node
 latitude: 47.85514
 longitude: -1.69082
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue des Estuaires"
-housenumber: 9
+street: Rue des Estuaires
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.aldi.fr/"
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.aldi.fr/

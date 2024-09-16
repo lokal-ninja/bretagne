@@ -4,8 +4,8 @@ latitude: 48.41109
 longitude: -4.47269
 postcode: "29200"
 city: Brest
-street: "Rue du 8 Mai 1945"
-housenumber: 34
-phone: "+33 2 98 41 78 60"
-opening_hours: "Mo 14:00-18:45; Tu-Sa 09:30-12:00, 14:00-18:45"
+street: Rue du 8 Mai 1945
+housenumber: "34"
+phone: +33 2 98 41 78 60
+opening_hours: Mo 14:00-18:45; Tu-Sa 09:30-12:00, 14:00-18:45
 website: ""

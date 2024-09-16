@@ -1,11 +1,11 @@
 id: 111227679
-type: way
+type: node
 latitude: 47.93668
 longitude: -1.23151
 postcode: "35130"
 city: La Guerche-de-Bretagne
-street: "Faubourg de Nantes"
-housenumber: 33
-phone: "+33 2 99 96 00 26"
+street: Faubourg de Nantes
+housenumber: "33"
+phone: +33 2 99 96 00 26
 opening_hours: ""
 website: ""

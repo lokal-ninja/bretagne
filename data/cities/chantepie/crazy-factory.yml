@@ -1,11 +1,11 @@
 id: 41913235
-type: way
+type: node
 latitude: 48.08921
 longitude: -1.62696
 postcode: "35135"
 city: Chantepie
-street: "Rue du Moulin"
-housenumber: 6
-phone: "+33 2 99 77 39 85"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Rue du Moulin
+housenumber: "6"
+phone: +33 2 99 77 39 85
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

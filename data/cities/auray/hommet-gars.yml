@@ -4,8 +4,8 @@ latitude: 47.66671
 longitude: -2.98499
 postcode: "56400"
 city: Auray
-street: "Rue du Lait"
-housenumber: 10
-phone: "+33 2 97564185"
+street: Rue du Lait
+housenumber: "10"
+phone: +33 2 97564185
 opening_hours: ""
-website: "https://homm-et-gars.fr/"
+website: https://homm-et-gars.fr/

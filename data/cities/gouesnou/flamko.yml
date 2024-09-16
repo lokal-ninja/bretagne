@@ -1,11 +1,11 @@
 id: 880329935
-type: way
+type: node
 latitude: 48.44554
 longitude: -4.46088
 postcode: "29850"
 city: Gouesnou
-street: "Rue de Mescadiou"
-housenumber: 345
-phone: "+33 2 98 85 90 92"
+street: Rue de Mescadiou
+housenumber: "345"
+phone: +33 2 98 85 90 92
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.10521
 longitude: -1.67799
 postcode: "35000"
 city: Rennes
-street: "Place du Colombier"
-housenumber: 18
+street: Place du Colombier
+housenumber: "18"
 phone: ""
-opening_hours: "Mo 12:00-19:00; Tu-Fr 09:30-19:00; Sa 09:30-18:00"
+opening_hours: Mo 12:00-19:00; Tu-Fr 09:30-19:00; Sa 09:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 287721595
-type: way
+type: node
 latitude: 48.47221
 longitude: -2.04463
 postcode: "22100"
 city: Taden
-street: "Route de Dinard"
-housenumber: 
+street: Route de Dinard
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://lacoopbio.com/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://lacoopbio.com/

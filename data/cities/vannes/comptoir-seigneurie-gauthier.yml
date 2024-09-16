@@ -4,8 +4,8 @@ latitude: 47.65478
 longitude: -2.72069
 postcode: "56000"
 city: Vannes
-street: "Rue du Général Baron Fabre"
-housenumber: 3
-phone: "+33 2 97 47 10 05"
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-18:00; Sa 09:00-12:00"
-website: "https://comptoirs.seigneuriegauthier.com/fr_FR/comptoir/56B"
+street: Rue du Général Baron Fabre
+housenumber: "3"
+phone: +33 2 97 47 10 05
+opening_hours: Mo-Fr 07:30-12:00, 13:30-18:00; Sa 09:00-12:00
+website: https://comptoirs.seigneuriegauthier.com/fr_FR/comptoir/56B

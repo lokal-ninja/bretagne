@@ -1,11 +1,11 @@
 id: 358247460
-type: way
+type: node
 latitude: 47.84536
 longitude: -1.68726
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue du Chêne Vert"
-housenumber: 11
-phone: "+33 2 99 43 85 09"
+street: Rue du Chêne Vert
+housenumber: "11"
+phone: +33 2 99 43 85 09
 opening_hours: ""
 website: ""

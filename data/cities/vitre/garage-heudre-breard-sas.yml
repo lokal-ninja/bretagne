@@ -1,11 +1,11 @@
 id: 92901153
-type: way
+type: node
 latitude: 48.10987
 longitude: -1.21141
 postcode: "35500"
 city: Vitré
-street: "Rue de la Briqueterie"
-housenumber: 10
-phone: "+33 2 99 74 40 20"
+street: Rue de la Briqueterie
+housenumber: "10"
+phone: +33 2 99 74 40 20
 opening_hours: ""
-website: "https://www.fordvitre.fr/"
+website: https://www.fordvitre.fr/

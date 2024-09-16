@@ -4,8 +4,8 @@ latitude: 47.65907
 longitude: -2.79043
 postcode: "56000"
 city: Vannes
-street: "Avenue de la Marne"
-housenumber: 95
-phone: "+33 2 97 63 15 62"
+street: Avenue de la Marne
+housenumber: "95"
+phone: +33 2 97 63 15 62
 opening_hours: ""
-website: "https://www.5asec.fr/"
+website: https://www.5asec.fr/

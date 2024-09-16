@@ -1,11 +1,11 @@
 id: 144529391
-type: way
+type: node
 latitude: 48.54646
 longitude: -2.77397
 postcode: "22190"
 city: Plérin
-street: "Rue Robert Schuman"
-housenumber: 4
+street: Rue Robert Schuman
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

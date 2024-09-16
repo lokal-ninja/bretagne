@@ -4,8 +4,8 @@ latitude: 48.06094
 longitude: -3.83025
 postcode: "29370"
 city: Coray
-street: "Place de l'Église"
-housenumber: 7
-phone: "+33 2 98 59 01 71"
-opening_hours: "Mo-We 08:30-12:00,13:30-17:30; Th 08:30-12:00; Fr 08:30-12:00,13:30-16:30"
+street: Place de l'Église
+housenumber: "7"
+phone: +33 2 98 59 01 71
+opening_hours: Mo-We 08:30-12:00,13:30-17:30; Th 08:30-12:00; Fr 08:30-12:00,13:30-16:30
 website: ""

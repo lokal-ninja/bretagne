@@ -1,11 +1,11 @@
 id: 46805254
-type: way
+type: node
 latitude: 48.18663
 longitude: -1.72438
 postcode: "35520"
 city: Melesse
-street: "Route du Meuble"
-housenumber: 82
-phone: "+33 2 99 13 02 85"
-opening_hours: "Tu-Sa 09:30-12:30, 14:00-18:30"
-website: "https://www.eclatdeverre.com/magasin/rennes-melesse/"
+street: Route du Meuble
+housenumber: "82"
+phone: +33 2 99 13 02 85
+opening_hours: Tu-Sa 09:30-12:30, 14:00-18:30
+website: https://www.eclatdeverre.com/magasin/rennes-melesse/

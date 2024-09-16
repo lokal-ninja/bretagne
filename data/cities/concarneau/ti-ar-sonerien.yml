@@ -1,11 +1,11 @@
 id: 118556347
-type: way
+type: node
 latitude: 47.90051
 longitude: -3.91226
 postcode: "29900"
 city: Concarneau
-street: "Rond-Point Keramporiel"
-housenumber: 
-phone: "+33 2 98 50 82 82"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-18:30"
-website: "https://www.sonerien.com/"
+street: Rond-Point Keramporiel
+housenumber: ""
+phone: +33 2 98 50 82 82
+opening_hours: Mo-Sa 09:30-12:30,14:00-18:30
+website: https://www.sonerien.com/

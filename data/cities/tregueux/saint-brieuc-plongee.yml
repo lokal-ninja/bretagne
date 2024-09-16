@@ -1,11 +1,11 @@
 id: 144303971
-type: way
+type: node
 latitude: 48.48881
 longitude: -2.7218
 postcode: "22950"
 city: Trégueux
-street: "Rue Marc Seguin"
-housenumber: 17
-phone: "+33 2 96 61 11 47"
-opening_hours: "Mo-Sa 09:30-12:00, 14:00-19:00"
-website: "https://www.sbplongee.com/"
+street: Rue Marc Seguin
+housenumber: "17"
+phone: +33 2 96 61 11 47
+opening_hours: Mo-Sa 09:30-12:00, 14:00-19:00
+website: https://www.sbplongee.com/

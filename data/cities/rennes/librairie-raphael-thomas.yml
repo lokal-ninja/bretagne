@@ -4,8 +4,8 @@ latitude: 48.10342
 longitude: -1.68273
 postcode: "35000"
 city: Rennes
-street: "Rue Docteur Francis Joly"
-housenumber: 14
-phone: "+33 2 23 42 99 87"
-opening_hours: "Tu-Th 14:00-19:00"
-website: "http://www.librairie-raphael-thomas.com"
+street: Rue Docteur Francis Joly
+housenumber: "14"
+phone: +33 2 23 42 99 87
+opening_hours: Tu-Th 14:00-19:00
+website: http://www.librairie-raphael-thomas.com

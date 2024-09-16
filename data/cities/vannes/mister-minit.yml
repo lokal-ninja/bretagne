@@ -4,8 +4,8 @@ latitude: 47.65908
 longitude: -2.79057
 postcode: "56000"
 city: Vannes
-street: "Avenue de la Marne"
-housenumber: 95
-phone: "+33 2 97 40 78 03"
+street: Avenue de la Marne
+housenumber: "95"
+phone: +33 2 97 40 78 03
 opening_hours: ""
-website: "https://misterminit.eu/"
+website: https://misterminit.eu/

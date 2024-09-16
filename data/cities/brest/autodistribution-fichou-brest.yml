@@ -1,11 +1,11 @@
 id: 42576045
-type: way
+type: node
 latitude: 48.42268
 longitude: -4.46388
 postcode: "29200"
 city: Brest
-street: "Rue Gustave Zédé"
-housenumber: 20
+street: Rue Gustave Zédé
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

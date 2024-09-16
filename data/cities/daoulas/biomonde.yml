@@ -1,11 +1,11 @@
 id: 258460489
-type: way
+type: node
 latitude: 48.35924
 longitude: -4.25777
 postcode: "29460"
 city: Daoulas
-street: "Rue Charles et Edouard des Deserts"
-housenumber: 
+street: Rue Charles et Edouard des Deserts
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 09:00-12:30,14:00-19:00;Fr,Sa 09:00-19:00;Su 09:30-12:30"
+opening_hours: Mo-Th 09:00-12:30,14:00-19:00;Fr,Sa 09:00-19:00;Su 09:30-12:30
 website: ""

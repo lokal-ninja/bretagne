@@ -4,8 +4,9 @@ latitude: 48.09628
 longitude: -1.63308
 postcode: "35000"
 city: Rennes
-street: "Rue du Breil"
-housenumber: 3
-phone: "+33 2 23 62 36 57"
-opening_hours: "Mo 11:30-20:00; Tu-Th 11:00-14:00, 15:30-20:30; Fr 11:00-20:30; Sa 14:00-19:30"
-website: "https://magasin.vandb.fr/767241-v-and-b-rennes-sud-est"
+street: Rue du Breil
+housenumber: "3"
+phone: +33 2 23 62 36 57
+opening_hours: Mo 11:30-20:00; Tu-Th 11:00-14:00, 15:30-20:30; Fr 11:00-20:30; Sa
+    14:00-19:30
+website: https://magasin.vandb.fr/767241-v-and-b-rennes-sud-est

@@ -4,8 +4,8 @@ latitude: 47.84156
 longitude: -1.68055
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Place Saint-Martin"
-housenumber: 2
-phone: "+33 2 99 47 44 09"
-opening_hours: "Tu-We 09:30-12:30, 14:00-19:00; Th-Sa 09:30-19:00"
-website: "https://baindebretagne.cavavin.co/"
+street: Place Saint-Martin
+housenumber: "2"
+phone: +33 2 99 47 44 09
+opening_hours: Tu-We 09:30-12:30, 14:00-19:00; Th-Sa 09:30-19:00
+website: https://baindebretagne.cavavin.co/

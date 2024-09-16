@@ -1,11 +1,11 @@
 id: 65448029
-type: way
+type: node
 latitude: 48.05265
 longitude: -1.60985
 postcode: "35770"
 city: Vern-sur-Seiche
-street: "Route de Rennes"
-housenumber: 
-phone: "+33 2 99 62 73 58"
-opening_hours: "24/7"
+street: Route de Rennes
+housenumber: ""
+phone: +33 2 99 62 73 58
+opening_hours: 24/7
 website: ""

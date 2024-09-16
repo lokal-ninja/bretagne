@@ -1,11 +1,11 @@
 id: 42578018
-type: way
+type: node
 latitude: 48.39209
 longitude: -4.48353
 postcode: "29200"
 city: Brest
-street: "Rue de la Deuxième Division Blindée"
-housenumber: 16
+street: Rue de la Deuxième Division Blindée
+housenumber: "16"
 phone: "+33298445645"
-opening_hours: "Mo-Sa 09:00-19:45"
-website: "https://www.e-leclerc.com/brest"
+opening_hours: Mo-Sa 09:00-19:45
+website: https://www.e-leclerc.com/brest

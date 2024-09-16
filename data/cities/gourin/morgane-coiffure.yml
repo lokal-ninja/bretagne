@@ -4,8 +4,8 @@ latitude: 48.14076
 longitude: -3.60382
 postcode: "56110"
 city: Gourin
-street: "Rue de la Libération"
-housenumber: 5
-phone: "+33 2 97 23 68 90"
-opening_hours: "Tu 09:00-12:00,14:00-19:00; We 08:30-12:30; Th 09:00-19:00; Fr 08:30-19:00"
+street: Rue de la Libération
+housenumber: "5"
+phone: +33 2 97 23 68 90
+opening_hours: Tu 09:00-12:00,14:00-19:00; We 08:30-12:30; Th 09:00-19:00; Fr 08:30-19:00
 website: ""

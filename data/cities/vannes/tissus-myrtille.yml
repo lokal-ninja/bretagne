@@ -4,8 +4,8 @@ latitude: 47.6623
 longitude: -2.78452
 postcode: "56000"
 city: Vannes
-street: "Rue Théophraste Renaudot"
-housenumber: 23
-phone: "+33 2 97 68 92 40"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.tissusmyrtille.fr/tissus-myrtille-vannes/"
+street: Rue Théophraste Renaudot
+housenumber: "23"
+phone: +33 2 97 68 92 40
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.tissusmyrtille.fr/tissus-myrtille-vannes/

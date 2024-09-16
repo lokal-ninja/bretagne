@@ -4,8 +4,8 @@ latitude: 47.76583
 longitude: -3.40216
 postcode: "56100"
 city: Lorient
-street: "Rue Saint-Exupéry"
-housenumber: 2
-phone: "+33 2 97 37 58 92"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.les7epis.fr/"
+street: Rue Saint-Exupéry
+housenumber: "2"
+phone: +33 2 97 37 58 92
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.les7epis.fr/

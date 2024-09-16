@@ -1,11 +1,11 @@
 id: 123131580
-type: way
+type: node
 latitude: 47.69596
 longitude: -3.24454
 postcode: "56680"
 city: Plouhinec
-street: "Rue du 19 Mars 1962"
-housenumber: 
-phone: "+33 2 97 36 76 20"
+street: Rue du 19 Mars 1962
+housenumber: ""
+phone: +33 2 97 36 76 20
 opening_hours: ""
 website: ""

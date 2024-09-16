@@ -4,8 +4,9 @@ latitude: 47.91301
 longitude: -1.37903
 postcode: "35240"
 city: Retiers
-street: "Rue Georges Clemenceau"
-housenumber: 4
-phone: "+33 2 99 47 84 59"
-opening_hours: "Mo 09:00-13:00; Tu-We 09:00-13:00, 16:00-19:00; Th 09:00-13:00; Fr-Sa 09:00-13:00, 16:00-19:00"
-website: "http://lepotagerdelily.fr"
+street: Rue Georges Clemenceau
+housenumber: "4"
+phone: +33 2 99 47 84 59
+opening_hours: Mo 09:00-13:00; Tu-We 09:00-13:00, 16:00-19:00; Th 09:00-13:00; Fr-Sa
+    09:00-13:00, 16:00-19:00
+website: http://lepotagerdelily.fr

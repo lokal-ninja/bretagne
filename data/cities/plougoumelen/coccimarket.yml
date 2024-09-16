@@ -1,11 +1,11 @@
 id: 180619754
-type: way
+type: node
 latitude: 47.65512
 longitude: -2.91584
 postcode: "56400"
 city: Plougoumelen
-street: "Rue de la Résistance"
-housenumber: 2
-phone: "+33 2 97 57 97 98"
+street: Rue de la Résistance
+housenumber: "2"
+phone: +33 2 97 57 97 98
 opening_hours: ""
-website: "https://coccimarket.fr"
+website: https://coccimarket.fr

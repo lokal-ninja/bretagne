@@ -1,11 +1,11 @@
 id: 1043723106
-type: way
+type: node
 latitude: 47.76399
 longitude: -3.39796
 postcode: "56100"
 city: Lorient
-street: "Rue du Colonel Jean Muller"
-housenumber: 92
-phone: "+33 2 97 50 02 78"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.chaussea.com/fr/shops/chaussea-lorient/"
+street: Rue du Colonel Jean Muller
+housenumber: "92"
+phone: +33 2 97 50 02 78
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.chaussea.com/fr/shops/chaussea-lorient/

@@ -1,11 +1,11 @@
 id: 266605757
-type: way
+type: node
 latitude: 48.11263
 longitude: -1.68901
 postcode: "35000"
 city: Rennes
-street: "Rue de Brest"
+street: Rue de Brest
 housenumber: 12c
 phone: ""
-opening_hours: "07:30-20:30"
+opening_hours: 07:30-20:30
 website: ""

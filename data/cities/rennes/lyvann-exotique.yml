@@ -4,8 +4,8 @@ latitude: 48.13421
 longitude: -1.69976
 postcode: "35000"
 city: Rennes
-street: "Rue Louis Aragon"
-housenumber: 8
+street: Rue Louis Aragon
+housenumber: "8"
 phone: "+33984483160"
 opening_hours: ""
-website: "https://lyvannexotique.metro.biz/"
+website: https://lyvannexotique.metro.biz/

@@ -4,8 +4,8 @@ latitude: 48.10945
 longitude: -1.68341
 postcode: "35000"
 city: Rennes
-street: "Rue de La Chalotais"
-housenumber: 24
-phone: "+33 2 99 30 70 83"
-opening_hours: "Mo-Fr 07:15-19:45; Sa 07:15-14:00"
-website: "https://www.festivaldespains.com/"
+street: Rue de La Chalotais
+housenumber: "24"
+phone: +33 2 99 30 70 83
+opening_hours: Mo-Fr 07:15-19:45; Sa 07:15-14:00
+website: https://www.festivaldespains.com/

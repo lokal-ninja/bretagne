@@ -1,11 +1,11 @@
 id: 82646633
-type: way
+type: node
 latitude: 48.10551
 longitude: -1.48272
 postcode: "35530"
 city: Brécé
-street: "Rue de l'Ecotais"
-housenumber: 2
-phone: "+33 2 99 04 22 13"
+street: Rue de l'Ecotais
+housenumber: "2"
+phone: +33 2 99 04 22 13
 opening_hours: ""
-website: "https://breceautomecanique.multimarque.fr/"
+website: https://breceautomecanique.multimarque.fr/

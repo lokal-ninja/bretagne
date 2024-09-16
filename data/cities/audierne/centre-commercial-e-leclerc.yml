@@ -1,11 +1,11 @@
 id: 188399075
-type: way
+type: node
 latitude: 48.0295
 longitude: -4.55647
 postcode: "29770"
 city: Audierne
-street: "Rue de Kerivoas"
-housenumber: 
+street: Rue de Kerivoas
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:30"
-website: "https://www.e.leclerc/mag/e-leclerc-audierne"
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:30
+website: https://www.e.leclerc/mag/e-leclerc-audierne

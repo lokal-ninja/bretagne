@@ -1,11 +1,11 @@
 id: 81983313
-type: way
+type: node
 latitude: 48.16423
 longitude: -1.63391
 postcode: "35830"
 city: Betton
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33223274040"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.leroymerlin.fr/rennes-nord"
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.leroymerlin.fr/rennes-nord

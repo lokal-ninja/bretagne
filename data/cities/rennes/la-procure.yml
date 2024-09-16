@@ -4,8 +4,8 @@ latitude: 48.1135
 longitude: -1.67633
 postcode: "35000"
 city: Rennes
-street: "Rue des Fossés"
-housenumber: 16
-phone: "+33 2 99 38 74 93"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.laprocure.com/"
+street: Rue des Fossés
+housenumber: "16"
+phone: +33 2 99 38 74 93
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.laprocure.com/

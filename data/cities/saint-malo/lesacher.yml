@@ -1,11 +1,11 @@
 id: 94684935
-type: way
+type: node
 latitude: 48.64903
 longitude: -1.98702
 postcode: "35400"
 city: Saint-Malo
-street: "Boulevard de l'Espérance"
-housenumber: 11
+street: Boulevard de l'Espérance
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

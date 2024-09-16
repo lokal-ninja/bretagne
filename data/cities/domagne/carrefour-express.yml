@@ -1,11 +1,11 @@
 id: 85443229
-type: way
+type: node
 latitude: 48.07096
 longitude: -1.39389
 postcode: "35113"
 city: Domagné
-street: "Allée Saint-Pierre"
-housenumber: 
-phone: "+33 2 99 00 02 09"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/express-domagne"
+street: Allée Saint-Pierre
+housenumber: ""
+phone: +33 2 99 00 02 09
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/express-domagne

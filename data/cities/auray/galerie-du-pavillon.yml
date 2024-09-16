@@ -1,11 +1,11 @@
 id: 197223755
-type: way
+type: node
 latitude: 47.66578
 longitude: -2.98284
 postcode: "56400"
 city: Auray
 street: ""
-housenumber: 7
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

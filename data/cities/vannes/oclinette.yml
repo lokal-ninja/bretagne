@@ -4,8 +4,8 @@ latitude: 47.66357
 longitude: -2.76642
 postcode: "56000"
 city: Vannes
-street: "Avenue Georges Pompidou"
-housenumber: 9
-phone: "+33 2 97 69 08 71"
-opening_hours: "24/7"
+street: Avenue Georges Pompidou
+housenumber: "9"
+phone: +33 2 97 69 08 71
+opening_hours: 24/7
 website: ""

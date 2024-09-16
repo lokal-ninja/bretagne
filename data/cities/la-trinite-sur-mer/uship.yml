@@ -1,11 +1,11 @@
 id: 94074309
-type: way
+type: node
 latitude: 47.58557
 longitude: -3.02699
 postcode: "56470"
 city: La Trinite Sur Mer
-street: "Cours des Quais"
-housenumber: 43
+street: Cours des Quais
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

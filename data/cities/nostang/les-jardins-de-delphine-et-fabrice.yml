@@ -1,11 +1,11 @@
 id: 123262269
-type: way
+type: node
 latitude: 47.76382
 longitude: -3.18259
 postcode: "56690"
 city: NOSTANG
 street: ""
-housenumber: 7
+housenumber: "7"
 phone: "+33766338008"
 opening_hours: ""
 website: ""

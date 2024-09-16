@@ -1,11 +1,11 @@
 id: 786237791
-type: way
+type: node
 latitude: 48.41142
 longitude: -1.36572
 postcode: "35460"
 city: Maen-Roch
-street: "Rue de l'Église"
-housenumber: 102
+street: Rue de l'Église
+housenumber: "102"
 phone: "+33299176341"
-opening_hours: "Tu-Sa 08:30-13:00,15:00-18:00"
+opening_hours: Tu-Sa 08:30-13:00,15:00-18:00
 website: ""

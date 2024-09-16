@@ -1,11 +1,11 @@
 id: 117239207
-type: way
+type: node
 latitude: 48.73127
 longitude: -3.45932
 postcode: "22300"
 city: Lannion
-street: "Rue de la Tour d'Auvergne"
-housenumber: 
+street: Rue de la Tour d'Auvergne
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu,We,Fr 09:30-12:30,14:00-19:00; Th,Sa 09:30-19:00"
+opening_hours: Mo 14:00-19:00; Tu,We,Fr 09:30-12:30,14:00-19:00; Th,Sa 09:30-19:00
 website: ""

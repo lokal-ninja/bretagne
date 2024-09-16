@@ -1,11 +1,11 @@
 id: 67997040
-type: way
+type: node
 latitude: 48.60182
 longitude: -2.82461
 postcode: "22520"
 city: Binic
-street: "Place de l'Église"
-housenumber: 4
+street: Place de l'Église
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

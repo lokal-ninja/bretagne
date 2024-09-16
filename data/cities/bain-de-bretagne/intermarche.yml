@@ -1,11 +1,11 @@
 id: 526882894
-type: way
+type: node
 latitude: 47.84495
 longitude: -1.68777
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue du Chêne Vert"
-housenumber: 
-phone: "+33 2 99 43 72 47"
-opening_hours: "24/7"
-website: "https://www.intermarche.com/"
+street: Rue du Chêne Vert
+housenumber: ""
+phone: +33 2 99 43 72 47
+opening_hours: 24/7
+website: https://www.intermarche.com/

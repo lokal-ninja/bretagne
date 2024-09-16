@@ -1,11 +1,11 @@
 id: 67996637
-type: way
+type: node
 latitude: 48.60138
 longitude: -2.82492
 postcode: "22520"
 city: Binic
-street: "Rue Joffre"
-housenumber: 9
+street: Rue Joffre
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

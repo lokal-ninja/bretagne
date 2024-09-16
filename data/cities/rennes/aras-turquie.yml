@@ -4,8 +4,8 @@ latitude: 48.10891
 longitude: -1.67939
 postcode: "35000"
 city: Rennes
-street: "Rue Jules Simon"
-housenumber: 2
-phone: "+33 2 99 78 26 45"
-opening_hours: "Mo-Sa 09:00-13:00,14:00-19:30"
-website: "http://www.turquiearas.com"
+street: Rue Jules Simon
+housenumber: "2"
+phone: +33 2 99 78 26 45
+opening_hours: Mo-Sa 09:00-13:00,14:00-19:30
+website: http://www.turquiearas.com

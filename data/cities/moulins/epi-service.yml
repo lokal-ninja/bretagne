@@ -1,11 +1,11 @@
 id: 85606792
-type: way
+type: node
 latitude: 48.00344
 longitude: -1.37473
 postcode: "35680"
 city: Moulins
-street: "Impasse de Quincampoix"
-housenumber: 2
+street: Impasse de Quincampoix
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

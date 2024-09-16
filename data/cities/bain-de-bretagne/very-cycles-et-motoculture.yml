@@ -1,11 +1,11 @@
 id: 962195973
-type: way
+type: node
 latitude: 47.84608
 longitude: -1.68679
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue du Chêne Vert"
-housenumber: 15
-phone: "+33 2 99 43 72 25"
+street: Rue du Chêne Vert
+housenumber: "15"
+phone: +33 2 99 43 72 25
 opening_hours: ""
-website: "https://www.verymotoculture.com/"
+website: https://www.verymotoculture.com/

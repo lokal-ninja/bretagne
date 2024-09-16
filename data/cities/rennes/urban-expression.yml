@@ -4,8 +4,8 @@ latitude: 48.11492
 longitude: -1.67653
 postcode: "35000"
 city: Rennes
-street: "Rue Saint-Melaine"
-housenumber: 23
+street: Rue Saint-Melaine
+housenumber: "23"
 phone: "+33299637557"
-opening_hours: "Tu-Fr 10:30-19:00; Sa 10:30-18:00"
-website: "http://www.urbanexpression.fr/"
+opening_hours: Tu-Fr 10:30-19:00; Sa 10:30-18:00
+website: http://www.urbanexpression.fr/

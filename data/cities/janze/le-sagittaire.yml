@@ -1,11 +1,11 @@
 id: 83316343
-type: way
+type: node
 latitude: 47.95957
 longitude: -1.49709
 postcode: "35150"
 city: Janzé
-street: "Rue du Docteur Roux"
-housenumber: 2
-phone: "+33 299470074"
+street: Rue du Docteur Roux
+housenumber: "2"
+phone: +33 299470074
 opening_hours: ""
 website: ""

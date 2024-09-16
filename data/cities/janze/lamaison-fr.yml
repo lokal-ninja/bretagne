@@ -1,11 +1,11 @@
 id: 83314639
-type: way
+type: node
 latitude: 47.95365
 longitude: -1.4935
 postcode: "35150"
 city: Janzé
-street: "Boulevard Pasteur"
-housenumber: 35
-phone: "+33 2 99 47 27 74"
-opening_hours: "Mo-Sa 09:00-12:15, 14:00-18:30"
-website: "https://www.lamaison.fr/stores/janze"
+street: Boulevard Pasteur
+housenumber: "35"
+phone: +33 2 99 47 27 74
+opening_hours: Mo-Sa 09:00-12:15, 14:00-18:30
+website: https://www.lamaison.fr/stores/janze

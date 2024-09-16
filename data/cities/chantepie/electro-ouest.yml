@@ -1,11 +1,11 @@
 id: 41908091
-type: way
+type: node
 latitude: 48.08748
 longitude: -1.62916
 postcode: "35135"
 city: Chantepie
-street: "Allée de Brocéliande"
-housenumber: 
-phone: "+33 2 99 83 51 51"
+street: Allée de Brocéliande
+housenumber: ""
+phone: +33 2 99 83 51 51
 opening_hours: ""
-website: "https://etn.fr/localisation/loc-35/"
+website: https://etn.fr/localisation/loc-35/

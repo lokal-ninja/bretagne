@@ -1,11 +1,11 @@
 id: 337059460
-type: way
+type: node
 latitude: 48.73337
 longitude: -3.43438
 postcode: "22300"
 city: Lannion
-street: "Rue Yves Coppens"
-housenumber: 
+street: Rue Yves Coppens
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-19:00"
-website: "https://www.garage-beyou-lannion.com/"
+opening_hours: Mo-Fr 08:30-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-19:00
+website: https://www.garage-beyou-lannion.com/

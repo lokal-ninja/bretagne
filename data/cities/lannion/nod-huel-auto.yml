@@ -1,11 +1,11 @@
 id: 317365680
-type: way
+type: node
 latitude: 48.73095
 longitude: -3.47035
 postcode: "22300"
 city: Lannion
-street: "Boulevard Pierre Mendès-France"
-housenumber: 12
+street: Boulevard Pierre Mendès-France
+housenumber: "12"
 phone: "+33296461446"
 opening_hours: ""
 website: ""

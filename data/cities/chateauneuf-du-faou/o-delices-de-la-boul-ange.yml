@@ -1,11 +1,11 @@
 id: 84997210
-type: way
+type: node
 latitude: 48.19584
 longitude: -3.82007
 postcode: ""
 city: Chateauneuf du faou
-street: "Rue de Morlaix"
-housenumber: 9
+street: Rue de Morlaix
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

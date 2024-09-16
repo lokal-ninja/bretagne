@@ -4,8 +4,8 @@ latitude: 47.71344
 longitude: -2.21682
 postcode: "56220"
 city: Peillac
-street: "Rue Principale"
-housenumber: 9
-phone: "+33 2 99 91 25 35"
-opening_hours: "Tu-Sa 06:30-14:00,16:00-19:30; Su 06:30-13:00"
-website: "http://www.lefournildecharly.fr/"
+street: Rue Principale
+housenumber: "9"
+phone: +33 2 99 91 25 35
+opening_hours: Tu-Sa 06:30-14:00,16:00-19:30; Su 06:30-13:00
+website: http://www.lefournildecharly.fr/

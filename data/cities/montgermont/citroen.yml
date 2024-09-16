@@ -4,8 +4,8 @@ latitude: 48.15027
 longitude: -1.70435
 postcode: "35760"
 city: Montgermont
-street: "Chemin du Clos Bouvier"
-housenumber: 1
+street: Chemin du Clos Bouvier
+housenumber: "1"
 phone: "+33299689954"
-opening_hours: "Mo-Fr 08:00-12:30, 14:00-19:00"
-website: "https://reseau.citroen.fr/reparateur-montgermont"
+opening_hours: Mo-Fr 08:00-12:30, 14:00-19:00
+website: https://reseau.citroen.fr/reparateur-montgermont

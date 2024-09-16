@@ -1,11 +1,11 @@
 id: 90530833
-type: way
+type: node
 latitude: 48.5492
 longitude: -1.75072
 postcode: "35120"
 city: Dol-de-Bretagne
-street: "Boulevard Deminiac"
-housenumber: 32
-phone: "+33 2 99809626"
+street: Boulevard Deminiac
+housenumber: "32"
+phone: +33 2 99809626
 opening_hours: ""
-website: "http://www.bretagne-velocation.com"
+website: http://www.bretagne-velocation.com

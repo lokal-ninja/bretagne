@@ -4,8 +4,8 @@ latitude: 48.1121
 longitude: -1.67921
 postcode: "35000"
 city: Rennes
-street: "Rue d'Estrées"
-housenumber: 6
-phone: "+33 2 99 79 35 81"
-opening_hours: "Tu-Sa 10:30-19:00; Mo 13:00-19:00"
+street: Rue d'Estrées
+housenumber: "6"
+phone: +33 2 99 79 35 81
+opening_hours: Tu-Sa 10:30-19:00; Mo 13:00-19:00
 website: ""

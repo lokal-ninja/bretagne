@@ -1,11 +1,11 @@
 id: 298806712
-type: way
+type: node
 latitude: 47.63097
 longitude: -2.10228
 postcode: "56350"
 city: Rieux
-street: "Aucfer"
-housenumber: 
+street: Aucfer
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:00"
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:00
 website: ""

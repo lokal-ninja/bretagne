@@ -1,11 +1,11 @@
 id: 183006985
-type: way
+type: node
 latitude: 47.95648
 longitude: -1.48832
 postcode: "35150"
 city: Janzé
-street: "ZA de la Chauvelière"
-housenumber: 
-phone: "+33 2 99 47 05 96"
-opening_hours: "Mo-Sa 09:00-19:15"
-website: "https://www.centrakor.com/"
+street: ZA de la Chauvelière
+housenumber: ""
+phone: +33 2 99 47 05 96
+opening_hours: Mo-Sa 09:00-19:15
+website: https://www.centrakor.com/

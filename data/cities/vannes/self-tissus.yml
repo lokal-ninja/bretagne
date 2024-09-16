@@ -4,8 +4,8 @@ latitude: 47.6549
 longitude: -2.72066
 postcode: "56000"
 city: Vannes
-street: "Rue du Général Baron Fabre"
-housenumber: 3
-phone: "+33 2 97 47 46 04"
-opening_hours: "Mo-Fr 09:30-12:30, 14:00-18:45"
-website: "https://www.selftissus.fr/"
+street: Rue du Général Baron Fabre
+housenumber: "3"
+phone: +33 2 97 47 46 04
+opening_hours: Mo-Fr 09:30-12:30, 14:00-18:45
+website: https://www.selftissus.fr/

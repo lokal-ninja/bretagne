@@ -4,8 +4,8 @@ latitude: 47.86937
 longitude: -3.58975
 postcode: "29300"
 city: Mellac
-street: "Rue Albert Schweitzer"
-housenumber: 12
+street: Rue Albert Schweitzer
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:00, 14:00-19:00"
-website: "https://www.but.fr/magasins/304/But-Quimperle.html"
+opening_hours: Mo-Sa 10:00-12:00, 14:00-19:00
+website: https://www.but.fr/magasins/304/But-Quimperle.html

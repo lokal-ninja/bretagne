@@ -1,11 +1,11 @@
 id: 42521461
-type: way
+type: node
 latitude: 48.40774
 longitude: -4.45889
 postcode: "29200"
 city: Brest
-street: "Rue de Paris"
-housenumber: 85
-phone: "+33 2 98 38 98 97"
-opening_hours: "Mo 14:30-19:00; Tu-Th 09:30-13:00,14:30-19:00; Fr-Sa 09:30-19:00"
-website: "http://icci.bzh/"
+street: Rue de Paris
+housenumber: "85"
+phone: +33 2 98 38 98 97
+opening_hours: Mo 14:30-19:00; Tu-Th 09:30-13:00,14:30-19:00; Fr-Sa 09:30-19:00
+website: http://icci.bzh/

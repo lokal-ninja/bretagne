@@ -1,11 +1,11 @@
 id: 144035899
-type: way
+type: node
 latitude: 47.66779
 longitude: -2.78871
 postcode: "56000"
 city: Vannes
 street: ""
-housenumber: 
-phone: "+33 2 97 62 78 78"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/"
+housenumber: ""
+phone: +33 2 97 62 78 78
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/

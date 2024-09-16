@@ -1,11 +1,11 @@
 id: 407343333
-type: way
+type: node
 latitude: 48.47757
 longitude: -3.18753
 postcode: "22390"
 city: Bourbriac
-street: "Rue de l'Armor"
-housenumber: 
-phone: "+33 2 96 43 43 28"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-bourbriac-armor"
+street: Rue de l'Armor
+housenumber: ""
+phone: +33 2 96 43 43 28
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-bourbriac-armor

@@ -4,8 +4,8 @@ latitude: 48.11753
 longitude: -1.70764
 postcode: "35000"
 city: Rennes
-street: "Avenue Sir Winston Churchill"
-housenumber: 2
-phone: "+33 2 99 59 13 41"
-opening_hours: "Mo-Su 06:50-19:30"
+street: Avenue Sir Winston Churchill
+housenumber: "2"
+phone: +33 2 99 59 13 41
+opening_hours: Mo-Su 06:50-19:30
 website: ""

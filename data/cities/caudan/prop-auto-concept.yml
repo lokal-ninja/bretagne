@@ -4,8 +4,8 @@ latitude: 47.78709
 longitude: -3.3361
 postcode: "56850"
 city: Caudan
-street: "Rue Michel Marion"
-housenumber: 145
-phone: "+33 2  97 76 53 65"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00"
-website: "https://propautoconcept.fr/"
+street: Rue Michel Marion
+housenumber: "145"
+phone: +33 2  97 76 53 65
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00
+website: https://propautoconcept.fr/

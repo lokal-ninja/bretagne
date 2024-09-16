@@ -4,8 +4,8 @@ latitude: 48.64806
 longitude: -2.02632
 postcode: "35400"
 city: Saint-Malo
-street: "Rue Broussais"
-housenumber: 3
-phone: "+33 2 99 56 69 54"
-opening_hours: "Mo-Su 10:00-12:45,13:15-17:30"
-website: "https://www.atelierstmichel.fr"
+street: Rue Broussais
+housenumber: "3"
+phone: +33 2 99 56 69 54
+opening_hours: Mo-Su 10:00-12:45,13:15-17:30
+website: https://www.atelierstmichel.fr

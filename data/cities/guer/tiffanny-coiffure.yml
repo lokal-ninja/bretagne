@@ -1,11 +1,11 @@
 id: 419898734
-type: way
+type: node
 latitude: 47.9084
 longitude: -2.12178
 postcode: "56380"
 city: Guer
-street: "Résidence de l'Espoir"
-housenumber: 4
+street: Résidence de l'Espoir
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Sa 9:00-19:00"
+opening_hours: Tu-Sa 9:00-19:00
 website: ""

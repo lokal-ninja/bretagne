@@ -1,11 +1,11 @@
 id: 340442032
-type: way
+type: node
 latitude: 47.6697
 longitude: -2.7913
 postcode: "56000"
 city: Vannes
-street: "Rue Henri Navier"
-housenumber: 7
-phone: "+33 2 97 69 58 60"
+street: Rue Henri Navier
+housenumber: "7"
+phone: +33 2 97 69 58 60
 opening_hours: ""
-website: "https://www.electrodepot.fr/"
+website: https://www.electrodepot.fr/

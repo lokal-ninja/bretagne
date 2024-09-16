@@ -1,11 +1,11 @@
 id: 379435669
-type: way
+type: node
 latitude: 48.08314
 longitude: -1.67966
 postcode: "35200"
 city: Rennes
-street: "Rue du Bosphore"
-housenumber: 5
+street: Rue du Bosphore
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/bretagne/rennes/rennes-c-cial-alma/S-FRYROC541"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-20:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/bretagne/rennes/rennes-c-cial-alma/S-FRYROC541

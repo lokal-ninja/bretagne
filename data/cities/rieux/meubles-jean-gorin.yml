@@ -1,11 +1,11 @@
 id: 298806498
-type: way
+type: node
 latitude: 47.63276
 longitude: -2.10099
 postcode: "56350"
 city: Rieux
-street: "rue de la Briqueterie"
-housenumber: 8
-phone: "+33 2 99 71 40 47"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "http://www.meublesgorin.fr/"
+street: rue de la Briqueterie
+housenumber: "8"
+phone: +33 2 99 71 40 47
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: http://www.meublesgorin.fr/

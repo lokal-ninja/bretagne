@@ -1,11 +1,11 @@
 id: 83192265
-type: way
+type: node
 latitude: 48.02421
 longitude: -1.78478
 postcode: "35580"
 city: Goven
-street: "Impasse de la Cerisaie"
-housenumber: 6
-phone: "+33 2 99 35 00 48"
+street: Impasse de la Cerisaie
+housenumber: "6"
+phone: +33 2 99 35 00 48
 opening_hours: ""
-website: "https://carafermetures.com/"
+website: https://carafermetures.com/

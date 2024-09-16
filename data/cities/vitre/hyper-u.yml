@@ -1,11 +1,11 @@
 id: 92896941
-type: way
+type: node
 latitude: 48.11096
 longitude: -1.21042
 postcode: "35500"
 city: Vitré
-street: "Rue de Redon"
-housenumber: 21
+street: Rue de Redon
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

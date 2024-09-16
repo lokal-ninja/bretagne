@@ -1,11 +1,11 @@
 id: 42581913
-type: way
+type: node
 latitude: 48.44798
 longitude: -4.46396
 postcode: "29850"
 city: Gouesnou
-street: "Rue de Brest"
-housenumber: 25
+street: Rue de Brest
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

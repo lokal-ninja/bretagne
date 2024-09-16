@@ -1,11 +1,11 @@
 id: 54016007
-type: way
+type: node
 latitude: 48.576
 longitude: -4.31538
 postcode: "29260"
 city: Lesneven
-street: "Parking, Casino, Boulevard des Frères Lumière"
-housenumber: 
-phone: "+33 2 98 83 13 55"
-opening_hours: "Mo-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-12:30, 14:00-19:00"
-website: "https://www.magasin-point-vert.fr/magasin/lesneven"
+street: Parking, Casino, Boulevard des Frères Lumière
+housenumber: ""
+phone: +33 2 98 83 13 55
+opening_hours: Mo-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-12:30, 14:00-19:00
+website: https://www.magasin-point-vert.fr/magasin/lesneven

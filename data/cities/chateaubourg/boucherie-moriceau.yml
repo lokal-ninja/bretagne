@@ -4,8 +4,8 @@ latitude: 48.10707
 longitude: -1.40525
 postcode: "35220"
 city: Châteaubourg
-street: "Rue de Rennes"
-housenumber: 21
-phone: "+33 2 99 04 68 25"
-opening_hours: "Tu-Fr 8:00-13:00 15:00-19:00 Sa 8:00-13:00 15:00-18:00"
-website: "https://www.boucherie-moriceau.fr/"
+street: Rue de Rennes
+housenumber: "21"
+phone: +33 2 99 04 68 25
+opening_hours: Tu-Fr 8:00-13:00 15:00-19:00 Sa 8:00-13:00 15:00-18:00
+website: https://www.boucherie-moriceau.fr/

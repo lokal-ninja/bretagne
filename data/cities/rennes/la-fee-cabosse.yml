@@ -4,8 +4,8 @@ latitude: 48.10868
 longitude: -1.67969
 postcode: "35000"
 city: Rennes
-street: "Rue Poullain Duparc"
-housenumber: 2
-phone: "+33 2 99 78 46 42"
-opening_hours: "Tu-Sa 10:00-13:00,15:00-19:00"
-website: "https://www.feecabosse.fr/"
+street: Rue Poullain Duparc
+housenumber: "2"
+phone: +33 2 99 78 46 42
+opening_hours: Tu-Sa 10:00-13:00,15:00-19:00
+website: https://www.feecabosse.fr/

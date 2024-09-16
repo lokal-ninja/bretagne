@@ -4,8 +4,8 @@ latitude: 48.09812
 longitude: -1.63574
 postcode: "35000"
 city: Rennes
-street: "Rue du Noyer"
-housenumber: 7
-phone: "+33 2 99 53 97 53"
+street: Rue du Noyer
+housenumber: "7"
+phone: +33 2 99 53 97 53
 opening_hours: ""
-website: "https://garnier-revault.fr/"
+website: https://garnier-revault.fr/

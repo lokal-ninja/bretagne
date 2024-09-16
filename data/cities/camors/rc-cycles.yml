@@ -1,11 +1,11 @@
 id: 205971958
-type: way
+type: node
 latitude: 47.84995
 longitude: -3.0015
 postcode: "56330"
 city: Camors
-street: "Rue des Acacias"
-housenumber: 20
+street: Rue des Acacias
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

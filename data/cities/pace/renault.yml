@@ -1,11 +1,11 @@
 id: 401169094
-type: way
+type: node
 latitude: 48.14017
 longitude: -1.76089
 postcode: "35740"
 city: Pacé
-street: "Boulevard du Scorff"
-housenumber: 
-phone: "+33 2 99 60 61 22"
+street: Boulevard du Scorff
+housenumber: ""
+phone: +33 2 99 60 61 22
 opening_hours: ""
-website: "https://paceautomobiles.fr/"
+website: https://paceautomobiles.fr/

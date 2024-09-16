@@ -4,8 +4,8 @@ latitude: 48.10865
 longitude: -1.69461
 postcode: "35000"
 city: Rennes
-street: "Mail François Mitterrand"
-housenumber: 78
+street: Mail François Mitterrand
+housenumber: "78"
 phone: "+33290227483"
-opening_hours: "Tu-Fr 10:00-20:00; Mo 15:00-19:00; Sa 10:00-19:00"
+opening_hours: Tu-Fr 10:00-20:00; Mo 15:00-19:00; Sa 10:00-19:00
 website: ""

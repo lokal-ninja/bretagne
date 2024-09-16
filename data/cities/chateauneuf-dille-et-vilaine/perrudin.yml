@@ -1,11 +1,11 @@
 id: 88269294
-type: way
+type: node
 latitude: 48.55725
 longitude: -1.93003
 postcode: "35430"
 city: Châteauneuf-d'Ille-et-Vilaine
-street: "Rue de l'Aunaie"
-housenumber: 6
-phone: "+33 2 23 18 16 56"
+street: Rue de l'Aunaie
+housenumber: "6"
+phone: +33 2 23 18 16 56
 opening_hours: ""
-website: "garageperrudin.com/"
+website: garageperrudin.com/

@@ -4,8 +4,8 @@ latitude: 48.73152
 longitude: -3.45848
 postcode: "22300"
 city: Lannion
-street: "Rue de Saint-Malo"
-housenumber: 5
+street: Rue de Saint-Malo
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu,We,Fr,Sa 09:30-12:30,14:00-19:00; Th 09:30-19:00"
+opening_hours: Mo 14:00-19:00; Tu,We,Fr,Sa 09:30-12:30,14:00-19:00; Th 09:30-19:00
 website: ""

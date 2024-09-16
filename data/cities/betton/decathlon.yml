@@ -1,11 +1,11 @@
 id: 81985096
-type: way
+type: node
 latitude: 48.16341
 longitude: -1.63878
 postcode: "35830"
 city: Betton
-street: "zone de pluvignon"
-housenumber: 
-phone: "+33 2 23 27 41 41"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-decathlon-rennes-betton-0070007300073"
+street: zone de pluvignon
+housenumber: ""
+phone: +33 2 23 27 41 41
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/store-view/magasin-de-sports-decathlon-rennes-betton-0070007300073

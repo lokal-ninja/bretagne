@@ -1,11 +1,11 @@
 id: 147935206
-type: way
+type: node
 latitude: 47.93082
 longitude: -2.39273
 postcode: "56800"
 city: Ploërmel
-street: "Avenue Georges Pompidou"
-housenumber: 1
+street: Avenue Georges Pompidou
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

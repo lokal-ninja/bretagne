@@ -1,11 +1,11 @@
 id: 362101670
-type: way
+type: node
 latitude: 47.83832
 longitude: -2.63937
 postcode: "56420"
 city: Plumelec
-street: "Rue du Docteur Remé"
-housenumber: 7
+street: Rue du Docteur Remé
+housenumber: "7"
 phone: "+33297458567"
 opening_hours: ""
 website: ""

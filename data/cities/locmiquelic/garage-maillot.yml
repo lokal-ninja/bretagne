@@ -4,8 +4,8 @@ latitude: 47.73163
 longitude: -3.31975
 postcode: "56570"
 city: Locmiquélic
-street: "Rue des Artisans"
-housenumber: 4
-phone: "+33 6 51 89 20 66"
-opening_hours: "Mo-Fr 09:00-12:00, 13:30-18:00; SA 09:00-12:00"
-website: "https://garage-maillot.business.site"
+street: Rue des Artisans
+housenumber: "4"
+phone: +33 6 51 89 20 66
+opening_hours: Mo-Fr 09:00-12:00, 13:30-18:00; SA 09:00-12:00
+website: https://garage-maillot.business.site

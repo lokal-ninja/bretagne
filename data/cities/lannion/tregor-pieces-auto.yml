@@ -1,11 +1,11 @@
 id: 117279837
-type: way
+type: node
 latitude: 48.75826
 longitude: -3.46915
 postcode: "22300"
 city: Lannion
-street: "Avenue Pierre Marzin"
-housenumber: 8
-phone: "+33 2 96 15 14 14"
-opening_hours: "Mo-Fr 07:30-12:30,13:30-18:30; Sa 08:00-12:00"
+street: Avenue Pierre Marzin
+housenumber: "8"
+phone: +33 2 96 15 14 14
+opening_hours: Mo-Fr 07:30-12:30,13:30-18:30; Sa 08:00-12:00
 website: ""

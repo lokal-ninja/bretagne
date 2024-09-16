@@ -1,11 +1,11 @@
 id: 338366886
-type: way
+type: node
 latitude: 48.11489
 longitude: -1.20587
 postcode: "35500"
 city: Vitré
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30; Fr 09:00-20:00"
+opening_hours: Mo-Sa 09:00-19:30; Fr 09:00-20:00
 website: ""

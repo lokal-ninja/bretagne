@@ -4,8 +4,8 @@ latitude: 48.10854
 longitude: -1.67885
 postcode: "35000"
 city: Rennes
-street: "Rue Vasselot"
-housenumber: 10
-phone: "+33 2 90 22 69 79"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://scarabee-biocoop.fr/"
+street: Rue Vasselot
+housenumber: "10"
+phone: +33 2 90 22 69 79
+opening_hours: Mo-Sa 09:30-19:30
+website: https://scarabee-biocoop.fr/

@@ -1,11 +1,11 @@
 id: 117268847
-type: way
+type: node
 latitude: 48.73176
 longitude: -3.45852
 postcode: "22300"
 city: Lannion
-street: "Place du Général Leclerc"
-housenumber: 
+street: Place du Général Leclerc
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

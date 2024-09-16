@@ -1,11 +1,11 @@
 id: 552646351
-type: way
+type: node
 latitude: 48.19358
 longitude: -1.62463
 postcode: "35830"
 city: Betton
-street: "Rue de l'Illet"
-housenumber: 2
-phone: "+33 2 23 07 20 06"
+street: Rue de l'Illet
+housenumber: "2"
+phone: +33 2 23 07 20 06
 opening_hours: ""
 website: ""

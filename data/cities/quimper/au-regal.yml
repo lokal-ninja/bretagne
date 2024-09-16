@@ -4,8 +4,8 @@ latitude: 47.99523
 longitude: -4.10435
 postcode: "29000"
 city: Quimper
-street: "Rue Saint-François"
-housenumber: 11
+street: Rue Saint-François
+housenumber: "11"
 phone: "+33298950114"
-opening_hours: "Mo-Sa 9:30-12:30, 14:00-19:00; Jun-Aug Su 9:30-12:00"
+opening_hours: Mo-Sa 9:30-12:30, 14:00-19:00; Jun-Aug Su 9:30-12:00
 website: ""

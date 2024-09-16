@@ -1,11 +1,11 @@
 id: 53923409
-type: way
+type: node
 latitude: 48.58735
 longitude: -4.5731
 postcode: "29870"
 city: Landéda
-street: "Route de l'Armorique"
-housenumber: 1
+street: Route de l'Armorique
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 13:30-18:00; Tu,Th,Fr 09:00-12:00,13:30-18:30; Sa 08:30-16:00"
+opening_hours: Mo 13:30-18:00; Tu,Th,Fr 09:00-12:00,13:30-18:30; Sa 08:30-16:00
 website: ""

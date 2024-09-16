@@ -1,11 +1,11 @@
 id: 88007398
-type: way
+type: node
 latitude: 48.04571
 longitude: -1.71427
 postcode: "35131"
 city: Chartres-de-Bretagne
-street: "Rue Gustave Eiffel"
-housenumber: 
-phone: "+33 2 99 41 21 20"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00; May-Aug Sa off"
+street: Rue Gustave Eiffel
+housenumber: ""
+phone: +33 2 99 41 21 20
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00; May-Aug Sa off
 website: ""

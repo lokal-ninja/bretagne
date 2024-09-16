@@ -1,11 +1,11 @@
 id: 60169913
-type: way
+type: node
 latitude: 48.38698
 longitude: -4.43591
 postcode: "29200"
 city: Brest
-street: "Rue des Mouettes"
-housenumber: 150
+street: Rue des Mouettes
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

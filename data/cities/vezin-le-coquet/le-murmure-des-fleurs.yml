@@ -4,8 +4,8 @@ latitude: 48.1189
 longitude: -1.75576
 postcode: "35132"
 city: Vezin-le-Coquet
-street: "Rue de Rennes"
-housenumber: 4
+street: Rue de Rennes
+housenumber: "4"
 phone: ""
-opening_hours: "Tu 09:00-12:30,14:30-19:00; We-Sa 09:00-12:30,14:00-19:00; Su 09:30-12:30"
-website: "http://www.lemurmuredesfleurs.fr/"
+opening_hours: Tu 09:00-12:30,14:30-19:00; We-Sa 09:00-12:30,14:00-19:00; Su 09:30-12:30
+website: http://www.lemurmuredesfleurs.fr/

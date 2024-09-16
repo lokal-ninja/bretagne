@@ -1,11 +1,11 @@
 id: 82645895
-type: way
+type: node
 latitude: 48.10436
 longitude: -1.48586
 postcode: "35530"
 city: Brécé
-street: "La Croix Rouge"
-housenumber: 
-phone: "+33 2 99 62 51 83"
+street: La Croix Rouge
+housenumber: ""
+phone: +33 2 99 62 51 83
 opening_hours: ""
-website: "https://www.vspfullrace.fr/"
+website: https://www.vspfullrace.fr/

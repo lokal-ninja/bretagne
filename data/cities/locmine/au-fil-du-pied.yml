@@ -1,11 +1,11 @@
 id: 168753943
-type: way
+type: node
 latitude: 47.88795
 longitude: -2.83636
 postcode: "56500"
 city: Locminé
-street: "Rond-Point de la République"
-housenumber: 13
+street: Rond-Point de la République
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

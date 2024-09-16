@@ -4,8 +4,8 @@ latitude: 48.1087
 longitude: -1.67903
 postcode: "35000"
 city: Rennes
-street: "Rue Jules Simon"
-housenumber: 9
-phone: "+33 2 99 78 18 10"
-opening_hours: "Tu-Sa 10:00-13:00,14:00-18:00"
+street: Rue Jules Simon
+housenumber: "9"
+phone: +33 2 99 78 18 10
+opening_hours: Tu-Sa 10:00-13:00,14:00-18:00
 website: ""

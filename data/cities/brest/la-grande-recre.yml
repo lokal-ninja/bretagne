@@ -1,11 +1,11 @@
 id: 42574206
-type: way
+type: node
 latitude: 48.42781
 longitude: -4.46882
 postcode: "29200"
 city: Brest
-street: "Rue Madeleine Lagadec"
-housenumber: 2
+street: Rue Madeleine Lagadec
+housenumber: "2"
 phone: ""
-opening_hours: "09:30-19:00"
+opening_hours: 09:30-19:00
 website: ""

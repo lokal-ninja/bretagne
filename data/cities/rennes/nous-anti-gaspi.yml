@@ -4,8 +4,8 @@ latitude: 48.10729
 longitude: -1.67924
 postcode: "35000"
 city: Rennes
-street: "Boulevard de la Liberté"
-housenumber: 21
-phone: "+33 2 99 50 12 14"
-opening_hours: "Mo-Sa 09:30-19:30; Su 09:30-13:00"
-website: "https://www.nousantigaspi.com/"
+street: Boulevard de la Liberté
+housenumber: "21"
+phone: +33 2 99 50 12 14
+opening_hours: Mo-Sa 09:30-19:30; Su 09:30-13:00
+website: https://www.nousantigaspi.com/

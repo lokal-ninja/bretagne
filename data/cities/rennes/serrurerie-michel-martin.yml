@@ -4,8 +4,8 @@ latitude: 48.10944
 longitude: -1.68149
 postcode: "35000"
 city: Rennes
-street: "Rue de La Chalotais"
-housenumber: 10
-phone: "+33 2 99 78 24 96"
-opening_hours: "Mo-Fr 08:30-12:30, 14:00-18:00; Sa 09:00-13:00, 14:00-17:00"
-website: "https://www.serrurerie-martin.com/"
+street: Rue de La Chalotais
+housenumber: "10"
+phone: +33 2 99 78 24 96
+opening_hours: Mo-Fr 08:30-12:30, 14:00-18:00; Sa 09:00-13:00, 14:00-17:00
+website: https://www.serrurerie-martin.com/

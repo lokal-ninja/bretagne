@@ -1,11 +1,11 @@
 id: 77997049
-type: way
+type: node
 latitude: 48.79767
 longitude: -3.24179
 postcode: "22220"
 city: Plouguiel
-street: "Rue des Écoles (accès via résidence Pen Allée)"
-housenumber: 4
-phone: "+33 6 86 62 99 28"
-opening_hours: "We 16:00-19:00"
-website: "https://tylegumes.fr"
+street: Rue des Écoles (accès via résidence Pen Allée)
+housenumber: "4"
+phone: +33 6 86 62 99 28
+opening_hours: We 16:00-19:00
+website: https://tylegumes.fr

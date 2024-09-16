@@ -1,11 +1,11 @@
 id: 252205464
-type: way
+type: node
 latitude: 48.53716
 longitude: -2.99654
 postcode: "22170"
 city: Plouagat
-street: "La Grand Rue"
-housenumber: 25
+street: La Grand Rue
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

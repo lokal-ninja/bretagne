@@ -4,8 +4,8 @@ latitude: 48.73163
 longitude: -3.45895
 postcode: "22300"
 city: Lannion
-street: "Rue Duguesclin"
-housenumber: 3
-phone: "+33 2 57 57 84 16"
-opening_hours: "Tu-Sa 10:00-13:00 14:00-19:00"
-website: "https://www.librairielegriffondor.fr/"
+street: Rue Duguesclin
+housenumber: "3"
+phone: +33 2 57 57 84 16
+opening_hours: Tu-Sa 10:00-13:00 14:00-19:00
+website: https://www.librairielegriffondor.fr/

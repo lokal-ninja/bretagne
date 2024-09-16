@@ -4,8 +4,8 @@ latitude: 48.14606
 longitude: -1.76464
 postcode: "35740"
 city: Pacé
-street: "Rue Allory"
-housenumber: 6
+street: Rue Allory
+housenumber: "6"
 phone: "+33299601655"
 opening_hours: ""
-website: "https://www.sodalec.fr/societe/presentation/"
+website: https://www.sodalec.fr/societe/presentation/

@@ -4,8 +4,8 @@ latitude: 48.56065
 longitude: -3.14901
 postcode: "22200"
 city: Guingamp
-street: "Rue Notre-Dame"
-housenumber: 50
+street: Rue Notre-Dame
+housenumber: "50"
 phone: ""
-opening_hours: "Mo 15:00-19:00, Tu-Su 09:30-19:00"
+opening_hours: Mo 15:00-19:00, Tu-Su 09:30-19:00
 website: ""

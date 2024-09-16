@@ -1,11 +1,11 @@
 id: 71751952
-type: way
+type: node
 latitude: 48.66671
 longitude: -3.9138
 postcode: "29660"
 city: Carantec
-street: "Rue Albert Louppe"
-housenumber: 19
-phone: "+33 298783322"
+street: Rue Albert Louppe
+housenumber: "19"
+phone: +33 298783322
 opening_hours: ""
-website: "https://maison-nochez.business.site/"
+website: https://maison-nochez.business.site/

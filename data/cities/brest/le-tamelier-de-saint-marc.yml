@@ -4,8 +4,9 @@ latitude: 48.39825
 longitude: -4.45447
 postcode: "29200"
 city: Brest
-street: "Place Simon"
-housenumber: 1
+street: Place Simon
+housenumber: "1"
 phone: "+33298021110"
-opening_hours: "Mo-Tu 07:00-19:30; Th-Fr 07:00-19:30; Sa 07:00-13:30,15:30-19:30; Su 07:30-13:00"
-website: "https://www.boulangerie-letamelierdestmarc.fr/"
+opening_hours: Mo-Tu 07:00-19:30; Th-Fr 07:00-19:30; Sa 07:00-13:30,15:30-19:30; Su
+    07:30-13:00
+website: https://www.boulangerie-letamelierdestmarc.fr/

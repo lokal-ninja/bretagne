@@ -1,11 +1,11 @@
 id: 243209880
-type: way
+type: node
 latitude: 47.84408
 longitude: -1.68288
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue de Rennes"
-housenumber: 7
+street: Rue de Rennes
+housenumber: "7"
 phone: ""
-opening_hours: "never"
+opening_hours: never
 website: ""

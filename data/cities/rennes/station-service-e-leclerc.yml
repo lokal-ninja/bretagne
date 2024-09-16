@@ -1,11 +1,11 @@
 id: 81189319
-type: way
+type: node
 latitude: 48.10359
 longitude: -1.7133
 postcode: "35000"
 city: Rennes
-street: "Rue Jules Valles"
-housenumber: 
-phone: "+33 2 23 40 23 23"
-opening_hours: "24/7"
-website: "https://www.e.leclerc/mag/e-leclerc-cleunay"
+street: Rue Jules Valles
+housenumber: ""
+phone: +33 2 23 40 23 23
+opening_hours: 24/7
+website: https://www.e.leclerc/mag/e-leclerc-cleunay

@@ -1,11 +1,11 @@
 id: 60728140
-type: way
+type: node
 latitude: 47.98502
 longitude: -1.933
 postcode: "35580"
 city: Baulon
-street: "Place de l'Église"
-housenumber: 9
+street: Place de l'Église
+housenumber: "9"
 phone: "0223504109"
-opening_hours: "Tu-Fr 09:00-13:30,16:00-19:30; Sa 09:00-13:00,16:00-19:30"
+opening_hours: Tu-Fr 09:00-13:30,16:00-19:30; Sa 09:00-13:00,16:00-19:30
 website: ""

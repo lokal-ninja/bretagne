@@ -1,11 +1,11 @@
 id: 42632392
-type: way
+type: node
 latitude: 48.39876
 longitude: -4.40577
 postcode: "29480"
 city: Le Relecq-Kerhuon
-street: "Boulevard Charles de Gaulle"
-housenumber: 4
+street: Boulevard Charles de Gaulle
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

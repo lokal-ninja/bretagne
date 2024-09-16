@@ -4,8 +4,8 @@ latitude: 48.11105
 longitude: -1.68256
 postcode: "35000"
 city: Rennes
-street: "Rue du Chapitre"
-housenumber: 13
+street: Rue du Chapitre
+housenumber: "13"
 phone: "+33221070502"
-opening_hours: "We-Sa 10:00-19:00"
-website: "https://www.instagram.com/chezhenry.rennes/"
+opening_hours: We-Sa 10:00-19:00
+website: https://www.instagram.com/chezhenry.rennes/

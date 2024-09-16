@@ -4,8 +4,8 @@ latitude: 48.08195
 longitude: -1.6815
 postcode: "35200"
 city: Rennes
-street: "Rue du Bosphore"
-housenumber: 2
-phone: "+33 2 99 51 32 32"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.king-jouet.com/"
+street: Rue du Bosphore
+housenumber: "2"
+phone: +33 2 99 51 32 32
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.king-jouet.com/

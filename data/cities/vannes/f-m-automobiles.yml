@@ -1,11 +1,11 @@
 id: 340442076
-type: way
+type: node
 latitude: 47.66799
 longitude: -2.78765
 postcode: "56000"
 city: Vannes
-street: "Rue Louis Joseph Gay-Lussac"
-housenumber: 30
-phone: "+33 2 97 63 14 73"
+street: Rue Louis Joseph Gay-Lussac
+housenumber: "30"
+phone: +33 2 97 63 14 73
 opening_hours: ""
-website: "https://www.fm-automobiles.com/"
+website: https://www.fm-automobiles.com/

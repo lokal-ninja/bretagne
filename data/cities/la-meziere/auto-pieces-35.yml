@@ -5,7 +5,8 @@ longitude: -1.73508
 postcode: "35520"
 city: La Mézière
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Tu 09:15-12:30, 14:00-18:30; We-Fr 09:00-12:30, 14:00-18:30; Sa 09:00-12:30, 14:00-17:00"
-website: "https://www.autopieces35.fr/"
+opening_hours: Tu 09:15-12:30, 14:00-18:30; We-Fr 09:00-12:30, 14:00-18:30; Sa 09:00-12:30,
+    14:00-17:00
+website: https://www.autopieces35.fr/

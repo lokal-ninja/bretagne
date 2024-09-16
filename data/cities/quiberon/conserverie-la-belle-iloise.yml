@@ -1,11 +1,11 @@
 id: 66434739
-type: way
+type: node
 latitude: 47.47913
 longitude: -3.12615
 postcode: "56170"
 city: Quiberon
-street: "Rue de Kervozes"
-housenumber: 10
-phone: "+33 2 97 30 59 19"
+street: Rue de Kervozes
+housenumber: "10"
+phone: +33 2 97 30 59 19
 opening_hours: ""
-website: "https://www.labelleiloise.fr/fr/nos-boutiques/quiberon-port-maria?id_shop_type=1"
+website: https://www.labelleiloise.fr/fr/nos-boutiques/quiberon-port-maria?id_shop_type=1

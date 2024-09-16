@@ -4,8 +4,8 @@ latitude: 48.19977
 longitude: -1.73445
 postcode: "35520"
 city: La Mezière
-street: "Route de Dinan"
-housenumber: 13
-phone: "+33 2 99 13 39 63"
-opening_hours: "Mo-Sa 10:00-12:00; 14:00-18:30"
-website: "https://chemineesimagine.fr/"
+street: Route de Dinan
+housenumber: "13"
+phone: +33 2 99 13 39 63
+opening_hours: Mo-Sa 10:00-12:00; 14:00-18:30
+website: https://chemineesimagine.fr/

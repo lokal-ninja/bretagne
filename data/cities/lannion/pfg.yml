@@ -1,11 +1,11 @@
 id: 117268192
-type: way
+type: node
 latitude: 48.73279
 longitude: -3.45514
 postcode: "22300"
 city: Lannion
-street: "Rue de Tréguier"
-housenumber: 33
+street: Rue de Tréguier
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

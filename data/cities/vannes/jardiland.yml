@@ -1,11 +1,11 @@
 id: 144035881
-type: way
+type: node
 latitude: 47.66397
 longitude: -2.79343
 postcode: "56000"
 city: Vannes
-street: "Rue Marcelin Berthelot"
-housenumber: 
-phone: "+33 2 97 62 06 06"
-opening_hours: "Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00; Su 10:00-12:30,14:30-18:30"
-website: "https://www.jardiland.com/storelocator/store/view/name/vannes"
+street: Rue Marcelin Berthelot
+housenumber: ""
+phone: +33 2 97 62 06 06
+opening_hours: Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00; Su 10:00-12:30,14:30-18:30
+website: https://www.jardiland.com/storelocator/store/view/name/vannes

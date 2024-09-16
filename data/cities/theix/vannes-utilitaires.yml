@@ -1,11 +1,11 @@
 id: 629680084
-type: way
+type: node
 latitude: 47.64872
 longitude: -2.70035
 postcode: "56450"
 city: Theix
-street: "Rue Lavoisier"
-housenumber: 3
+street: Rue Lavoisier
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.vannes-utilitaires.com"
+website: https://www.vannes-utilitaires.com

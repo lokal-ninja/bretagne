@@ -1,11 +1,11 @@
 id: 71063781
-type: way
+type: node
 latitude: 47.77411
 longitude: -3.34116
 postcode: "56600"
 city: Lanester
-street: "Rue Youri Gagarine"
-housenumber: 220
+street: Rue Youri Gagarine
+housenumber: "220"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-19:30"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-19:30
 website: ""

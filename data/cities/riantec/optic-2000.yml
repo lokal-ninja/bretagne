@@ -1,11 +1,11 @@
 id: 135688572
-type: way
+type: node
 latitude: 47.71189
 longitude: -3.32324
 postcode: "56670"
 city: Riantec
-street: "Rue de Kerdurand"
-housenumber: 83
-phone: "+33 2 97 33 93 94"
+street: Rue de Kerdurand
+housenumber: "83"
+phone: +33 2 97 33 93 94
 opening_hours: ""
-website: "https://www.optiqueduriant.fr/"
+website: https://www.optiqueduriant.fr/

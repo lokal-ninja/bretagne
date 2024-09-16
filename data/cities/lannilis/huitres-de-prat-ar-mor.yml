@@ -1,11 +1,11 @@
 id: 53926472
-type: way
+type: node
 latitude: 48.58612
 longitude: -4.51749
 postcode: "29870"
 city: Lannilis
-street: "Paluden"
-housenumber: 416
+street: Paluden
+housenumber: "416"
 phone: ""
 opening_hours: ""
 website: ""

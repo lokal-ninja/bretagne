@@ -4,8 +4,8 @@ latitude: 48.09736
 longitude: -1.6884
 postcode: "35000"
 city: Rennes
-street: "Boulevard Jacques Cartier"
-housenumber: 3
-phone: "+33 2 99 30 07 97"
+street: Boulevard Jacques Cartier
+housenumber: "3"
+phone: +33 2 99 30 07 97
 opening_hours: ""
-website: "http://www.franceparebrise.org"
+website: http://www.franceparebrise.org

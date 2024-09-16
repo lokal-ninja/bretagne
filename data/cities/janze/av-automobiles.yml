@@ -1,11 +1,11 @@
 id: 83316355
-type: way
+type: node
 latitude: 47.95429
 longitude: -1.4923
 postcode: "35150"
 city: Janzé
-street: "Rue Louis Blériot"
-housenumber: 
-phone: "+33 9 87 08 37 54"
+street: Rue Louis Blériot
+housenumber: ""
+phone: +33 9 87 08 37 54
 opening_hours: ""
-website: "https://www.av-automobiles.fr/fr"
+website: https://www.av-automobiles.fr/fr

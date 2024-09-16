@@ -1,11 +1,11 @@
 id: 85219744
-type: way
+type: node
 latitude: 48.08361
 longitude: -1.09758
 postcode: "35370"
 city: Mondevert
-street: "Rue de la Forêt"
-housenumber: 15
+street: Rue de la Forêt
+housenumber: "15"
 phone: "+33682984201"
 opening_hours: ""
-website: "https://www.predechezmoi.fr/"
+website: https://www.predechezmoi.fr/

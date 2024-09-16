@@ -1,11 +1,11 @@
 id: 94299316
-type: way
+type: node
 latitude: 47.98771
 longitude: -4.09249
 postcode: "29000"
 city: Quimper
-street: "Avenue Yves Thépot"
-housenumber: 20
+street: Avenue Yves Thépot
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

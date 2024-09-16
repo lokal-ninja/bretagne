@@ -1,11 +1,11 @@
 id: 197229527
-type: way
+type: node
 latitude: 47.6644
 longitude: -3.00425
 postcode: "56400"
 city: Auray
-street: "Avenue de l'Océan"
-housenumber: 40
+street: Avenue de l'Océan
+housenumber: "40"
 phone: "+33973889946"
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

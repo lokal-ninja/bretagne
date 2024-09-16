@@ -1,11 +1,11 @@
 id: 118445383
-type: way
+type: node
 latitude: 47.87207
 longitude: -3.91856
 postcode: "29900"
 city: Concarneau
-street: "Place Général de Gaulle"
-housenumber: 
+street: Place Général de Gaulle
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.11187
 longitude: -1.6792
 postcode: "35000"
 city: Rennes
-street: "Rue d'Estrées"
-housenumber: 2
+street: Rue d'Estrées
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 13:00-19:00; Tu-Fr 11:00-14:00,15:00-19:00; Sa 10:00-19:00"
-website: "https://www.nuoobox.com/"
+opening_hours: Mo 13:00-19:00; Tu-Fr 11:00-14:00,15:00-19:00; Sa 10:00-19:00
+website: https://www.nuoobox.com/

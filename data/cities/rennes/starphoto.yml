@@ -4,8 +4,8 @@ latitude: 48.10896
 longitude: -1.67769
 postcode: "35000"
 city: Rennes
-street: "Rue Maréchal Joffre"
-housenumber: 9
-phone: "+33 2 99 79 10 48"
-opening_hours: "Tu-Sa 12:00-19:00; Mo 14:00-19:00"
+street: Rue Maréchal Joffre
+housenumber: "9"
+phone: +33 2 99 79 10 48
+opening_hours: Tu-Sa 12:00-19:00; Mo 14:00-19:00
 website: ""

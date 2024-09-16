@@ -1,11 +1,11 @@
 id: 71750421
-type: way
+type: node
 latitude: 48.6696
 longitude: -3.91552
 postcode: "29660"
 city: Carantec
-street: "Rue du Maréchal Foch"
-housenumber: 10
-phone: "+33 298679156"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-17:30"
-website: "https://www.nouvelle-vague.bzh/"
+street: Rue du Maréchal Foch
+housenumber: "10"
+phone: +33 298679156
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-17:30
+website: https://www.nouvelle-vague.bzh/

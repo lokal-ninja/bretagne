@@ -4,8 +4,8 @@ latitude: 48.39186
 longitude: -4.44571
 postcode: "29200"
 city: Brest
-street: "Rue Alain Colas"
-housenumber: 280
-phone: "+33 9 54 47 55 23"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.raleigh-france.fr/"
+street: Rue Alain Colas
+housenumber: "280"
+phone: +33 9 54 47 55 23
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.raleigh-france.fr/

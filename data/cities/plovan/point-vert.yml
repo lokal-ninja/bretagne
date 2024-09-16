@@ -1,11 +1,11 @@
 id: 211621739
-type: way
+type: node
 latitude: 47.95103
 longitude: -4.35644
 postcode: "29720"
 city: Plovan
-street: "Pencleuziou"
-housenumber: 
+street: Pencleuziou
+housenumber: ""
 phone: "+33298543637"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:30"
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.65842
 longitude: -2.75973
 postcode: "56000"
 city: Vannes
-street: "Place Maurice Marchais"
-housenumber: 8
+street: Place Maurice Marchais
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.lestetesdemeule.fr/"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.lestetesdemeule.fr/

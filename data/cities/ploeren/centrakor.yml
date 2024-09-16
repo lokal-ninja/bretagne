@@ -1,11 +1,11 @@
 id: 181504278
-type: way
+type: node
 latitude: 47.66369
 longitude: -2.79936
 postcode: "56880"
 city: Ploeren
-street: "Avenue Louis de Cadoudal"
-housenumber: 13
-phone: "+33 2 97 62 76 31"
-opening_hours: "Mo-Sa 09:30-19:00"
+street: Avenue Louis de Cadoudal
+housenumber: "13"
+phone: +33 2 97 62 76 31
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

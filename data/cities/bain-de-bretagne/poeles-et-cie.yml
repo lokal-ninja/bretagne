@@ -4,8 +4,8 @@ latitude: 47.85156
 longitude: -1.6906
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue de la Seine"
-housenumber: 2
-phone: "+33 2 99 43 85 88"
-opening_hours: "Tu-Fr 09:30-12:00, 14:00-18:30; Sa 09:30-12:30, 14:00-18:00"
-website: "https://www.poeles-et-cie.fr"
+street: Rue de la Seine
+housenumber: "2"
+phone: +33 2 99 43 85 88
+opening_hours: Tu-Fr 09:30-12:00, 14:00-18:30; Sa 09:30-12:30, 14:00-18:00
+website: https://www.poeles-et-cie.fr

@@ -1,11 +1,11 @@
 id: 94275348
-type: way
+type: node
 latitude: 48.0139
 longitude: -4.07856
 postcode: "29000"
 city: Quimper
-street: "Route de Brest"
-housenumber: 148
+street: Route de Brest
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

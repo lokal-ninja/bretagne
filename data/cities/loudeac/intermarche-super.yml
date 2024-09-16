@@ -1,11 +1,11 @@
 id: 90521119
-type: way
+type: node
 latitude: 48.17739
 longitude: -2.76019
 postcode: "22600"
 city: Loudéac
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:30"
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:30
 website: ""

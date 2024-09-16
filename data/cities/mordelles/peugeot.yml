@@ -4,8 +4,8 @@ latitude: 48.08305
 longitude: -1.82788
 postcode: "35310"
 city: Mordelles
-street: "Rue de la Croix Ignon"
-housenumber: 19
+street: Rue de la Croix Ignon
+housenumber: "19"
 phone: "+33299851420"
 opening_hours: ""
-website: "https://concessions.peugeot.fr/mordelles"
+website: https://concessions.peugeot.fr/mordelles

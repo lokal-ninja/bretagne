@@ -1,11 +1,11 @@
 id: 83312470
-type: way
+type: node
 latitude: 47.95519
 longitude: -1.50333
 postcode: "35150"
 city: Janzé
-street: "Route de Bain"
-housenumber: 
+street: Route de Bain
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

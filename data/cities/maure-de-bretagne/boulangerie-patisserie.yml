@@ -1,11 +1,11 @@
 id: 116330380
-type: way
+type: node
 latitude: 47.89049
 longitude: -1.99011
 postcode: "35330"
 city: Maure-de-Bretagne
-street: "Place du Marché"
-housenumber: 11
+street: Place du Marché
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

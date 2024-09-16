@@ -1,11 +1,11 @@
 id: 71059065
-type: way
+type: node
 latitude: 47.77788
 longitude: -3.35133
 postcode: "56600"
 city: Lanester
-street: "Rue Jean-Marie Tjibaou"
-housenumber: 20
-phone: "+33 2 97 76 77 00"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.les7epis.fr/"
+street: Rue Jean-Marie Tjibaou
+housenumber: "20"
+phone: +33 2 97 76 77 00
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.les7epis.fr/

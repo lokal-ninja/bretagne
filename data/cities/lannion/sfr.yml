@@ -1,11 +1,11 @@
 id: 117240403
-type: way
+type: node
 latitude: 48.73221
 longitude: -3.46159
 postcode: "22300"
 city: Lannion
-street: "Quai d'Aiguillon"
-housenumber: 
+street: Quai d'Aiguillon
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

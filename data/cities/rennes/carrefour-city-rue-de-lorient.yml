@@ -4,8 +4,8 @@ latitude: 48.10898
 longitude: -1.70856
 postcode: ""
 city: Rennes
-street: "Rue de Lorient"
-housenumber: 95
-phone: "+33 2 99 33 12 43"
-opening_hours: "Mo-Sa 7:00-22:00, Su 9:00-20:00"
-website: "https://www.carrefour.fr/magasin/city-rennes-lorient"
+street: Rue de Lorient
+housenumber: "95"
+phone: +33 2 99 33 12 43
+opening_hours: Mo-Sa 7:00-22:00, Su 9:00-20:00
+website: https://www.carrefour.fr/magasin/city-rennes-lorient

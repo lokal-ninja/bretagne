@@ -4,8 +4,8 @@ latitude: 48.11201
 longitude: -2.0355
 postcode: "35750"
 city: Iffendic
-street: "Le Tertron"
-housenumber: 44
-phone: "+33 2 99 09 90 46"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:00"
-website: "https://www.tertronic.com"
+street: Le Tertron
+housenumber: "44"
+phone: +33 2 99 09 90 46
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:00
+website: https://www.tertronic.com

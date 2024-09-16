@@ -1,11 +1,11 @@
 id: 337059465
-type: way
+type: node
 latitude: 48.73146
 longitude: -3.43418
 postcode: "22300"
 city: Lannion
-street: "Rue Paul Fleuriot de Langle"
-housenumber: 2
+street: Rue Paul Fleuriot de Langle
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

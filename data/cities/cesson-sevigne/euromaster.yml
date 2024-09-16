@@ -1,11 +1,11 @@
 id: 81784625
-type: way
+type: node
 latitude: 48.1011
 longitude: -1.62369
 postcode: "35510"
 city: Cesson-Sévigné
-street: "Rue des Charmilles"
-housenumber: 
-phone: "+33 2 99 53 77 77"
-opening_hours: "Mo-Fr 08:00-12:30, 13:30-18:30"
-website: "https://centres.euromaster.fr/177-euromaster-cesson-sevigne-centre-auto-vl-voiture"
+street: Rue des Charmilles
+housenumber: ""
+phone: +33 2 99 53 77 77
+opening_hours: Mo-Fr 08:00-12:30, 13:30-18:30
+website: https://centres.euromaster.fr/177-euromaster-cesson-sevigne-centre-auto-vl-voiture

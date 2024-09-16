@@ -4,8 +4,8 @@ latitude: 48.11146
 longitude: -1.68439
 postcode: "35000"
 city: Rennes
-street: "Rue de la Monnaie"
-housenumber: 19
+street: Rue de la Monnaie
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://lescanonniers.fr/"
+website: https://lescanonniers.fr/

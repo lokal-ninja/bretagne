@@ -1,11 +1,11 @@
 id: 401954071
-type: way
+type: node
 latitude: 48.73286
 longitude: -3.46685
 postcode: "22300"
 city: Lannion
-street: "Quai du Maréchal Joffre"
-housenumber: 6
+street: Quai du Maréchal Joffre
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

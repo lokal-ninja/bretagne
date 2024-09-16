@@ -4,8 +4,8 @@ latitude: 47.6589
 longitude: -2.75419
 postcode: "56000"
 city: Vannes
-street: "Place du Général de Gaulle"
-housenumber: 5
-phone: "+33 2 97 47 37 07"
-opening_hours: "Tu-Fr 09:00-14:00, 16:00-19:00; Sa 08:00-18:00"
+street: Place du Général de Gaulle
+housenumber: "5"
+phone: +33 2 97 47 37 07
+opening_hours: Tu-Fr 09:00-14:00, 16:00-19:00; Sa 08:00-18:00
 website: ""

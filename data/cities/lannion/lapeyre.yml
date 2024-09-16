@@ -1,11 +1,11 @@
 id: 117413335
-type: way
+type: node
 latitude: 48.75127
 longitude: -3.4512
 postcode: "22300"
 city: Lannion
-street: "Rue Georges Cuvier"
-housenumber: 
-phone: "+33 2 96 48 56 10"
-opening_hours: "Mo-Sa 09:30-12:00, 14:00-18:30"
+street: Rue Georges Cuvier
+housenumber: ""
+phone: +33 2 96 48 56 10
+opening_hours: Mo-Sa 09:30-12:00, 14:00-18:30
 website: ""

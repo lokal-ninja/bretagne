@@ -4,8 +4,8 @@ latitude: 48.10688
 longitude: -1.67081
 postcode: "35000"
 city: Rennes
-street: "Rue Saint-Hélier"
-housenumber: 38
-phone: "+33 2 99 67 59 22"
-opening_hours: "Mo-Fr 09:15-12:30,14:00-19:00"
-website: "https://www.ab-copy-rennes.fr/"
+street: Rue Saint-Hélier
+housenumber: "38"
+phone: +33 2 99 67 59 22
+opening_hours: Mo-Fr 09:15-12:30,14:00-19:00
+website: https://www.ab-copy-rennes.fr/

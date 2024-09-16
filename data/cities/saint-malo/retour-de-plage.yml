@@ -4,8 +4,8 @@ latitude: 48.64778
 longitude: -2.02657
 postcode: "35400"
 city: Saint-Malo
-street: "Rue de Dinan"
-housenumber: 18
-phone: "+33 02 85 29 93 87"
-opening_hours: "Mo-Tu off; We-Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://www.retourdeplage.fr/"
+street: Rue de Dinan
+housenumber: "18"
+phone: +33 02 85 29 93 87
+opening_hours: Mo-Tu off; We-Sa 10:00-19:00; Su 10:00-18:00
+website: https://www.retourdeplage.fr/

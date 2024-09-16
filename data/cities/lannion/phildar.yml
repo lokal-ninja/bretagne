@@ -4,8 +4,9 @@ latitude: 48.73235
 longitude: -3.45945
 postcode: "22300"
 city: Lannion
-street: "Rue de la Mairie"
-housenumber: 5
+street: Rue de la Mairie
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:30, Tu-Sa 14:00-18:30, Sa 10:00-12:00,14:00-18:30; PH off"
+opening_hours: Tu-Fr 09:30-12:30, Tu-Sa 14:00-18:30, Sa 10:00-12:00,14:00-18:30; PH
+    off
 website: ""

@@ -1,11 +1,11 @@
 id: 46809940
-type: way
+type: node
 latitude: 48.20053
 longitude: -1.72939
 postcode: "35520"
 city: La Mézière
-street: "Avenue du Phare du Grand Jardin"
-housenumber: 
-phone: "+33 2 99 13 29 10"
-opening_hours: "Mo-Fr, Su 09:30-12:30, 14:00-19:00; Sa 09:30-19:00"
-website: "https://www.jardiland.com/magasins/magasin-rennes-cap-malo"
+street: Avenue du Phare du Grand Jardin
+housenumber: ""
+phone: +33 2 99 13 29 10
+opening_hours: Mo-Fr, Su 09:30-12:30, 14:00-19:00; Sa 09:30-19:00
+website: https://www.jardiland.com/magasins/magasin-rennes-cap-malo

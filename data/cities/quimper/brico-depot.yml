@@ -1,11 +1,11 @@
 id: 94312626
-type: way
+type: node
 latitude: 48.01383
 longitude: -4.09022
 postcode: ""
 city: Quimper
-street: "Route du Loc'h"
-housenumber: 39
+street: Route du Loc'h
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

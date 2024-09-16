@@ -4,8 +4,8 @@ latitude: 47.6543
 longitude: -2.75892
 postcode: "56000"
 city: Vannes
-street: "Rue Carnot"
-housenumber: 6
-phone: "+33 6 79 92 57 38"
-opening_hours: "Mo-Su 09:00-12:30, 14:00-18:00"
-website: "https://latetedansleguidon.bzh/"
+street: Rue Carnot
+housenumber: "6"
+phone: +33 6 79 92 57 38
+opening_hours: Mo-Su 09:00-12:30, 14:00-18:00
+website: https://latetedansleguidon.bzh/

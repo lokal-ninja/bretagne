@@ -1,11 +1,11 @@
 id: 46805275
-type: way
+type: node
 latitude: 48.18584
 longitude: -1.72449
 postcode: "35520"
 city: Melesse
-street: "Rue Besneraye"
-housenumber: 
+street: Rue Besneraye
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00"
-website: "https://www.cuisine-plus.fr/nos-magasins/bretagne/rennes.html"
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00
+website: https://www.cuisine-plus.fr/nos-magasins/bretagne/rennes.html

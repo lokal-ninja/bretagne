@@ -4,8 +4,8 @@ latitude: 48.10977
 longitude: -1.65579
 postcode: "35000"
 city: Rennes
-street: "Rue Alphonse Guérin"
-housenumber: 96
+street: Rue Alphonse Guérin
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Fr 07:30-14:00,16:00-19:30; Sa 08:30-14:00,16:00-19:30"
+opening_hours: Mo-Fr 07:30-14:00,16:00-19:30; Sa 08:30-14:00,16:00-19:30
 website: ""

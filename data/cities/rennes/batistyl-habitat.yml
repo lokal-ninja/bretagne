@@ -4,8 +4,8 @@ latitude: 48.10741
 longitude: -1.73033
 postcode: "35000"
 city: Rennes
-street: "Rue Léon Berthault"
-housenumber: 4
-phone: "+33 2 23 22 21 00"
+street: Rue Léon Berthault
+housenumber: "4"
+phone: +33 2 23 22 21 00
 opening_hours: ""
-website: "https://www.batistyl-habitat.fr/"
+website: https://www.batistyl-habitat.fr/

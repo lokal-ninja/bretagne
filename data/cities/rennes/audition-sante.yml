@@ -4,8 +4,9 @@ latitude: 48.09579
 longitude: -1.67448
 postcode: "35000"
 city: Rennes
-street: "Rue de l'Alma"
-housenumber: 97
-phone: "+33 2 99 77 63 59"
-opening_hours: "Tu 09:30-12:30,14:00-17:30; We off; Th 09:30-12:30,14:00-18:00; Fr 09:15-12:15"
-website: "https://www.auditionsante.fr/"
+street: Rue de l'Alma
+housenumber: "97"
+phone: +33 2 99 77 63 59
+opening_hours: Tu 09:30-12:30,14:00-17:30; We off; Th 09:30-12:30,14:00-18:00; Fr
+    09:15-12:15
+website: https://www.auditionsante.fr/

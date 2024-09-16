@@ -1,11 +1,11 @@
 id: 92883175
-type: way
+type: node
 latitude: 48.12106
 longitude: -1.20979
 postcode: "35501"
 city: Vitré
-street: "Rue du 70e Régiment d'Infanterie"
-housenumber: 19
+street: Rue du 70e Régiment d'Infanterie
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://moulin-fatigue.com"
+website: https://moulin-fatigue.com

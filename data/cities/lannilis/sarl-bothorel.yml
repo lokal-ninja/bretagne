@@ -1,11 +1,11 @@
 id: 554543416
-type: way
+type: node
 latitude: 48.57455
 longitude: -4.51148
 postcode: "29870"
 city: Lannilis
-street: "Rue Alsace Lorraine"
-housenumber: 14
+street: Rue Alsace Lorraine
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

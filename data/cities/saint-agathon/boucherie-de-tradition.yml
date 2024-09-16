@@ -1,11 +1,11 @@
 id: 454962713
-type: way
+type: node
 latitude: 48.5587
 longitude: -3.12008
 postcode: "22200"
 city: Saint-Agathon
-street: "Rue de l'Argoat"
-housenumber: 2
+street: Rue de l'Argoat
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

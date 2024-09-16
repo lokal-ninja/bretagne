@@ -4,8 +4,8 @@ latitude: 47.65823
 longitude: -2.75805
 postcode: "56000"
 city: Vannes
-street: "Rue Billault"
-housenumber: 2
-phone: "+33 2 97 60 30 16"
+street: Rue Billault
+housenumber: "2"
+phone: +33 2 97 60 30 16
 opening_hours: ""
-website: "https://www.laurenceg.fr/"
+website: https://www.laurenceg.fr/

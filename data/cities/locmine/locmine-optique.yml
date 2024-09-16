@@ -1,11 +1,11 @@
 id: 168749355
-type: way
+type: node
 latitude: 47.88701
 longitude: -2.83625
 postcode: "56500"
 city: Locminé
-street: "Rue du Fil"
-housenumber: 16
+street: Rue du Fil
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

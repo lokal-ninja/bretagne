@@ -4,8 +4,8 @@ latitude: 48.10871
 longitude: -1.67842
 postcode: "35000"
 city: Rennes
-street: "Rue Vasselot"
-housenumber: 13
-phone: "+33 2 99 79 02 07"
-opening_hours: "Tu-Su 07:00-20:00"
+street: Rue Vasselot
+housenumber: "13"
+phone: +33 2 99 79 02 07
+opening_hours: Tu-Su 07:00-20:00
 website: ""

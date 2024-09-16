@@ -4,8 +4,8 @@ latitude: 48.11309
 longitude: -1.68055
 postcode: "35000"
 city: Rennes
-street: "Rue Leperdit"
-housenumber: 2
+street: Rue Leperdit
+housenumber: "2"
 phone: "+33299796145"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
-website: "https://satine-institut.com/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
+website: https://satine-institut.com/

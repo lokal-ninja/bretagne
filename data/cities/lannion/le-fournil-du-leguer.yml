@@ -1,11 +1,11 @@
 id: 117239745
-type: way
+type: node
 latitude: 48.72871
 longitude: -3.45766
 postcode: "22300"
 city: Lannion
-street: "Allée du Palais de Justice"
-housenumber: 11
+street: Allée du Palais de Justice
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

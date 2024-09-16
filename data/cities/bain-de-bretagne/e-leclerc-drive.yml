@@ -1,11 +1,11 @@
 id: 339752524
-type: way
+type: node
 latitude: 47.85635
 longitude: -1.68809
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue des Estuaires"
-housenumber: 16
-phone: "+33 2 99 44 69 59"
+street: Rue des Estuaires
+housenumber: "16"
+phone: +33 2 99 44 69 59
 opening_hours: ""
-website: "https://www.leclercdrive.fr/"
+website: https://www.leclercdrive.fr/

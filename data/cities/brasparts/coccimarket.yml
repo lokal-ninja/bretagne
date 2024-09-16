@@ -1,11 +1,11 @@
 id: 205900535
-type: way
+type: node
 latitude: 48.30466
 longitude: -3.95442
 postcode: "29190"
 city: Brasparts
-street: "Rue Saint-Michel"
+street: Rue Saint-Michel
 housenumber: 38-40
-phone: "+33 6 02 15 67 59"
-opening_hours: "Mo-Fr 08:00-12:00, 14:30-19:30"
+phone: +33 6 02 15 67 59
+opening_hours: Mo-Fr 08:00-12:00, 14:30-19:30
 website: ""

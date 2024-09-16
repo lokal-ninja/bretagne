@@ -4,8 +4,8 @@ latitude: 48.19235
 longitude: -1.72847
 postcode: "35520"
 city: La Mézière
-street: "Route de Saint-Malo"
-housenumber: 
+street: Route de Saint-Malo
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 08:30-12:00, 14:00-18:00; Fr 08:30-12:00, 14:00-17:00; Sa 14:00-17:00"
-website: "https://www.meubles-prioul.com/"
+opening_hours: Mo-Th 08:30-12:00, 14:00-18:00; Fr 08:30-12:00, 14:00-17:00; Sa 14:00-17:00
+website: https://www.meubles-prioul.com/

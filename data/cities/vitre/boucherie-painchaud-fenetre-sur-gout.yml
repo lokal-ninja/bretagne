@@ -4,8 +4,8 @@ latitude: 48.12411
 longitude: -1.20806
 postcode: "35500"
 city: Vitré
-street: "Rue Bertrand d'Argentré"
-housenumber: 4
+street: Rue Bertrand d'Argentré
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:15, 15:00-19:15; Sa 08:00-13:00"
-website: "https://www.boucheriepainchaud.com/"
+opening_hours: Mo-Fr 08:00-13:15, 15:00-19:15; Sa 08:00-13:00
+website: https://www.boucheriepainchaud.com/

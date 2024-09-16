@@ -1,11 +1,11 @@
 id: 204800378
-type: way
+type: node
 latitude: 48.22384
 longitude: -1.49951
 postcode: "35340"
 city: Liffré
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.lidl.fr/"
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.lidl.fr/

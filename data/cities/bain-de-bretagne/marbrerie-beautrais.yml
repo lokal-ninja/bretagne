@@ -1,11 +1,11 @@
 id: 358248522
-type: way
+type: node
 latitude: 47.84081
 longitude: -1.68599
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue de Verdun"
-housenumber: 6
-phone: "+33 2 99 43 81 47"
+street: Rue de Verdun
+housenumber: "6"
+phone: +33 2 99 43 81 47
 opening_hours: ""
-website: "http://www.marbrerie-beautraismarchand.com"
+website: http://www.marbrerie-beautraismarchand.com

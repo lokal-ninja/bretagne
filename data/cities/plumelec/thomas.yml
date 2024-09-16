@@ -1,11 +1,11 @@
 id: 168152971
-type: way
+type: node
 latitude: 47.8381
 longitude: -2.63974
 postcode: "56420"
 city: Plumelec
-street: "Place de l'Église"
-housenumber: 17
+street: Place de l'Église
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

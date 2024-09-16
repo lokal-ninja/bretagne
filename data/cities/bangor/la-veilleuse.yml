@@ -1,11 +1,11 @@
 id: 63698057
-type: way
+type: node
 latitude: 47.3152
 longitude: -3.18877
 postcode: "56360"
 city: Bangor
-street: "Rue Claude Monet"
-housenumber: 27
-phone: "+33 2 97 31 31 11"
-opening_hours: "Mo-Su,PH 10:00-19:00"
+street: Rue Claude Monet
+housenumber: "27"
+phone: +33 2 97 31 31 11
+opening_hours: Mo-Su,PH 10:00-19:00
 website: ""

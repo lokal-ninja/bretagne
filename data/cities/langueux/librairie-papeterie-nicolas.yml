@@ -1,11 +1,11 @@
 id: 144306173
-type: way
+type: node
 latitude: 48.48876
 longitude: -2.72151
 postcode: "22360"
 city: Langueux
-street: "Rue Marc Seguin"
-housenumber: 17
+street: Rue Marc Seguin
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

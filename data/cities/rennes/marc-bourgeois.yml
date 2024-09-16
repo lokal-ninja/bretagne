@@ -4,8 +4,8 @@ latitude: 48.11694
 longitude: -1.67762
 postcode: "35000"
 city: Rennes
-street: "Rue de Robien"
-housenumber: 16
+street: Rue de Robien
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://www.coiffeur-marc-bourgeois.com/"
+opening_hours: Mo-Fr 09:30-18:00
+website: https://www.coiffeur-marc-bourgeois.com/

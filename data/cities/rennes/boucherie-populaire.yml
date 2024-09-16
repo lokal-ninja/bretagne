@@ -4,8 +4,8 @@ latitude: 48.0916
 longitude: -1.68178
 postcode: "35200"
 city: Rennes
-street: "Square Sarah Bernhardt"
-housenumber: 9
-phone: "+33 2 99 50 94 75"
-opening_hours: "We-Mo 09:00-20:00"
-website: "https://www.boucheriepopulairehalal.com/"
+street: Square Sarah Bernhardt
+housenumber: "9"
+phone: +33 2 99 50 94 75
+opening_hours: We-Mo 09:00-20:00
+website: https://www.boucheriepopulairehalal.com/

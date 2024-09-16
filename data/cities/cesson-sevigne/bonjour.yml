@@ -1,11 +1,11 @@
 id: 81789901
-type: way
+type: node
 latitude: 48.11393
 longitude: -1.61355
 postcode: "35510"
 city: Cesson-Sévigné
-street: "Rue de Rennes"
-housenumber: 27
-phone: "+33 2 99 83 11 45"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:00-20:00"
-website: "https://www.total.fr/"
+street: Rue de Rennes
+housenumber: "27"
+phone: +33 2 99 83 11 45
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:00-20:00
+website: https://www.total.fr/

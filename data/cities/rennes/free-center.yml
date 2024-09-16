@@ -4,8 +4,8 @@ latitude: 48.11029
 longitude: -1.67882
 postcode: "35000"
 city: Rennes
-street: "Quai Lamartine"
-housenumber: 15
-phone: "+33 10 44"
+street: Quai Lamartine
+housenumber: "15"
+phone: +33 10 44
 opening_hours: ""
-website: "https://free.fr/boutiques/free-center/free-center-rennes/"
+website: https://free.fr/boutiques/free-center/free-center-rennes/

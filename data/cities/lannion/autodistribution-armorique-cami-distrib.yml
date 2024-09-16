@@ -1,11 +1,11 @@
 id: 117415465
-type: way
+type: node
 latitude: 48.75509
 longitude: -3.44931
 postcode: "22300"
 city: Lannion
-street: "Rue Gaspard Monge"
-housenumber: 
+street: Rue Gaspard Monge
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

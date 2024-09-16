@@ -1,11 +1,11 @@
 id: 286435218
-type: way
+type: node
 latitude: 48.60665
 longitude: -2.07039
 postcode: "35730"
 city: Pleurtuit
-street: "Rue du Cap Horn"
-housenumber: 5
-phone: "+33 2 23 15 01 30"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.leroymerlin.fr/magasins/pleurtuit-dinard.html"
+street: Rue du Cap Horn
+housenumber: "5"
+phone: +33 2 23 15 01 30
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.leroymerlin.fr/magasins/pleurtuit-dinard.html

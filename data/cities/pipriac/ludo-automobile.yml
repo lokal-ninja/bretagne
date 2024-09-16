@@ -1,11 +1,11 @@
 id: 120204893
-type: way
+type: node
 latitude: 47.80974
 longitude: -1.9467
 postcode: "35550"
 city: Pipriac
-street: "Rue de la Libération"
-housenumber: 9
-phone: "+33 2 99 34 30 04"
+street: Rue de la Libération
+housenumber: "9"
+phone: +33 2 99 34 30 04
 opening_hours: ""
-website: "https://www.ludo-automobiles.com/"
+website: https://www.ludo-automobiles.com/

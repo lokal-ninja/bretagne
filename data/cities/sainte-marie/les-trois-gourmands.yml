@@ -1,11 +1,11 @@
 id: 124112487
-type: way
+type: node
 latitude: 47.69516
 longitude: -1.99984
 postcode: "35600"
 city: Sainte-Marie
-street: "Rue du 15 Janvier 1872"
-housenumber: 2
-phone: "+33 299720060"
-opening_hours: "Tu-Su 06:30-19:30, Mo off"
+street: Rue du 15 Janvier 1872
+housenumber: "2"
+phone: +33 299720060
+opening_hours: Tu-Su 06:30-19:30, Mo off
 website: ""

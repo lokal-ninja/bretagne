@@ -1,11 +1,11 @@
 id: 71250142
-type: way
+type: node
 latitude: 47.80532
 longitude: -3.27757
 postcode: "56700"
 city: Hennebont
 street: ""
-housenumber: 2
-phone: "+33 2 97 89 41 17"
+housenumber: "2"
+phone: +33 2 97 89 41 17
 opening_hours: ""
 website: ""

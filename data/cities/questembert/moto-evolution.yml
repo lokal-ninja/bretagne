@@ -1,11 +1,11 @@
 id: 177443007
-type: way
+type: node
 latitude: 47.6669
 longitude: -2.43874
 postcode: "56230"
 city: Questembert
-street: "Rue Charles de Coulomb"
-housenumber: 6
-phone: "+33 2 97 26 52 52"
+street: Rue Charles de Coulomb
+housenumber: "6"
+phone: +33 2 97 26 52 52
 opening_hours: ""
 website: ""

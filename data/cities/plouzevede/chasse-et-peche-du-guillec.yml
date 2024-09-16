@@ -1,11 +1,11 @@
 id: 142101683
-type: way
+type: node
 latitude: 48.60614
 longitude: -4.11191
 postcode: "29440"
 city: Plouzévédé
-street: "Rue de Saint-Pol De Léon"
-housenumber: 17
+street: Rue de Saint-Pol De Léon
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 63895388
-type: way
+type: node
 latitude: 48.13736
 longitude: -1.69006
 postcode: "35760"
 city: Saint-Grégoire
-street: "Rue du Chesnay Beauregard"
-housenumber: 6
-phone: "+33 2 99 84 13 13"
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-19:00"
-website: "https://www.vw-stgregoire.fr/"
+street: Rue du Chesnay Beauregard
+housenumber: "6"
+phone: +33 2 99 84 13 13
+opening_hours: Mo-Fr 08:30-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-19:00
+website: https://www.vw-stgregoire.fr/

@@ -1,11 +1,11 @@
 id: 72291505
-type: way
+type: node
 latitude: 48.58134
 longitude: -3.86722
 postcode: "29600"
 city: Saint-Martin-des-Champs
-street: "Rue Goarem Pella"
-housenumber: 
-phone: "+33 2 72 24 12 22"
-opening_hours: "Tu,Sa 08:30-12:00,14:00-17:30; We-Fr 14:00-17:30"
+street: Rue Goarem Pella
+housenumber: ""
+phone: +33 2 72 24 12 22
+opening_hours: Tu,Sa 08:30-12:00,14:00-17:30; We-Fr 14:00-17:30
 website: ""

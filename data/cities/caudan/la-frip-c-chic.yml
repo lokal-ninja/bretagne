@@ -1,11 +1,11 @@
 id: 70871566
-type: way
+type: node
 latitude: 47.80985
 longitude: -3.34059
 postcode: "56850"
 city: Caudan
-street: "Rue du Muguet"
-housenumber: 4
-phone: "+33 6 48 12 96 93"
-opening_hours: "Tu-Sa 09:30-19:00"
+street: Rue du Muguet
+housenumber: "4"
+phone: +33 6 48 12 96 93
+opening_hours: Tu-Sa 09:30-19:00
 website: ""

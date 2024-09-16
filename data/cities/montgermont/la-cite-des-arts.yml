@@ -4,8 +4,8 @@ latitude: 48.15437
 longitude: -1.70551
 postcode: "35760"
 city: Montgermont
-street: "Rue Edison"
-housenumber: 5
-phone: "+33 2 99 23 88 33"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-12:30, 14:00-19:00"
-website: "https://www.lacitedesarts.fr/"
+street: Rue Edison
+housenumber: "5"
+phone: +33 2 99 23 88 33
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-12:30, 14:00-19:00
+website: https://www.lacitedesarts.fr/

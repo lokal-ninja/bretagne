@@ -4,8 +4,8 @@ latitude: 47.6638
 longitude: -2.79568
 postcode: "56000"
 city: Vannes
-street: "Rue Docteur Leonce Franco"
-housenumber: 12
+street: Rue Docteur Leonce Franco
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30, 14:00-19:00; Sa 09:00-12:30, 14:00-19:00"
-website: "https://www.ford-vannes.com"
+opening_hours: Mo-Fr 08:00-12:30, 14:00-19:00; Sa 09:00-12:30, 14:00-19:00
+website: https://www.ford-vannes.com

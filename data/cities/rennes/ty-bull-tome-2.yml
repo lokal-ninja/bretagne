@@ -4,8 +4,8 @@ latitude: 48.10743
 longitude: -1.67165
 postcode: "35000"
 city: Rennes
-street: "Rue Saint-Hélier"
-housenumber: 13
-phone: "+33 2 99 30 31 83"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-19:00"
-website: "https://tybulltome2.com/"
+street: Rue Saint-Hélier
+housenumber: "13"
+phone: +33 2 99 30 31 83
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-19:00
+website: https://tybulltome2.com/

@@ -1,11 +1,11 @@
 id: 117252661
-type: way
+type: node
 latitude: 48.73093
 longitude: -3.46628
 postcode: "22300"
 city: Lannion
-street: "Rue des Acacias"
-housenumber: 22
+street: Rue des Acacias
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

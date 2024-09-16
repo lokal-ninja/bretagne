@@ -1,11 +1,11 @@
 id: 81080600
-type: way
+type: node
 latitude: 48.10346
 longitude: -1.73811
 postcode: "35132"
 city: Vezin-le-Coquet
-street: "Rue des Maréchales"
-housenumber: 9
+street: Rue des Maréchales
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Th 08:30-12:00,13:30-18:00; Fr 08:30-12:00,13:30-17:00"
+opening_hours: Mo-Th 08:30-12:00,13:30-18:00; Fr 08:30-12:00,13:30-17:00
 website: ""

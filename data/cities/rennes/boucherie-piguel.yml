@@ -4,8 +4,8 @@ latitude: 48.10723
 longitude: -1.67111
 postcode: "35000"
 city: Rennes
-street: "Rue Saint-Hélier"
-housenumber: 19
-phone: "+33 2 99 30 05 72"
-opening_hours: "Tu-Sa 08:00-13:00,15:30-19:30; Fr,Sa 08:00-13:00,15:00-19:00"
+street: Rue Saint-Hélier
+housenumber: "19"
+phone: +33 2 99 30 05 72
+opening_hours: Tu-Sa 08:00-13:00,15:30-19:30; Fr,Sa 08:00-13:00,15:00-19:00
 website: ""

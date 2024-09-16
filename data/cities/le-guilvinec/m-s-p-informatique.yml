@@ -4,8 +4,8 @@ latitude: 47.7941
 longitude: -4.28429
 postcode: "29730"
 city: LE GUILVINEC
-street: "Rue de la Paix"
-housenumber: 1
+street: Rue de la Paix
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00; Mo-Fr 14:00-17:30"
-website: "http://www.contact@msp-informatique.fr"
+opening_hours: Mo-Sa 09:00-12:00; Mo-Fr 14:00-17:30
+website: http://www.contact@msp-informatique.fr

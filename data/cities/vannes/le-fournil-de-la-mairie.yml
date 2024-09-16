@@ -1,11 +1,11 @@
 id: 145190616
-type: way
+type: node
 latitude: 47.65872
 longitude: -2.76008
 postcode: "56000"
 city: Vannes
-street: "Place Maurice Marchais"
-housenumber: 20
-phone: "+33 2 97 62 04 10"
-opening_hours: "Mo-Sa 07:30-19:30"
+street: Place Maurice Marchais
+housenumber: "20"
+phone: +33 2 97 62 04 10
+opening_hours: Mo-Sa 07:30-19:30
 website: ""

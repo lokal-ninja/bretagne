@@ -4,8 +4,8 @@ latitude: 48.64716
 longitude: -2.02661
 postcode: "35400"
 city: Saint-Malo
-street: "Rue de Dinan"
-housenumber: 12
+street: Rue de Dinan
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Sa 10:30-12:30,14:00-19:00"
-website: "https://www.siliac.fr/"
+opening_hours: Tu-Sa 10:30-12:30,14:00-19:00
+website: https://www.siliac.fr/

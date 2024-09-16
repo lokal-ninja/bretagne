@@ -4,8 +4,8 @@ latitude: 48.11246
 longitude: -1.67866
 postcode: "35000"
 city: Rennes
-street: "Rue Nationale"
-housenumber: 7
-phone: "+33 2 99 79 61 65"
-opening_hours: "Mo 14:00-19:00; Tu-Th 10:00-13:00,14:00-19:00, Fr-Sa 10:00-19:00"
+street: Rue Nationale
+housenumber: "7"
+phone: +33 2 99 79 61 65
+opening_hours: Mo 14:00-19:00; Tu-Th 10:00-13:00,14:00-19:00, Fr-Sa 10:00-19:00
 website: ""

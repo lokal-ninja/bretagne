@@ -1,11 +1,11 @@
 id: 1043723374
-type: way
+type: node
 latitude: 47.76657
 longitude: -3.40395
 postcode: "56100"
 city: Lorient
-street: "Rue Commandant Le Prieur"
-housenumber: 9
-phone: "+33 2 97 88 21 50"
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-18:30"
+street: Rue Commandant Le Prieur
+housenumber: "9"
+phone: +33 2 97 88 21 50
+opening_hours: Mo-Sa 09:00-12:00, 14:00-18:30
 website: ""

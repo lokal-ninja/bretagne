@@ -1,11 +1,11 @@
 id: 894590497
-type: way
+type: node
 latitude: 48.54767
 longitude: -4.70805
 postcode: "29840"
 city: Kersaint
-street: "Route de Kérarzal"
-housenumber: 9
+street: Route de Kérarzal
+housenumber: "9"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-12:00,14:00-18:00; Sa 10:00-17:00"
+opening_hours: Mo,Tu,Th,Fr 10:00-12:00,14:00-18:00; Sa 10:00-17:00
 website: ""

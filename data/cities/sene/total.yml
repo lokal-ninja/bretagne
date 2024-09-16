@@ -1,11 +1,11 @@
 id: 125423815
-type: way
+type: node
 latitude: 47.6501
 longitude: -2.72193
 postcode: "56860"
 city: Séné
-street: "Route de Nantes"
-housenumber: 
+street: Route de Nantes
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

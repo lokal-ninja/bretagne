@@ -1,11 +1,11 @@
 id: 46805303
-type: way
+type: node
 latitude: 48.18736
 longitude: -1.7222
 postcode: "35520"
 city: Melesse
-street: "Rue du Val"
-housenumber: 
-phone: "+33 2 57 67 10 36"
-opening_hours: "Mo-Fr 10:00-12:45, 14:00-19:00; Sa 10:00-19:00"
-website: "https://www.compagniedesateliers.com/showroom/showroom-rennes-melesse/"
+street: Rue du Val
+housenumber: ""
+phone: +33 2 57 67 10 36
+opening_hours: Mo-Fr 10:00-12:45, 14:00-19:00; Sa 10:00-19:00
+website: https://www.compagniedesateliers.com/showroom/showroom-rennes-melesse/

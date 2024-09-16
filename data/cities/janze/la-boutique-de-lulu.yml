@@ -1,11 +1,11 @@
 id: 83313759
-type: way
+type: node
 latitude: 47.95994
 longitude: -1.49654
 postcode: "35150"
 city: Janzé
-street: "Rue du Docteur Roux"
-housenumber: 20
+street: Rue du Docteur Roux
+housenumber: "20"
 phone: "+33299479291"
-opening_hours: "Tu-Sa 09:00-12:30, 14:00-19:00"
-website: "https://www.boutiquedelulu.fr/"
+opening_hours: Tu-Sa 09:00-12:30, 14:00-19:00
+website: https://www.boutiquedelulu.fr/

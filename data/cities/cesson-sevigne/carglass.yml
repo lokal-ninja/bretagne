@@ -1,11 +1,11 @@
 id: 454985321
-type: way
+type: node
 latitude: 48.11391
 longitude: -1.61352
 postcode: "35510"
 city: Cesson-Sévigné
-street: "Rue de Rennes"
-housenumber: 27
+street: Rue de Rennes
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

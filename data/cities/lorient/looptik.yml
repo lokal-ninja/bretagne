@@ -4,8 +4,8 @@ latitude: 47.74982
 longitude: -3.36243
 postcode: "56100"
 city: Lorient
-street: "Place Alsace Lorraine"
-housenumber: 4
+street: Place Alsace Lorraine
+housenumber: "4"
 phone: "+33297211681"
 opening_hours: ""
-website: "https://looptik.com"
+website: https://looptik.com

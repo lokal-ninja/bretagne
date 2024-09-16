@@ -5,7 +5,7 @@ longitude: -3.56273
 postcode: "22560"
 city: Trébeurden
 street: ""
-housenumber: 10
-phone: "+33 6 41 09 56 84"
-opening_hours: "Mo-Fr 14:00-19:00; Sa 15:00-18:00"
-website: "http://www.tregoride.com/"
+housenumber: "10"
+phone: +33 6 41 09 56 84
+opening_hours: Mo-Fr 14:00-19:00; Sa 15:00-18:00
+website: http://www.tregoride.com/

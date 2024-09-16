@@ -1,11 +1,11 @@
 id: 71749470
-type: way
+type: node
 latitude: 48.66234
 longitude: -3.92757
 postcode: "29660"
 city: Carantec
-street: "Chemin du Varquez"
-housenumber: 44
-phone: "+33 7 69 01 12 87"
-opening_hours: "Mo-Fr 08:00-18:30; Sa,Su 09:00-18:30"
+street: Chemin du Varquez
+housenumber: "44"
+phone: +33 7 69 01 12 87
+opening_hours: Mo-Fr 08:00-18:30; Sa,Su 09:00-18:30
 website: ""

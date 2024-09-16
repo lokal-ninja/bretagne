@@ -1,11 +1,11 @@
 id: 317246610
-type: way
+type: node
 latitude: 48.62348
 longitude: -2.44
 postcode: "22430"
 city: Erquy
-street: "Rond-point de La Jeanette"
-housenumber: 
-phone: "+33 2 96 72 02 72"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.magasins-u.com/superu-erquy"
+street: Rond-point de La Jeanette
+housenumber: ""
+phone: +33 2 96 72 02 72
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.magasins-u.com/superu-erquy

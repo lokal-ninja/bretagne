@@ -1,11 +1,11 @@
 id: 147933003
-type: way
+type: node
 latitude: 47.92354
 longitude: -2.40387
 postcode: "56800"
 city: Ploërmel
-street: "Avenue de Chateaubriand"
-housenumber: 2
-phone: "+33 2 97 74 00 91"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.intermarche.com/magasins/04350/ploermel-56800/infos-pratiques"
+street: Avenue de Chateaubriand
+housenumber: "2"
+phone: +33 2 97 74 00 91
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.intermarche.com/magasins/04350/ploermel-56800/infos-pratiques

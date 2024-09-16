@@ -4,8 +4,8 @@ latitude: 48.39147
 longitude: -4.48634
 postcode: "29200"
 city: Brest
-street: "Place de la Liberté"
-housenumber: 4
-phone: "+33 2 98 80 43 78"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:30; Sa 09:00-13:00"
-website: "https://dbcourtage.com/"
+street: Place de la Liberté
+housenumber: "4"
+phone: +33 2 98 80 43 78
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:30; Sa 09:00-13:00
+website: https://dbcourtage.com/

@@ -1,11 +1,11 @@
 id: 228783044
-type: way
+type: node
 latitude: 48.26507
 longitude: -1.60973
 postcode: "35250"
 city: Saint-Aubin-d'Aubigné
-street: "Rue du Château d'Eau"
-housenumber: 19
-phone: "+33 2 23 27 59 51"
+street: Rue du Château d'Eau
+housenumber: "19"
+phone: +33 2 23 27 59 51
 opening_hours: ""
 website: ""

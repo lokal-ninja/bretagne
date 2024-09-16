@@ -1,11 +1,11 @@
 id: 70871901
-type: way
+type: node
 latitude: 47.78158
 longitude: -3.34984
 postcode: "56850"
 city: Caudan
-street: "Route de Kerviec"
-housenumber: 117
-phone: "+33 2 97 50 23 14"
+street: Route de Kerviec
+housenumber: "117"
+phone: +33 2 97 50 23 14
 opening_hours: ""
 website: ""

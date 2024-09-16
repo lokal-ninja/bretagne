@@ -1,11 +1,11 @@
 id: 87225812
-type: way
+type: node
 latitude: 47.6274
 longitude: -3.1791
 postcode: "56410"
 city: Erdeven
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "09:00-12:00; 17:00-18:30"
+opening_hours: 09:00-12:00; 17:00-18:30
 website: ""

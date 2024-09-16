@@ -1,11 +1,11 @@
 id: 431696884
-type: way
+type: node
 latitude: 47.97674
 longitude: -4.02815
 postcode: "29000"
 city: Quimper
-street: "Rue Marcel Paul"
-housenumber: 11
+street: Rue Marcel Paul
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

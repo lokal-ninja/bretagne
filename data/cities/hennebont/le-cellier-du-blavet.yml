@@ -5,7 +5,7 @@ longitude: -3.27937
 postcode: "56700"
 city: Hennebont
 street: ""
-housenumber: 5
-phone: "+33 2 97 36 48 06"
+housenumber: "5"
+phone: +33 2 97 36 48 06
 opening_hours: ""
-website: "https://www.le-cellier-du-blavet.fr/"
+website: https://www.le-cellier-du-blavet.fr/

@@ -4,8 +4,8 @@ latitude: 48.62906
 longitude: -2.46685
 postcode: "22430"
 city: Erquy
-street: "Rue de la Corniche"
-housenumber: 1
-phone: "+33 2 96 72 09 61"
-opening_hours: "Tu-Sa 09:00-12:30,15:00-19:00; Su 09:00-12:00"
-website: "http://www.keretienne.fr/"
+street: Rue de la Corniche
+housenumber: "1"
+phone: +33 2 96 72 09 61
+opening_hours: Tu-Sa 09:00-12:30,15:00-19:00; Su 09:00-12:00
+website: http://www.keretienne.fr/

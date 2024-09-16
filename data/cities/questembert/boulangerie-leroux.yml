@@ -1,11 +1,11 @@
 id: 177438096
-type: way
+type: node
 latitude: 47.66116
 longitude: -2.45204
 postcode: "56230"
 city: Questembert
-street: "Rue du Pilori"
-housenumber: 9
-phone: "+33 2 97 26 11 40"
-opening_hours: "Mo,Tu,Th-Sa 06:30-19:00; Su 06:30-13:00"
+street: Rue du Pilori
+housenumber: "9"
+phone: +33 2 97 26 11 40
+opening_hours: Mo,Tu,Th-Sa 06:30-19:00; Su 06:30-13:00
 website: ""

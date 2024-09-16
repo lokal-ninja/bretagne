@@ -1,11 +1,11 @@
 id: 197222761
-type: way
+type: node
 latitude: 47.66651
 longitude: -2.98758
 postcode: "56400"
 city: Auray
-street: "Place du Maréchal Joffre"
-housenumber: 22
-phone: "+33 2 97 29 53 17"
+street: Place du Maréchal Joffre
+housenumber: "22"
+phone: +33 2 97 29 53 17
 opening_hours: ""
-website: "https://lecafequifume.com/"
+website: https://lecafequifume.com/

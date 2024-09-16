@@ -1,11 +1,11 @@
 id: 608085046
-type: way
+type: node
 latitude: 48.22003
 longitude: -1.78619
 postcode: "35850"
 city: Gévezé
-street: "Rue de Rennes"
-housenumber: 31
+street: Rue de Rennes
+housenumber: "31"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

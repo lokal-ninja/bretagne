@@ -1,11 +1,11 @@
 id: 358254085
-type: way
+type: node
 latitude: 47.84053
 longitude: -1.69445
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue Général John Wood"
-housenumber: 11
-phone: "+33 2 99 43 36 16"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 08:00-13:00"
-website: "http://renault-charron-huet-bain.com"
+street: Rue Général John Wood
+housenumber: "11"
+phone: +33 2 99 43 36 16
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 08:00-13:00
+website: http://renault-charron-huet-bain.com

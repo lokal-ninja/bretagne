@@ -4,8 +4,8 @@ latitude: 48.09377
 longitude: -1.67142
 postcode: "35200"
 city: Rennes
-street: "Boulevard Georges Clemenceau"
-housenumber: 123
-phone: "+33 2 99 51 88 77"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"
+street: Boulevard Georges Clemenceau
+housenumber: "123"
+phone: +33 2 99 51 88 77
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.11268
 longitude: -1.68157
 postcode: "35000"
 city: Rennes
-street: "Rue Rallier du Baty"
-housenumber: 5
-phone: "+33 9 52 15 46 54"
-opening_hours: "Tu-Sa 11:00-19:00"
-website: "https://www.nat-nin.fr"
+street: Rue Rallier du Baty
+housenumber: "5"
+phone: +33 9 52 15 46 54
+opening_hours: Tu-Sa 11:00-19:00
+website: https://www.nat-nin.fr

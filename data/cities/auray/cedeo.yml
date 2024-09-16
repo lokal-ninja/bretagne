@@ -1,11 +1,11 @@
 id: 197225131
-type: way
+type: node
 latitude: 47.663
 longitude: -3.01471
 postcode: "56400"
 city: Auray
-street: "Avenue Roland Garros"
-housenumber: 5
-phone: "+33 7 57 91 91 38"
+street: Avenue Roland Garros
+housenumber: "5"
+phone: +33 7 57 91 91 38
 opening_hours: ""
-website: "https://www.cedeo.fr/infos-agence/auray-cedeo-4336"
+website: https://www.cedeo.fr/infos-agence/auray-cedeo-4336

@@ -4,8 +4,8 @@ latitude: 48.11235
 longitude: -1.60792
 postcode: "35510"
 city: Cesson-Sévigné
-street: "Avenue des Peupliers"
-housenumber: 19
-phone: "+33 2 99 83 33 68"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00"
-website: "https://www.autovalley.fr/"
+street: Avenue des Peupliers
+housenumber: "19"
+phone: +33 2 99 83 33 68
+opening_hours: Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00
+website: https://www.autovalley.fr/

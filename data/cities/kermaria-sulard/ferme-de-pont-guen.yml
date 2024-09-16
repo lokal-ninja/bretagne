@@ -4,8 +4,10 @@ latitude: 48.78953
 longitude: -3.37144
 postcode: "22450"
 city: Kermaria-Sulard
-street: "Pont Guen"
-housenumber: 
-phone: "+33 6 82 83 13 73"
-opening_hours: "Mardi : Marché Ploubezre de 16h à 19h  Mercredi : Marché Tréguier de 8h à 12h  Vendredi : en direct de la ferme, de 15h à 19h  Samedi : Marché de Penvenan de 8h à 12h"
-website: "https://lafermedepontguen.fr/"
+street: Pont Guen
+housenumber: ""
+phone: +33 6 82 83 13 73
+opening_hours: 'Mardi : Marché Ploubezre de 16h à 19h  Mercredi : Marché Tréguier
+    de 8h à 12h  Vendredi : en direct de la ferme, de 15h à 19h  Samedi : Marché de
+    Penvenan de 8h à 12h'
+website: https://lafermedepontguen.fr/

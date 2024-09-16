@@ -1,11 +1,11 @@
 id: 120148010
-type: way
+type: node
 latitude: 48.1212
 longitude: -1.52997
 postcode: "35530"
 city: Noyal-sur-Vilaine
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

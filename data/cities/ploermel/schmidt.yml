@@ -1,11 +1,11 @@
 id: 147940672
-type: way
+type: node
 latitude: 47.94413
 longitude: -2.39624
 postcode: "56800"
 city: Ploërmel
-street: "Rue des Huloux"
-housenumber: 
-phone: "+33 2 97 93 60 90"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-18:00"
-website: "https://www.home-design.schmidt/fr-fr/magasin-schmidt/0003000459-rennes-ploermel"
+street: Rue des Huloux
+housenumber: ""
+phone: +33 2 97 93 60 90
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-18:00
+website: https://www.home-design.schmidt/fr-fr/magasin-schmidt/0003000459-rennes-ploermel

@@ -4,8 +4,8 @@ latitude: 48.39654
 longitude: -4.46368
 postcode: "29200"
 city: Brest
-street: "Rue Auguste Rodin"
-housenumber: 4
-phone: "+33 2 98 02 25 91"
-opening_hours: "Mo-Th 08:00-20:00; Fr-Sa 08:00-21:00; Su 09:00-12:15"
-website: "https://www.carrefour.fr/magasin/contact-brest-le-guelmeur"
+street: Rue Auguste Rodin
+housenumber: "4"
+phone: +33 2 98 02 25 91
+opening_hours: Mo-Th 08:00-20:00; Fr-Sa 08:00-21:00; Su 09:00-12:15
+website: https://www.carrefour.fr/magasin/contact-brest-le-guelmeur

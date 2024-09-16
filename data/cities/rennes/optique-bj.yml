@@ -4,8 +4,8 @@ latitude: 48.09802
 longitude: -1.69787
 postcode: "35000"
 city: Rennes
-street: "Place Jeanne Laurent"
-housenumber: 5
-phone: "+33 2 99 54 43 95"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-19:00; Mo 13:00-19:00; Sa 10:00-13:00,14:00-18:00"
-website: "https://optiquebj.com/"
+street: Place Jeanne Laurent
+housenumber: "5"
+phone: +33 2 99 54 43 95
+opening_hours: Tu-Fr 10:00-13:00,14:00-19:00; Mo 13:00-19:00; Sa 10:00-13:00,14:00-18:00
+website: https://optiquebj.com/

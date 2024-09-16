@@ -1,11 +1,11 @@
 id: 177437767
-type: way
+type: node
 latitude: 47.66872
 longitude: -2.45169
 postcode: "56230"
 city: Questembert
-street: "Rue Bernard Palissy"
-housenumber: 
-phone: "+33 2 97 26 60 94"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.intermarche.com/magasins/04501/questembert-56230/infos-pratiques"
+street: Rue Bernard Palissy
+housenumber: ""
+phone: +33 2 97 26 60 94
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.intermarche.com/magasins/04501/questembert-56230/infos-pratiques

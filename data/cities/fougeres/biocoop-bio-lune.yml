@@ -1,11 +1,11 @@
 id: 92581208
-type: way
+type: node
 latitude: 48.35027
 longitude: -1.18481
 postcode: "35300"
 city: Fougères
-street: "Boulevard de Groslay"
-housenumber: 32
+street: Boulevard de Groslay
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 41907864
-type: way
+type: node
 latitude: 48.08397
 longitude: -1.62921
 postcode: "35135"
 city: Chantepie
-street: "Allée de Guerlédan"
-housenumber: 35
-phone: "+33 2 99 77 38 10"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://centres.norauto.fr/centre/rennes-chantepie/159"
+street: Allée de Guerlédan
+housenumber: "35"
+phone: +33 2 99 77 38 10
+opening_hours: Mo-Sa 08:00-19:00
+website: https://centres.norauto.fr/centre/rennes-chantepie/159

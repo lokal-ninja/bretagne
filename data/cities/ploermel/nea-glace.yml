@@ -1,11 +1,11 @@
 id: 147938416
-type: way
+type: node
 latitude: 47.93295
 longitude: -2.40067
 postcode: "56800"
 city: Ploërmel
-street: "Boulevard des Carmes"
-housenumber: 6
+street: Boulevard des Carmes
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/NeaGlace/"
+website: https://www.facebook.com/NeaGlace/

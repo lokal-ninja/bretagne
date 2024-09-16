@@ -4,8 +4,8 @@ latitude: 48.62924
 longitude: -2.46558
 postcode: "22430"
 city: Erquy
-street: "Rue Foch"
-housenumber: 2
-phone: "+33 2 96 72 14 47"
-opening_hours: "Mo-Fr 10:30-12:30,15:00-19:00; Sa 10:30-13:00,15:00-19:30; Su 10:00-12:30"
+street: Rue Foch
+housenumber: "2"
+phone: +33 2 96 72 14 47
+opening_hours: Mo-Fr 10:30-12:30,15:00-19:00; Sa 10:30-13:00,15:00-19:30; Su 10:00-12:30
 website: ""

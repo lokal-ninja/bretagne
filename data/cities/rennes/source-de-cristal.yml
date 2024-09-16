@@ -4,8 +4,8 @@ latitude: 48.1103
 longitude: -1.6746
 postcode: "35000"
 city: Rennes
-street: "Quai Chateaubriand"
-housenumber: 29
+street: Quai Chateaubriand
+housenumber: "29"
 phone: ""
-opening_hours: "Tu, Th, Fr 13:00-19:00; We, Sa 10:30-12:30, 13:30-19:00"
-website: "https://sourcedecristal.com/"
+opening_hours: Tu, Th, Fr 13:00-19:00; We, Sa 10:30-12:30, 13:30-19:00
+website: https://sourcedecristal.com/

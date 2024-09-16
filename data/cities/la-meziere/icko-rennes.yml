@@ -4,8 +4,8 @@ latitude: 48.2175
 longitude: -1.74583
 postcode: "35520"
 city: La Mézière
-street: "Rue du tram"
-housenumber: 10
+street: Rue du tram
+housenumber: "10"
 phone: "+33786052285"
-opening_hours: "Tu-Fr 08:30-12:00, 14:00-17:30, Sa 08:00-12:30"
-website: "https://www.icko-apiculture.com/magasin-icko-rennes"
+opening_hours: Tu-Fr 08:30-12:00, 14:00-17:30, Sa 08:00-12:30
+website: https://www.icko-apiculture.com/magasin-icko-rennes

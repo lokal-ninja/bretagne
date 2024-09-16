@@ -1,11 +1,11 @@
 id: 52577185
-type: way
+type: node
 latitude: 48.21277
 longitude: -1.59045
 postcode: "35250"
 city: Saint-Sulpice-la-Forêt
-street: "Le Tronchay"
-housenumber: 2
+street: Le Tronchay
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

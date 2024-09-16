@@ -1,11 +1,11 @@
 id: 160830484
-type: way
+type: node
 latitude: 47.6847
 longitude: -2.64686
 postcode: "56250"
 city: Saint-Nolff
-street: "Voie Express de Vannes à Ploërmel"
-housenumber: 
+street: Voie Express de Vannes à Ploërmel
+housenumber: ""
 phone: "+33297438820"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
-website: "https://store.totalenergies.fr/fr_FR/NF079244"
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
+website: https://store.totalenergies.fr/fr_FR/NF079244

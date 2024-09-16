@@ -4,8 +4,8 @@ latitude: 48.09546
 longitude: -4.34373
 postcode: "29100"
 city: Douarnenez
-street: "Avenue de la Gare"
-housenumber: 16
+street: Avenue de la Gare
+housenumber: "16"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Mo 10:00-19:00; Sa 09:00-16:00"
-website: "https://www.magasin-ysetbio-douarnenez.fr/"
+opening_hours: Tu-Fr 09:00-19:00; Mo 10:00-19:00; Sa 09:00-16:00
+website: https://www.magasin-ysetbio-douarnenez.fr/

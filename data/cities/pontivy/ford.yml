@@ -1,11 +1,11 @@
 id: 1022072753
-type: way
+type: node
 latitude: 48.05647
 longitude: -2.94109
 postcode: "56300"
 city: Pontivy
-street: "Route de Vannes"
-housenumber: 
+street: Route de Vannes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:30, 14:00-19:00"
-website: "https://www.ford-pontivy.com"
+opening_hours: Mo-Sa 08:00-12:30, 14:00-19:00
+website: https://www.ford-pontivy.com

@@ -1,11 +1,11 @@
 id: 526889728
-type: way
+type: node
 latitude: 47.64722
 longitude: -2.70098
 postcode: "56450"
 city: Theix-Noyalo
-street: "Rue Louis Braille"
-housenumber: 2
+street: Rue Louis Braille
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

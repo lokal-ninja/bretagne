@@ -1,11 +1,11 @@
 id: 576056640
-type: way
+type: node
 latitude: 48.77146
 longitude: -3.0404
 postcode: "22500"
 city: Paimpol
-street: "Rue Raymond Pellier"
-housenumber: 24
-phone: "+33 2 96 20 86 94"
-opening_hours: "Mo 14:30-19:00; Tu-Sa 09:30-13:00,14:30-19:00"
-website: "https://www.biocooppaimpol.com"
+street: Rue Raymond Pellier
+housenumber: "24"
+phone: +33 2 96 20 86 94
+opening_hours: Mo 14:30-19:00; Tu-Sa 09:30-13:00,14:30-19:00
+website: https://www.biocooppaimpol.com

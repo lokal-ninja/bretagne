@@ -1,11 +1,11 @@
 id: 252064177
-type: way
+type: node
 latitude: 47.91119
 longitude: -2.12235
 postcode: "56380"
 city: Guer
-street: "Rue des Châtaigniers"
-housenumber: 
-phone: "+33 2 97 22 11 99"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-guer"
+street: Rue des Châtaigniers
+housenumber: ""
+phone: +33 2 97 22 11 99
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-guer

@@ -1,11 +1,11 @@
 id: 81858207
-type: way
+type: node
 latitude: 48.18144
 longitude: -1.9443
 postcode: "35137"
 city: Bédée
 street: ""
-housenumber: 
-phone: "+33 2 99 07 00 62"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-20:00"
-website: "https://www.carrefour.fr/"
+housenumber: ""
+phone: +33 2 99 07 00 62
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-20:00
+website: https://www.carrefour.fr/

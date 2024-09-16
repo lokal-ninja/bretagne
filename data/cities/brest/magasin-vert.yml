@@ -1,11 +1,11 @@
 id: 42550416
-type: way
+type: node
 latitude: 48.37343
 longitude: -4.55743
 postcode: "29200"
 city: Brest
-street: "Route de St Anne du Portzic"
-housenumber: 
+street: Route de St Anne du Portzic
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00, 14:00-19:00; Sa 09:30-19:00"
+opening_hours: Mo-Fr 09:30-13:00, 14:00-19:00; Sa 09:30-19:00
 website: ""

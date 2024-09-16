@@ -4,8 +4,8 @@ latitude: 48.11251
 longitude: -1.67639
 postcode: "35000"
 city: Rennes
-street: "Rue Victor Hugo"
-housenumber: 9
-phone: "+33 2 99 51 96 67"
-opening_hours: "Tu-Sa 10:00-13:00,14:00-19:00"
-website: "https://www.ki-kazh.com/"
+street: Rue Victor Hugo
+housenumber: "9"
+phone: +33 2 99 51 96 67
+opening_hours: Tu-Sa 10:00-13:00,14:00-19:00
+website: https://www.ki-kazh.com/

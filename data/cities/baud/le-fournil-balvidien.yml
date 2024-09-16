@@ -1,11 +1,11 @@
 id: 208473908
-type: way
+type: node
 latitude: 47.87557
 longitude: -3.01994
 postcode: "56150"
 city: Baud
-street: "Place Le Sciellour"
-housenumber: 12
+street: Place Le Sciellour
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

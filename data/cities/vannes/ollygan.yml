@@ -4,8 +4,8 @@ latitude: 47.65911
 longitude: -2.79121
 postcode: "56000"
 city: Vannes
-street: "Avenue de la Marne"
-housenumber: 95
-phone: "+33 2 97 54 23 08"
+street: Avenue de la Marne
+housenumber: "95"
+phone: +33 2 97 54 23 08
 opening_hours: ""
-website: "https://www.ollygan.fr/"
+website: https://www.ollygan.fr/

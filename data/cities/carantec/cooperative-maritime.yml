@@ -1,11 +1,11 @@
 id: 71751467
-type: way
+type: node
 latitude: 48.66802
 longitude: -3.91437
 postcode: "29660"
 city: Carantec
-street: "Rue Albert Louppe"
-housenumber: 1
-phone: "+33 298670185"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-18:30; Sa 09:30-12:00,14:00-19:00"
-website: "https://comptoirdelamer.fr/magasins/carantec/"
+street: Rue Albert Louppe
+housenumber: "1"
+phone: +33 298670185
+opening_hours: Mo-Fr 09:30-12:00,14:00-18:30; Sa 09:30-12:00,14:00-19:00
+website: https://comptoirdelamer.fr/magasins/carantec/

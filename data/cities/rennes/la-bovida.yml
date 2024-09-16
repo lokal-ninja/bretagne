@@ -4,8 +4,8 @@ latitude: 48.10692
 longitude: -1.73034
 postcode: "35000"
 city: Rennes
-street: "Rue de Lorient"
-housenumber: 220
-phone: "+33 2 99 59 57 43"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.labovida.com/"
+street: Rue de Lorient
+housenumber: "220"
+phone: +33 2 99 59 57 43
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.labovida.com/

@@ -4,8 +4,9 @@ latitude: 47.86644
 longitude: -4.08502
 postcode: "29950"
 city: Bénodet
-street: "Route du Letty"
-housenumber: 5
-phone: "+33 2 98 57 01 27"
-opening_hours: "Jan-Jun: We-Sa 14:30-18:30; Jul-Aug: Tu-Sa 14:30-19:00; Sep-Dec: We-Sa 14:30-18:30"
-website: "https://www.atelierdessaveurs.com"
+street: Route du Letty
+housenumber: "5"
+phone: +33 2 98 57 01 27
+opening_hours: 'Jan-Jun: We-Sa 14:30-18:30; Jul-Aug: Tu-Sa 14:30-19:00; Sep-Dec: We-Sa
+    14:30-18:30'
+website: https://www.atelierdessaveurs.com

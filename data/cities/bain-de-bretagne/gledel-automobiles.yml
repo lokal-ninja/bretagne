@@ -1,11 +1,11 @@
 id: 358250532
-type: way
+type: node
 latitude: 47.85381
 longitude: -1.68226
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue de la Seine"
-housenumber: 24
-phone: "+33 2 99 47 16 57"
+street: Rue de la Seine
+housenumber: "24"
+phone: +33 2 99 47 16 57
 opening_hours: ""
 website: ""

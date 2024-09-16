@@ -4,8 +4,8 @@ latitude: 48.6467
 longitude: -2.02633
 postcode: "35400"
 city: Saint-Malo
-street: "Rue de Dinan"
-housenumber: 7
-phone: "+33 2 90 04 04 03"
-opening_hours: "Mo-Su 10:30-13:00,14:00-19:00"
+street: Rue de Dinan
+housenumber: "7"
+phone: +33 2 90 04 04 03
+opening_hours: Mo-Su 10:30-13:00,14:00-19:00
 website: ""

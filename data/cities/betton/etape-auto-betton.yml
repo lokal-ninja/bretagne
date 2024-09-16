@@ -1,11 +1,11 @@
 id: 886644363
-type: way
+type: node
 latitude: 48.1865
 longitude: -1.63016
 postcode: "35830"
 city: Betton
-street: "Rue de la Forge"
-housenumber: 4
-phone: "+33 2 99 55 07 45"
+street: Rue de la Forge
+housenumber: "4"
+phone: +33 2 99 55 07 45
 opening_hours: ""
-website: "http://centre.etape-auto.fr/619419-centre-auto-bettonnais"
+website: http://centre.etape-auto.fr/619419-centre-auto-bettonnais

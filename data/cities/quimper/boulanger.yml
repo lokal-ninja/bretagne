@@ -1,11 +1,11 @@
 id: 94264811
-type: way
+type: node
 latitude: 48.01598
 longitude: -4.08472
 postcode: "29000"
 city: Quimper
-street: "Avenue de Gourvily"
-housenumber: 7
+street: Avenue de Gourvily
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

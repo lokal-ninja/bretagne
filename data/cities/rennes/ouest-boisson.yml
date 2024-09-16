@@ -4,8 +4,8 @@ latitude: 48.10168
 longitude: -1.73545
 postcode: "35000"
 city: Rennes
-street: "Rue du Manoir de Servigné"
-housenumber: 47
+street: Rue du Manoir de Servigné
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:45-17:00"
-website: "https://www.ouestboissons.fr/"
+opening_hours: Mo-Fr 08:00-12:00,13:45-17:00
+website: https://www.ouestboissons.fr/

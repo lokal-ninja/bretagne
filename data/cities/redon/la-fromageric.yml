@@ -4,8 +4,8 @@ latitude: 47.65042
 longitude: -2.08506
 postcode: "35600"
 city: Redon
-street: "Place de la Duchesse Anne"
-housenumber: 5
-phone: "+33 6 71 91 67 80"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-19:00; Sa 08:30-13:00,15:00-19:00; Su 09:00-12:00"
+street: Place de la Duchesse Anne
+housenumber: "5"
+phone: +33 6 71 91 67 80
+opening_hours: Mo-Fr 09:00-13:00,15:00-19:00; Sa 08:30-13:00,15:00-19:00; Su 09:00-12:00
 website: ""

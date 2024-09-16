@@ -1,11 +1,11 @@
 id: 163162625
-type: way
+type: node
 latitude: 47.77636
 longitude: -3.00547
 postcode: "56330"
 city: Pluvigner
-street: "Rue du Docteur Pascal"
-housenumber: 
+street: Rue du Docteur Pascal
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

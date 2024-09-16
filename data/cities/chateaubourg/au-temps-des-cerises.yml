@@ -4,8 +4,8 @@ latitude: 48.10863
 longitude: -1.4046
 postcode: "35220"
 city: Châteaubourg
-street: "Rue de Paris"
-housenumber: 9
-phone: "+33 2 23 37 10 06"
-opening_hours: "Tu-We,Fr 10:00-14:00,15:00-19:00; Th 12:00-19:00; Sa 10:00-18:30"
-website: "https://autempsdescerises.fr/"
+street: Rue de Paris
+housenumber: "9"
+phone: +33 2 23 37 10 06
+opening_hours: Tu-We,Fr 10:00-14:00,15:00-19:00; Th 12:00-19:00; Sa 10:00-18:30
+website: https://autempsdescerises.fr/

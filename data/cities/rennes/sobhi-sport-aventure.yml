@@ -4,8 +4,8 @@ latitude: 48.11029
 longitude: -1.67494
 postcode: "35000"
 city: Rennes
-street: "Quai Chateaubriand"
-housenumber: 23
-phone: "+33 2 99 79 02 28"
-opening_hours: "Tu-Fr 11:00-19:00; Sa 10:00-19:00"
-website: "https://sobhi-sport.com/"
+street: Quai Chateaubriand
+housenumber: "23"
+phone: +33 2 99 79 02 28
+opening_hours: Tu-Fr 11:00-19:00; Sa 10:00-19:00
+website: https://sobhi-sport.com/

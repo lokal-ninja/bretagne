@@ -1,11 +1,11 @@
 id: 860621696
-type: way
+type: node
 latitude: 48.18922
 longitude: -2.16931
 postcode: "35290"
 city: Saint-Onen-la-Chapelle
-street: "Zone de l'avenue, espace Bel Air"
-housenumber: 
+street: Zone de l'avenue, espace Bel Air
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

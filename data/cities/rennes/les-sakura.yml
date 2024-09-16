@@ -4,8 +4,8 @@ latitude: 48.11481
 longitude: -1.67613
 postcode: "35000"
 city: Rennes
-street: "Rue Saint-Melaine"
-housenumber: 34
-phone: "+33 2 21 07 82 60"
-opening_hours: "Mo,We 11:45-14:00; Tu,Th,Fr 11:45-14:00,18:30-21:00; Sa 12:00-14:00,18:30-21:00"
-website: "https://lessakura.com/"
+street: Rue Saint-Melaine
+housenumber: "34"
+phone: +33 2 21 07 82 60
+opening_hours: Mo,We 11:45-14:00; Tu,Th,Fr 11:45-14:00,18:30-21:00; Sa 12:00-14:00,18:30-21:00
+website: https://lessakura.com/

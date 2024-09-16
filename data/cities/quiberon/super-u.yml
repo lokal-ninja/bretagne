@@ -1,11 +1,11 @@
 id: 66437916
-type: way
+type: node
 latitude: 47.4858
 longitude: -3.12037
 postcode: "56170"
 city: Quiberon
-street: "Rue du Port de Pêche"
-housenumber: 116
+street: Rue du Port de Pêche
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:30"
-website: "https://www.magasins-u.com/magasin/superu-quiberon"
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:30
+website: https://www.magasins-u.com/magasin/superu-quiberon

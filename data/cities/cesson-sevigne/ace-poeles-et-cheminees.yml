@@ -4,8 +4,9 @@ latitude: 48.15428
 longitude: -1.5922
 postcode: "35510"
 city: Cesson-Sévigné
-street: "Le Grand Gué"
-housenumber: 
+street: Le Grand Gué
+housenumber: ""
 phone: "+33299854154"
-opening_hours: "Mo 10:00-12:00,14:00-18:30; Tu-Th 09:00-12:00,14:00-18:30; Fr 09:00-12:00,14:00-17:30; Sa 10:00-13:00,14:00-17:00"
-website: "https://ace-energie.fr/"
+opening_hours: Mo 10:00-12:00,14:00-18:30; Tu-Th 09:00-12:00,14:00-18:30; Fr 09:00-12:00,14:00-17:30;
+    Sa 10:00-13:00,14:00-17:00
+website: https://ace-energie.fr/

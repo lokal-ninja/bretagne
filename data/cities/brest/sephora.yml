@@ -4,8 +4,8 @@ latitude: 48.38639
 longitude: -4.49149
 postcode: "29200"
 city: Brest
-street: "Rue de Siam"
-housenumber: 34
-phone: "+33 2 98 44 26 60"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.sephora.fr/"
+street: Rue de Siam
+housenumber: "34"
+phone: +33 2 98 44 26 60
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.sephora.fr/

@@ -1,11 +1,11 @@
 id: 419265509
-type: way
+type: node
 latitude: 47.8237
 longitude: -1.83715
 postcode: "35480"
 city: Guipry-Messac
-street: "Avenue du Port"
-housenumber: 35
+street: Avenue du Port
+housenumber: "35"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

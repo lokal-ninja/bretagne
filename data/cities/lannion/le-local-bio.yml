@@ -1,11 +1,11 @@
 id: 560365215
-type: way
+type: node
 latitude: 48.73975
 longitude: -3.52253
 postcode: "22300"
 city: Lannion
-street: "Chemin de Krec'h an Devet"
-housenumber: 3
+street: Chemin de Krec'h an Devet
+housenumber: "3"
 phone: "+33669012381"
-opening_hours: "Mo, We, Fr 16:00-19:30"
-website: "https://www.facebook.com/Le-local-bio-1811126465883825/"
+opening_hours: Mo, We, Fr 16:00-19:30
+website: https://www.facebook.com/Le-local-bio-1811126465883825/

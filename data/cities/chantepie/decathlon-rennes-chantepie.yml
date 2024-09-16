@@ -1,11 +1,11 @@
 id: 80703310
-type: way
+type: node
 latitude: 48.08941
 longitude: -1.62717
 postcode: "35135"
 city: Chantepie
-street: "Rue du Moulin"
-housenumber: 3
-phone: "+33 2 99 41 03 03"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-chantepie-0070012200122"
+street: Rue du Moulin
+housenumber: "3"
+phone: +33 2 99 41 03 03
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/store-view/magasin-de-sports-chantepie-0070012200122

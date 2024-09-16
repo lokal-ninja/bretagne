@@ -1,11 +1,11 @@
 id: 197221627
-type: way
+type: node
 latitude: 47.66328
 longitude: -3.012
 postcode: "56400"
 city: Auray
-street: "Rue Louis Blériot"
-housenumber: 6
-phone: "+33 2 97 40 87 00"
-opening_hours: "Mo-Sa 10:00-12:00; Mo-Sa 14:00-19:00"
-website: "https://www.mobalpa.fr/magasin/mobalpa-auray-keneach"
+street: Rue Louis Blériot
+housenumber: "6"
+phone: +33 2 97 40 87 00
+opening_hours: Mo-Sa 10:00-12:00; Mo-Sa 14:00-19:00
+website: https://www.mobalpa.fr/magasin/mobalpa-auray-keneach

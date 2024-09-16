@@ -1,11 +1,11 @@
 id: 123504419
-type: way
+type: node
 latitude: 47.62015
 longitude: -2.91269
 postcode: "56870"
 city: Baden
 street: ""
-housenumber: 
-phone: "+33 2 97 57 23 30"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-19:30; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-baden"
+housenumber: ""
+phone: +33 2 97 57 23 30
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-19:30; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-baden

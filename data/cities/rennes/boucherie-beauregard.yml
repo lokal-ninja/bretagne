@@ -1,11 +1,11 @@
 id: 636547171
-type: way
+type: node
 latitude: 48.1292
 longitude: -1.69852
 postcode: "35000"
 city: Rennes
-street: "Place Eugène Aulnette"
-housenumber: 12
+street: Place Eugène Aulnette
+housenumber: "12"
 phone: "+33223227488"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-19:30; Su 09:00-13:00"
-website: "https://boucheriebeauregard.wordpress.com/"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-19:30; Su 09:00-13:00
+website: https://boucheriebeauregard.wordpress.com/

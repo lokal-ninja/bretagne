@@ -4,8 +4,8 @@ latitude: 48.11129
 longitude: -1.68139
 postcode: "35000"
 city: Rennes
-street: "Rue de Montfort"
-housenumber: 3
-phone: "+33 2 99 79 45 30"
-opening_hours: "Tu-Sa 10:30-13:00,14:00-19:00"
+street: Rue de Montfort
+housenumber: "3"
+phone: +33 2 99 79 45 30
+opening_hours: Tu-Sa 10:30-13:00,14:00-19:00
 website: ""

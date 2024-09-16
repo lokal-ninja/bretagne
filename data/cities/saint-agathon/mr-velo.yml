@@ -5,7 +5,7 @@ longitude: -3.124
 postcode: "22200"
 city: Saint-Agathon
 street: ""
-housenumber: 23
-phone: "+33 2 96 95 16 83"
+housenumber: "23"
+phone: +33 2 96 95 16 83
 opening_hours: ""
-website: "https://mr-velo.business.site/"
+website: https://mr-velo.business.site/

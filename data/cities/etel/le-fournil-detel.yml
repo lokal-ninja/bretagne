@@ -1,11 +1,11 @@
 id: 169730116
-type: way
+type: node
 latitude: 47.65626
 longitude: -3.20618
 postcode: "56410"
 city: Étel
-street: "Rue de la Libération"
-housenumber: 60
-phone: "+33 2 56 54 38 18"
-opening_hours: "tu,th-sa 07:00-13:00,15:30-19:00 mo 07:30-13:00,15:30-19:00 su 07:00-13:00"
+street: Rue de la Libération
+housenumber: "60"
+phone: +33 2 56 54 38 18
+opening_hours: tu,th-sa 07:00-13:00,15:30-19:00 mo 07:30-13:00,15:30-19:00 su 07:00-13:00
 website: ""

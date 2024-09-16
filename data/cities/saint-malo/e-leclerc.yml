@@ -1,11 +1,11 @@
 id: 233574148
-type: way
+type: node
 latitude: 48.65858
 longitude: -1.9741
 postcode: "35400"
 city: Saint Malo
-street: "Boulevard des Déportés"
-housenumber: 55
+street: Boulevard des Déportés
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Fr 09:00-20:30"
+opening_hours: Mo-Sa 09:00-20:00; Fr 09:00-20:30
 website: ""

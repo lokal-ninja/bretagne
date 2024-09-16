@@ -4,8 +4,8 @@ latitude: 48.26452
 longitude: -1.60561
 postcode: "35000"
 city: Rennes
-street: "Rue d'Antrain"
-housenumber: 48
-phone: "+33 7 68 23 60 47"
-opening_hours: "Mo-Sa 09:00-18:00"
+street: Rue d'Antrain
+housenumber: "48"
+phone: +33 7 68 23 60 47
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

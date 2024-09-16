@@ -1,11 +1,11 @@
 id: 611247888
-type: way
+type: node
 latitude: 47.66209
 longitude: -2.06869
 postcode: "35600"
 city: Redon
-street: "Rue de Normandie"
-housenumber: 4
+street: Rue de Normandie
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.villaverde.fr/redon"
+website: https://www.villaverde.fr/redon

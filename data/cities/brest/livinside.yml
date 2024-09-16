@@ -1,11 +1,11 @@
 id: 254140918
-type: way
+type: node
 latitude: 48.42432
 longitude: -4.46635
 postcode: "29200"
 city: Brest
-street: "Rue de Gouesnou"
-housenumber: 243
-phone: "+33 2 98 44 12 17"
-opening_hours: "Mo-Fr 10:00-12:30,14:00-18:30"
-website: "https://www.hdmedia.fr/visite-virtuelle/hd/cbpqhpKko-livinside.html"
+street: Rue de Gouesnou
+housenumber: "243"
+phone: +33 2 98 44 12 17
+opening_hours: Mo-Fr 10:00-12:30,14:00-18:30
+website: https://www.hdmedia.fr/visite-virtuelle/hd/cbpqhpKko-livinside.html

@@ -1,11 +1,11 @@
 id: 96486051
-type: way
+type: node
 latitude: 48.08732
 longitude: -1.70756
 postcode: "35136"
 city: Saint-Jacques-de-la-Lande
-street: "Avenue Roger Dodin"
-housenumber: 26
-phone: "+33 2 99 31 27 56"
-opening_hours: "Mo 07:00-19:00; Tu-Su 07:00-21:00"
-website: "https://www.fournildepierre.fr/"
+street: Avenue Roger Dodin
+housenumber: "26"
+phone: +33 2 99 31 27 56
+opening_hours: Mo 07:00-19:00; Tu-Su 07:00-21:00
+website: https://www.fournildepierre.fr/

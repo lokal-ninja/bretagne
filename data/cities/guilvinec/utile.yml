@@ -1,11 +1,11 @@
 id: 93900856
-type: way
+type: node
 latitude: 47.79479
 longitude: -4.28357
 postcode: "29730"
 city: Guilvinec
-street: "Rue Roger Guillamet"
+street: Rue Roger Guillamet
 housenumber: 70 bis
 phone: "+33298102050"
-opening_hours: "Mo-Sa 07:00-20:00; Su 9:00-12:30"
+opening_hours: Mo-Sa 07:00-20:00; Su 9:00-12:30
 website: ""

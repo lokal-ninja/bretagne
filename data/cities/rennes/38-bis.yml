@@ -4,8 +4,8 @@ latitude: 48.10027
 longitude: -1.7065
 postcode: "35000"
 city: Rennes
-street: "Rue Jules Lallemand"
-housenumber: 33
-phone: "+33 2 99 30 31 31"
-opening_hours: "Tu-Fr 09:00-19:00; Su 08:30-17:00"
-website: "https://www.coiffure-38bis-rennes.fr/"
+street: Rue Jules Lallemand
+housenumber: "33"
+phone: +33 2 99 30 31 31
+opening_hours: Tu-Fr 09:00-19:00; Su 08:30-17:00
+website: https://www.coiffure-38bis-rennes.fr/

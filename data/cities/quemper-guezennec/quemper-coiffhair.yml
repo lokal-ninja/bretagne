@@ -4,8 +4,8 @@ latitude: 48.70372
 longitude: -3.10686
 postcode: "22260"
 city: Quemper-Guézennec
-street: "Place de la Mairie"
-housenumber: 4
-phone: "+33 2 96 11 94 34"
-opening_hours: "Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:30-16:00"
+street: Place de la Mairie
+housenumber: "4"
+phone: +33 2 96 11 94 34
+opening_hours: Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:30-16:00
 website: ""

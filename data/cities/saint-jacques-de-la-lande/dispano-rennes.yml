@@ -1,11 +1,11 @@
 id: 96478886
-type: way
+type: node
 latitude: 48.08128
 longitude: -1.7324
 postcode: "35136"
 city: Saint-Jacques-de-la-Lande
-street: "Boulevard de la Haie des Cognets"
-housenumber: 23
-phone: "+33 2 99 31 28 66"
+street: Boulevard de la Haie des Cognets
+housenumber: "23"
+phone: +33 2 99 31 28 66
 opening_hours: ""
-website: "https://www.dispano.fr/"
+website: https://www.dispano.fr/

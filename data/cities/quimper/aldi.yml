@@ -1,11 +1,11 @@
 id: 94291400
-type: way
+type: node
 latitude: 48.01728
 longitude: -4.08415
 postcode: "29000"
 city: Quimper
-street: "Route de Brest"
-housenumber: 
-phone: "+33 2 98 95 38 32"
-opening_hours: "Mo-Sa 9:00-20:00"
+street: Route de Brest
+housenumber: ""
+phone: +33 2 98 95 38 32
+opening_hours: Mo-Sa 9:00-20:00
 website: ""

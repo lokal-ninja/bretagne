@@ -1,11 +1,11 @@
 id: 71255892
-type: way
+type: node
 latitude: 47.797
 longitude: -3.28618
 postcode: "56700"
 city: Hennebont
 street: ""
-housenumber: 44
-phone: "+33 2 97 85 00 64"
+housenumber: "44"
+phone: +33 2 97 85 00 64
 opening_hours: ""
-website: "https://www.carrosserie-pavic.fr/"
+website: https://www.carrosserie-pavic.fr/

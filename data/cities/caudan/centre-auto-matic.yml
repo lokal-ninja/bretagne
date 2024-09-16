@@ -1,11 +1,11 @@
 id: 70875559
-type: way
+type: node
 latitude: 47.78566
 longitude: -3.34155
 postcode: "56850"
 city: Caudan
-street: "Rue Jean-Baptiste Martenot"
-housenumber: 275
-phone: "+33 2 97 81 22 62"
+street: Rue Jean-Baptiste Martenot
+housenumber: "275"
+phone: +33 2 97 81 22 62
 opening_hours: ""
-website: "http://caudan.centreautomatic.com/"
+website: http://caudan.centreautomatic.com/

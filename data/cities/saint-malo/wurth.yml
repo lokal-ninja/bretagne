@@ -4,8 +4,8 @@ latitude: 48.63706
 longitude: -1.98283
 postcode: "35400"
 city: saint malo
-street: "Rue de la Guymauvière"
-housenumber: 42
+street: Rue de la Guymauvière
+housenumber: "42"
 phone: "+33299480446"
-opening_hours: "Mo-Tu 07:30-12:15,13:15-18:00; Fr 07:30-17:00"
-website: "https://magasins.wurth.fr/143-wurth-proxishop-st-malo"
+opening_hours: Mo-Tu 07:30-12:15,13:15-18:00; Fr 07:30-17:00
+website: https://magasins.wurth.fr/143-wurth-proxishop-st-malo

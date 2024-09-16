@@ -1,11 +1,11 @@
 id: 42585712
-type: way
+type: node
 latitude: 48.43117
 longitude: -4.46217
 postcode: ""
 city: Gouesnou
-street: "Rue Jacques Daguerre"
-housenumber: 2
+street: Rue Jacques Daguerre
+housenumber: "2"
 phone: "+33298303630"
-opening_hours: "7:30-12:30, 13:30-18:00"
+opening_hours: 7:30-12:30, 13:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 597964672
-type: way
+type: node
 latitude: 47.78766
 longitude: -3.34106
 postcode: "56850"
 city: Caudan
-street: "Rue Jacques-Ange Gabriel"
-housenumber: 54
-phone: "+33 2 97 76 53 92"
+street: Rue Jacques-Ange Gabriel
+housenumber: "54"
+phone: +33 2 97 76 53 92
 opening_hours: ""
-website: "https://espacerevetements-lorient.fr/"
+website: https://espacerevetements-lorient.fr/

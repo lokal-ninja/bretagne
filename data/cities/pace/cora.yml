@@ -1,11 +1,11 @@
 id: 439786605
-type: way
+type: node
 latitude: 48.13888
 longitude: -1.7653
 postcode: "35740"
 city: Pacé
 street: ""
-housenumber: 
-phone: "+33 2 99 85 51 51"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-12:30"
-website: "https://cora.fr/"
+housenumber: ""
+phone: +33 2 99 85 51 51
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-12:30
+website: https://cora.fr/

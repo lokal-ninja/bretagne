@@ -1,11 +1,11 @@
 id: 82130566
-type: way
+type: node
 latitude: 48.62869
 longitude: -4.23491
 postcode: "29430"
 city: Plounévez-Lochrist
-street: "Lochrist"
-housenumber: 5
+street: Lochrist
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

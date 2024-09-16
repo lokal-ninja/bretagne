@@ -4,8 +4,8 @@ latitude: 48.1056
 longitude: -1.62754
 postcode: "35510"
 city: Cesson-Sévigné
-street: "Rue de Bray"
-housenumber: 20
-phone: "+33 2 23 62 44 60"
-opening_hours: "Mo-Th 07:30-12:00, 13:30-18:00; Fr 07:30-12:00, 13:30-17:00"
-website: "https://www.lumiscop.fr/"
+street: Rue de Bray
+housenumber: "20"
+phone: +33 2 23 62 44 60
+opening_hours: Mo-Th 07:30-12:00, 13:30-18:00; Fr 07:30-12:00, 13:30-17:00
+website: https://www.lumiscop.fr/

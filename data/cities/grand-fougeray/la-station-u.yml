@@ -1,11 +1,11 @@
 id: 111209376
-type: way
+type: node
 latitude: 47.71919
 longitude: -1.7334
 postcode: "35390"
 city: Grand-Fougeray
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

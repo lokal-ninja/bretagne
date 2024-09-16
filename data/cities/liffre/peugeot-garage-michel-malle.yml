@@ -1,11 +1,11 @@
 id: 62769868
-type: way
+type: node
 latitude: 48.21722
 longitude: -1.50792
 postcode: "35340"
 city: Liffré
-street: "Rue Denis Papin"
-housenumber: 
+street: Rue Denis Papin
+housenumber: ""
 phone: "+33299686565"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30"
-website: "https://concessions.peugeot.fr/malle"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30
+website: https://concessions.peugeot.fr/malle

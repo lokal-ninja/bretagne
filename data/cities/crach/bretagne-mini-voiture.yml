@@ -1,11 +1,11 @@
 id: 93961851
-type: way
+type: node
 latitude: 47.66439
 longitude: -3.02445
 postcode: "56950"
 city: Crac'h
-street: "Rue de l'Europe"
-housenumber: 
-phone: "+33 2 97 24 02 02"
+street: Rue de l'Europe
+housenumber: ""
+phone: +33 2 97 24 02 02
 opening_hours: ""
-website: "https://bretagneminivoiture.ligier.fr/"
+website: https://bretagneminivoiture.ligier.fr/

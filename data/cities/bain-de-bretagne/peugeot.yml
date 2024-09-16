@@ -1,11 +1,11 @@
 id: 358245414
-type: way
+type: node
 latitude: 47.85717
 longitude: -1.68822
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue des Estuaires"
-housenumber: 
-phone: "+33 2 99 43 71 07"
+street: Rue des Estuaires
+housenumber: ""
+phone: +33 2 99 43 71 07
 opening_hours: ""
-website: "https://concessions.peugeot.fr/bain-de-bretagne"
+website: https://concessions.peugeot.fr/bain-de-bretagne

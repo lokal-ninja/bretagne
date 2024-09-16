@@ -4,8 +4,8 @@ latitude: 48.11424
 longitude: -1.65908
 postcode: "35000"
 city: Rennes
-street: "Rue de Paris"
-housenumber: 111
+street: Rue de Paris
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:30; We,Th off; Su 07:00-13:00"
+opening_hours: Mo-Sa 07:00-19:30; We,Th off; Su 07:00-13:00
 website: ""

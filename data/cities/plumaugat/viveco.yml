@@ -1,11 +1,11 @@
 id: 152058141
-type: way
+type: node
 latitude: 48.25474
 longitude: -2.23892
 postcode: "22250"
 city: Plumaugat
-street: "Rue de Saint-Méen"
-housenumber: 
+street: Rue de Saint-Méen
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Sa 07:30-13:30,15:30-19:30; Su 08:00-13:30"
+opening_hours: Tu-Sa 07:30-13:30,15:30-19:30; Su 08:00-13:30
 website: ""

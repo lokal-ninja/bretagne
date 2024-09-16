@@ -1,11 +1,11 @@
 id: 525984709
-type: way
+type: node
 latitude: 47.66448
 longitude: -2.79527
 postcode: "56000"
 city: Vannes
-street: "Rue Docteur Leonce Franco"
-housenumber: 
-phone: "+33 2 97 26 72 50"
-opening_hours: "Mo-Sa 08:30-19:00"
+street: Rue Docteur Leonce Franco
+housenumber: ""
+phone: +33 2 97 26 72 50
+opening_hours: Mo-Sa 08:30-19:00
 website: ""

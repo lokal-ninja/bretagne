@@ -4,8 +4,8 @@ latitude: 48.09655
 longitude: -1.66054
 postcode: "35200"
 city: Rennes
-street: "Boulevard Franklin Roosevelt"
-housenumber: 11
-phone: "+33 2 99 53 87 38"
-opening_hours: "Mo-Fr 08:15-12:15,14:00-18:30"
-website: "https://www.garage-opel-rennes.fr/"
+street: Boulevard Franklin Roosevelt
+housenumber: "11"
+phone: +33 2 99 53 87 38
+opening_hours: Mo-Fr 08:15-12:15,14:00-18:30
+website: https://www.garage-opel-rennes.fr/

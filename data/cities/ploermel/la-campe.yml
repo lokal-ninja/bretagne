@@ -1,11 +1,11 @@
 id: 700109778
-type: way
+type: node
 latitude: 47.94489
 longitude: -2.39657
 postcode: "56800"
 city: Ploërmel
-street: "Rue des Huloux"
-housenumber: 12
+street: Rue des Huloux
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 15:00-18:00; Sa 08:30-12:30"
-website: "https://www.la-campe.com/"
+opening_hours: Mo-Fr 08:30-12:00, 15:00-18:00; Sa 08:30-12:30
+website: https://www.la-campe.com/

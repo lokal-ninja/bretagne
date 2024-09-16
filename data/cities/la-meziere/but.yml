@@ -1,11 +1,11 @@
 id: 46805363
-type: way
+type: node
 latitude: 48.19038
 longitude: -1.72741
 postcode: "35520"
 city: La Mézière
-street: "Route de Saint-Malo"
-housenumber: 
+street: Route de Saint-Malo
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00"
-website: "https://www.but.fr/magasins/055/But-Rennes-Melesse.html"
+opening_hours: Mo-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00
+website: https://www.but.fr/magasins/055/But-Rennes-Melesse.html

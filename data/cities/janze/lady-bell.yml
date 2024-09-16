@@ -1,11 +1,11 @@
 id: 83318758
-type: way
+type: node
 latitude: 47.96014
 longitude: -1.49646
 postcode: "35150"
 city: Janzé
-street: "Rue du Docteur Roux"
-housenumber: 26
-phone: "+33 299470468"
+street: Rue du Docteur Roux
+housenumber: "26"
+phone: +33 299470468
 opening_hours: ""
-website: "https://www.ladybell.fr/"
+website: https://www.ladybell.fr/

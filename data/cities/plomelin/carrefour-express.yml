@@ -1,11 +1,11 @@
 id: 86170886
-type: way
+type: node
 latitude: 47.93648
 longitude: -4.15457
 postcode: "29700"
 city: Plomelin
-street: "Hent Kergoff"
-housenumber: 
-phone: "+33 2 98 52 59 00"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-plomelin"
+street: Hent Kergoff
+housenumber: ""
+phone: +33 2 98 52 59 00
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-plomelin

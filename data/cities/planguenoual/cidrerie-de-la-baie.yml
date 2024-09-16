@@ -4,8 +4,9 @@ latitude: 48.55275
 longitude: -2.55471
 postcode: "22400"
 city: Planguenoual
-street: "Saint-Plestan"
-housenumber: 16
-phone: "+33 2 96 93 89 82"
-opening_hours: "Tu,Th 16:00-18:00; Sa 10:00-12:00; Jul-Aug Mo-Sa 10:00-12:00,15:00-18:30; PH off"
-website: "https://www.cidrerie-delabaie.com/"
+street: Saint-Plestan
+housenumber: "16"
+phone: +33 2 96 93 89 82
+opening_hours: Tu,Th 16:00-18:00; Sa 10:00-12:00; Jul-Aug Mo-Sa 10:00-12:00,15:00-18:30;
+    PH off
+website: https://www.cidrerie-delabaie.com/

@@ -4,8 +4,9 @@ latitude: 48.13923
 longitude: -3.6074
 postcode: "56110"
 city: Gourin
-street: "Rue Jacques Rodallec"
-housenumber: 33
-phone: "+33 2 97 23 60 73"
-opening_hours: "Mo 09:00-12:00,14:00-19:00; Th-Fr 09:00-12:00,14:00-19:00; We 14:00-19:00; Sa 09:00-12:00,14:00-17:00"
+street: Rue Jacques Rodallec
+housenumber: "33"
+phone: +33 2 97 23 60 73
+opening_hours: Mo 09:00-12:00,14:00-19:00; Th-Fr 09:00-12:00,14:00-19:00; We 14:00-19:00;
+    Sa 09:00-12:00,14:00-17:00
 website: ""

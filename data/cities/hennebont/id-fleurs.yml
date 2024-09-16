@@ -1,11 +1,11 @@
 id: 71256421
-type: way
+type: node
 latitude: 47.80356
 longitude: -3.26801
 postcode: "56700"
 city: Hennebont
 street: ""
 housenumber: 56bis
-phone: "+33 2 97 36 32 88"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-19:00"
-website: "http://www.idfleurs.com/"
+phone: +33 2 97 36 32 88
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-19:00
+website: http://www.idfleurs.com/

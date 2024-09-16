@@ -1,11 +1,11 @@
 id: 111384359
-type: way
+type: node
 latitude: 48.35216
 longitude: -1.22388
 postcode: "35133"
 city: Lécousse
-street: "rue Marion du Faouët"
-housenumber: 11
+street: rue Marion du Faouët
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/lecousse/"
+website: https://www.nozarrivages.com/magasin/lecousse/

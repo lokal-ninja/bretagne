@@ -1,11 +1,11 @@
 id: 197223033
-type: way
+type: node
 latitude: 47.66443
 longitude: -3.01322
 postcode: "56400"
 city: Auray
-street: "Rue Louis Blériot"
-housenumber: 16
-phone: "+33 2 97 24 25 25"
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-18:00; Sa 08:30-12:00"
-website: "https://www.queguiner.fr/"
+street: Rue Louis Blériot
+housenumber: "16"
+phone: +33 2 97 24 25 25
+opening_hours: Mo-Fr 07:30-12:00, 13:30-18:00; Sa 08:30-12:00
+website: https://www.queguiner.fr/

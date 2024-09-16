@@ -1,11 +1,11 @@
 id: 94283873
-type: way
+type: node
 latitude: 47.97743
 longitude: -4.07911
 postcode: "29000"
 city: Quimper
-street: "Zone de Kervilier"
-housenumber: 
+street: Zone de Kervilier
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.decathlon.fr/fr/store?store_id"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.decathlon.fr/fr/store?store_id

@@ -1,11 +1,11 @@
 id: 80301803
-type: way
+type: node
 latitude: 48.10717
 longitude: -1.72583
 postcode: "35000"
 city: Rennes
-street: "Rue de Lorient"
-housenumber: 202
-phone: "+33 2 99 54 80 00"
-opening_hours: "24/7"
+street: Rue de Lorient
+housenumber: "202"
+phone: +33 2 99 54 80 00
+opening_hours: 24/7
 website: ""

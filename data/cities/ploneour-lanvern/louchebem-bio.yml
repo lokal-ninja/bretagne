@@ -4,8 +4,8 @@ latitude: 47.9029
 longitude: -4.28263
 postcode: "29720"
 city: Plonéour-Lanvern
-street: "Place Victor Hugo"
-housenumber: 1
+street: Place Victor Hugo
+housenumber: "1"
 phone: "+33298876159"
-opening_hours: "Tu-Sa 08:30-12:30,15:00-19:15; Su 9:00-12:30"
-website: "https://louchebem-bio.bzh/"
+opening_hours: Tu-Sa 08:30-12:30,15:00-19:15; Su 9:00-12:30
+website: https://louchebem-bio.bzh/

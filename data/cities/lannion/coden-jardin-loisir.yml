@@ -1,11 +1,11 @@
 id: 251243462
-type: way
+type: node
 latitude: 48.72111
 longitude: -3.48116
 postcode: "22300"
 city: Lannion
-street: "Rond-Point de Bel-Air"
-housenumber: 
+street: Rond-Point de Bel-Air
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

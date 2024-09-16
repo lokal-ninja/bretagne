@@ -1,11 +1,11 @@
 id: 450116801
-type: way
+type: node
 latitude: 47.65617
 longitude: -2.75954
 postcode: "56000"
 city: Vannes
-street: "Place de la République"
-housenumber: 
-phone: "+33 2 97 01 22 23"
+street: Place de la République
+housenumber: ""
+phone: +33 2 97 01 22 23
 opening_hours: ""
-website: "https://www.kiceo.fr"
+website: https://www.kiceo.fr

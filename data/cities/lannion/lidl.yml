@@ -1,11 +1,11 @@
 id: 117266644
-type: way
+type: node
 latitude: 48.73325
 longitude: -3.4409
 postcode: "22300"
 city: Lannion
-street: "Rue Madeleine"
-housenumber: 
+street: Rue Madeleine
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

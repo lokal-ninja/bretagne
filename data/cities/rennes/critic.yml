@@ -4,8 +4,8 @@ latitude: 48.1147
 longitude: -1.67742
 postcode: "35000"
 city: Rennes
-street: "Rue Hoche"
-housenumber: 19
+street: Rue Hoche
+housenumber: "19"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu 10:00-19:00; We-Fr 10:00-19:30; Sa 10:30-19:30"
-website: "https://www.librairie-critic.fr/"
+opening_hours: Mo 14:00-19:00; Tu 10:00-19:00; We-Fr 10:00-19:30; Sa 10:30-19:30
+website: https://www.librairie-critic.fr/

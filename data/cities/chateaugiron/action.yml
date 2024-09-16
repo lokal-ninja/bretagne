@@ -4,8 +4,8 @@ latitude: 48.04129
 longitude: -1.51341
 postcode: "35410"
 city: Châteaugiron
-street: "Rue des Comptoirs"
-housenumber: 
+street: Rue des Comptoirs
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.action.com/fr-fr/points-de-vente/chateaugiron-espace-univers/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.action.com/fr-fr/points-de-vente/chateaugiron-espace-univers/

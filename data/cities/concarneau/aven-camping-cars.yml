@@ -4,8 +4,8 @@ latitude: 47.90334
 longitude: -3.90867
 postcode: "29900"
 city: Concarneau
-street: "Rue Pierre Idrac"
-housenumber: 5
+street: Rue Pierre Idrac
+housenumber: "5"
 phone: "+33298106500"
-opening_hours: "Tu-Sa 09:30-12:30,14:00-18:30"
-website: "https://www.avencamping-cars.com/"
+opening_hours: Tu-Sa 09:30-12:30,14:00-18:30
+website: https://www.avencamping-cars.com/

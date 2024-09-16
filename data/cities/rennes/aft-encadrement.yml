@@ -4,8 +4,8 @@ latitude: 48.09811
 longitude: -1.63471
 postcode: "35000"
 city: Rennes
-street: "Rue du Noyer"
-housenumber: 12
-phone: "+33 2 99 53 20 81"
+street: Rue du Noyer
+housenumber: "12"
+phone: +33 2 99 53 20 81
 opening_hours: ""
-website: "http://www.atf-encadrement.fr/"
+website: http://www.atf-encadrement.fr/

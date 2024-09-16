@@ -1,11 +1,11 @@
 id: 42575887
-type: way
+type: node
 latitude: 48.42814
 longitude: -4.46405
 postcode: "29200"
 city: Brest
-street: "Rue Gaston Planté"
-housenumber: 4
-phone: "+33 2 98 41 76 66"
-opening_hours: "Mo-Sa 09:30-12:00, 14:00-18:30"
+street: Rue Gaston Planté
+housenumber: "4"
+phone: +33 2 98 41 76 66
+opening_hours: Mo-Sa 09:30-12:00, 14:00-18:30
 website: ""

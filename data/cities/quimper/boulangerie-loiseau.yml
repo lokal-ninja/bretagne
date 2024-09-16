@@ -4,8 +4,8 @@ latitude: 47.99488
 longitude: -4.09615
 postcode: "29000"
 city: Quimper
-street: "Avenue de la Gare"
-housenumber: 47
-phone: "+33 2 98 90 31 16"
-opening_hours: "Tu-Sa 07:00-13:30,15:00-19:00; Su 07:00-13:00"
+street: Avenue de la Gare
+housenumber: "47"
+phone: +33 2 98 90 31 16
+opening_hours: Tu-Sa 07:00-13:30,15:00-19:00; Su 07:00-13:00
 website: ""

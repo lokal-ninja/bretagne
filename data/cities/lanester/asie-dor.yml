@@ -4,8 +4,8 @@ latitude: 47.77713
 longitude: -3.34626
 postcode: "56600"
 city: Lanester
-street: "Rue Rouget de Lisle"
-housenumber: 241
+street: Rue Rouget de Lisle
+housenumber: "241"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-12:30, 14:00-19:00"
-website: "https://www.asiedor.fr/"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-12:30, 14:00-19:00
+website: https://www.asiedor.fr/

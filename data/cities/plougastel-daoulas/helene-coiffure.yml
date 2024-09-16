@@ -4,8 +4,8 @@ latitude: 48.37224
 longitude: -4.36858
 postcode: "29470"
 city: Plougastel-Daoulas
-street: "Rue de Westport"
-housenumber: 12
-phone: "+33 2 98 40 54 58"
-opening_hours: "Mar,Jeu,Ven 09:30-12:00,14:30-18:00; Mer 09:30-12:00; Sam 09:30-12:00,14:30-17:00"
+street: Rue de Westport
+housenumber: "12"
+phone: +33 2 98 40 54 58
+opening_hours: Mar,Jeu,Ven 09:30-12:00,14:30-18:00; Mer 09:30-12:00; Sam 09:30-12:00,14:30-17:00
 website: ""

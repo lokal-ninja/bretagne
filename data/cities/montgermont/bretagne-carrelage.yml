@@ -4,8 +4,8 @@ latitude: 48.15342
 longitude: -1.70539
 postcode: "35760"
 city: Montgermont
-street: "Rue Edison"
-housenumber: 2
-phone: "+33 2 99 23 70 00"
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-19:00"
-website: "https://www.bretagnecarrelage.fr/rennes/"
+street: Rue Edison
+housenumber: "2"
+phone: +33 2 99 23 70 00
+opening_hours: Mo-Sa 09:00-12:00, 14:00-19:00
+website: https://www.bretagnecarrelage.fr/rennes/

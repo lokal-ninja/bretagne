@@ -1,11 +1,11 @@
 id: 386920963
-type: way
+type: node
 latitude: 47.97295
 longitude: -1.81389
 postcode: "35580"
 city: Guichen
-street: "Rue Joliot-Curie"
-housenumber: 2
+street: Rue Joliot-Curie
+housenumber: "2"
 phone: "+33800900343"
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.1086
 longitude: -1.69486
 postcode: "35000"
 city: Rennes
-street: "Mail François Mitterrand"
-housenumber: 82
-phone: "+33 2 99 67 43 90"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 09:00-18:00"
-website: "https://www.tagrandmereavelo.com/"
+street: Mail François Mitterrand
+housenumber: "82"
+phone: +33 2 99 67 43 90
+opening_hours: Tu-Fr 09:30-19:00; Sa 09:00-18:00
+website: https://www.tagrandmereavelo.com/

@@ -1,11 +1,11 @@
 id: 334039473
-type: way
+type: node
 latitude: 48.74916
 longitude: -3.4612
 postcode: "22300"
 city: Lannion
-street: "Rue Robert Surcouf"
-housenumber: 
+street: Rue Robert Surcouf
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

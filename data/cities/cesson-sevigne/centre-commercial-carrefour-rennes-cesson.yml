@@ -1,11 +1,11 @@
 id: 30707615
-type: way
+type: node
 latitude: 48.11261
 longitude: -1.59343
 postcode: "35510"
 city: Cesson-Sévigné
-street: "Route de Domloup"
-housenumber: 
+street: Route de Domloup
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:00"
-website: "https://www.centre-commercial.fr/carrefour-rennes-cesson/"
+opening_hours: Mo-Sa 08:30-21:00
+website: https://www.centre-commercial.fr/carrefour-rennes-cesson/

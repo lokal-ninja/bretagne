@@ -1,11 +1,11 @@
 id: 42028139
-type: way
+type: node
 latitude: 48.08361
 longitude: -1.62644
 postcode: "35135"
 city: Chantepie
-street: "ZI des Logettes"
-housenumber: 
+street: ZI des Logettes
+housenumber: ""
 phone: "+33299512340"
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/chantepie/"
+website: https://nozarrivages.com/magasin/chantepie/

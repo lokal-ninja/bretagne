@@ -1,11 +1,11 @@
 id: 117268788
-type: way
+type: node
 latitude: 48.7319
 longitude: -3.45908
 postcode: "22300"
 city: Lannion
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Tu 09:30-12:30,14:00-19:00; Th-Sa 09:30-19:00; We 09:30-12:30,14:00-18:30"
+opening_hours: Tu 09:30-12:30,14:00-19:00; Th-Sa 09:30-19:00; We 09:30-12:30,14:00-18:30
 website: ""

@@ -1,11 +1,11 @@
 id: 54007338
-type: way
+type: node
 latitude: 48.62938
 longitude: -4.40721
 postcode: "29880"
 city: Guissény
-street: "lanvian"
-housenumber: 
-phone: "+33 640485477"
+street: lanvian
+housenumber: ""
+phone: +33 640485477
 opening_hours: ""
 website: ""

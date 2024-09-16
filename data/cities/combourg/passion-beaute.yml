@@ -4,8 +4,8 @@ latitude: 48.40844
 longitude: -1.75165
 postcode: "35270"
 city: Combourg
-street: "Place Albert Parent"
-housenumber: 6
-phone: "+33 2 99 73 13 13"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.passionbeaute.fr/magasins?store=176"
+street: Place Albert Parent
+housenumber: "6"
+phone: +33 2 99 73 13 13
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.passionbeaute.fr/magasins?store=176

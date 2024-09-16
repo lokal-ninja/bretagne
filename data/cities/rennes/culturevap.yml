@@ -4,8 +4,8 @@ latitude: 48.0869
 longitude: -1.695
 postcode: "35000"
 city: Rennes
-street: "Rue de Nantes"
-housenumber: 314
+street: Rue de Nantes
+housenumber: "314"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

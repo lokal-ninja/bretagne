@@ -1,11 +1,11 @@
 id: 94493785
-type: way
+type: node
 latitude: 48.49196
 longitude: -2.79543
 postcode: "22440"
 city: Ploufragan
-street: "Rond-Point de la Fontaine Morin"
+street: Rond-Point de la Fontaine Morin
 housenumber: 9B
-phone: "+33 2 96 76 06 76"
-opening_hours: "Mo-Sa 06:15-20:00"
+phone: +33 2 96 76 06 76
+opening_hours: Mo-Sa 06:15-20:00
 website: ""

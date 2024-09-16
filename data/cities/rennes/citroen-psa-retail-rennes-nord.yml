@@ -1,11 +1,11 @@
 id: 80259405
-type: way
+type: node
 latitude: 48.13339
 longitude: -1.6907
 postcode: "35000"
 city: Rennes
-street: "Route de St Malo"
-housenumber: 
+street: Route de St Malo
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:30,13:30-19:00; Sa 08:00-12:15,14:00-19:00"
-website: "https://reseau.citroen.fr/rennes"
+opening_hours: Mo-Fr 07:30-12:30,13:30-19:00; Sa 08:00-12:15,14:00-19:00
+website: https://reseau.citroen.fr/rennes

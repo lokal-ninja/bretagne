@@ -4,8 +4,8 @@ latitude: 47.74907
 longitude: -3.35942
 postcode: "56100"
 city: Lorient
-street: "Rue Maréchal Foch"
-housenumber: 47
+street: Rue Maréchal Foch
+housenumber: "47"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Th 09:30-12:00,14:00-19:00; Fr,Sa 09:30-13:00,14:00-19:00"
-website: "https://www.quandleslivressouvrent.com/"
+opening_hours: Mo 14:00-19:00; Tu-Th 09:30-12:00,14:00-19:00; Fr,Sa 09:30-13:00,14:00-19:00
+website: https://www.quandleslivressouvrent.com/

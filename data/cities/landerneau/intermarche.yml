@@ -1,11 +1,11 @@
 id: 464650420
-type: way
+type: node
 latitude: 48.44852
 longitude: -4.26269
 postcode: "29800"
 city: Landerneau
-street: "Rue Hervé de Guébriant"
-housenumber: 37
-phone: "+33 2 98 21 50 37"
-opening_hours: "24/7"
-website: "https://www.intermarche.com/"
+street: Rue Hervé de Guébriant
+housenumber: "37"
+phone: +33 2 98 21 50 37
+opening_hours: 24/7
+website: https://www.intermarche.com/

@@ -4,8 +4,8 @@ latitude: 48.1074
 longitude: -1.67155
 postcode: "35000"
 city: Rennes
-street: "Rue Saint-Hélier"
-housenumber: 13
-phone: "+33 2 99 31 70 10"
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 09:00-17:00"
-website: "https://thalassaesthetic.com"
+street: Rue Saint-Hélier
+housenumber: "13"
+phone: +33 2 99 31 70 10
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 09:00-17:00
+website: https://thalassaesthetic.com

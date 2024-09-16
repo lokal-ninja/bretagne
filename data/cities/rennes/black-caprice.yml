@@ -4,8 +4,8 @@ latitude: 48.10165
 longitude: -1.66005
 postcode: "35000"
 city: Rennes
-street: "Rue de Vern"
-housenumber: 6
-phone: "+33 2 99 53 47 13"
+street: Rue de Vern
+housenumber: "6"
+phone: +33 2 99 53 47 13
 opening_hours: ""
-website: "http://www.black-caprice.fr"
+website: http://www.black-caprice.fr

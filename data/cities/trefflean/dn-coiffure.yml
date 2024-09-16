@@ -1,11 +1,12 @@
 id: 67632527
-type: way
+type: node
 latitude: 47.68111
 longitude: -2.61404
 postcode: "56250"
 city: Treffléan
-street: "Place de l'Église"
-housenumber: 2
+street: Place de l'Église
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-12:00,14:00-21:00; Sa 08:00-17:30; Mo off"
+opening_hours: Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-12:00,14:00-21:00; Sa 08:00-17:30;
+    Mo off
 website: ""

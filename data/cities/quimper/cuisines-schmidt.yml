@@ -1,11 +1,11 @@
 id: 94288049
-type: way
+type: node
 latitude: 48.01683
 longitude: -4.08553
 postcode: "29000"
 city: Quimper
-street: "Allée des Quatre Le Jeune"
-housenumber: 9
+street: Allée des Quatre Le Jeune
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

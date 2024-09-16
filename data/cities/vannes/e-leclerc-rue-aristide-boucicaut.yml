@@ -1,11 +1,11 @@
 id: 144036108
-type: way
+type: node
 latitude: 47.66598
 longitude: -2.79384
 postcode: "56000"
 city: Vannes
-street: "Rue Aristide Boucicaut"
-housenumber: 
-phone: "+33 2 97 46 60 40"
-opening_hours: "24/7"
-website: "http://www.e-leclerc.com"
+street: Rue Aristide Boucicaut
+housenumber: ""
+phone: +33 2 97 46 60 40
+opening_hours: 24/7
+website: http://www.e-leclerc.com

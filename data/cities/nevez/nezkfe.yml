@@ -1,11 +1,11 @@
 id: 97620517
-type: way
+type: node
 latitude: 47.81933
 longitude: -3.79252
 postcode: "29920"
 city: Névez
-street: "Place de l'Église"
-housenumber: 21
-phone: "+33 2 98 06 71 48"
+street: Place de l'Église
+housenumber: "21"
+phone: +33 2 98 06 71 48
 opening_hours: ""
 website: ""

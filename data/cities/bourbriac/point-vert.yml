@@ -1,11 +1,11 @@
 id: 407343359
-type: way
+type: node
 latitude: 48.47827
 longitude: -3.18611
 postcode: "22390"
 city: Bourbriac
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-18:30; Sa 08:30-12:30, 14:00-18:00"
+opening_hours: Mo-Fr 08:30-12:00, 14:00-18:30; Sa 08:30-12:30, 14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1215999063
-type: way
+type: node
 latitude: 48.38714
 longitude: -4.5289
 postcode: "29200"
 city: Brest
-street: "Boulevard de Plymouth"
-housenumber: 122
+street: Boulevard de Plymouth
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

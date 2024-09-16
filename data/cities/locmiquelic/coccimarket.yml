@@ -1,11 +1,11 @@
 id: 169174636
-type: way
+type: node
 latitude: 47.72361
 longitude: -3.34108
 postcode: "56570"
 city: Locmiquélic
-street: "Ruelle de l'Église"
-housenumber: 6
+street: Ruelle de l'Église
+housenumber: "6"
 phone: ""
-opening_hours: "PH,Mo-Su 08:00-13:00, Mo-We,Fr,Sa 15:00-20:30, Su 17:00-20:00"
+opening_hours: PH,Mo-Su 08:00-13:00, Mo-We,Fr,Sa 15:00-20:30, Su 17:00-20:00
 website: ""

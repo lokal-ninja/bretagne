@@ -4,8 +4,8 @@ latitude: 48.81251
 longitude: -3.29534
 postcode: "22710"
 city: Penvénan
-street: "Rue de la Poste"
-housenumber: 8
-phone: "+33 2 96 92 67 18"
-opening_hours: "Mo,Tu,Th,Fr 07:00-12:00,14:30-18:00; Mi 07:00-12:00; Sa 07:00-12:15,14:30-18:00"
+street: Rue de la Poste
+housenumber: "8"
+phone: +33 2 96 92 67 18
+opening_hours: Mo,Tu,Th,Fr 07:00-12:00,14:30-18:00; Mi 07:00-12:00; Sa 07:00-12:15,14:30-18:00
 website: ""

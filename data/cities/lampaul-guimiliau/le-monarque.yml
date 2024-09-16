@@ -1,11 +1,11 @@
 id: 84871156
-type: way
+type: node
 latitude: 48.49284
 longitude: -4.04045
 postcode: "92400"
 city: Lampaul-Guimiliau
-street: "Place de l'Eglise"
-housenumber: 4
+street: Place de l'Eglise
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

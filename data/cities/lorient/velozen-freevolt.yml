@@ -1,11 +1,11 @@
 id: 1043728581
-type: way
+type: node
 latitude: 47.73442
 longitude: -3.3659
 postcode: "56100"
 city: Lorient
-street: "Avenue de la Perrière"
-housenumber: 23
+street: Avenue de la Perrière
+housenumber: "23"
 phone: ""
-opening_hours: "Tu-Sa 10:00-12:00,14:00-19:00"
+opening_hours: Tu-Sa 10:00-12:00,14:00-19:00
 website: ""

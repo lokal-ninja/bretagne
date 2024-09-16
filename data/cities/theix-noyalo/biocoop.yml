@@ -1,11 +1,11 @@
 id: 177195631
-type: way
+type: node
 latitude: 47.64761
 longitude: -2.70682
 postcode: "56450"
 city: Theix-Noyalo
-street: "Rue Jacques Cartier"
-housenumber: 4
-phone: "+33 2 97 47 09 44"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "http://www.biogolfe.org/bio-golfe-theix/"
+street: Rue Jacques Cartier
+housenumber: "4"
+phone: +33 2 97 47 09 44
+opening_hours: Mo-Sa 09:30-19:00
+website: http://www.biogolfe.org/bio-golfe-theix/

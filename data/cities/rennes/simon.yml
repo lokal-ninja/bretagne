@@ -4,8 +4,8 @@ latitude: 48.11085
 longitude: -1.68069
 postcode: "35000"
 city: Rennes
-street: "Rue Beaumanoir"
-housenumber: 3
-phone: "+33 2 99 79 05 39"
-opening_hours: "Tu-Sa 10:30-13:00,14:00-19:00"
+street: Rue Beaumanoir
+housenumber: "3"
+phone: +33 2 99 79 05 39
+opening_hours: Tu-Sa 10:30-13:00,14:00-19:00
 website: ""

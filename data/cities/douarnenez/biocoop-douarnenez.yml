@@ -1,11 +1,11 @@
 id: 122880119
-type: way
+type: node
 latitude: 48.08017
 longitude: -4.321
 postcode: "29100"
 city: Douarnenez
-street: "Rue Gabriel Le Signe"
-housenumber: 
-phone: "+33 2 30 09 01 04"
-opening_hours: "Mo-Sa 09:30-13:00, 14:30-19:00"
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Bretagne/Finistere/BIOCOOP-DOUARNENEZ"
+street: Rue Gabriel Le Signe
+housenumber: ""
+phone: +33 2 30 09 01 04
+opening_hours: Mo-Sa 09:30-13:00, 14:30-19:00
+website: https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Bretagne/Finistere/BIOCOOP-DOUARNENEZ

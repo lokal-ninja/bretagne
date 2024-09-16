@@ -1,11 +1,11 @@
 id: 358255089
-type: way
+type: node
 latitude: 47.8567
 longitude: -1.68093
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Allée de la Vilaine"
-housenumber: 2
-phone: "+33 2 99 44 15 24"
+street: Allée de la Vilaine
+housenumber: "2"
+phone: +33 2 99 44 15 24
 opening_hours: ""
-website: "http://www.negosphere.fr"
+website: http://www.negosphere.fr

@@ -4,8 +4,8 @@ latitude: 47.65865
 longitude: -2.75841
 postcode: "56000"
 city: Vannes
-street: "Rue Billault"
-housenumber: 5
+street: Rue Billault
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.notshy.fr"
+website: https://www.notshy.fr

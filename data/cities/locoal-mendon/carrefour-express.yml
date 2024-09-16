@@ -1,11 +1,11 @@
 id: 94139798
-type: way
+type: node
 latitude: 47.71011
 longitude: -3.10602
 postcode: "56550"
 city: Locoal-Mendon
-street: "Route de Locoal"
-housenumber: 
+street: Route de Locoal
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

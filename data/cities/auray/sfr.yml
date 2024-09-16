@@ -1,11 +1,11 @@
 id: 197226669
-type: way
+type: node
 latitude: 47.66625
 longitude: -2.98409
 postcode: "56400"
 city: Auray
-street: "Place de la République"
-housenumber: 41
+street: Place de la République
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

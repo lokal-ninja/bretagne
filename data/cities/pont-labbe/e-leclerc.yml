@@ -1,11 +1,11 @@
 id: 93147357
-type: way
+type: node
 latitude: 47.8652
 longitude: -4.23725
 postcode: "29120"
 city: Pont-l'Abbé
-street: "Route de Saint-Jean-Trolimon"
-housenumber: 
-phone: "+33 2 98 66 08 88"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.e.leclerc/mag/e-leclerc-pont-l-abbe"
+street: Route de Saint-Jean-Trolimon
+housenumber: ""
+phone: +33 2 98 66 08 88
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.e.leclerc/mag/e-leclerc-pont-l-abbe

@@ -4,8 +4,8 @@ latitude: 48.10584
 longitude: -1.68079
 postcode: "35000"
 city: Rennes
-street: "Rue de Plélo"
-housenumber: 2
-phone: "+33 2 99 31 54 88"
-opening_hours: "Mo-Fr 06:30-20:00; Sa 07:00-19:30"
-website: "https://www.lamiecaline.com/"
+street: Rue de Plélo
+housenumber: "2"
+phone: +33 2 99 31 54 88
+opening_hours: Mo-Fr 06:30-20:00; Sa 07:00-19:30
+website: https://www.lamiecaline.com/

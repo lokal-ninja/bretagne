@@ -1,6 +1,6 @@
 ---
 title: Rieux
 url: /rieux/
-latitude: 47.631
-longitude: -2.1
+latitude: 47.598
+longitude: -2.108
 ---

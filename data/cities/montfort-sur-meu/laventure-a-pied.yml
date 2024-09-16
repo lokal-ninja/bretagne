@@ -1,11 +1,11 @@
 id: 79278535
-type: way
+type: node
 latitude: 48.1382
 longitude: -1.95313
 postcode: "35160"
 city: Montfort-sur-Meu
-street: "Place Saint-Nicolas"
-housenumber: 5
-phone: "+33 2 99 09 00 25"
-opening_hours: "Tu-Sa 09:15-12:15,14:15-19:00"
+street: Place Saint-Nicolas
+housenumber: "5"
+phone: +33 2 99 09 00 25
+opening_hours: Tu-Sa 09:15-12:15,14:15-19:00
 website: ""

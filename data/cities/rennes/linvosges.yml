@@ -4,8 +4,8 @@ latitude: 48.11378
 longitude: -1.67884
 postcode: "35000"
 city: Rennes
-street: "Rue de Bertrand"
-housenumber: 5
-phone: "+33 2 99 38 45 69"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.linvosges.com/fr/nos-magasins/rennes/"
+street: Rue de Bertrand
+housenumber: "5"
+phone: +33 2 99 38 45 69
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.linvosges.com/fr/nos-magasins/rennes/

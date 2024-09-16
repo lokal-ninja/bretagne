@@ -1,11 +1,11 @@
 id: 63900808
-type: way
+type: node
 latitude: 48.13529
 longitude: -1.69408
 postcode: "35760"
 city: Saint-Grégoire
-street: "Rue de Saint-Malo"
-housenumber: 
+street: Rue de Saint-Malo
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

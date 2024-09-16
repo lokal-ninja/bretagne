@@ -4,8 +4,8 @@ latitude: 48.5589
 longitude: -3.1223
 postcode: "22200"
 city: Saint-Agathon
-street: "Rue du Stade"
-housenumber: 
+street: Rue du Stade
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 09:30-12:30, 14:00-19:00; Fr 09:30-13:00, 14:00-19:00; Sa 09:30-19:00"
-website: "https://guingamp.biocoop.net"
+opening_hours: Mo-Th 09:30-12:30, 14:00-19:00; Fr 09:30-13:00, 14:00-19:00; Sa 09:30-19:00
+website: https://guingamp.biocoop.net

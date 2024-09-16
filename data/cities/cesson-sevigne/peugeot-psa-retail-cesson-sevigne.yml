@@ -1,11 +1,11 @@
 id: 81791231
-type: way
+type: node
 latitude: 48.11357
 longitude: -1.62141
 postcode: "35517"
 city: Cesson-Sévigné
-street: "Rue de Rennes"
-housenumber: 51
+street: Rue de Rennes
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:30-12:30, 14:00-19:00"
-website: "https://concessions.peugeot.fr/rfarennes"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:30-12:30, 14:00-19:00
+website: https://concessions.peugeot.fr/rfarennes

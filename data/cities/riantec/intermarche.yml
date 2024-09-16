@@ -1,11 +1,11 @@
 id: 135685377
-type: way
+type: node
 latitude: 47.7189
 longitude: -3.33498
 postcode: "56670"
 city: Riantec
-street: "Belle Vue du Loch"
-housenumber: 
+street: Belle Vue du Loch
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

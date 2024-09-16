@@ -1,11 +1,11 @@
 id: 46810015
-type: way
+type: node
 latitude: 48.19128
 longitude: -1.72837
 postcode: "35520"
 city: La Mézière
-street: "Route de Saint-Malo"
-housenumber: 
-phone: "+33 2 99 66 56 26"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 10:00-12:00, 14:00-18:30; Sa 10:00-18:30"
-website: "https://magasins.turbofonte.com/rennes"
+street: Route de Saint-Malo
+housenumber: ""
+phone: +33 2 99 66 56 26
+opening_hours: Mo 14:00-18:30; Tu-Fr 10:00-12:00, 14:00-18:30; Sa 10:00-18:30
+website: https://magasins.turbofonte.com/rennes

@@ -1,11 +1,11 @@
 id: 225298408
-type: way
+type: node
 latitude: 48.15229
 longitude: -3.62819
 postcode: "56110"
 city: Gourin
-street: "Route de Spézet"
-housenumber: 
-phone: "+33 2 97 23 40 83"
-opening_hours: "Mo-Su 09:00-12:00,13:40-18:30"
-website: "https://www.artisanduvegetal-gourin.fr/"
+street: Route de Spézet
+housenumber: ""
+phone: +33 2 97 23 40 83
+opening_hours: Mo-Su 09:00-12:00,13:40-18:30
+website: https://www.artisanduvegetal-gourin.fr/

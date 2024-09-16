@@ -1,11 +1,11 @@
 id: 42524155
-type: way
+type: node
 latitude: 48.402
 longitude: -4.44697
 postcode: "29200"
 city: Brest
-street: "Route de Quimper"
-housenumber: 
+street: Route de Quimper
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:30-12:30"
+opening_hours: Mo-Sa 09:00-19:30; Su 09:30-12:30
 website: ""

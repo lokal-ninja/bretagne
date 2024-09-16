@@ -4,8 +4,8 @@ latitude: 48.10876
 longitude: -1.73142
 postcode: "35000"
 city: Rennes
-street: "Rue Léon Berthault"
-housenumber: 7
-phone: "+33 2 99 85 28 28"
+street: Rue Léon Berthault
+housenumber: "7"
+phone: +33 2 99 85 28 28
 opening_hours: ""
-website: "https://sodis-france.fr/"
+website: https://sodis-france.fr/

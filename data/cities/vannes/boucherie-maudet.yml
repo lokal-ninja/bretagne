@@ -4,8 +4,8 @@ latitude: 47.65805
 longitude: -2.7583
 postcode: "56000"
 city: Vannes
-street: "Rue Émile Burgault"
-housenumber: 7
+street: Rue Émile Burgault
+housenumber: "7"
 phone: "+33297475000"
-opening_hours: "Tu-Sa 07:45-13:00,15:00-19:30"
-website: "https://www.boucherie-maudet.fr/"
+opening_hours: Tu-Sa 07:45-13:00,15:00-19:30
+website: https://www.boucherie-maudet.fr/

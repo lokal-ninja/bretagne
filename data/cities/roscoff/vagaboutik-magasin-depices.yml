@@ -1,11 +1,11 @@
 id: 72074834
-type: way
+type: node
 latitude: 48.72538
 longitude: -3.98324
 postcode: "29680"
 city: Roscoff
-street: "Rue Gambetta"
-housenumber: 
+street: Rue Gambetta
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

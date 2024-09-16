@@ -4,8 +4,8 @@ latitude: 47.81823
 longitude: -2.80902
 postcode: "56390"
 city: Colpo
-street: "Avenue de la Princesse Baciocchi"
-housenumber: 31
-phone: "+33 2 97 61 52 65"
-opening_hours: "Mo,Sa 09:00-12:00,14:00-17:00; Tu-Fr 09:00-12:00,14:00-19:00"
-website: "http://www.institutideline.sitew.com"
+street: Avenue de la Princesse Baciocchi
+housenumber: "31"
+phone: +33 2 97 61 52 65
+opening_hours: Mo,Sa 09:00-12:00,14:00-17:00; Tu-Fr 09:00-12:00,14:00-19:00
+website: http://www.institutideline.sitew.com

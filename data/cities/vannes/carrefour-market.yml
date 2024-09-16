@@ -1,11 +1,11 @@
 id: 144829902
-type: way
+type: node
 latitude: 47.64311
 longitude: -2.74046
 postcode: "56000"
 city: Vannes
-street: "Avenue René de Kerviler"
-housenumber: 
-phone: "+33 2 97 01 95 22"
-opening_hours: "Mo-Sa 08:45-20:00; Su 08:45-12:30"
-website: "https://www.carrefour.fr/magasin/market-vannes-tohannic"
+street: Avenue René de Kerviler
+housenumber: ""
+phone: +33 2 97 01 95 22
+opening_hours: Mo-Sa 08:45-20:00; Su 08:45-12:30
+website: https://www.carrefour.fr/magasin/market-vannes-tohannic

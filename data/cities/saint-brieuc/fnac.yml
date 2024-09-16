@@ -4,8 +4,8 @@ latitude: 48.51168
 longitude: -2.75964
 postcode: "22000"
 city: Saint-Brieuc
-street: "Rue Sainte-Barbe"
-housenumber: 1
-phone: "+33 2 96 62 64 70"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-19:00"
-website: "https://www.fnac.com/Saint-Brieuc/Fnac-Saint-Brieuc/cl437/w-4"
+street: Rue Sainte-Barbe
+housenumber: "1"
+phone: +33 2 96 62 64 70
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-19:00
+website: https://www.fnac.com/Saint-Brieuc/Fnac-Saint-Brieuc/cl437/w-4

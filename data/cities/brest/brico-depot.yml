@@ -4,8 +4,8 @@ latitude: 48.38787
 longitude: -4.52515
 postcode: "29200"
 city: Brest
-street: "Boulevard de Plymouth"
-housenumber: 126
-phone: "+33 2 98 49 52 44"
-opening_hours: "Mo-Sa 07:00-19:30"
+street: Boulevard de Plymouth
+housenumber: "126"
+phone: +33 2 98 49 52 44
+opening_hours: Mo-Sa 07:00-19:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.10803
 longitude: -1.72715
 postcode: "35000"
 city: Rennes
-street: "Rue des Chevrons"
-housenumber: 2
-phone: "+33 2 85 29 24 80"
+street: Rue des Chevrons
+housenumber: "2"
+phone: +33 2 85 29 24 80
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

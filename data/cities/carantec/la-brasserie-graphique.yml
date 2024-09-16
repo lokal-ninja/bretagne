@@ -1,11 +1,11 @@
 id: 71753480
-type: way
+type: node
 latitude: 48.66707
 longitude: -3.91564
 postcode: "29660"
 city: Carantec
-street: "Rue Pasteur"
-housenumber: 22
-phone: "+33 298299256"
-opening_hours: "Th 10:00-12:30,15:00-19:00; Fr 15:00-19:00; Sa 09:45-12:30,15:00-19:00"
-website: "https://www.labrasseriegraphique.com/"
+street: Rue Pasteur
+housenumber: "22"
+phone: +33 298299256
+opening_hours: Th 10:00-12:30,15:00-19:00; Fr 15:00-19:00; Sa 09:45-12:30,15:00-19:00
+website: https://www.labrasseriegraphique.com/

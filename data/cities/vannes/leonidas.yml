@@ -4,8 +4,9 @@ latitude: 47.65611
 longitude: -2.75746
 postcode: "56000"
 city: Vannes
-street: "Place des Lices"
-housenumber: 17
-phone: "+33 2 97 43 06 93"
-opening_hours: "Tu 10:00-13:00,14:00-19:00; We 09:30-13:00,14:00-19:00; Th-Fr 10:00-13:00,14:00-19:00; Sa 09:30-13:00,14:00-19:00"
-website: "http://www.leonidas-vannes.fr"
+street: Place des Lices
+housenumber: "17"
+phone: +33 2 97 43 06 93
+opening_hours: Tu 10:00-13:00,14:00-19:00; We 09:30-13:00,14:00-19:00; Th-Fr 10:00-13:00,14:00-19:00;
+    Sa 09:30-13:00,14:00-19:00
+website: http://www.leonidas-vannes.fr

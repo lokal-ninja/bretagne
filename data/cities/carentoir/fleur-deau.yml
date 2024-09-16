@@ -1,11 +1,11 @@
 id: 251416973
-type: way
+type: node
 latitude: 47.81234
 longitude: -2.13053
 postcode: "56910"
 city: Carentoir
-street: "Rue de Bourienne"
-housenumber: 48
-phone: "+33 2 99 93 73 01"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-18:30; Su 09:30-12:30"
-website: "https://www.pompes-funebres-lagacilly.fr"
+street: Rue de Bourienne
+housenumber: "48"
+phone: +33 2 99 93 73 01
+opening_hours: Mo-Sa 09:30-12:30,14:00-18:30; Su 09:30-12:30
+website: https://www.pompes-funebres-lagacilly.fr

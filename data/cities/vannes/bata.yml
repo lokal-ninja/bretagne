@@ -4,8 +4,8 @@ latitude: 47.65914
 longitude: -2.79148
 postcode: "56000"
 city: Vannes
-street: "Avenue de la Marne"
-housenumber: 95
-phone: "+33 2 97 63 16 13"
+street: Avenue de la Marne
+housenumber: "95"
+phone: +33 2 97 63 16 13
 opening_hours: ""
-website: "https://www.bata.fr/"
+website: https://www.bata.fr/

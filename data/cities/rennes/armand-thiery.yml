@@ -4,8 +4,8 @@ latitude: 48.10686
 longitude: -1.68038
 postcode: "35000"
 city: Rennes
-street: "Rue Tronjolly"
-housenumber: 11
-phone: "+33 2 23 44 80 05"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.armandthiery.fr/"
+street: Rue Tronjolly
+housenumber: "11"
+phone: +33 2 23 44 80 05
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.armandthiery.fr/

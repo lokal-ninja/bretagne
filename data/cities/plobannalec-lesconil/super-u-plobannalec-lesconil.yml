@@ -1,11 +1,11 @@
 id: 594713115
-type: way
+type: node
 latitude: 47.81909
 longitude: -4.22902
 postcode: "29740"
 city: Plobannalec-Lesconil
-street: "Rue de Lesconil"
-housenumber: 
+street: Rue de Lesconil
+housenumber: ""
 phone: "+33298878990"
-opening_hours: "Mo-Sa 08:45-19:30; Su 08:45-12:30"
-website: "https://www.magasins-u.com/superu-plobannalec"
+opening_hours: Mo-Sa 08:45-19:30; Su 08:45-12:30
+website: https://www.magasins-u.com/superu-plobannalec

@@ -1,11 +1,11 @@
 id: 70874265
-type: way
+type: node
 latitude: 47.78403
 longitude: -3.34325
 postcode: "56850"
 city: Caudan
-street: "Rue Jean-Baptiste Martenot"
-housenumber: 562
-phone: "+33 2 97 05 39 48"
+street: Rue Jean-Baptiste Martenot
+housenumber: "562"
+phone: +33 2 97 05 39 48
 opening_hours: ""
-website: "https://www.rouxel.com/"
+website: https://www.rouxel.com/

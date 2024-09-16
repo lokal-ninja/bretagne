@@ -1,11 +1,11 @@
 id: 62769192
-type: way
+type: node
 latitude: 48.21681
 longitude: -1.50239
 postcode: "35340"
 city: Liffré
-street: "Rue La Fontaine"
-housenumber: 31
+street: Rue La Fontaine
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

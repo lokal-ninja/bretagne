@@ -4,8 +4,8 @@ latitude: 47.90258
 longitude: -4.2858
 postcode: "29720"
 city: Plonéour-Lanvern
-street: "Rue Guy Môquet"
-housenumber: 1
+street: Rue Guy Môquet
+housenumber: "1"
 phone: "+33298877709"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00; Su,PH 09:00-12:00"
-website: "https://www.etamines-fleuriste-ploneour-lanvern.fr"
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00; Su,PH 09:00-12:00
+website: https://www.etamines-fleuriste-ploneour-lanvern.fr

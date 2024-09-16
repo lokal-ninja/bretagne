@@ -1,11 +1,11 @@
 id: 46805274
-type: way
+type: node
 latitude: 48.18419
 longitude: -1.72373
 postcode: "35520"
 city: Melesse
-street: "Rue Besneraye"
-housenumber: 69
-phone: "+33 2 99 54 15 70"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-12:00, 14:00-19:00"
-website: "https://www.latelier-sur-mesure.fr"
+street: Rue Besneraye
+housenumber: "69"
+phone: +33 2 99 54 15 70
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-12:00, 14:00-19:00
+website: https://www.latelier-sur-mesure.fr

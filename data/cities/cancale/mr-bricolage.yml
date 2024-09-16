@@ -1,11 +1,11 @@
 id: 621784030
-type: way
+type: node
 latitude: 48.67891
 longitude: -1.86777
 postcode: "35260"
 city: Cancale
-street: "Rue de la Bretonnière"
-housenumber: 
+street: Rue de la Bretonnière
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

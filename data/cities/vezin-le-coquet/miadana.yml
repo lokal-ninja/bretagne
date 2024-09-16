@@ -4,8 +4,9 @@ latitude: 48.11796
 longitude: -1.75297
 postcode: "35132"
 city: Vezin-le-Coquet
-street: "Rue des Roses"
-housenumber: 5
+street: Rue des Roses
+housenumber: "5"
 phone: "+33678434973"
-opening_hours: "Mo 09:30-19:00; Tu 09:30-16:00; We 09:30-11:00; Th,Fr 11:00-19:00; Sa Sur Demande"
-website: "https://www.miadanamassage.com/"
+opening_hours: Mo 09:30-19:00; Tu 09:30-16:00; We 09:30-11:00; Th,Fr 11:00-19:00;
+    Sa "Sur Demande"
+website: https://www.miadanamassage.com/

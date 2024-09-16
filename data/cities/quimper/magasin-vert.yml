@@ -1,11 +1,11 @@
 id: 94311614
-type: way
+type: node
 latitude: 47.99635
 longitude: -4.07823
 postcode: "29000"
 city: Quimper
-street: "ZI de l'Hippodrome Ouest, 3 Avenue Saint-Denis"
-housenumber: 
+street: ZI de l'Hippodrome Ouest, 3 Avenue Saint-Denis
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-12:30, 14:00-19:00"
+opening_hours: Mo-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-12:30, 14:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 46805268
-type: way
+type: node
 latitude: 48.18289
 longitude: -1.72298
 postcode: "35520"
 city: Melesse
-street: "Route du Meuble"
-housenumber: 56
-phone: "+33 2 99 66 40 00"
-opening_hours: "Mo-Sa 09:30-12:30, 14:00-19:00"
-website: "https://rennes-melesse.arthur-bonnet.com/"
+street: Route du Meuble
+housenumber: "56"
+phone: +33 2 99 66 40 00
+opening_hours: Mo-Sa 09:30-12:30, 14:00-19:00
+website: https://rennes-melesse.arthur-bonnet.com/

@@ -4,8 +4,8 @@ latitude: 48.10088
 longitude: -1.65888
 postcode: "35000"
 city: Rennes
-street: "Rue de Vern"
-housenumber: 15
-phone: "+33 7 81 11 37 70"
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.salonle15c.fr/"
+street: Rue de Vern
+housenumber: "15"
+phone: +33 7 81 11 37 70
+opening_hours: Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-17:00
+website: https://www.salonle15c.fr/

@@ -1,11 +1,11 @@
 id: 133021170
-type: way
+type: node
 latitude: 48.30593
 longitude: -3.95452
 postcode: "29190"
 city: Brasparts
-street: "Rue Saint-Michel"
-housenumber: 71
+street: Rue Saint-Michel
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

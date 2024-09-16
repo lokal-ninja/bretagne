@@ -4,8 +4,8 @@ latitude: 48.10392
 longitude: -1.70965
 postcode: "35000"
 city: Rennes
-street: "Rue Eugène Pottier"
-housenumber: 110
+street: Rue Eugène Pottier
+housenumber: "110"
 phone: "+33299675359"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-19:00"
-website: "https://www.routedugolf.com/"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-19:00
+website: https://www.routedugolf.com/

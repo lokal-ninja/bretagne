@@ -1,11 +1,11 @@
 id: 67995894
-type: way
+type: node
 latitude: 48.60128
 longitude: -2.82643
 postcode: "22520"
 city: Binic
-street: "Quai de Courcy"
-housenumber: 
+street: Quai de Courcy
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

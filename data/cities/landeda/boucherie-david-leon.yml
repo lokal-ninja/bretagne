@@ -4,8 +4,9 @@ latitude: 48.58716
 longitude: -4.5731
 postcode: "29870"
 city: Landéda
-street: "Place de l'Europe"
-housenumber: 14
-phone: "+33 2 98 04 93 26"
-opening_hours: "Tu,We,Th 08:30-12:15; Fr,Sa 08:30-12:15,15:00-17:00 Horaires adaptés Coronavirus/Covid19; Su closed"
-website: "https://www.facebook.com/Boucheriedavidleon/"
+street: Place de l'Europe
+housenumber: "14"
+phone: +33 2 98 04 93 26
+opening_hours: Tu,We,Th 08:30-12:15; Fr,Sa 08:30-12:15,15:00-17:00 "Horaires adaptés
+    Coronavirus/Covid19"; Su closed
+website: https://www.facebook.com/Boucheriedavidleon/

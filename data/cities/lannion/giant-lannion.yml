@@ -1,11 +1,11 @@
 id: 117270785
-type: way
+type: node
 latitude: 48.73594
 longitude: -3.44339
 postcode: "22300"
 city: Lannion
-street: "Boulevard La Fayette"
-housenumber: 7
-phone: "+33 2 96 37 43 31"
+street: Boulevard La Fayette
+housenumber: "7"
+phone: +33 2 96 37 43 31
 opening_hours: ""
-website: "https://www.giant-lannion.fr/bike-index/"
+website: https://www.giant-lannion.fr/bike-index/

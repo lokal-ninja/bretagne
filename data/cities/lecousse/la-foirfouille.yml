@@ -1,11 +1,11 @@
 id: 111381695
-type: way
+type: node
 latitude: 48.3528
 longitude: -1.22588
 postcode: "35133"
 city: Lécousse
-street: "Boulevard de Bliche"
-housenumber: 84
-phone: "+33 2 99 99 87 91"
-opening_hours: "Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00"
-website: "https://www.lafoirfouille.fr/"
+street: Boulevard de Bliche
+housenumber: "84"
+phone: +33 2 99 99 87 91
+opening_hours: Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00
+website: https://www.lafoirfouille.fr/

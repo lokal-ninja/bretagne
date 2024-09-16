@@ -1,11 +1,11 @@
 id: 334489136
-type: way
+type: node
 latitude: 48.1323
 longitude: -1.68926
 postcode: "35000"
 city: Rennes
-street: "Rue René Collin"
-housenumber: 6
-phone: "+33 2 99 33 57 24"
-opening_hours: "Mo-Fr 10:00-19:30; Sa 09:30-19:30"
+street: Rue René Collin
+housenumber: "6"
+phone: +33 2 99 33 57 24
+opening_hours: Mo-Fr 10:00-19:30; Sa 09:30-19:30
 website: ""

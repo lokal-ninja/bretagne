@@ -1,11 +1,11 @@
 id: 83313517
-type: way
+type: node
 latitude: 47.95802
 longitude: -1.49096
 postcode: "35150"
 city: Janzé
-street: "Rue Paul Painlevé"
-housenumber: 53
-phone: "+33 2 99 47 04 35"
-opening_hours: "Tu-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-12:00, 13:30-16:30"
-website: "https://reseau.citroen.fr/reparateur-janze"
+street: Rue Paul Painlevé
+housenumber: "53"
+phone: +33 2 99 47 04 35
+opening_hours: Tu-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-12:00, 13:30-16:30
+website: https://reseau.citroen.fr/reparateur-janze

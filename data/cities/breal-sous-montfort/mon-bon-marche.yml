@@ -4,8 +4,8 @@ latitude: 48.05501
 longitude: -1.86984
 postcode: "35310"
 city: Bréal-sous-Montfort
-street: "Rue des Artisans"
-housenumber: 2
+street: Rue des Artisans
+housenumber: "2"
 phone: "+33299146069"
-opening_hours: "Tu-Sa 09:00-13:00, 14:30-19:30; Su 09:00-12:30"
-website: "https://www.monbonmarche.bzh/"
+opening_hours: Tu-Sa 09:00-13:00, 14:30-19:30; Su 09:00-12:30
+website: https://www.monbonmarche.bzh/

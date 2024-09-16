@@ -1,11 +1,11 @@
 id: 81979819
-type: way
+type: node
 latitude: 48.18655
 longitude: -1.63142
 postcode: "35830"
 city: Betton
-street: "Rue de la Forge"
-housenumber: 6
-phone: "+33 2 99 55 82 13"
+street: Rue de la Forge
+housenumber: "6"
+phone: +33 2 99 55 82 13
 opening_hours: ""
-website: "https://www.garage-carrosserie-betton-beaudouin.com/"
+website: https://www.garage-carrosserie-betton-beaudouin.com/

@@ -4,8 +4,8 @@ latitude: 48.13323
 longitude: -1.68417
 postcode: "35000"
 city: Rennes
-street: "Rue de la Chaussée"
-housenumber: 5
-phone: "+33 2 99 38 28 72"
-opening_hours: "Mo-Fr 09:30-13:30, 15:00-19:00; Sa 09:30-19:00"
-website: "https://daybyday-shop.com/magasin/grand-marche-vrac/"
+street: Rue de la Chaussée
+housenumber: "5"
+phone: +33 2 99 38 28 72
+opening_hours: Mo-Fr 09:30-13:30, 15:00-19:00; Sa 09:30-19:00
+website: https://daybyday-shop.com/magasin/grand-marche-vrac/

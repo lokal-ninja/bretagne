@@ -1,11 +1,11 @@
 id: 147069323
-type: way
+type: node
 latitude: 47.6358
 longitude: -2.35413
 postcode: "56220"
 city: Limerzel
-street: "Place de l'Église"
-housenumber: 5
-phone: "+33 2 97 66 27 08"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-18:00"
+street: Place de l'Église
+housenumber: "5"
+phone: +33 2 97 66 27 08
+opening_hours: Mo-Sa 09:00-12:30,14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1272660338
-type: way
+type: node
 latitude: 47.88962
 longitude: -3.91547
 postcode: "29900"
 city: Concarneau
-street: "Rue René Madec"
-housenumber: 3
+street: Rue René Madec
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:15,14:00-19:00; Sa 09:30-12:30,14:00-19:00"
+opening_hours: Mo-Fr 09:30-12:15,14:00-19:00; Sa 09:30-12:30,14:00-19:00
 website: ""

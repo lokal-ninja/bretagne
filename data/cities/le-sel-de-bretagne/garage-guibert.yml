@@ -1,11 +1,11 @@
 id: 83474395
-type: way
+type: node
 latitude: 47.89536
 longitude: -1.60934
 postcode: "35320"
 city: Le Sel-de-Bretagne
-street: "Rue Chateaubriand"
-housenumber: 4
-phone: "+33 2 99 44 66 14"
+street: Rue Chateaubriand
+housenumber: "4"
+phone: +33 2 99 44 66 14
 opening_hours: ""
 website: ""

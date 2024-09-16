@@ -4,8 +4,8 @@ latitude: 47.86979
 longitude: -3.59064
 postcode: "29300"
 city: Mellac
-street: "Rue Albert Schweitzer"
-housenumber: 14
-phone: "+33 2 98 39 88 72"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "http://mapausebeaute.com/quimperle"
+street: Rue Albert Schweitzer
+housenumber: "14"
+phone: +33 2 98 39 88 72
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: http://mapausebeaute.com/quimperle

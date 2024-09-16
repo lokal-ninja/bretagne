@@ -4,8 +4,8 @@ latitude: 48.38468
 longitude: -4.49324
 postcode: "29200"
 city: Brest
-street: "Rue de Siam"
-housenumber: 9
-phone: "+33 298022611"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.geronimolagadec.fr/index.php"
+street: Rue de Siam
+housenumber: "9"
+phone: +33 298022611
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.geronimolagadec.fr/index.php

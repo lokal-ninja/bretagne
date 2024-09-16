@@ -1,11 +1,11 @@
 id: 427772036
-type: way
+type: node
 latitude: 47.97424
 longitude: -1.81126
 postcode: "35580"
 city: Guichen
-street: "Rue Madeleine Brès"
-housenumber: 2
+street: Rue Madeleine Brès
+housenumber: "2"
 phone: "+33299011616"
 opening_hours: ""
-website: "https://agents.peugeot.fr/guichen"
+website: https://agents.peugeot.fr/guichen

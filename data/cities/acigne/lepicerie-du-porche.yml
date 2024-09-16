@@ -4,8 +4,8 @@ latitude: 48.13309
 longitude: -1.53382
 postcode: "35690"
 city: Acigné
-street: "Place de la Mairie"
-housenumber: 11
-phone: "+33 2 99 62 61 04"
-opening_hours: "Tu-Sa 09:00-13:00,15:00-19:30; Su 09:00-12:00"
-website: "https://www.lepicerieduporche.fr/"
+street: Place de la Mairie
+housenumber: "11"
+phone: +33 2 99 62 61 04
+opening_hours: Tu-Sa 09:00-13:00,15:00-19:30; Su 09:00-12:00
+website: https://www.lepicerieduporche.fr/

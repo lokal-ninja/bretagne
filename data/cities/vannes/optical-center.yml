@@ -1,11 +1,11 @@
 id: 1060526652
-type: way
+type: node
 latitude: 47.66877
 longitude: -2.78997
 postcode: "56000"
 city: Vannes
-street: "Rue Jacques Rueff"
-housenumber: 16
-phone: "+33 2 97 62 66 66"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.optical-center.fr/"
+street: Rue Jacques Rueff
+housenumber: "16"
+phone: +33 2 97 62 66 66
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.optical-center.fr/

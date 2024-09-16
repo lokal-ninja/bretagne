@@ -1,11 +1,11 @@
 id: 474001548
-type: way
+type: node
 latitude: 48.56131
 longitude: -3.15119
 postcode: "22200"
 city: Guingamp
-street: "Rue Notre-Dame"
-housenumber: 8
-phone: "+33 2 96 21 20 43"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-19:00"
-website: "https://www.leonidas.com/en/shops/guingamp/le-palais-du-chocolat"
+street: Rue Notre-Dame
+housenumber: "8"
+phone: +33 2 96 21 20 43
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-19:00
+website: https://www.leonidas.com/en/shops/guingamp/le-palais-du-chocolat

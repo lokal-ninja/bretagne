@@ -5,7 +5,7 @@ longitude: -1.51547
 postcode: "35410"
 city: Châteaugiron
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33223275841"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-19:30"
-website: "https://www.districenter.fr/nos-magasins/chateaugiron.html"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-19:30
+website: https://www.districenter.fr/nos-magasins/chateaugiron.html

@@ -1,11 +1,11 @@
 id: 71750926
-type: way
+type: node
 latitude: 48.66811
 longitude: -3.91487
 postcode: "29660"
 city: Carantec
-street: "Rue Pasteur"
-housenumber: 7
-phone: "+33 298670172"
-opening_hours: "Mo 15:00-19:00; Tu-Fr 09:00-13:00,15:00-19:00; Sa,Su 08:30-19:00"
+street: Rue Pasteur
+housenumber: "7"
+phone: +33 298670172
+opening_hours: Mo 15:00-19:00; Tu-Fr 09:00-13:00,15:00-19:00; Sa,Su 08:30-19:00
 website: ""

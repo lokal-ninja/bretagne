@@ -4,8 +4,8 @@ latitude: 48.09736
 longitude: -1.69765
 postcode: "35000"
 city: Rennes
-street: "Place Jeanne Laurent"
-housenumber: 17
-phone: "+33 2 99 54 57 99"
-opening_hours: "Mo 10:00-18:00; Tu-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.slow-concept-rennes.fr/"
+street: Place Jeanne Laurent
+housenumber: "17"
+phone: +33 2 99 54 57 99
+opening_hours: Mo 10:00-18:00; Tu-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.slow-concept-rennes.fr/

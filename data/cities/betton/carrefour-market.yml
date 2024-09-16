@@ -1,11 +1,11 @@
 id: 81981027
-type: way
+type: node
 latitude: 48.18249
 longitude: -1.63842
 postcode: "35830"
 city: Betton
-street: "Avenue Mozart"
-housenumber: 
-phone: "+33 2 99 55 75 68"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-19:30"
-website: "https://www.carrefour.fr/magasin/market-betton"
+street: Avenue Mozart
+housenumber: ""
+phone: +33 2 99 55 75 68
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-19:30
+website: https://www.carrefour.fr/magasin/market-betton

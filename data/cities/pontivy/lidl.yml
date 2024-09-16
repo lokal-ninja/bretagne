@@ -1,11 +1,11 @@
 id: 1212698088
-type: way
+type: node
 latitude: 48.05594
 longitude: -2.95156
 postcode: "56300"
 city: Pontivy
-street: "Avenue des Cités Unies"
-housenumber: 
+street: Avenue des Cités Unies
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.11155
 longitude: -1.68126
 postcode: "35000"
 city: Rennes
-street: "Rue de Montfort"
-housenumber: 6
-phone: "+33 6 59 97 22 05"
-opening_hours: "Tu-Fr 10:30-19:00; Sa 14:00-19:00"
-website: "https://laboîtedepandore.com/"
+street: Rue de Montfort
+housenumber: "6"
+phone: +33 6 59 97 22 05
+opening_hours: Tu-Fr 10:30-19:00; Sa 14:00-19:00
+website: https://laboîtedepandore.com/

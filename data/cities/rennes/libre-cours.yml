@@ -4,8 +4,8 @@ latitude: 48.12926
 longitude: -1.699
 postcode: "35000"
 city: Rennes
-street: "Place Eugène Aulnette"
-housenumber: 3
-phone: "+33 2 99 33 92 67"
+street: Place Eugène Aulnette
+housenumber: "3"
+phone: +33 2 99 33 92 67
 opening_hours: ""
-website: "https://www.salon-librecours.com/"
+website: https://www.salon-librecours.com/

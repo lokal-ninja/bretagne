@@ -4,8 +4,8 @@ latitude: 48.13832
 longitude: -1.95305
 postcode: "35160"
 city: Montfort-sur-Meu
-street: "Rue Saint-Nicolas"
-housenumber: 23
-phone: "+33 6 10 78 87 38"
-opening_hours: "Tu-Fr 10:00-13:00, 15:00-19:00; Sa 10:00-12:30, 14:00-18:30"
+street: Rue Saint-Nicolas
+housenumber: "23"
+phone: +33 6 10 78 87 38
+opening_hours: Tu-Fr 10:00-13:00, 15:00-19:00; Sa 10:00-12:30, 14:00-18:30
 website: ""

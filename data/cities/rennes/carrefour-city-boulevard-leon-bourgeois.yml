@@ -4,8 +4,8 @@ latitude: 48.09927
 longitude: -1.65331
 postcode: "35000"
 city: Rennes
-street: "Boulevard Léon Bourgeois"
-housenumber: 25
-phone: "+33 2 99 50 97 67"
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-21:00"
-website: "https://www.carrefour.fr/"
+street: Boulevard Léon Bourgeois
+housenumber: "25"
+phone: +33 2 99 50 97 67
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-21:00
+website: https://www.carrefour.fr/

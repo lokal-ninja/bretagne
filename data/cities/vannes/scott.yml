@@ -4,8 +4,8 @@ latitude: 47.65915
 longitude: -2.79166
 postcode: "56000"
 city: Vannes
-street: "Avenue de la Marne"
-housenumber: 95
-phone: "+33 2 97 40 47 44"
+street: Avenue de la Marne
+housenumber: "95"
+phone: +33 2 97 40 47 44
 opening_hours: ""
-website: "https://www.scott-premium.fr/"
+website: https://www.scott-premium.fr/

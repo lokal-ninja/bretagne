@@ -1,11 +1,11 @@
 id: 94490739
-type: way
+type: node
 latitude: 48.48955
 longitude: -2.79384
 postcode: "22440"
 city: Ploufragan
-street: "Rue de la Mairie"
-housenumber: 12
+street: Rue de la Mairie
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 42535293
-type: way
+type: node
 latitude: 48.40391
 longitude: -4.47101
 postcode: "29200"
 city: Brest
-street: "Rue Professeur Chrétien"
-housenumber: 
+street: Rue Professeur Chrétien
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

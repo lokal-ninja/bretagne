@@ -1,11 +1,11 @@
 id: 65451151
-type: way
+type: node
 latitude: 48.06147
 longitude: -1.61474
 postcode: "35770"
 city: Vern-sur-Seiche
-street: "Rue du Champ Martin"
-housenumber: 5
+street: Rue du Champ Martin
+housenumber: "5"
 phone: "+33223270605"
 opening_hours: ""
-website: "https://www.profilplus.fr/agence/109-vern-sur-seiche"
+website: https://www.profilplus.fr/agence/109-vern-sur-seiche

@@ -1,11 +1,11 @@
 id: 42576256
-type: way
+type: node
 latitude: 48.42466
 longitude: -4.46619
 postcode: "29200"
 city: Brest
-street: "Rue François Lettré"
-housenumber: 48
-phone: "+33 2 98 02 12 03"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://magasins.picard.fr/420-picard-kergaradec"
+street: Rue François Lettré
+housenumber: "48"
+phone: +33 2 98 02 12 03
+opening_hours: Mo-Sa 09:00-19:30
+website: https://magasins.picard.fr/420-picard-kergaradec

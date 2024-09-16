@@ -1,11 +1,11 @@
 id: 280504606
-type: way
+type: node
 latitude: 47.91125
 longitude: -2.46636
 postcode: "56800"
 city: Guillac
-street: "Rue Beaumanoir"
-housenumber: 6
+street: Rue Beaumanoir
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Su 07:00-13:00,15:30-19:30; Su 07:00-13:00"
+opening_hours: Tu-Su 07:00-13:00,15:30-19:30; Su 07:00-13:00
 website: ""

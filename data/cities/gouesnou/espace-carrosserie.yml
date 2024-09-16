@@ -1,11 +1,11 @@
 id: 42585569
-type: way
+type: node
 latitude: 48.42788
 longitude: -4.45852
 postcode: "29850"
 city: Gouesnou
-street: "Rue Rosemonde Gérard"
-housenumber: 14
-phone: "+33 2 98 30 35 94"
+street: Rue Rosemonde Gérard
+housenumber: "14"
+phone: +33 2 98 30 35 94
 opening_hours: ""
-website: "https://www.facebook.com/pages/Espace-carrosserie/697271856996767"
+website: https://www.facebook.com/pages/Espace-carrosserie/697271856996767

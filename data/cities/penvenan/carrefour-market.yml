@@ -1,11 +1,11 @@
 id: 77818570
-type: way
+type: node
 latitude: 48.80948
 longitude: -3.29852
 postcode: "22710"
 city: Penvénan
-street: "Rue de Lannion"
-housenumber: 31
-phone: "+33 2 96 92 64 14"
-opening_hours: "Mo-Sa 08:45-19:45; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-penvenan"
+street: Rue de Lannion
+housenumber: "31"
+phone: +33 2 96 92 64 14
+opening_hours: Mo-Sa 08:45-19:45; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-penvenan

@@ -1,11 +1,11 @@
 id: 71750181
-type: way
+type: node
 latitude: 48.66915
 longitude: -3.91525
 postcode: "29660"
 city: Carantec
-street: "Place de la République"
-housenumber: 1
-phone: "+33 672734305"
-opening_hours: "Tu-Sa 10:00-12:30,14:30-19:00; Su 10:00-12:30,15:00-19:00"
-website: "https://difference-carantec.fr/"
+street: Place de la République
+housenumber: "1"
+phone: +33 672734305
+opening_hours: Tu-Sa 10:00-12:30,14:30-19:00; Su 10:00-12:30,15:00-19:00
+website: https://difference-carantec.fr/

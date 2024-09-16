@@ -4,8 +4,8 @@ latitude: 48.11251
 longitude: -1.67595
 postcode: "35000"
 city: Rennes
-street: "Rue Victor Hugo"
-housenumber: 13
-phone: "+33 2 99 38 07 83"
-opening_hours: "Mo 15:00-19:30; Tu-Sa 10:00-19:30"
-website: "https://www.canalbd.net/librairie-m-enfin"
+street: Rue Victor Hugo
+housenumber: "13"
+phone: +33 2 99 38 07 83
+opening_hours: Mo 15:00-19:30; Tu-Sa 10:00-19:30
+website: https://www.canalbd.net/librairie-m-enfin

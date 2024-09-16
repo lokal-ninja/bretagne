@@ -1,11 +1,11 @@
 id: 71058130
-type: way
+type: node
 latitude: 47.77837
 longitude: -3.34669
 postcode: "56600"
 city: Lanester
-street: "Rue Rouget de Lisle"
-housenumber: 
+street: Rue Rouget de Lisle
+housenumber: ""
 phone: "+33297812781"
-opening_hours: "Mo-Fr 10:00-12:30, 14:00-19:00; Sa 10:00-19:00"
-website: "https://www.fabriquedestyles.com/magasins/Lanester"
+opening_hours: Mo-Fr 10:00-12:30, 14:00-19:00; Sa 10:00-19:00
+website: https://www.fabriquedestyles.com/magasins/Lanester

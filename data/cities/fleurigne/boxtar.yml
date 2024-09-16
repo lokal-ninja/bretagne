@@ -1,11 +1,11 @@
 id: 94251209
-type: way
+type: node
 latitude: 48.33673
 longitude: -1.13067
 postcode: "35133"
 city: Fleurigné
-street: "Route Nationale"
-housenumber: 4
+street: Route Nationale
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

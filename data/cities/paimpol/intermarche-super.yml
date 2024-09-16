@@ -1,11 +1,11 @@
 id: 194163357
-type: way
+type: node
 latitude: 48.77689
 longitude: -3.04865
 postcode: ""
 city: Paimpol
-street: "Avenue du Général de Gaulle"
-housenumber: 56
+street: Avenue du Général de Gaulle
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

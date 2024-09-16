@@ -1,11 +1,11 @@
 id: 208395743
-type: way
+type: node
 latitude: 47.83421
 longitude: -3.16155
 postcode: "56440"
 city: Languidic
-street: "Rue de la Mairie"
-housenumber: 18
+street: Rue de la Mairie
+housenumber: "18"
 phone: "0297658146"
-opening_hours: "Fr-We 06:00-20:00"
+opening_hours: Fr-We 06:00-20:00
 website: ""

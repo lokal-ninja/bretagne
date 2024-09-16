@@ -1,11 +1,11 @@
 id: 80301962
-type: way
+type: node
 latitude: 48.10623
 longitude: -1.7327
 postcode: "35000"
 city: Rennes
-street: "Rue Lieutenant-Colonel Dubois"
-housenumber: 2
-phone: "+33 2 99 14 69 23"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.retif.eu/nos-magasins/agencement-magasin-rennes.html"
+street: Rue Lieutenant-Colonel Dubois
+housenumber: "2"
+phone: +33 2 99 14 69 23
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.retif.eu/nos-magasins/agencement-magasin-rennes.html

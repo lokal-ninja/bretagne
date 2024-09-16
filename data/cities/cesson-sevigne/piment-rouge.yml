@@ -1,11 +1,11 @@
 id: 81789036
-type: way
+type: node
 latitude: 48.11431
 longitude: -1.58887
 postcode: "35510"
 city: Cesson-Sévigné
-street: "Rue de la Rigourdière"
-housenumber: 16
-phone: "+33 2 99 83 75 00"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.piment-rouge-rennes.fr/"
+street: Rue de la Rigourdière
+housenumber: "16"
+phone: +33 2 99 83 75 00
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.piment-rouge-rennes.fr/

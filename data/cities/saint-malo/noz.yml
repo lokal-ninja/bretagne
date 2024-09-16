@@ -1,11 +1,11 @@
 id: 94681672
-type: way
+type: node
 latitude: 48.63717
 longitude: -1.99225
 postcode: "35400"
 city: Saint-Malo
-street: "CC La Découverte"
-housenumber: 
+street: CC La Découverte
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/saint-malo/"
+website: https://nozarrivages.com/magasin/saint-malo/

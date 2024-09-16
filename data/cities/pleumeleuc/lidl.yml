@@ -1,11 +1,11 @@
 id: 102701210
-type: way
+type: node
 latitude: 48.17608
 longitude: -1.92021
 postcode: "35137"
 city: Pleumeleuc
-street: "Rue Galilée"
-housenumber: 8
+street: Rue Galilée
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

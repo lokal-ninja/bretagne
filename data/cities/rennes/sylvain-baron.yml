@@ -4,8 +4,9 @@ latitude: 48.09114
 longitude: -1.66533
 postcode: "35200"
 city: Rennes
-street: "Boulevard Oscar Leroux"
-housenumber: 34
-phone: "+33 2 99 50 80 04"
-opening_hours: "Mo 08:00-13:00,15:00-19:30; Tu-Fr 07:45-13:00,15:00-19:30; We 07:45-13:00; Sa 07:45-13:00,15:00-18:30"
+street: Boulevard Oscar Leroux
+housenumber: "34"
+phone: +33 2 99 50 80 04
+opening_hours: Mo 08:00-13:00,15:00-19:30; Tu-Fr 07:45-13:00,15:00-19:30; We 07:45-13:00;
+    Sa 07:45-13:00,15:00-18:30
 website: ""

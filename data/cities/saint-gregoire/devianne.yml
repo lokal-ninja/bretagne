@@ -1,11 +1,11 @@
 id: 63900009
-type: way
+type: node
 latitude: 48.13402
 longitude: -1.69209
 postcode: "35760"
 city: Saint-Grégoire
-street: "Zac Auge de Pierre"
-housenumber: 
-phone: "+33 2 99 14 31 26"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.devianne.com/magasins/rennes/"
+street: Zac Auge de Pierre
+housenumber: ""
+phone: +33 2 99 14 31 26
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.devianne.com/magasins/rennes/

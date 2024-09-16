@@ -4,8 +4,8 @@ latitude: 47.6581
 longitude: -2.75579
 postcode: "56000"
 city: Vannes
-street: "Rue des Vierges"
-housenumber: 21
+street: Rue des Vierges
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 14:00-19:00, Tu-Fr 10:00-12:30, Sa 09:30-12:30,14:00-19:30"
+opening_hours: Mo-Fr 14:00-19:00, Tu-Fr 10:00-12:30, Sa 09:30-12:30,14:00-19:30
 website: ""

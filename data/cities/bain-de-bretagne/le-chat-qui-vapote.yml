@@ -4,8 +4,9 @@ latitude: 47.84124
 longitude: -1.67985
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue Cafarelli"
-housenumber: 4
-phone: "+33 2 99 43 88 73"
-opening_hours: "Mo 10:00-12:30, 14:00-19:00; Tu-Th 09:00-12:30, 14:00-19:00; Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.lechatquivapote.com/"
+street: Rue Cafarelli
+housenumber: "4"
+phone: +33 2 99 43 88 73
+opening_hours: Mo 10:00-12:30, 14:00-19:00; Tu-Th 09:00-12:30, 14:00-19:00; Fr 09:00-19:00;
+    Sa 09:00-18:00
+website: https://www.lechatquivapote.com/

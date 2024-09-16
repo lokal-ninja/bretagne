@@ -1,11 +1,11 @@
 id: 169174441
-type: way
+type: node
 latitude: 47.73124
 longitude: -3.32004
 postcode: "56570"
 city: Locmiquélic
 street: ""
-housenumber: 
-phone: "+33 2 97 33 49 66"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:30; Sa 09:00-12:00, 14:00-17:00"
+housenumber: ""
+phone: +33 2 97 33 49 66
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:30; Sa 09:00-12:00, 14:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.11331
 longitude: -1.67945
 postcode: "35000"
 city: Rennes
-street: "Rue le Bastard"
-housenumber: 13
+street: Rue le Bastard
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-19:30"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-19:30
 website: ""

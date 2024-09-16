@@ -1,11 +1,11 @@
 id: 96483739
-type: way
+type: node
 latitude: 48.07678
 longitude: -1.72812
 postcode: "35136"
 city: Saint-Jacques-de-la-Lande
-street: "Avenue de Bellevue"
-housenumber: 24
-phone: "+33 2 99 60 57 41"
+street: Avenue de Bellevue
+housenumber: "24"
+phone: +33 2 99 60 57 41
 opening_hours: ""
-website: "https://www.3dchapiteaux.com/"
+website: https://www.3dchapiteaux.com/

@@ -4,8 +4,8 @@ latitude: 48.11207
 longitude: -1.61074
 postcode: "35510"
 city: Cesson-Sévigné
-street: "Avenue des Peupliers"
-housenumber: 25
-phone: "+33 2 99 83 46 00"
-opening_hours: "Mo-Fr 09:00-12:00, 13:30-18:00; Sa 10:00-12:00, 14:00-17:00"
-website: "https://www.mack-kayak.com/"
+street: Avenue des Peupliers
+housenumber: "25"
+phone: +33 2 99 83 46 00
+opening_hours: Mo-Fr 09:00-12:00, 13:30-18:00; Sa 10:00-12:00, 14:00-17:00
+website: https://www.mack-kayak.com/

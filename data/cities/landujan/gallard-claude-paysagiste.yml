@@ -1,11 +1,11 @@
 id: 98359442
-type: way
+type: node
 latitude: 48.23883
 longitude: -2.01081
 postcode: "35360"
 city: Landujan
-street: "le haut hirel"
-housenumber: 34
-phone: "+33 2 99 07 33 90"
+street: le haut hirel
+housenumber: "34"
+phone: +33 2 99 07 33 90
 opening_hours: ""
 website: ""

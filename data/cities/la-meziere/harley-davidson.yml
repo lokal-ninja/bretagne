@@ -4,8 +4,8 @@ latitude: 48.20136
 longitude: -1.73248
 postcode: "35520"
 city: La Mézière
-street: "Allée de Betton"
-housenumber: 11
-phone: "+33 2 99 14 99 99"
-opening_hours: "Tu-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-12:00, 14:00-18:00"
-website: "https://www.harley-davidson-rennes.com/"
+street: Allée de Betton
+housenumber: "11"
+phone: +33 2 99 14 99 99
+opening_hours: Tu-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-12:00, 14:00-18:00
+website: https://www.harley-davidson-rennes.com/

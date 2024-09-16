@@ -4,8 +4,8 @@ latitude: 48.11029
 longitude: -1.67852
 postcode: "35000"
 city: Rennes
-street: "Quai Lamartine"
-housenumber: 15
-phone: "+33 2 99 79 06 50"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://fr.oska.com/"
+street: Quai Lamartine
+housenumber: "15"
+phone: +33 2 99 79 06 50
+opening_hours: Tu-Sa 10:00-19:00
+website: https://fr.oska.com/

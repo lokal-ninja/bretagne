@@ -1,11 +1,11 @@
 id: 46805281
-type: way
+type: node
 latitude: 48.18307
 longitude: -1.72362
 postcode: "35520"
 city: Melesse
-street: "Rue Besneraye"
-housenumber: 62
+street: Rue Besneraye
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:30, 14:00-18:30"
-website: "https://www.flammesdumonde.com/magasins/flammes-du-monde-rennes/"
+opening_hours: Mo-Sa 10:00-12:30, 14:00-18:30
+website: https://www.flammesdumonde.com/magasins/flammes-du-monde-rennes/

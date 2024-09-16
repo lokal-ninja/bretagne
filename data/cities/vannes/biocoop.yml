@@ -1,11 +1,11 @@
 id: 145199271
-type: way
+type: node
 latitude: 47.65885
 longitude: -2.75881
 postcode: "56000"
 city: Vannes
-street: "Rue Joseph Le Brix"
-housenumber: 6
-phone: "+33 2 97 69 04 56"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.biogolfe-biocoop.fr/"
+street: Rue Joseph Le Brix
+housenumber: "6"
+phone: +33 2 97 69 04 56
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.biogolfe-biocoop.fr/

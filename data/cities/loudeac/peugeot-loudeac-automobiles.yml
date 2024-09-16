@@ -1,11 +1,11 @@
 id: 311433767
-type: way
+type: node
 latitude: 48.16648
 longitude: -2.7504
 postcode: "22600"
 city: Loudéac
-street: "Rue du Bourgeon"
-housenumber: 10
+street: Rue du Bourgeon
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

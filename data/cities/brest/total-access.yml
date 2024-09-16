@@ -1,11 +1,11 @@
 id: 492141026
-type: way
+type: node
 latitude: 48.41301
 longitude: -4.48946
 postcode: "29200"
 city: Brest
-street: "Boulevard de l'Europe"
-housenumber: 
-phone: "+33 2 98 03 17 29"
-opening_hours: "24/7"
+street: Boulevard de l'Europe
+housenumber: ""
+phone: +33 2 98 03 17 29
+opening_hours: 24/7
 website: ""

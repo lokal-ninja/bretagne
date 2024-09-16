@@ -1,11 +1,11 @@
 id: 99262799
-type: way
+type: node
 latitude: 47.89269
 longitude: -3.91584
 postcode: "29185"
 city: Concarneau
-street: "Rue Lucien Vidie"
-housenumber: 
+street: Rue Lucien Vidie
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/concarneau/"
+website: https://www.nozarrivages.com/magasin/concarneau/

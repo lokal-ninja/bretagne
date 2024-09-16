@@ -1,11 +1,11 @@
 id: 547335882
-type: way
+type: node
 latitude: 47.97458
 longitude: -1.7944
 postcode: "35580"
 city: Guichen
-street: "Rue du Maréchal de Lattre de Tassigny"
-housenumber: 36
-phone: "+33 9 62 60 77 42"
+street: Rue du Maréchal de Lattre de Tassigny
+housenumber: "36"
+phone: +33 9 62 60 77 42
 opening_hours: ""
-website: "https://www.le-gout-du-bio.fr/"
+website: https://www.le-gout-du-bio.fr/

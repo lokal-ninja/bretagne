@@ -4,8 +4,8 @@ latitude: 48.10853
 longitude: -1.68058
 postcode: "35000"
 city: Rennes
-street: "Rue Poullain Duparc"
-housenumber: 7
-phone: "+33 2 99 79 18 30"
-opening_hours: "Mo 14:00-19:30; Tu-Fr 09:15-19:15; Sa 09:45-19:15"
-website: "https://www.lavieclaire.com/"
+street: Rue Poullain Duparc
+housenumber: "7"
+phone: +33 2 99 79 18 30
+opening_hours: Mo 14:00-19:30; Tu-Fr 09:15-19:15; Sa 09:45-19:15
+website: https://www.lavieclaire.com/

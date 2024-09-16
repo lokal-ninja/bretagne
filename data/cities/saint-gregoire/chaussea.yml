@@ -1,11 +1,11 @@
 id: 315193164
-type: way
+type: node
 latitude: 48.13768
 longitude: -1.69077
 postcode: "35760"
 city: Saint-Grégoire
-street: "Rue du Chesnay Beauregard"
-housenumber: 8
-phone: "+33 2 23 06 00 22"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.chaussea.com/fr/shops/chaussea-rennes-st-gregoire/"
+street: Rue du Chesnay Beauregard
+housenumber: "8"
+phone: +33 2 23 06 00 22
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.chaussea.com/fr/shops/chaussea-rennes-st-gregoire/

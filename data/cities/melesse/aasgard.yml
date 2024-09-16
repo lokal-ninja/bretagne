@@ -1,11 +1,11 @@
 id: 1111537697
-type: way
+type: node
 latitude: 48.18527
 longitude: -1.72474
 postcode: "35520"
 city: Melesse
-street: "Rue Besneraye"
-housenumber: 6281
-phone: "+33 2 99 13 03 60"
-opening_hours: "Mo-Sa 10:00-12:00, 14:00-19:00"
-website: "https://www.aasgard.fr/magasins/aasgard-rennes-nord"
+street: Rue Besneraye
+housenumber: "6281"
+phone: +33 2 99 13 03 60
+opening_hours: Mo-Sa 10:00-12:00, 14:00-19:00
+website: https://www.aasgard.fr/magasins/aasgard-rennes-nord

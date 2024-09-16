@@ -1,11 +1,11 @@
 id: 70431697
-type: way
+type: node
 latitude: 47.78981
 longitude: -3.48905
 postcode: "56620"
 city: Guidel
-street: "Rue de Saint-Maurice"
-housenumber: 2
-phone: "+33 2 97 65 04 05"
+street: Rue de Saint-Maurice
+housenumber: "2"
+phone: +33 2 97 65 04 05
 opening_hours: ""
-website: "https://www.plurielcoiffure.fr"
+website: https://www.plurielcoiffure.fr

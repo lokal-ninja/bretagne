@@ -1,11 +1,11 @@
 id: 80939193
-type: way
+type: node
 latitude: 48.11529
 longitude: -1.6564
 postcode: "35000"
 city: Rennes
-street: "Rue Danton"
-housenumber: 10
+street: Rue Danton
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 06:45-20:00, Su closed"
+opening_hours: Mo-Sa 06:45-20:00, Su closed
 website: ""

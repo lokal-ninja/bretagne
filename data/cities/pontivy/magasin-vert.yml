@@ -1,11 +1,11 @@
 id: 389421283
-type: way
+type: node
 latitude: 48.04237
 longitude: -2.96113
 postcode: "56300"
 city: Pontivy
-street: "ZI du Signan, Rue Colbert"
-housenumber: 
+street: ZI du Signan, Rue Colbert
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-19:00"
+opening_hours: Mo-Sa 09:00-12:00, 14:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.39368
 longitude: -4.48052
 postcode: "29200"
 city: Brest
-street: "Rue Jean Jaurès"
-housenumber: 71
-phone: "+33 9 53 19 24 64"
-opening_hours: "Tu 10:30-12:20,14:45-19:00; We-Fr 10:00-13:00,14:45-19:00; Sa 10:00-13:00,14:00-19:00"
-website: "https://makibell.com/magasins/21-brest"
+street: Rue Jean Jaurès
+housenumber: "71"
+phone: +33 9 53 19 24 64
+opening_hours: Tu 10:30-12:20,14:45-19:00; We-Fr 10:00-13:00,14:45-19:00; Sa 10:00-13:00,14:00-19:00
+website: https://makibell.com/magasins/21-brest

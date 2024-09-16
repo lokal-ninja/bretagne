@@ -1,11 +1,11 @@
 id: 527462252
-type: way
+type: node
 latitude: 48.75031
 longitude: -3.45166
 postcode: "22300"
 city: Lannion
-street: "Rue Georges Cuvier"
-housenumber: 8
+street: Rue Georges Cuvier
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/lannion/"
+website: https://www.nozarrivages.com/magasin/lannion/

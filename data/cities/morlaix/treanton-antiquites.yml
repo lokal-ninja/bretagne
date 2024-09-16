@@ -4,8 +4,8 @@ latitude: 48.57571
 longitude: -3.8223
 postcode: "29600"
 city: Morlaix
-street: "Rue de Paris"
-housenumber: 40
-phone: "+33 2 98 88 07 82"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-18:00"
+street: Rue de Paris
+housenumber: "40"
+phone: +33 2 98 88 07 82
+opening_hours: Mo-Fr 10:00-12:00,14:00-18:00
 website: ""

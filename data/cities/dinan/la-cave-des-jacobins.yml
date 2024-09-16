@@ -4,8 +4,8 @@ latitude: 48.45241
 longitude: -2.04328
 postcode: "22100"
 city: Dinan
-street: "Rue Sainte-Claire"
-housenumber: 3
-phone: "+33 2 96390382"
-opening_hours: "Mo 14:00-18:30; Tu,We 08:30-12:30,14:00-19:15; Th-Sa 09:00-19:15"
-website: "https://cavejacobinsdinan.fr"
+street: Rue Sainte-Claire
+housenumber: "3"
+phone: +33 2 96390382
+opening_hours: Mo 14:00-18:30; Tu,We 08:30-12:30,14:00-19:15; Th-Sa 09:00-19:15
+website: https://cavejacobinsdinan.fr

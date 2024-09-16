@@ -1,11 +1,11 @@
 id: 538961805
-type: way
+type: node
 latitude: 48.12182
 longitude: -1.18915
 postcode: "35500"
 city: Vitré
-street: "Boulevard de Laval"
-housenumber: 94
+street: Boulevard de Laval
+housenumber: "94"
 phone: ""
-opening_hours: "Tu-Sa 08:00-21:00"
+opening_hours: Tu-Sa 08:00-21:00
 website: ""

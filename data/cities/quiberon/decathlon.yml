@@ -4,8 +4,9 @@ latitude: 47.48024
 longitude: -3.12112
 postcode: "56170"
 city: Quiberon
-street: "Place Hoche"
-housenumber: 8
-phone: "+33 7 64 45 99 68"
-opening_hours: "Mo 10:00-19:00; Tu 10:00-13:00,14:00-19:00; We 10:00-19:00; Th 10:00-13:00,14:00-19:00; Fr-Sa 10:00-19:00"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-quiberon-0070240502405"
+street: Place Hoche
+housenumber: "8"
+phone: +33 7 64 45 99 68
+opening_hours: Mo 10:00-19:00; Tu 10:00-13:00,14:00-19:00; We 10:00-19:00; Th 10:00-13:00,14:00-19:00;
+    Fr-Sa 10:00-19:00
+website: https://www.decathlon.fr/store-view/magasin-de-sports-quiberon-0070240502405

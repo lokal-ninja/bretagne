@@ -1,11 +1,11 @@
 id: 71164271
-type: way
+type: node
 latitude: 47.6971
 longitude: -3.35246
 postcode: "56680"
 city: Gâvres
-street: "Avenue des Sardiniers"
-housenumber: 31
+street: Avenue des Sardiniers
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

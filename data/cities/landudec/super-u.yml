@@ -1,11 +1,11 @@
 id: 263328019
-type: way
+type: node
 latitude: 48.00138
 longitude: -4.33741
 postcode: "29710"
 city: Landudec
-street: "Rue des Écoles"
-housenumber: 1
-phone: "+33 2 98 91 80 70"
+street: Rue des Écoles
+housenumber: "1"
+phone: +33 2 98 91 80 70
 opening_hours: ""
-website: "https://www.magasins-u.com/magasin/superu-landudec"
+website: https://www.magasins-u.com/magasin/superu-landudec

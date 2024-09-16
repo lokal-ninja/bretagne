@@ -1,11 +1,11 @@
 id: 41861636
-type: way
+type: node
 latitude: 48.089
 longitude: -1.62598
 postcode: "35135"
 city: Chantepie
-street: "Rue du Moulin"
-housenumber: 2
-phone: "+33 2 99 41 42 88"
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-19:00; Sa 08:30-12:00"
-website: "https://www.renault.fr/concessionnaire.chantepie-garage-curis.html"
+street: Rue du Moulin
+housenumber: "2"
+phone: +33 2 99 41 42 88
+opening_hours: Mo-Fr 07:30-12:00, 13:30-19:00; Sa 08:30-12:00
+website: https://www.renault.fr/concessionnaire.chantepie-garage-curis.html

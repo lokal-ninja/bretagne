@@ -1,11 +1,11 @@
 id: 71062861
-type: way
+type: node
 latitude: 47.77767
 longitude: -3.34579
 postcode: "56600"
 city: Lanester
-street: "Rue Rouget de Lisle"
-housenumber: 
+street: Rue Rouget de Lisle
+housenumber: ""
 phone: "+33297766310"
-opening_hours: "Mo-Sa 10:00-12:15, 14:00-19:00"
-website: "https://www.saint-maclou.com/magasin-deco/lorient-lanester"
+opening_hours: Mo-Sa 10:00-12:15, 14:00-19:00
+website: https://www.saint-maclou.com/magasin-deco/lorient-lanester

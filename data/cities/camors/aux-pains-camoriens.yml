@@ -1,11 +1,11 @@
 id: 205971821
-type: way
+type: node
 latitude: 47.84644
 longitude: -2.99944
 postcode: "56330"
 city: Camors
-street: "Rue Principale"
-housenumber: 19
+street: Rue Principale
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

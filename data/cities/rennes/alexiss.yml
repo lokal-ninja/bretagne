@@ -4,8 +4,8 @@ latitude: 48.09894
 longitude: -1.6845
 postcode: "35000"
 city: Rennes
-street: "Rue Ginguené"
-housenumber: 22
-phone: "+33 2 90 01 40 95"
-opening_hours: "Mo,Tu,Fr 10:30-19:00; Th 10:30-18:00; Sa 09:00-12:00"
-website: "https://www.institut-alexiss.fr/"
+street: Rue Ginguené
+housenumber: "22"
+phone: +33 2 90 01 40 95
+opening_hours: Mo,Tu,Fr 10:30-19:00; Th 10:30-18:00; Sa 09:00-12:00
+website: https://www.institut-alexiss.fr/

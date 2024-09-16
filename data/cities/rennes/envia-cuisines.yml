@@ -4,8 +4,8 @@ latitude: 48.10585
 longitude: -1.73216
 postcode: "35000"
 city: Rennes
-street: "Rue de Lorient"
-housenumber: 167
-phone: "+33 2 23 40 62 90"
-opening_hours: "Mo-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00"
-website: "https://envia-cuisines.fr/magasins/envia-cuisines-rennes/"
+street: Rue de Lorient
+housenumber: "167"
+phone: +33 2 23 40 62 90
+opening_hours: Mo-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00
+website: https://envia-cuisines.fr/magasins/envia-cuisines-rennes/

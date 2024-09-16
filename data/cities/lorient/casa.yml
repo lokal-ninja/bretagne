@@ -1,11 +1,11 @@
 id: 1043720903
-type: way
+type: node
 latitude: 47.76351
 longitude: -3.3981
 postcode: "56100"
 city: Lorient
-street: "Rue du Colonel Jean Muller"
-housenumber: 92
-phone: "+33 297 353838"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://fr.casashops.com/fr/magasins/lorient-k2/413/"
+street: Rue du Colonel Jean Muller
+housenumber: "92"
+phone: +33 297 353838
+opening_hours: Mo-Sa 10:00-19:00
+website: https://fr.casashops.com/fr/magasins/lorient-k2/413/

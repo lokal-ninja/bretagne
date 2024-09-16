@@ -1,11 +1,11 @@
 id: 94275050
-type: way
+type: node
 latitude: 47.97761
 longitude: -4.03643
 postcode: "29000"
 city: Quimper
-street: "Rue Louison Bobet"
-housenumber: 21
-phone: "+33 2 98 90 83 83"
-opening_hours: "Mo-Sa 09:30-20:00; Su 10:30-19:00"
-website: "https://www.armorlux.com/fr/armor-factory.html"
+street: Rue Louison Bobet
+housenumber: "21"
+phone: +33 2 98 90 83 83
+opening_hours: Mo-Sa 09:30-20:00; Su 10:30-19:00
+website: https://www.armorlux.com/fr/armor-factory.html

@@ -1,11 +1,11 @@
 id: 128756110
-type: way
+type: node
 latitude: 48.5093
 longitude: -4.07255
 postcode: "29400"
 city: Landivisiau
-street: "Rue de la Tour d'Auvergne"
-housenumber: 14
+street: Rue de la Tour d'Auvergne
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

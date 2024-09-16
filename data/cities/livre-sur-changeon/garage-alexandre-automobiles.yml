@@ -1,11 +1,11 @@
 id: 1111827065
-type: way
+type: node
 latitude: 48.22206
 longitude: -1.34969
 postcode: "35450"
 city: Livré-sur-Changeon
-street: "Rue des Bodinières"
-housenumber: 4
+street: Rue des Bodinières
+housenumber: "4"
 phone: "0223256561"
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.11084
 longitude: -1.68008
 postcode: "35000"
 city: Rennes
-street: "Rue de Rohan"
-housenumber: 8
-phone: "+33 2 99 79 45 94"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00; PH closed"
-website: "https://www.bessec-chaussures.com/"
+street: Rue de Rohan
+housenumber: "8"
+phone: +33 2 99 79 45 94
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00; PH closed
+website: https://www.bessec-chaussures.com/

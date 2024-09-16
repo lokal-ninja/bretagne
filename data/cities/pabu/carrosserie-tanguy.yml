@@ -1,11 +1,11 @@
 id: 128517820
-type: way
+type: node
 latitude: 48.57367
 longitude: -3.14514
 postcode: "22200"
 city: Pabu
 street: ""
-housenumber: 1
-phone: "+33 2 96 21 36 35"
+housenumber: "1"
+phone: +33 2 96 21 36 35
 opening_hours: ""
-website: "https://www.carrosserie-tanguy.fr"
+website: https://www.carrosserie-tanguy.fr

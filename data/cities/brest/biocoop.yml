@@ -1,11 +1,11 @@
 id: 246491182
-type: way
+type: node
 latitude: 48.41236
 longitude: -4.47012
 postcode: "29200"
 city: Brest
-street: "Rue Daumier"
-housenumber: 2
-phone: "+33 2 29 00 33 33"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.finisterra.fr/kerbio-europe.php"
+street: Rue Daumier
+housenumber: "2"
+phone: +33 2 29 00 33 33
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.finisterra.fr/kerbio-europe.php

@@ -1,11 +1,11 @@
 id: 54892301
-type: way
+type: node
 latitude: 48.09117
 longitude: -1.6819
 postcode: "35200"
 city: Rennes
-street: "Square Sarah Bernhardt"
-housenumber: 14
+street: Square Sarah Bernhardt
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

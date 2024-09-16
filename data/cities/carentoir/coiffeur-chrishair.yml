@@ -4,8 +4,8 @@ latitude: 47.81701
 longitude: -2.13437
 postcode: "56910"
 city: Carentoir
-street: "Place de l'Étoile"
-housenumber: 68
-phone: "+33 2 99 08 88 39"
-opening_hours: "Tu-Fr 08:30-12:00,14:00-19:00; Sa 08:30-17:00"
-website: "https://www.chris-hair.com/"
+street: Place de l'Étoile
+housenumber: "68"
+phone: +33 2 99 08 88 39
+opening_hours: Tu-Fr 08:30-12:00,14:00-19:00; Sa 08:30-17:00
+website: https://www.chris-hair.com/

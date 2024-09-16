@@ -1,11 +1,11 @@
 id: 144296840
-type: way
+type: node
 latitude: 48.4897
 longitude: -2.76113
 postcode: "22950"
 city: Trégueux
-street: "Rue Claude Sautet"
-housenumber: 
+street: Rue Claude Sautet
+housenumber: ""
 phone: "+33296010202"
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-12:30"
-website: "https://www.truffaut.com/stores/saint-brieuc"
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-12:30
+website: https://www.truffaut.com/stores/saint-brieuc

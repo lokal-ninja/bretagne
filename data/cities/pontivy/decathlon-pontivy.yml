@@ -1,11 +1,11 @@
 id: 390155617
-type: way
+type: node
 latitude: 48.05421
 longitude: -2.94604
 postcode: "56300"
 city: Pontivy
-street: "Avenue des Cités Unies"
-housenumber: 38
+street: Avenue des Cités Unies
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_280"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/fr/store?store_id=PS_280

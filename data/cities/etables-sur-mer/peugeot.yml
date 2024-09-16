@@ -1,11 +1,11 @@
 id: 85821169
-type: way
+type: node
 latitude: 48.64234
 longitude: -2.83628
 postcode: "22680"
 city: Étables-sur-Mer
-street: "Boulevard des Islandais"
-housenumber: 
-phone: "+33 2 96 70 95 88"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:00-12:00"
-website: "https://concessions.peugeot.fr/etables-sur-mer/"
+street: Boulevard des Islandais
+housenumber: ""
+phone: +33 2 96 70 95 88
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:00-12:00
+website: https://concessions.peugeot.fr/etables-sur-mer/

@@ -1,11 +1,11 @@
 id: 389798560
-type: way
+type: node
 latitude: 48.06694
 longitude: -2.94454
 postcode: "56300"
 city: Pontivy
-street: "Avenue de la Libération"
-housenumber: 106
+street: Avenue de la Libération
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

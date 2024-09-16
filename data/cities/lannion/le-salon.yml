@@ -1,11 +1,11 @@
 id: 117240560
-type: way
+type: node
 latitude: 48.73241
 longitude: -3.4618
 postcode: "22300"
 city: Lannion
-street: "Avenue Ernest Renan"
-housenumber: 
+street: Avenue Ernest Renan
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

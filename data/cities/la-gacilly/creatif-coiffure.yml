@@ -4,8 +4,8 @@ latitude: 47.76591
 longitude: -2.13191
 postcode: "56200"
 city: La Gacilly
-street: "Place Yves Rocher"
-housenumber: 3
-phone: "+33 2 99 08 12 15"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-17:00"
+street: Place Yves Rocher
+housenumber: "3"
+phone: +33 2 99 08 12 15
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

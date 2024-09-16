@@ -4,8 +4,8 @@ latitude: 48.10658
 longitude: -1.68051
 postcode: "35000"
 city: Rennes
-street: "Rue Tronjolly"
-housenumber: 19
-phone: "+33 8 92 69 01 93"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.damart.fr/"
+street: Rue Tronjolly
+housenumber: "19"
+phone: +33 8 92 69 01 93
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.damart.fr/

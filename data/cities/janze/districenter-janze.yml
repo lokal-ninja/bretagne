@@ -1,11 +1,12 @@
 id: 83315492
-type: way
+type: node
 latitude: 47.95763
 longitude: -1.49126
 postcode: "35150"
 city: Janzé
-street: "Rue Paul Painlevé"
-housenumber: 44
-phone: "+33 2 99 47 62 67"
-opening_hours: "Mo-Tu 09:30-12:30,14:00-19:00; We 09:30-19:00; Th-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00; "
-website: "https://www.districenter.fr/"
+street: Rue Paul Painlevé
+housenumber: "44"
+phone: +33 2 99 47 62 67
+opening_hours: 'Mo-Tu 09:30-12:30,14:00-19:00; We 09:30-19:00; Th-Fr 09:30-12:30,14:00-19:00;
+    Sa 09:30-19:00; '
+website: https://www.districenter.fr/

@@ -4,8 +4,8 @@ latitude: 48.11046
 longitude: -1.67915
 postcode: "35000"
 city: Rennes
-street: "Rue d'Orléans"
-housenumber: 2
+street: Rue d'Orléans
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

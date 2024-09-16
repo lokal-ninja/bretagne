@@ -1,11 +1,11 @@
 id: 1123884488
-type: way
+type: node
 latitude: 47.94378
 longitude: -2.38733
 postcode: "56800"
 city: Ploermel
-street: "rue de Huloux"
-housenumber: 
-phone: "+33 2 97 93 03 34"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.centrakor.com/magasin-centrakor/ctkploerme/centrakor-ploermel-56800.html"
+street: rue de Huloux
+housenumber: ""
+phone: +33 2 97 93 03 34
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.centrakor.com/magasin-centrakor/ctkploerme/centrakor-ploermel-56800.html

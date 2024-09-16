@@ -4,8 +4,9 @@ latitude: 48.10513
 longitude: -1.73752
 postcode: "35132"
 city: Vezin-le-Coquet
-street: "Rue Lieutenant-Colonel Dubois"
-housenumber: 9
+street: Rue Lieutenant-Colonel Dubois
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:30-12:30,14:00-18:00; Su,Mo,PH off"
+opening_hours: Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:30-12:30,14:00-18:00; Su,Mo,PH
+    off
 website: ""

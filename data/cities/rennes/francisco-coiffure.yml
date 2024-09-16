@@ -4,8 +4,8 @@ latitude: 48.10569
 longitude: -1.67821
 postcode: "35000"
 city: Rennes
-street: "Rue d'Isly"
-housenumber: 18
-phone: "+33 2 99 30 04 05"
-opening_hours: "Mo-Sa 09:00-19:30"
+street: Rue d'Isly
+housenumber: "18"
+phone: +33 2 99 30 04 05
+opening_hours: Mo-Sa 09:00-19:30
 website: ""

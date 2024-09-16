@@ -4,8 +4,8 @@ latitude: 48.64812
 longitude: -2.02548
 postcode: "35400"
 city: Saint-Malo
-street: "Rue de l'Orme"
-housenumber: 10
-phone: "+33 2 99 20 05 02"
+street: Rue de l'Orme
+housenumber: "10"
+phone: +33 2 99 20 05 02
 opening_hours: ""
-website: "https://lamaisondusarrasin.fr/"
+website: https://lamaisondusarrasin.fr/

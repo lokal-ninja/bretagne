@@ -4,8 +4,8 @@ latitude: 48.11185
 longitude: -1.67996
 postcode: "35000"
 city: Rennes
-street: "Rue de l'Hermine"
-housenumber: 6
-phone: "+33 9 52 27 66 82"
-opening_hours: "Mo,Tu 17:00-24:00; We-Sa 17:00-01:00"
+street: Rue de l'Hermine
+housenumber: "6"
+phone: +33 9 52 27 66 82
+opening_hours: Mo,Tu 17:00-24:00; We-Sa 17:00-01:00
 website: ""

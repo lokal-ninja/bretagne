@@ -1,11 +1,11 @@
 id: 117268824
-type: way
+type: node
 latitude: 48.73205
 longitude: -3.45773
 postcode: "22300"
 city: Lannion
-street: "Rue des Chapeliers"
-housenumber: 
+street: Rue des Chapeliers
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

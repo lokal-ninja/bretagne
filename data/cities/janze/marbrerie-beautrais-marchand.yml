@@ -4,8 +4,8 @@ latitude: 47.96075
 longitude: -1.50082
 postcode: "35150"
 city: Janzé
-street: "Rue André de Villoutreys"
-housenumber: 12
-phone: "+33 2 99 47 43 92 00"
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-18:00"
+street: Rue André de Villoutreys
+housenumber: "12"
+phone: +33 2 99 47 43 92 00
+opening_hours: Mo-Sa 09:00-12:00, 14:00-18:00
 website: ""

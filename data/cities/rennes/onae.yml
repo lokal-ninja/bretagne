@@ -4,8 +4,8 @@ latitude: 48.10835
 longitude: -1.67902
 postcode: "35000"
 city: Rennes
-street: "Rue Jules Simon"
-housenumber: 11
-phone: "+33 2 99 22 47 31"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.onae.fr/"
+street: Rue Jules Simon
+housenumber: "11"
+phone: +33 2 99 22 47 31
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.onae.fr/

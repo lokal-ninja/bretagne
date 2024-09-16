@@ -4,8 +4,8 @@ latitude: 48.18339
 longitude: -1.64625
 postcode: "35830"
 city: Betton
-street: "Avenue d'Armorique"
-housenumber: 51
-phone: "+33 2 99 04 09 66"
-opening_hours: "Tu-Fr 09:30-13:00,15:30-19:30; Sa 08:30-19:30; PH,Su 08:30-13:00"
-website: "https://guillaume-fromagerie.fr/"
+street: Avenue d'Armorique
+housenumber: "51"
+phone: +33 2 99 04 09 66
+opening_hours: Tu-Fr 09:30-13:00,15:30-19:30; Sa 08:30-19:30; PH,Su 08:30-13:00
+website: https://guillaume-fromagerie.fr/

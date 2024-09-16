@@ -1,11 +1,11 @@
 id: 208475556
-type: way
+type: node
 latitude: 47.87664
 longitude: -3.01253
 postcode: "56150"
 city: Baud
-street: "Route de Locminé"
-housenumber: 19
+street: Route de Locminé
+housenumber: "19"
 phone: ""
-opening_hours: "Tu-Fr 14:00-18:30; Th off; Sa 10:00-12:30, 14:00-18:30"
+opening_hours: Tu-Fr 14:00-18:30; Th off; Sa 10:00-12:30, 14:00-18:30
 website: ""

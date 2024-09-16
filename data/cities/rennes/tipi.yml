@@ -4,8 +4,8 @@ latitude: 48.11357
 longitude: -1.67704
 postcode: "35000"
 city: Rennes
-street: "Rue des Fossés"
-housenumber: 6
-phone: "+33 2 99 31 86 47"
-opening_hours: "Tu-Sa 11:00-19:00"
-website: "https://linktr.ee/boutiquetipi"
+street: Rue des Fossés
+housenumber: "6"
+phone: +33 2 99 31 86 47
+opening_hours: Tu-Sa 11:00-19:00
+website: https://linktr.ee/boutiquetipi

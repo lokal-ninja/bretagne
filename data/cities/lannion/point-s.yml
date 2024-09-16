@@ -1,11 +1,11 @@
 id: 117266730
-type: way
+type: node
 latitude: 48.73418
 longitude: -3.43734
 postcode: "22300"
 city: Lannion
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.points.fr/"
+website: https://www.points.fr/

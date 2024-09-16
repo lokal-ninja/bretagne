@@ -4,8 +4,8 @@ latitude: 48.07222
 longitude: -1.85081
 postcode: "35310"
 city: Mordelles
-street: "Rue de Plaisance"
-housenumber: 4
+street: Rue de Plaisance
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-17:00; We 09:00-12:00,14:00-17:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-17:00; We 09:00-12:00,14:00-17:00
 website: ""

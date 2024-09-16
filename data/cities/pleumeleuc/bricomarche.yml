@@ -1,11 +1,11 @@
 id: 102699559
-type: way
+type: node
 latitude: 48.17685
 longitude: -1.9202
 postcode: "35137"
 city: Pleumeleuc
-street: "Rue Galilée"
-housenumber: 2
-phone: "+33 2 99 07 13 13"
+street: Rue Galilée
+housenumber: "2"
+phone: +33 2 99 07 13 13
 opening_hours: ""
 website: ""

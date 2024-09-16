@@ -4,8 +4,8 @@ latitude: 47.74329
 longitude: -3.36004
 postcode: "56100"
 city: Lorient
-street: "Rue Lazare Carnot"
-housenumber: 16
-phone: "+33 2 97 64 21 06"
-opening_hours: "Mo-Sa 07:00-13:00,15:00-19:30"
+street: Rue Lazare Carnot
+housenumber: "16"
+phone: +33 2 97 64 21 06
+opening_hours: Mo-Sa 07:00-13:00,15:00-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 665620635
-type: way
+type: node
 latitude: 47.98767
 longitude: -4.10775
 postcode: "29000"
 city: Quimper
-street: "Rue du Frugy"
-housenumber: 6
+street: Rue du Frugy
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-We 15:30-19:30; Fr 12:00-19:30; Sa 09:00-13:00"
-website: "https://fr-fr.facebook.com/lafermedelocmaria/"
+opening_hours: Tu-We 15:30-19:30; Fr 12:00-19:30; Sa 09:00-13:00
+website: https://fr-fr.facebook.com/lafermedelocmaria/

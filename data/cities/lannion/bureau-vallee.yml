@@ -1,11 +1,11 @@
 id: 117413409
-type: way
+type: node
 latitude: 48.75252
 longitude: -3.45393
 postcode: "22300"
 city: Lannion
-street: "Rue Saint-Pierre"
-housenumber: 
+street: Rue Saint-Pierre
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

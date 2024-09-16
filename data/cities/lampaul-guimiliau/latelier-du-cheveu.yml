@@ -1,11 +1,11 @@
 id: 84870412
-type: way
+type: node
 latitude: 48.49243
 longitude: -4.04216
 postcode: "29400"
 city: Lampaul-Guimiliau
-street: "Rue de Landivisiau"
-housenumber: 4
+street: Rue de Landivisiau
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

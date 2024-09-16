@@ -1,11 +1,11 @@
 id: 81078406
-type: way
+type: node
 latitude: 48.11283
 longitude: -1.74991
 postcode: "35132"
 city: Vezin-le-Coquet
-street: "Rue des Violettes"
-housenumber: 28
+street: Rue des Violettes
+housenumber: "28"
 phone: "+33299645507"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00"
-website: "https://www.garage-riberprey-vezinlecoquet.fr/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00
+website: https://www.garage-riberprey-vezinlecoquet.fr/

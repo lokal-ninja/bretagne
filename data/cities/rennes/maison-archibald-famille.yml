@@ -4,8 +4,8 @@ latitude: 48.1123
 longitude: -1.6837
 postcode: "35000"
 city: Rennes
-street: "Place de la Trinité"
-housenumber: 2
-phone: "+33 2 99 67 62 94"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.maisonarchibald.com/"
+street: Place de la Trinité
+housenumber: "2"
+phone: +33 2 99 67 62 94
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.maisonarchibald.com/

@@ -1,11 +1,11 @@
 id: 101856512
-type: way
+type: node
 latitude: 48.53113
 longitude: -2.22475
 postcode: "22130"
 city: Saint-Lormel
-street: "Rue de Dinard"
-housenumber: 
+street: Rue de Dinard
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

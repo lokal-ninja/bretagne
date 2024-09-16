@@ -1,11 +1,11 @@
 id: 252063798
-type: way
+type: node
 latitude: 47.94425
 longitude: -2.13123
 postcode: "56380"
 city: GUER
-street: "Rue de Brocéliande"
-housenumber: 3
+street: Rue de Brocéliande
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Sa 08:30-20:00"
+opening_hours: Tu-Sa 08:30-20:00
 website: ""

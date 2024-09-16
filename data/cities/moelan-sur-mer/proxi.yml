@@ -1,11 +1,11 @@
 id: 56255725
-type: way
+type: node
 latitude: 47.80501
 longitude: -3.68395
 postcode: "29350"
 city: Moëlan sur mer
-street: "Rue Louis Le Guennec"
-housenumber: 18
-phone: "+33 2 98 71 13 99"
-opening_hours: "Mo-Sa 08:30-12:30,16:00-19:30"
-website: "https://fr-fr.facebook.com/proxi.kergroes/"
+street: Rue Louis Le Guennec
+housenumber: "18"
+phone: +33 2 98 71 13 99
+opening_hours: Mo-Sa 08:30-12:30,16:00-19:30
+website: https://fr-fr.facebook.com/proxi.kergroes/

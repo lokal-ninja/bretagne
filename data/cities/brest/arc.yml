@@ -4,8 +4,8 @@ latitude: 48.38726
 longitude: -4.48875
 postcode: "29200"
 city: Brest
-street: "Rue Jean Macé"
-housenumber: 31
-phone: "+33 2 98 43 12 16"
-opening_hours: "Tu-Sa 10:00-12:00,14:00-19:00"
-website: "https://www.arc-mobilier.fr/"
+street: Rue Jean Macé
+housenumber: "31"
+phone: +33 2 98 43 12 16
+opening_hours: Tu-Sa 10:00-12:00,14:00-19:00
+website: https://www.arc-mobilier.fr/

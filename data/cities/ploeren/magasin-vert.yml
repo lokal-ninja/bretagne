@@ -1,11 +1,11 @@
 id: 181503922
-type: way
+type: node
 latitude: 47.66574
 longitude: -2.79736
 postcode: "56880"
 city: Ploeren
-street: "Rue Abbé Guillevin Zone Luscanen"
-housenumber: 
+street: Rue Abbé Guillevin Zone Luscanen
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-12:30, 14:00-19:00"
-website: "https://www.monmagasinvert.fr/"
+opening_hours: Mo-Sa 09:30-12:30, 14:00-19:00
+website: https://www.monmagasinvert.fr/

@@ -1,11 +1,11 @@
 id: 263328439
-type: way
+type: node
 latitude: 48.00137
 longitude: -4.33625
 postcode: "29710"
 city: Landudec
-street: "Rue des Écoles"
-housenumber: 
+street: Rue des Écoles
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

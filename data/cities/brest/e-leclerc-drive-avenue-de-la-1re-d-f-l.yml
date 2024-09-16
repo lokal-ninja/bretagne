@@ -1,11 +1,11 @@
 id: 42550558
-type: way
+type: node
 latitude: 48.37608
 longitude: -4.55468
 postcode: "29200"
 city: Brest
-street: "Avenue de la 1re D.F.L."
-housenumber: 19
-phone: "+33 2 98 36 17 80"
+street: Avenue de la 1re D.F.L.
+housenumber: "19"
+phone: +33 2 98 36 17 80
 opening_hours: ""
-website: "https://www.leclercdrive.fr/"
+website: https://www.leclercdrive.fr/

@@ -1,11 +1,11 @@
 id: 119433737
-type: way
+type: node
 latitude: 48.77982
 longitude: -3.04538
 postcode: "22500"
 city: Paimpol
-street: "Rue du Quai"
-housenumber: 3
-phone: "+33 2 96 20 83 88"
-opening_hours: "Tu,Th 09:00-12:00,13:30-19:00; We 09:00-12:00,14:00-19:00; Fr,Sa 09:00-18:00"
-website: "https://idc-coiffure.business.site/"
+street: Rue du Quai
+housenumber: "3"
+phone: +33 2 96 20 83 88
+opening_hours: Tu,Th 09:00-12:00,13:30-19:00; We 09:00-12:00,14:00-19:00; Fr,Sa 09:00-18:00
+website: https://idc-coiffure.business.site/

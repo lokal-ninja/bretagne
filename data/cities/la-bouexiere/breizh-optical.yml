@@ -1,11 +1,11 @@
 id: 84350212
-type: way
+type: node
 latitude: 48.18392
 longitude: -1.43704
 postcode: "35340"
 city: La Bouëxière
-street: "Rue Théophile Rémond"
-housenumber: 7
+street: Rue Théophile Rémond
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:30-12:30,14:00-18:00"
+opening_hours: Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:30-12:30,14:00-18:00
 website: ""

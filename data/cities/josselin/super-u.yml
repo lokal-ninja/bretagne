@@ -1,11 +1,11 @@
 id: 368111395
-type: way
+type: node
 latitude: 47.96418
 longitude: -2.54348
 postcode: "56120"
 city: Josselin
-street: "Espace Oxygene Parc D Activites C De Bellevue"
-housenumber: 
-phone: "+33 2 97 75 61 23"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.coursesu.com/f-superu-josselin-informations"
+street: Espace Oxygene Parc D Activites C De Bellevue
+housenumber: ""
+phone: +33 2 97 75 61 23
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.coursesu.com/f-superu-josselin-informations

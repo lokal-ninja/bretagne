@@ -1,11 +1,11 @@
 id: 53677919
-type: way
+type: node
 latitude: 48.42622
 longitude: -4.60941
 postcode: "29290"
 city: Saint Renan
-street: "Rue de Brest"
-housenumber: 
+street: Rue de Brest
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,13:30-19:00"
+opening_hours: Mo-Sa 09:00-12:00,13:30-19:00
 website: ""

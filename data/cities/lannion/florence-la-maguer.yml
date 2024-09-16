@@ -1,11 +1,11 @@
 id: 374287104
-type: way
+type: node
 latitude: 48.73176
 longitude: -3.45773
 postcode: "22300"
 city: Lannion
-street: "Rue Geoffroy de Pontblanc"
-housenumber: 
+street: Rue Geoffroy de Pontblanc
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

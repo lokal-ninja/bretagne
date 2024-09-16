@@ -4,8 +4,8 @@ latitude: 48.1118
 longitude: -1.69319
 postcode: "35000"
 city: Rennes
-street: "Rue Vaneau"
-housenumber: 31
+street: Rue Vaneau
+housenumber: "31"
 phone: "0223413898"
-opening_hours: "Tu-Th 10:00-13:00,15:00-19:30; Fr,Sa 10:00-19:30"
+opening_hours: Tu-Th 10:00-13:00,15:00-19:30; Fr,Sa 10:00-19:30
 website: ""

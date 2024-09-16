@@ -1,11 +1,11 @@
 id: 886643630
-type: way
+type: node
 latitude: 48.18742
 longitude: -1.63252
 postcode: "35830"
 city: Betton
-street: "Rue de la Forge"
-housenumber: 12
-phone: "+33 2 99 55 88 85"
+street: Rue de la Forge
+housenumber: "12"
+phone: +33 2 99 55 88 85
 opening_hours: ""
-website: "https://www.garageabs.fr/"
+website: https://www.garageabs.fr/

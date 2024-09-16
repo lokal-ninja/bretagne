@@ -1,11 +1,11 @@
 id: 700109957
-type: way
+type: node
 latitude: 47.94376
 longitude: -2.39481
 postcode: "56800"
 city: Ploërmel
-street: "Rue des Huloux"
-housenumber: 
-phone: "+33 2 97 74 05 24"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:30-12:00"
-website: "https://armorique.autodistribution.fr/point-de-vente/autodistribution-armorique-ploermel"
+street: Rue des Huloux
+housenumber: ""
+phone: +33 2 97 74 05 24
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:30-12:00
+website: https://armorique.autodistribution.fr/point-de-vente/autodistribution-armorique-ploermel

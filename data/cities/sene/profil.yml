@@ -4,8 +4,8 @@ latitude: 47.65227
 longitude: -2.72099
 postcode: "56860"
 city: Séné
-street: "Rue d'Alsace"
-housenumber: 3
-phone: "+33 2 97 68 91 47"
-opening_hours: "Mo-Fr 08:00-12:00, 13:30-18:30; Sa 08:30-12:30"
-website: "https://www.profilplus.fr/agence/107-vannes"
+street: Rue d'Alsace
+housenumber: "3"
+phone: +33 2 97 68 91 47
+opening_hours: Mo-Fr 08:00-12:00, 13:30-18:30; Sa 08:30-12:30
+website: https://www.profilplus.fr/agence/107-vannes

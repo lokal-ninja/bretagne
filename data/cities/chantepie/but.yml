@@ -1,11 +1,11 @@
 id: 41907860
-type: way
+type: node
 latitude: 48.08683
 longitude: -1.63057
 postcode: "35135"
 city: Chantepie
-street: "Allée de Guerlédan"
-housenumber: 
+street: Allée de Guerlédan
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.but.fr/magasins/054/But-Rennes-Chantepie.html"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.but.fr/magasins/054/But-Rennes-Chantepie.html

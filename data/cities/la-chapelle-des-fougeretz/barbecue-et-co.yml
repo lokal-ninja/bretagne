@@ -4,8 +4,8 @@ latitude: 48.19192
 longitude: -1.72976
 postcode: "35520"
 city: La Chapelle-des-Fougeretz
-street: "Route de Saint-Malo"
-housenumber: 105
-phone: "+33 9 81 22 26 50"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://barbecue-co.com/"
+street: Route de Saint-Malo
+housenumber: "105"
+phone: +33 9 81 22 26 50
+opening_hours: Mo-Sa 09:30-19:00
+website: https://barbecue-co.com/

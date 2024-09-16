@@ -1,11 +1,11 @@
 id: 258460671
-type: way
+type: node
 latitude: 48.36179
 longitude: -4.25987
 postcode: "29460"
 city: Daoulas
-street: "Rue de Brest"
-housenumber: 
+street: Rue de Brest
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

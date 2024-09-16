@@ -1,11 +1,11 @@
 id: 81778510
-type: way
+type: node
 latitude: 48.10821
 longitude: -1.61401
 postcode: "35510"
 city: Cesson-Sévigné
-street: "Rue de Bray"
-housenumber: 25
+street: Rue de Bray
+housenumber: "25"
 phone: "+33299269955"
-opening_hours: "Mo 08:00-12:00,14:00-19:00; Tu-Fr 08:00-12:30,14:00-19:00; Sa 09:00-12:30"
-website: "https://www.ad-auto.fr/garage/garage-ad-gongot/"
+opening_hours: Mo 08:00-12:00,14:00-19:00; Tu-Fr 08:00-12:30,14:00-19:00; Sa 09:00-12:30
+website: https://www.ad-auto.fr/garage/garage-ad-gongot/

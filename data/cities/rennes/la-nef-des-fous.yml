@@ -4,8 +4,8 @@ latitude: 48.10852
 longitude: -1.68315
 postcode: "35000"
 city: Rennes
-street: "Rue Poullain Duparc"
-housenumber: 39
-phone: "+33 2 99 30 04 09"
-opening_hours: "Mo 13:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.librairielanefdesfous.com/"
+street: Rue Poullain Duparc
+housenumber: "39"
+phone: +33 2 99 30 04 09
+opening_hours: Mo 13:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.librairielanefdesfous.com/

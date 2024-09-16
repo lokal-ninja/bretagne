@@ -4,8 +4,8 @@ latitude: 47.65934
 longitude: -2.79087
 postcode: "56000"
 city: Vannes
-street: "Avenue de la Marne"
-housenumber: 95
-phone: "+33 2 97 40 48 30"
+street: Avenue de la Marne
+housenumber: "95"
+phone: +33 2 97 40 48 30
 opening_hours: ""
-website: "https://www.generale-optique.com/"
+website: https://www.generale-optique.com/

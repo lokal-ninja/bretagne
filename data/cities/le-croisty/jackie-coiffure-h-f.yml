@@ -4,8 +4,9 @@ latitude: 48.06547
 longitude: -3.36352
 postcode: "56540"
 city: Le Croisty
-street: "Rue de la Résistance"
-housenumber: 10
-phone: "+33 2 97 51 61 87"
-opening_hours: "Mo-Tu 09:00-12:00,14:00-19:00; We 09:00-12:00; Th-Sa 09:00-12:00,14:00-19:00;PH Off"
+street: Rue de la Résistance
+housenumber: "10"
+phone: +33 2 97 51 61 87
+opening_hours: Mo-Tu 09:00-12:00,14:00-19:00; We 09:00-12:00; Th-Sa 09:00-12:00,14:00-19:00;PH
+    Off
 website: ""

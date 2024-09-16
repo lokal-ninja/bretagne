@@ -4,8 +4,8 @@ latitude: 48.39293
 longitude: -4.47879
 postcode: "29200"
 city: Brest
-street: "Rue Yves Collet"
-housenumber: 51
-phone: "+33 2 98 00 39 50"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.bureau-vallee.fr/nos-magasins/magasin-brest-BRE/"
+street: Rue Yves Collet
+housenumber: "51"
+phone: +33 2 98 00 39 50
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.bureau-vallee.fr/nos-magasins/magasin-brest-BRE/

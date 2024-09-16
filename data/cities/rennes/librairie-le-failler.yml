@@ -4,8 +4,8 @@ latitude: 48.11173
 longitude: -1.67685
 postcode: "35000"
 city: Rennes
-street: "Rue Saint-Georges"
-housenumber: 8
-phone: "+33 2 99 87 87 87"
-opening_hours: "Mo-Sa 10:00-18:45"
-website: "https://www.librairielefailler.fr/"
+street: Rue Saint-Georges
+housenumber: "8"
+phone: +33 2 99 87 87 87
+opening_hours: Mo-Sa 10:00-18:45
+website: https://www.librairielefailler.fr/

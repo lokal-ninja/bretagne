@@ -1,11 +1,11 @@
 id: 35173765
-type: way
+type: node
 latitude: 48.46301
 longitude: -2.50408
 postcode: "22400"
 city: Lamballe
-street: "Avenue Georges Clemenceau"
-housenumber: 25
+street: Avenue Georges Clemenceau
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:45"
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:45
 website: ""

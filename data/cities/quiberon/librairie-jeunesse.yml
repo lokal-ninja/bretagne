@@ -4,8 +4,8 @@ latitude: 47.47826
 longitude: -3.12603
 postcode: "56170"
 city: Quiberon
-street: "Quai de l'Océan"
-housenumber: 
-phone: "+33 2975 00143"
-opening_hours: "Mo-Sa 10:00-13:00,16:00-19:30;Su 10:30-13:00,16:00-19:30"
-website: "https://www.librairiesdeportmaria.fr/"
+street: Quai de l'Océan
+housenumber: ""
+phone: +33 2975 00143
+opening_hours: Mo-Sa 10:00-13:00,16:00-19:30;Su 10:30-13:00,16:00-19:30
+website: https://www.librairiesdeportmaria.fr/

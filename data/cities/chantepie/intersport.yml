@@ -4,8 +4,8 @@ latitude: 48.08839
 longitude: -1.62616
 postcode: "35135"
 city: Chantepie
-street: "Rue des Loges"
-housenumber: 20
-phone: "+33 2 99 22 63 85"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.intersport.fr/"
+street: Rue des Loges
+housenumber: "20"
+phone: +33 2 99 22 63 85
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.intersport.fr/

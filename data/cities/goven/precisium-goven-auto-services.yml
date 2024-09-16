@@ -4,8 +4,8 @@ latitude: 48.00756
 longitude: -1.84485
 postcode: "35580"
 city: Goven
-street: "Rue de Blossac"
-housenumber: 5
+street: Rue de Blossac
+housenumber: "5"
 phone: "+33299420129"
-opening_hours: "Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:00"
-website: "https://reseau.precisium.fr/286-goven-auto-services"
+opening_hours: Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:00
+website: https://reseau.precisium.fr/286-goven-auto-services

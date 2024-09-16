@@ -1,11 +1,11 @@
 id: 48920453
-type: way
+type: node
 latitude: 48.09847
 longitude: -1.62175
 postcode: "35135"
 city: Chantepie
-street: "Rue du Bignon"
-housenumber: 32
-phone: "+33 2 99 86 04 06"
+street: Rue du Bignon
+housenumber: "32"
+phone: +33 2 99 86 04 06
 opening_hours: ""
 website: ""

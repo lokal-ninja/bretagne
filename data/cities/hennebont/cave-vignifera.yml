@@ -5,7 +5,7 @@ longitude: -3.25904
 postcode: "56700"
 city: Hennebont
 street: ""
-housenumber: 7
-phone: "+33 2 97 86 62 85"
-opening_hours: "Tu-Th 10:00-20:00; Fr-Sa 10:00-01:00"
-website: "http://www.vignifera.fr/"
+housenumber: "7"
+phone: +33 2 97 86 62 85
+opening_hours: Tu-Th 10:00-20:00; Fr-Sa 10:00-01:00
+website: http://www.vignifera.fr/

@@ -1,11 +1,11 @@
 id: 84001767
-type: way
+type: node
 latitude: 48.61451
 longitude: -2.05087
 postcode: "35780"
 city: La Richardais
-street: "Rue de la Ville Biais"
-housenumber: 18
-phone: "+33 2 99 46 28 81"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://lacoopbio.com/"
+street: Rue de la Ville Biais
+housenumber: "18"
+phone: +33 2 99 46 28 81
+opening_hours: Mo-Sa 09:00-19:00
+website: https://lacoopbio.com/

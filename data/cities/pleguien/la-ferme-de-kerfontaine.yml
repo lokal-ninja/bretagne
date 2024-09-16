@@ -1,11 +1,11 @@
 id: 266227338
-type: way
+type: node
 latitude: 48.63326
 longitude: -2.9392
 postcode: "22290"
 city: Pléguien
-street: "Kerfontaine"
-housenumber: 1
-phone: "+33 2 96 65 31 65"
-opening_hours: "Mo-Fr 16:30-19:30, We 17:00-19:00"
+street: Kerfontaine
+housenumber: "1"
+phone: +33 2 96 65 31 65
+opening_hours: Mo-Fr 16:30-19:30, We 17:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.10533
 longitude: -1.71436
 postcode: "35000"
 city: Rennes
-street: "Rue Jules Vallès"
-housenumber: 2
-phone: "+33 2 23 40 23 23"
-opening_hours: "Mo-Sa 08:30-20:30"
-website: "https://www.e.leclerc/mag/e-leclerc-cleunay"
+street: Rue Jules Vallès
+housenumber: "2"
+phone: +33 2 23 40 23 23
+opening_hours: Mo-Sa 08:30-20:30
+website: https://www.e.leclerc/mag/e-leclerc-cleunay

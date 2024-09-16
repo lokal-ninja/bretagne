@@ -1,11 +1,11 @@
 id: 83315615
-type: way
+type: node
 latitude: 47.95543
 longitude: -1.48563
 postcode: "35150"
 city: Janzé
-street: "Rue Clément Ader"
-housenumber: 11
-phone: "+339 86 66 56 55"
-opening_hours: "Mo-Sa 06:30-19:30"
+street: Rue Clément Ader
+housenumber: "11"
+phone: +339 86 66 56 55
+opening_hours: Mo-Sa 06:30-19:30
 website: ""

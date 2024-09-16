@@ -1,11 +1,11 @@
 id: 638463754
-type: way
+type: node
 latitude: 48.14024
 longitude: -1.93887
 postcode: "35137"
 city: Bédée
-street: "PA du Gouzet"
-housenumber: 
-phone: "+33 2 23 43 53 60"
-opening_hours: "Mo-Fr 09:00-12:30, 13:45-19:00; Sa 09:00-19:00"
+street: PA du Gouzet
+housenumber: ""
+phone: +33 2 23 43 53 60
+opening_hours: Mo-Fr 09:00-12:30, 13:45-19:00; Sa 09:00-19:00
 website: ""

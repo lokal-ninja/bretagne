@@ -1,11 +1,11 @@
 id: 110051904
-type: way
+type: node
 latitude: 47.86681
 longitude: -1.88447
 postcode: "35550"
 city: Lohéac
-street: "Rue de la Poste"
-housenumber: 31
+street: Rue de la Poste
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

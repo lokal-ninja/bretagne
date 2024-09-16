@@ -1,11 +1,11 @@
 id: 94765140
-type: way
+type: node
 latitude: 48.06525
 longitude: -3.2064
 postcode: "56160"
 city: Guémené-sur-Scorff
-street: "Rue de Bellevue"
-housenumber: 5
+street: Rue de Bellevue
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.andouille-guemene.com"
+website: https://www.andouille-guemene.com

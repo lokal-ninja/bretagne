@@ -1,11 +1,11 @@
 id: 1043740128
-type: way
+type: node
 latitude: 47.72862
 longitude: -3.41424
 postcode: "56270"
 city: Plœmeur
-street: "Rue Louis Jean-Baptiste Lepine"
-housenumber: 2
+street: Rue Louis Jean-Baptiste Lepine
+housenumber: "2"
 phone: "+33297127700"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-19:00; Sa 08:30-12:00,14:00-18:00"
-website: "https://reseau.citroen.fr/reparateur-ploemeur"
+opening_hours: Mo-Fr 08:30-12:00,14:00-19:00; Sa 08:30-12:00,14:00-18:00
+website: https://reseau.citroen.fr/reparateur-ploemeur

@@ -1,11 +1,11 @@
 id: 80259035
-type: way
+type: node
 latitude: 48.13398
 longitude: -1.6852
 postcode: "35000"
 city: Rennes
-street: "Rue Bahon-Rault"
-housenumber: 19
+street: Rue Bahon-Rault
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

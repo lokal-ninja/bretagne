@@ -1,11 +1,11 @@
 id: 72073427
-type: way
+type: node
 latitude: 48.72639
 longitude: -3.98421
 postcode: "29680"
 city: Roscoff
-street: "Rue de l'Amiral Réveillère"
-housenumber: 11
-phone: "+33 298729029"
+street: Rue de l'Amiral Réveillère
+housenumber: "11"
+phone: +33 298729029
 opening_hours: ""
 website: ""

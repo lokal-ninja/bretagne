@@ -1,11 +1,11 @@
 id: 42575630
-type: way
+type: node
 latitude: 48.41613
 longitude: -4.47122
 postcode: "29200"
 city: Brest
-street: "Boulevard de l'Europe"
-housenumber: 
+street: Boulevard de l'Europe
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

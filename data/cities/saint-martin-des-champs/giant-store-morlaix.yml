@@ -1,11 +1,11 @@
 id: 983990918
-type: way
+type: node
 latitude: 48.57217
 longitude: -3.85679
 postcode: "29600"
 city: Saint-Martin-des-Champs
-street: "Rue du Grand Launay"
-housenumber: 
+street: Rue du Grand Launay
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.giant-morlaix.fr/fr"
+website: https://www.giant-morlaix.fr/fr

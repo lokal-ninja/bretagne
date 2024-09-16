@@ -1,11 +1,11 @@
 id: 96480218
-type: way
+type: node
 latitude: 48.06966
 longitude: -1.6986
 postcode: "35136"
 city: Saint-Jacques-de-la-Lande
 street: ""
-housenumber: 
-phone: "+33 2 99 50 40 44"
+housenumber: ""
+phone: +33 2 99 50 40 44
 opening_hours: ""
-website: "http://www.auto-mivoie.fr"
+website: http://www.auto-mivoie.fr

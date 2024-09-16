@@ -1,11 +1,11 @@
 id: 144299146
-type: way
+type: node
 latitude: 48.49104
 longitude: -2.75809
 postcode: "22950"
 city: Trégueux
-street: "Rue Claude Sautet"
-housenumber: 1
-phone: "+33 2 96 75 04 08"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-tregueux-0070019800198"
+street: Rue Claude Sautet
+housenumber: "1"
+phone: +33 2 96 75 04 08
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/store-view/magasin-de-sports-tregueux-0070019800198

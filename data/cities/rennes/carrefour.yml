@@ -1,11 +1,11 @@
 id: 379435666
-type: way
+type: node
 latitude: 48.0825
 longitude: -1.68047
 postcode: "35200"
 city: Rennes
-street: "Rue du Bosphore"
-housenumber: 5
-phone: "+33 2 99 42 82 07"
-opening_hours: "Mo-Sa 08:30-20:45; Su 09:00-12:30"
-website: "https://www.carrefour.fr/"
+street: Rue du Bosphore
+housenumber: "5"
+phone: +33 2 99 42 82 07
+opening_hours: Mo-Sa 08:30-20:45; Su 09:00-12:30
+website: https://www.carrefour.fr/

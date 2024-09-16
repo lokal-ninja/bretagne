@@ -1,11 +1,11 @@
 id: 66857122
-type: way
+type: node
 latitude: 47.96639
 longitude: -1.79614
 postcode: "35580"
 city: Guichen
-street: "Rue Luc Urbain"
-housenumber: 1
+street: Rue Luc Urbain
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-12:30"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-12:30
 website: ""

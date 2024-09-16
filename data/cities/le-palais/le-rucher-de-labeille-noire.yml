@@ -1,11 +1,11 @@
 id: 878674816
-type: way
+type: node
 latitude: 47.33581
 longitude: -3.16622
 postcode: "56360"
 city: Le Palais
-street: "Impasse de l'Abeille Noire"
-housenumber: 
+street: Impasse de l'Abeille Noire
+housenumber: ""
 phone: ""
-opening_hours: "Apr-Oct Mo-Sa 18:00-19:30; Nov-Mar 17:00-18:30"
-website: "https://lerucherdelabeillenoire.com/"
+opening_hours: Apr-Oct Mo-Sa 18:00-19:30; Nov-Mar 17:00-18:30
+website: https://lerucherdelabeillenoire.com/

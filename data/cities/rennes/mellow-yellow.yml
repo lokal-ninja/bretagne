@@ -4,8 +4,8 @@ latitude: 48.1103
 longitude: -1.67981
 postcode: "35000"
 city: Rennes
-street: "Quai Lamartine"
-housenumber: 1
-phone: "+33 2 99 78 25 03"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mellowyellow.com"
+street: Quai Lamartine
+housenumber: "1"
+phone: +33 2 99 78 25 03
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mellowyellow.com

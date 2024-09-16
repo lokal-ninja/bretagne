@@ -4,8 +4,8 @@ latitude: 48.10701
 longitude: -1.73006
 postcode: "35000"
 city: Rennes
-street: "Rue de Lorient"
-housenumber: 220
-phone: "+33 2 99 33 19 07"
-opening_hours: "Mo-Sa 06:30-20:30"
-website: "https://www.boulangerie-ange.fr/boulangeries-ange/boulangerie-ange-rennes-rte-lorient"
+street: Rue de Lorient
+housenumber: "220"
+phone: +33 2 99 33 19 07
+opening_hours: Mo-Sa 06:30-20:30
+website: https://www.boulangerie-ange.fr/boulangeries-ange/boulangerie-ange-rennes-rte-lorient

@@ -1,11 +1,11 @@
 id: 218942110
-type: way
+type: node
 latitude: 48.52386
 longitude: -2.85194
 postcode: "22440"
 city: Trémuson
-street: "Rue de Brest"
-housenumber: 
+street: Rue de Brest
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:30"
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:30
 website: ""

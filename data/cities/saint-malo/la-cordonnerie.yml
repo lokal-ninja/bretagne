@@ -4,8 +4,8 @@ latitude: 48.65754
 longitude: -1.99673
 postcode: "35400"
 city: Saint-Malo
-street: "Rue de Courtoisville"
-housenumber: 16
-phone: "+33 2 99 56 59 34"
-opening_hours: "Tu-Fr 08:30-12:00,14:00-18:45; Mo 14:00-18:00; Sa 08:30-12:00"
-website: "https://www.la-cordonnerie.fr/"
+street: Rue de Courtoisville
+housenumber: "16"
+phone: +33 2 99 56 59 34
+opening_hours: Tu-Fr 08:30-12:00,14:00-18:45; Mo 14:00-18:00; Sa 08:30-12:00
+website: https://www.la-cordonnerie.fr/

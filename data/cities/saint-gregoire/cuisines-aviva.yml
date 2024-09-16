@@ -4,8 +4,8 @@ latitude: 48.17536
 longitude: -1.7211
 postcode: "35760"
 city: Saint-Grégoire
-street: "Route du Meuble"
-housenumber: 50
-phone: "+33 2 23 48 49 00"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-12:30, 14:00-19:00"
-website: "https://www.cuisines-aviva.com/magasin/rennes-saint-gregoire.html"
+street: Route du Meuble
+housenumber: "50"
+phone: +33 2 23 48 49 00
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-12:30, 14:00-19:00
+website: https://www.cuisines-aviva.com/magasin/rennes-saint-gregoire.html

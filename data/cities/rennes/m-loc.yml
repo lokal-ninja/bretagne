@@ -4,8 +4,8 @@ latitude: 48.10251
 longitude: -1.73559
 postcode: "35000"
 city: Rennes
-street: "Rue du Manoir de Servigné"
-housenumber: 51
+street: Rue du Manoir de Servigné
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:45-18:00"
-website: "https://www.m-loc.fr/"
+opening_hours: Mo-Fr 07:30-12:00,13:45-18:00
+website: https://www.m-loc.fr/

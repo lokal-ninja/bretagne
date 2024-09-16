@@ -1,11 +1,11 @@
 id: 66434744
-type: way
+type: node
 latitude: 47.48398
 longitude: -3.10964
 postcode: "56170"
 city: Quiberon
-street: "Rue de Port-Haliguen"
-housenumber: 
-phone: "+33 2 97 29 50 60"
-opening_hours: "Mo-Sa 08:00-19:30; Su 09:00-19:30"
-website: "https://magasins.supercasino.fr/supermarche/quiberon/CS282"
+street: Rue de Port-Haliguen
+housenumber: ""
+phone: +33 2 97 29 50 60
+opening_hours: Mo-Sa 08:00-19:30; Su 09:00-19:30
+website: https://magasins.supercasino.fr/supermarche/quiberon/CS282

@@ -1,11 +1,11 @@
 id: 358254827
-type: way
+type: node
 latitude: 47.85663
 longitude: -1.67995
 postcode: "35470"
 city: Bain-de-Bretagne
-street: "Rue de la Seine"
-housenumber: 
-phone: "+33 2 99 44 80 63"
+street: Rue de la Seine
+housenumber: ""
+phone: +33 2 99 44 80 63
 opening_hours: ""
-website: "https://www.b2flocation.fr/"
+website: https://www.b2flocation.fr/

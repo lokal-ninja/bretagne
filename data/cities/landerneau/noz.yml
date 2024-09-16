@@ -1,11 +1,11 @@
 id: 89822525
-type: way
+type: node
 latitude: 48.46455
 longitude: -4.26449
 postcode: "29800"
 city: Landerneau
-street: "Route du Quinquis-Lech"
-housenumber: 
+street: Route du Quinquis-Lech
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/landerneau/"
+website: https://nozarrivages.com/magasin/landerneau/

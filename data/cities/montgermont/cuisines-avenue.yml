@@ -4,8 +4,8 @@ latitude: 48.15417
 longitude: -1.70571
 postcode: "35760"
 city: Montgermont
-street: "Rue Edison"
-housenumber: 3
-phone: "+33 2 99 59 09 20"
-opening_hours: "Mo-Sa 10:00-12:00, 14:00-19:00"
-website: "https://www.cuisinesavenue.fr/rennes.html"
+street: Rue Edison
+housenumber: "3"
+phone: +33 2 99 59 09 20
+opening_hours: Mo-Sa 10:00-12:00, 14:00-19:00
+website: https://www.cuisinesavenue.fr/rennes.html

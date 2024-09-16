@@ -1,11 +1,11 @@
 id: 122772440
-type: way
+type: node
 latitude: 48.19595
 longitude: -4.09253
 postcode: "29150"
 city: Châteaulin
-street: "Place du Marché"
-housenumber: 
+street: Place du Marché
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 66857083
-type: way
+type: node
 latitude: 47.96967
 longitude: -1.79142
 postcode: "35580"
 city: Guichen
-street: "Rue Louis Ampère"
-housenumber: 18
+street: Rue Louis Ampère
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

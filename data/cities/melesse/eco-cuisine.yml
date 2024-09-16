@@ -1,11 +1,11 @@
 id: 46805264
-type: way
+type: node
 latitude: 48.18523
 longitude: -1.72472
 postcode: "35520"
 city: Melesse
-street: "Rue Besneraye"
-housenumber: 
-phone: "+33 2 23 46 00 58"
+street: Rue Besneraye
+housenumber: ""
+phone: +33 2 23 46 00 58
 opening_hours: ""
-website: "https://www.ecocuisine.fr"
+website: https://www.ecocuisine.fr

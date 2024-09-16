@@ -4,8 +4,8 @@ latitude: 48.11451
 longitude: -1.67898
 postcode: "35000"
 city: Rennes
-street: "Rue de la Visitation"
-housenumber: 3
-phone: "+33 2 99 38 71 49"
-opening_hours: "Tu-Sa 14:30-18:45, Tu,We,Fr,Sa 10:00-13:00"
-website: "https://www.rousseaumusique.com/"
+street: Rue de la Visitation
+housenumber: "3"
+phone: +33 2 99 38 71 49
+opening_hours: Tu-Sa 14:30-18:45, Tu,We,Fr,Sa 10:00-13:00
+website: https://www.rousseaumusique.com/

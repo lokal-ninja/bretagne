@@ -1,11 +1,11 @@
 id: 84860525
-type: way
+type: node
 latitude: 48.40614
 longitude: -4.07445
 postcode: "29450"
 city: Sizun
-street: "Rue de l'Argoat"
-housenumber: 32
-phone: "+33 2 98 68 80 38"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 08:30-12:30,13:30-18:30; Sa 09:00-12:00"
+street: Rue de l'Argoat
+housenumber: "32"
+phone: +33 2 98 68 80 38
+opening_hours: Mo 13:30-18:30; Tu-Fr 08:30-12:30,13:30-18:30; Sa 09:00-12:00
 website: ""

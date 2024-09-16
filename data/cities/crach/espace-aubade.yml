@@ -1,11 +1,11 @@
 id: 93961075
-type: way
+type: node
 latitude: 47.6654
 longitude: -3.0239
 postcode: "56950"
 city: Crac'h
-street: "Rue de l'Europe"
-housenumber: 27
-phone: "+33 2 97 14 87 14"
+street: Rue de l'Europe
+housenumber: "27"
+phone: +33 2 97 14 87 14
 opening_hours: ""
-website: "https://www.espace-aubade.fr/magasins/auray-350.html"
+website: https://www.espace-aubade.fr/magasins/auray-350.html

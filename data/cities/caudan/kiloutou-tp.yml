@@ -1,11 +1,11 @@
 id: 70872627
-type: way
+type: node
 latitude: 47.78529
 longitude: -3.32857
 postcode: "56850"
 city: Caudan
-street: "Impasse André Rhuys"
-housenumber: 103
+street: Impasse André Rhuys
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-18:00"
+opening_hours: Mo-Fr 07:30-12:00, 13:30-18:00
 website: ""

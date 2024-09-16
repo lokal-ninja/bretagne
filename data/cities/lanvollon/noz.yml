@@ -1,11 +1,11 @@
 id: 974953989
-type: way
+type: node
 latitude: 48.63181
 longitude: -2.97823
 postcode: "22290"
 city: Lanvollon
-street: "Chemin de Parcou Hello"
-housenumber: 3
+street: Chemin de Parcou Hello
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/lanvollon/"
+website: https://www.nozarrivages.com/magasin/lanvollon/

@@ -4,8 +4,8 @@ latitude: 48.10887
 longitude: -1.67635
 postcode: "35000"
 city: Rennes
-street: "Rue du Capitaine Alfred Dreyfus"
-housenumber: 20
-phone: "+33 2 99796847"
-opening_hours: "Mo 10:00-13:00,14:00-19:00; Tu-Fr 09:30-19:00; Sa 09:30-13:00,13:45-19:00"
-website: "https://www.librairie-voyage.com"
+street: Rue du Capitaine Alfred Dreyfus
+housenumber: "20"
+phone: +33 2 99796847
+opening_hours: Mo 10:00-13:00,14:00-19:00; Tu-Fr 09:30-19:00; Sa 09:30-13:00,13:45-19:00
+website: https://www.librairie-voyage.com

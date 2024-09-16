@@ -1,11 +1,11 @@
 id: 281872661
-type: way
+type: node
 latitude: 47.7716
 longitude: -2.12952
 postcode: "56200"
 city: La Gacilly
-street: "Rue du Stade"
-housenumber: 2
-phone: "+33 2 99 08 10 17"
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-17:30"
-website: "https://www.garage-roblin-gacilly.fr/"
+street: Rue du Stade
+housenumber: "2"
+phone: +33 2 99 08 10 17
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-17:30
+website: https://www.garage-roblin-gacilly.fr/

@@ -1,11 +1,11 @@
 id: 81080616
-type: way
+type: node
 latitude: 48.11899
 longitude: -1.75776
 postcode: "35132"
 city: Vezin-le-Coquet
-street: "Rue de Montfort"
-housenumber: 20
+street: Rue de Montfort
+housenumber: "20"
 phone: "+33768308400"
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
-website: "https://www.planity.com/best-barber-35132-vezin-le-coquet"
+opening_hours: Mo-Sa 10:00-19:00; PH off
+website: https://www.planity.com/best-barber-35132-vezin-le-coquet

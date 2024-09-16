@@ -1,11 +1,11 @@
 id: 906262928
-type: way
+type: node
 latitude: 48.01918
 longitude: -1.1979
 postcode: "35680"
 city: Domalain
-street: "Zone Artisanale La Vague de La Noe"
-housenumber: 
-phone: "+33 2 99 49 57 99"
+street: Zone Artisanale La Vague de La Noe
+housenumber: ""
+phone: +33 2 99 49 57 99
 opening_hours: ""
-website: "https://www.yoremorques.fr/public/index.php"
+website: https://www.yoremorques.fr/public/index.php

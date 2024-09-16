@@ -1,11 +1,11 @@
 id: 119487280
-type: way
+type: node
 latitude: 48.7692
 longitude: -3.03927
 postcode: "22500"
 city: Paimpol
-street: "Rue Raymond Pellier"
-housenumber: 
+street: Rue Raymond Pellier
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-12:30, 14:00-19:00"
+opening_hours: Mo-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-12:30, 14:00-19:00
 website: ""

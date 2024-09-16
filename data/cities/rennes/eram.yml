@@ -4,8 +4,8 @@ latitude: 48.11031
 longitude: -1.68003
 postcode: "35000"
 city: Rennes
-street: "Quai Lamartine"
-housenumber: 1
-phone: "+33 2 99 78 25 03"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-19:30"
-website: "https://www.eram.fr/"
+street: Quai Lamartine
+housenumber: "1"
+phone: +33 2 99 78 25 03
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-19:30
+website: https://www.eram.fr/

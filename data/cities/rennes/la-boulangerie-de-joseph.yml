@@ -4,8 +4,8 @@ latitude: 48.10468
 longitude: -1.67286
 postcode: "35000"
 city: Rennes
-street: "Avenue Jean Janvier"
-housenumber: 
-phone: "+33 2 99 30 19 90"
-opening_hours: "Mo,Tu,Th,Fr 07:30-14:00,15:00-19:30; We 07:30-13:30"
+street: Avenue Jean Janvier
+housenumber: ""
+phone: +33 2 99 30 19 90
+opening_hours: Mo,Tu,Th,Fr 07:30-14:00,15:00-19:30; We 07:30-13:30
 website: ""

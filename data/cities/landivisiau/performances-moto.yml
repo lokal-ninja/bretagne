@@ -1,11 +1,11 @@
 id: 128761014
-type: way
+type: node
 latitude: 48.50833
 longitude: -4.08322
 postcode: "29400"
 city: Landivisiau
-street: "Avenue de la Libération"
-housenumber: 49
+street: Avenue de la Libération
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "https://www.performances-moto.fr/"
+website: https://www.performances-moto.fr/

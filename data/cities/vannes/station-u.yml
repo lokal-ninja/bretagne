@@ -1,11 +1,11 @@
 id: 145339475
-type: way
+type: node
 latitude: 47.64185
 longitude: -2.77645
 postcode: "56000"
 city: Vannes
-street: "Avenue Pierre-André de Suffren"
-housenumber: 2
+street: Avenue Pierre-André de Suffren
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

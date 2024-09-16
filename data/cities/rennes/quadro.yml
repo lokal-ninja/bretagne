@@ -4,8 +4,8 @@ latitude: 48.10323
 longitude: -1.68409
 postcode: "35000"
 city: Rennes
-street: "Boulevard de la Tour d'Auvergne"
-housenumber: 59
+street: Boulevard de la Tour d'Auvergne
+housenumber: "59"
 phone: ""
-opening_hours: "Mo 09:00-18:00; Tu-Sa 09:00-19:00"
-website: "https://www.quadro.fr/magasins/rennes-35000"
+opening_hours: Mo 09:00-18:00; Tu-Sa 09:00-19:00
+website: https://www.quadro.fr/magasins/rennes-35000

@@ -1,11 +1,11 @@
 id: 145188176
-type: way
+type: node
 latitude: 47.65801
 longitude: -2.7641
 postcode: "56000"
 city: Vannes
-street: "Place de la Libération"
-housenumber: 3
-phone: "+33 2 97 46 14 51"
+street: Place de la Libération
+housenumber: "3"
+phone: +33 2 97 46 14 51
 opening_hours: ""
-website: "http://www.art-et-copie.com/"
+website: http://www.art-et-copie.com/

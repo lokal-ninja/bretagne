@@ -4,8 +4,8 @@ latitude: 48.11336
 longitude: -1.67947
 postcode: "35000"
 city: Rennes
-street: "Rue le Bastard"
-housenumber: 13
+street: Rue le Bastard
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://lepetitvapoteur.com"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://lepetitvapoteur.com

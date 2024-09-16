@@ -4,8 +4,8 @@ latitude: 48.11329
 longitude: -1.68079
 postcode: "35000"
 city: Rennes
-street: "Rue Leperdit"
-housenumber: 6
-phone: "+33 2 23 35 51 14"
-opening_hours: "Mo,Tu 10:00-19:00; We-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://leperdit-artisan-coiffeur.fr"
+street: Rue Leperdit
+housenumber: "6"
+phone: +33 2 23 35 51 14
+opening_hours: Mo,Tu 10:00-19:00; We-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://leperdit-artisan-coiffeur.fr

@@ -1,11 +1,11 @@
 id: 181503967
-type: way
+type: node
 latitude: 47.66239
 longitude: -2.80215
 postcode: "56880"
 city: Ploeren
-street: "Rue Edgar Touffreau"
-housenumber: 11
-phone: "+33 9 72 72 10 12"
-opening_hours: "Mo-Fr 10:00-12:30,14:00-19:00; Sa 10:00-19:00"
-website: "https://www.conforama.fr/magasins-conforama/vannes?lat=47.662559&long=-2.802877&name=VANNES"
+street: Rue Edgar Touffreau
+housenumber: "11"
+phone: +33 9 72 72 10 12
+opening_hours: Mo-Fr 10:00-12:30,14:00-19:00; Sa 10:00-19:00
+website: https://www.conforama.fr/magasins-conforama/vannes?lat=47.662559&long=-2.802877&name=VANNES

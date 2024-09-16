@@ -4,8 +4,8 @@ latitude: 47.99543
 longitude: -4.09844
 postcode: "29000"
 city: Quimper
-street: "Boulevard Amiral de Kerguélen"
-housenumber: 21
+street: Boulevard Amiral de Kerguélen
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:00, 14:00-19:00"
-website: "https://www.agem-quimper.fr/"
+opening_hours: Mo-Sa 10:00-12:00, 14:00-19:00
+website: https://www.agem-quimper.fr/

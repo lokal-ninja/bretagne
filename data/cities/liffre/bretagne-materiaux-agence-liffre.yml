@@ -1,11 +1,11 @@
 id: 639694363
-type: way
+type: node
 latitude: 48.21721
 longitude: -1.50481
 postcode: "35340"
 city: Liffré
-street: "Rue La Fontaine"
-housenumber: 23
+street: Rue La Fontaine
+housenumber: "23"
 phone: "+33299684076"
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:30-16:30; Sa 09:00-12:00"
-website: "https://www.bretagne-materiaux.fr/infos-agence/liffre-bretagne-materiaux-3042"
+opening_hours: Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:30-16:30; Sa 09:00-12:00
+website: https://www.bretagne-materiaux.fr/infos-agence/liffre-bretagne-materiaux-3042

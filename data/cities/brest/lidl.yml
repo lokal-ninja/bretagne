@@ -1,11 +1,11 @@
 id: 42575330
-type: way
+type: node
 latitude: 48.41471
 longitude: -4.47629
 postcode: "29200"
 city: Brest
-street: "Rue Général Paulet"
-housenumber: 142
+street: Rue Général Paulet
+housenumber: "142"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 70914307
-type: way
+type: node
 latitude: 48.84517
 longitude: -3.00026
 postcode: "22870"
 city: Île-de-Bréhat
 street: ""
-housenumber: 
-phone: "+33 2 96 20 08 54"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-brehat"
+housenumber: ""
+phone: +33 2 96 20 08 54
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-brehat

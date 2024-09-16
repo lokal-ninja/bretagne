@@ -1,11 +1,11 @@
 id: 71749841
-type: way
+type: node
 latitude: 48.669
 longitude: -3.9147
 postcode: "29660"
 city: Carantec
-street: "Rue du Kélenn"
-housenumber: 2
+street: Rue du Kélenn
+housenumber: "2"
 phone: ""
-opening_hours: "Th 10:00-13:00; Fr 15:30-19:00; Sa 10:00-13:00,15:30-19:00"
+opening_hours: Th 10:00-13:00; Fr 15:30-19:00; Sa 10:00-13:00,15:30-19:00
 website: ""
