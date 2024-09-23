@@ -1,5 +1,5 @@
 ---
-title: "Eureden"
+title: "Eureden "
 url: /brasparts/eureden/
-shop: centre de jardinage
+shop: entretien des terrains
 ---

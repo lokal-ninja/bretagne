@@ -1,6 +1,6 @@
 ---
 title: Dinard
 url: /dinard/
-latitude: 48.634
-longitude: -2.055
+latitude: 48.636
+longitude: -2.068
 ---
