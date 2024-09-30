@@ -7,5 +7,5 @@ city: Rennes
 street: Rue Hoche
 housenumber: "15"
 phone: +33 2 99 63 74 22
-opening_hours: Tu-Fr 10:00-13:30,15:00-19:00; Sa 10:00-19:00; Su-Mo off
+opening_hours: Tu,Fr-Sa 11:00-13:30,15:30-19:00; We-Th 15:30-19:00; Su-Mo off
 website: https://www.vegestal.fr/
