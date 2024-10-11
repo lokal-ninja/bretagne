@@ -1,6 +1,6 @@
 ---
 title: Québriac
 url: /quebriac/
-latitude: 48.365
-longitude: -1.825
+latitude: 48.346
+longitude: -1.827
 ---

@@ -7,5 +7,5 @@ city: Sainte-Anne-d'Auray
 street: Rue du Général de Gaulle
 housenumber: "42"
 phone: +33 9 77 49 71 43
-opening_hours: Mo,Tu,Th-Sa 07:30-12:30,15:30-19:00 su 09:00-12:30
+opening_hours: Mo,Tu,Th,Fr,Sa 07:30-12:30,15:30-19:00; Su 09:00-12:30
 website: ""
