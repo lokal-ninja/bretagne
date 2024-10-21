@@ -7,5 +7,6 @@ city: Rennes
 street: Rue de Paris
 housenumber: "115"
 phone: +33 2 99 36 95 45
-opening_hours: ""
+opening_hours: Tu,We 10:00-13:30,15:30-19:00; Th,Fr 10:00-13:30,15:30-21:00; Sa 10:00-20:00;
+    Su,Mo,PH off
 website: ""
