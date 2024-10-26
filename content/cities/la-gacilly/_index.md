@@ -1,6 +1,6 @@
 ---
 title: La Gacilly
 url: /la-gacilly/
-latitude: 47.774
-longitude: -2.14
+latitude: 47.765
+longitude: -2.131
 ---

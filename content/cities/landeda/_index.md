@@ -2,5 +2,5 @@
 title: Landéda
 url: /landeda/
 latitude: 48.587
-longitude: -4.573
+longitude: -4.574
 ---
