@@ -1,6 +1,6 @@
 ---
 title: Audierne
 url: /audierne/
-latitude: 48.024
-longitude: -4.54
+latitude: 48.025
+longitude: -4.536
 ---
