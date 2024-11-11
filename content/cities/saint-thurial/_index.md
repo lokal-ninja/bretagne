@@ -1,6 +1,6 @@
 ---
 title: Saint-Thurial
 url: /saint-thurial/
-latitude: 48.036
-longitude: -1.962
+latitude: 48.03
+longitude: -1.934
 ---
