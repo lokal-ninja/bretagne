@@ -1,5 +1,5 @@
 ---
 title: beauté
 url: /beaute/
-icon: other
+icon: beauty
 ---

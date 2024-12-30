@@ -1,5 +1,5 @@
 ---
-title: "Larivière"
+title: "Lariviere"
 url: /chantepie/lariviere/
 shop: commerce
 ---
