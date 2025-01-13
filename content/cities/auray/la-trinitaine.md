@@ -1,5 +1,5 @@
 ---
-title: "La trinitaine"
+title: "La Trinitaine"
 url: /auray/la-trinitaine/
-shop: vêtements
+shop: pâtisserie
 ---
