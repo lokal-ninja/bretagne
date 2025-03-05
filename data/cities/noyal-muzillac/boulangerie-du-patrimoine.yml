@@ -7,5 +7,6 @@ city: Noyal-Muzillac
 street: ""
 housenumber: ""
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th-Sa 06:30-13:00, Mo,Tu,Th,Fr 15:00-19:30, Sa 15:00-19:00, Su,PH
+    07:00-13:00
 website: ""
