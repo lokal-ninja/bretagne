@@ -1,5 +1,5 @@
 ---
-title: "GITEM"
+title: "Gitem"
 url: /minihy-treguier/gitem/
-shop: appareil ménager
+shop: électronique
 ---

@@ -1,5 +1,5 @@
 ---
-title: "FNAC"
+title: "Fnac"
 url: /saint-brieuc/fnac/
-shop: livres
+shop: électronique
 ---
