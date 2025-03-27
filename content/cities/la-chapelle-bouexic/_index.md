@@ -1,6 +1,6 @@
 ---
 title: La Chapelle-Bouëxic
 url: /la-chapelle-bouexic/
-latitude: 47.926
-longitude: -1.947
+latitude: 47.925
+longitude: -1.946
 ---
