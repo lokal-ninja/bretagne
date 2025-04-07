@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /ploufragan/e-leclerc/
-shop: supermarché
+shop: gaz
 ---
