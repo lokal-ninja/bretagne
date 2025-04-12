@@ -1,5 +1,5 @@
 ---
-title: "Dr Martens"
+title: "Dr. Martens"
 url: /rennes/dr-martens/
 shop: chaussures
 ---

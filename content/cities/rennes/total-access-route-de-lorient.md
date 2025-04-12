@@ -1,5 +1,5 @@
 ---
 title: "Total Access"
-url: /rennes/total-access-rue-de-nantes/
+url: /rennes/total-access-route-de-lorient/
 shop: commodité
 ---
