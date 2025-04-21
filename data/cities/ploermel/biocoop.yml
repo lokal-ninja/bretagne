@@ -7,5 +7,6 @@ city: Ploërmel
 street: Boulevard Laënnec
 housenumber: 59 bis
 phone: +33 2 97 74 34 14
-opening_hours: Mo 14:00-19:00; Tu-Th, Sa 09:00-13:00, 14:00-19:00; Fr 09:00-19:00
-website: https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Bretagne/Morbihan/BIOCOOP-SEVE
+opening_hours: Mo 14:00-19:00; Tu-Th,Sa 09:00-13:00,14:00-19:00; Fr 09:00-19:00; PH
+    off
+website: https://seveploermel.biocoop.net/

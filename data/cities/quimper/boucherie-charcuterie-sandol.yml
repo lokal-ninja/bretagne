@@ -7,6 +7,5 @@ city: Quimper
 street: Rue de l'Île d'Hoédic
 housenumber: "6"
 phone: +33 2 98 53 16 85
-opening_hours: Mo-Tu 09:00-13:00, 14:00-18:00; We 09:00-13:00; Th-Sa 09:00-13:00,
-    14:00-18:00
+opening_hours: Tu,Th,Fr 9:00-13:00,16:00-18:45; We,Sa 9:00-13:00
 website: ""
