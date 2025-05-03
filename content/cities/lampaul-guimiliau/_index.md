@@ -1,6 +1,6 @@
 ---
 title: Lampaul-Guimiliau
 url: /lampaul-guimiliau/
-latitude: 48.492
-longitude: -4.042
+latitude: 48.493
+longitude: -4.04
 ---
