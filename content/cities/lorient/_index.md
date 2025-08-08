@@ -1,6 +1,6 @@
 ---
 title: Lorient
 url: /lorient/
-latitude: 47.748
-longitude: -3.363
+latitude: 47.734
+longitude: -3.383
 ---

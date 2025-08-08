@@ -1,5 +1,5 @@
 ---
 title: "Point Vert"
 url: /pleyben/point-vert/
-shop: fleuriste
+shop: centre de jardinage
 ---

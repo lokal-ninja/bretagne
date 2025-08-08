@@ -1,6 +1,6 @@
 ---
 title: Carnac
 url: /carnac/
-latitude: 47.572
-longitude: -3.076
+latitude: 47.584
+longitude: -3.078
 ---

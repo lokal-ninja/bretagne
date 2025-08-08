@@ -7,5 +7,6 @@ city: La Chapelle-des-Fougeretz
 street: Rue du Moulin Neuf
 housenumber: "2"
 phone: +33 2 23 46 87 62
-opening_hours: ""
+opening_hours: Th,Fr 09:00-20:00, Mo 10:00-12:00, Mo,Tu 13:00-20:00, Sa 09:00-16:00;
+    We off
 website: ""

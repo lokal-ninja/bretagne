@@ -1,5 +1,5 @@
 ---
-title: "Tallat"
+title: "TALLAT"
 url: /rennes/tallat/
-shop: vêtements
+shop: commodité
 ---

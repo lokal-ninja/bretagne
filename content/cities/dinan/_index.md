@@ -1,6 +1,6 @@
 ---
 title: Dinan
 url: /dinan/
-latitude: 48.452
-longitude: -2.043
+latitude: 48.455
+longitude: -2.047
 ---

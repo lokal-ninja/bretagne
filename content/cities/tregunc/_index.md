@@ -1,6 +1,6 @@
 ---
 title: Trégunc
 url: /tregunc/
-latitude: 47.855
-longitude: -3.85
+latitude: 47.857
+longitude: -3.854
 ---

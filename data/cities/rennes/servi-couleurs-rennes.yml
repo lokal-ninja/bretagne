@@ -1,11 +1,12 @@
 id: 9761992498
 type: node
-latitude: 48.10767
-longitude: -1.72794
+latitude: 48.10749
+longitude: -1.72781
 postcode: "35000"
 city: Rennes
 street: Rue Nikola Tesla
 housenumber: "6"
 phone: "+33272470940"
-opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:30-12:30,14:00-17:00
+opening_hours: Mo-Fr 08:30-12:00, 13:30-18:00; Sa 09:30-12:30, 14:00-17:00 open "Particuliers"
+    || Mo-Sa 07:30-12:00, 13:30-17:30 open "Professionnels"
 website: https://www.servi-couleurs.fr/rennes/

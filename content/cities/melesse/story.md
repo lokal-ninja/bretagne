@@ -1,5 +1,5 @@
 ---
-title: "Story"
+title: "STORY"
 url: /melesse/story/
 shop: meubles
 ---
