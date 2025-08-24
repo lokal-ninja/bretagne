@@ -1,5 +1,5 @@
 ---
 title: "Maison Fleurenn"
 url: /quimper/maison-fleurenn/
-shop: fleuriste
+shop: décoration intérieure
 ---
