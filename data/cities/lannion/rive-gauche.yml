@@ -7,5 +7,5 @@ city: Lannion
 street: Rue de la Haute Rive
 housenumber: "1"
 phone: +33 2 96 37 99 77
-opening_hours: Tu-Tu 09:00-19:00 Th-Th 09:00-18:00 Fr-Fr 08:30-19:00 Sa-Sa 08:00-17:00
+opening_hours: Tu 09:00-19:00 ; Th 09:00-18:00; Fr 08:30-19:00; Sa 08:00-17:00
 website: ""
