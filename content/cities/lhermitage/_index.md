@@ -1,6 +1,6 @@
 ---
 title: L'Hermitage
 url: /lhermitage/
-latitude: 48.124
-longitude: -1.801
+latitude: 48.125
+longitude: -1.815
 ---

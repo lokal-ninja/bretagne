@@ -1,5 +1,5 @@
 ---
-title: "écomiam"
+title: "Écomiam"
 url: /bain-de-bretagne/ecomiam/
-shop: supermarché
+shop: aliments surgelés
 ---
