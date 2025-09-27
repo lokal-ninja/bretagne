@@ -1,6 +1,6 @@
 ---
 title: Trégueux
 url: /tregueux/
-latitude: 48.489
-longitude: -2.759
+latitude: 48.49
+longitude: -2.763
 ---
