@@ -7,7 +7,5 @@ city: Mellionnec
 street: Place de l'Église
 housenumber: "24"
 phone: 02 96 24 22 87
-opening_hours: May 15-Sep 15 Mo,Tu,Th 16:00-19:30; We,Fr 09:00-12:00,16:00-19:30;
-    Sa 09:00-12:00,16:00-19:30; Sep 16-May 14 Mo,Tu,Th 16:00-19:00; We,Fr 09:00-12:00,16:00-19:00;
-    Sa 09:00-12:00,16:00-18:30
+opening_hours: Mo,Tu,Th 16:00-19:00; We,Fr 09:00-12:00,16:00-19:00; Sa 09:00-12:00,16:00-18:30
 website: ""
