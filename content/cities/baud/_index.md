@@ -1,6 +1,6 @@
 ---
 title: Baud
 url: /baud/
-latitude: 47.876
-longitude: -3.019
+latitude: 47.875
+longitude: -3.02
 ---
