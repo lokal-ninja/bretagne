@@ -1,5 +1,5 @@
 ---
-title: "LCD optic"
+title: "LCD Optic"
 url: /brest/lcd-optic/
 shop: opticien
 ---
