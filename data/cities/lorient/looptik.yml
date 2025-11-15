@@ -7,5 +7,5 @@ city: Lorient
 street: Place Alsace Lorraine
 housenumber: "4"
 phone: "+33297211681"
-opening_hours: ""
+opening_hours: Tu,We,Fr,Sa 09:00-12:30, Mo-Sa 14:00-19:00, Th 10:00-12:30
 website: https://looptik.com
