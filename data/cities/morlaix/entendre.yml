@@ -7,5 +7,6 @@ city: Morlaix
 street: Place de Viarmes
 housenumber: "8"
 phone: ""
-opening_hours: Mo-Fr 09:30-12:30, 14:00-18:00
+opening_hours: Mo-Tu 09:30-12:30, 14:00-18:00; We 14:00-17:30; Th-Fr 09:30-12:30,
+    14:00-18:00
 website: https://www.entendre-morlaix.fr

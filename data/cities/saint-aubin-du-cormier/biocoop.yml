@@ -7,5 +7,6 @@ city: Saint-Aubin-du-Cormier
 street: Rue de Rennes
 housenumber: "25"
 phone: +33 2 99 39 06 04
-opening_hours: Mo 14:30-19:30; Tu-Th 09:30-13:00, 14:30-19:00; Fr-Sa 09:30-19:00
+opening_hours: Mo 14:30-19:30; Tu-Th 09:30-13:00, 14:30-19:30; Fr 09:30-19:30; Sa
+    09:30-19:00
 website: https://www.biocoopducormier.fr
