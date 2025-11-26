@@ -1,5 +1,5 @@
 ---
 title: "Quéguiner Matériaux"
 url: /caudan/queguiner-materiaux/
-shop: commerce
+shop: à faire soi-même
 ---
