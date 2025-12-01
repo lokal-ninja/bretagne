@@ -1,5 +1,5 @@
 ---
-title: "L'Art des Bobines"
+title: "L'Art des bobines"
 url: /la-foret-fouesnant/lart-des-bobines/
 shop: couture
 ---
