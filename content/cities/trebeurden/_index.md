@@ -1,6 +1,6 @@
 ---
 title: Trébeurden
 url: /trebeurden/
-latitude: 48.761
-longitude: -3.563
+latitude: 48.769
+longitude: -3.566
 ---
