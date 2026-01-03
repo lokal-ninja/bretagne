@@ -7,5 +7,5 @@ city: Quimper
 street: Rue Saint-François
 housenumber: "13"
 phone: +33 2 30 14 04 90
-opening_hours: Tu-Sa 10:00-13:00,14:00-19:00
+opening_hours: Tu,We 10:00-13:00,14:00-19:00; Mo 13:00-19:00; Th-Sa 10:00-19:00
 website: ""
