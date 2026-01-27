@@ -1,5 +1,5 @@
 ---
-title: "La laverie de Prat Maria"
+title: "La Laverie de Prat Maria"
 url: /quimper/la-laverie-de-prat-maria/
 shop: blanchisserie
 ---
