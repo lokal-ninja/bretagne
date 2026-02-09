@@ -1,6 +1,6 @@
 ---
 title: Uzel
 url: /uzel/
-latitude: 48.28
+latitude: 48.279
 longitude: -2.841
 ---
