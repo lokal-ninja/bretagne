@@ -1,5 +1,5 @@
 ---
-title: "E. Leclerc"
+title: "E.Leclerc"
 url: /landivisiau/e-leclerc-boulevard-de-la-republique/
-shop: gaz
+shop: supermarché
 ---
