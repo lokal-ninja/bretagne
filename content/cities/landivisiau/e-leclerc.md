@@ -1,5 +1,5 @@
 ---
-title: "E. Leclerc"
+title: "E.Leclerc"
 url: /landivisiau/e-leclerc/
-shop: gaz
+shop: supermarché
 ---
