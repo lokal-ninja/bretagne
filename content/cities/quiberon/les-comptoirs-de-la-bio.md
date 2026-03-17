@@ -1,5 +1,5 @@
 ---
-title: "Les Comptoirs de la Bio"
+title: "Les Comptoirs De La Bio"
 url: /quiberon/les-comptoirs-de-la-bio/
-shop: commodité
+shop: supermarché
 ---
