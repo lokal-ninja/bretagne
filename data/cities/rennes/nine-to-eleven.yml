@@ -7,5 +7,6 @@ city: Rennes
 street: Boulevard de la Tour d'Auvergne
 housenumber: "73"
 phone: +33 9 54 41 13 05
-opening_hours: Mo-Sa 10:30-13:15,17:00-23:00; We 18:00-23:00; Su 10:00-22:30; PH 10:00-23:00
+opening_hours: Mo,Tu,Th,Fr 10:30-13:00, Mo-We 17:00-23:00, Th-Sa 17:00-24:00, Su,PH
+    10:30-23:00
 website: ""
