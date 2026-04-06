@@ -2,5 +2,5 @@
 title: Mordelles
 url: /mordelles/
 latitude: 48.072
-longitude: -1.852
+longitude: -1.851
 ---

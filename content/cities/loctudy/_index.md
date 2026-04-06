@@ -1,6 +1,6 @@
 ---
 title: Loctudy
 url: /loctudy/
-latitude: 47.835
-longitude: -4.169
+latitude: 47.829
+longitude: -4.188
 ---

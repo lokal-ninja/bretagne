@@ -1,6 +1,6 @@
 ---
 title: Brandérion
 url: /branderion/
-latitude: 47.793
-longitude: -3.194
+latitude: 47.791
+longitude: -3.19
 ---
