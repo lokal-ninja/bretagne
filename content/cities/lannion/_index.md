@@ -1,6 +1,6 @@
 ---
 title: Lannion
 url: /lannion/
-latitude: 48.725
-longitude: -3.438
+latitude: 48.744
+longitude: -3.477
 ---

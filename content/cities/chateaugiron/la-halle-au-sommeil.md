@@ -1,5 +1,5 @@
 ---
-title: "La halle au sommeil"
+title: "La Halle au Sommeil"
 url: /chateaugiron/la-halle-au-sommeil/
 shop: lit
 ---
