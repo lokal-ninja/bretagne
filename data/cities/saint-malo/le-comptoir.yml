@@ -7,5 +7,6 @@ city: Saint-Malo
 street: Rue de la Croix Desilles
 housenumber: "4"
 phone: +33 2 23 52 51 26
-opening_hours: ""
+opening_hours: Th,Sa 10:00-13:00,15:00-21:00; Mo 15:00-20:30; Tu,We 10:00-13:00,15:00-20:30;
+    Su off
 website: https://www.lecomptoirvinsbieres.fr/

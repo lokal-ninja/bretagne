@@ -1,6 +1,6 @@
 ---
 title: Fougères
 url: /fougeres/
-latitude: 48.354
-longitude: -1.196
+latitude: 48.348
+longitude: -1.182
 ---
