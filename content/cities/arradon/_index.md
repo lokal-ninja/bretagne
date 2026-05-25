@@ -1,6 +1,6 @@
 ---
-title: arradon
+title: Arradon
 url: /arradon/
-latitude: 47.635
-longitude: -2.822
+latitude: 47.645
+longitude: -2.812
 ---
