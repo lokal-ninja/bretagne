@@ -1,6 +1,6 @@
 ---
 title: Pontivy
 url: /pontivy/
-latitude: 48.068
+latitude: 48.067
 longitude: -2.965
 ---

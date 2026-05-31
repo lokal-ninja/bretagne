@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /pontivy/netto/
-shop: commodité
+shop: supermarché
 ---
