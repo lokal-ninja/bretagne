@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /lorient/picard-rue-georges-brassens/
+url: /lorient/picard-rue-de-monistrol/
 shop: aliments surgelés
 ---
