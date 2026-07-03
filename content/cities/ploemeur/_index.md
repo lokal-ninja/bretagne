@@ -1,6 +1,6 @@
 ---
 title: Plœmeur
 url: /ploemeur/
-latitude: 47.734
-longitude: -3.429
+latitude: 47.735
+longitude: -3.427
 ---

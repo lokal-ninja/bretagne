@@ -1,6 +1,6 @@
 ---
 title: Tréméven
 url: /tremeven/
-latitude: 47.904
-longitude: -3.52
+latitude: 47.887
+longitude: -3.531
 ---
