@@ -7,5 +7,6 @@ city: Rennes
 street: Avenue des Pays-Bas
 housenumber: "51"
 phone: +33 6 72 88 28 51
-opening_hours: Tu-Fr 10:00-13:00,14:30-19:00; Sa 10:00-19:00; PH off
+opening_hours: Tu,Th 14:30-19:00; We,Fr 10:00-13:00,14:30-19:00, Sa 10:00-19:00; PH
+    off
 website: https://letablidesmots.coop/
