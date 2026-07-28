@@ -1,6 +1,6 @@
 ---
 title: Betton
 url: /betton/
-latitude: 48.183
-longitude: -1.644
+latitude: 48.18
+longitude: -1.637
 ---
