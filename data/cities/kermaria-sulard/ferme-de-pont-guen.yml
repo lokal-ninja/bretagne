@@ -7,7 +7,6 @@ city: Kermaria-Sulard
 street: Pont Guen
 housenumber: ""
 phone: +33 6 82 83 13 73
-opening_hours: 'Mardi : Marché Ploubezre de 16h à 19h  Mercredi : Marché Tréguier
-    de 8h à 12h  Vendredi : en direct de la ferme, de 15h à 19h  Samedi : Marché de
-    Penvenan de 8h à 12h'
+opening_hours: Tu 16:00-19:00 "Marché Ploubezre"; We 08:00-12:00 "Marché Tréguier";
+    Fr 15:00-19:00 open "En direct de la ferme"; Sa 08:00-12:00 "Marché de Penvenan"
 website: https://lafermedepontguen.fr/

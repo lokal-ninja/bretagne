@@ -7,8 +7,5 @@ city: Pont-Croix
 street: Rue de la Prison
 housenumber: "6"
 phone: +33 6 64 75 59 36
-opening_hours: |-
-    Jul-Aug  We-Fr-Su 11:00-19:00
-    Th 10:00-19:00
-    Sa 14:00-19:00
+opening_hours: Jul-Aug We,Fr,Su 11:00-19:00; Jul-Aug Th 10:00-19:00;Jul-Aug Sa 14:00-19:00
 website: ""
