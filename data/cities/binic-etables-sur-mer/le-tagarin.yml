@@ -7,6 +7,6 @@ city: Binic-Étables-sur-Mer
 street: Rue Pasteur
 housenumber: "15"
 phone: +33 2 96 65 47 35
-opening_hours: Oct-Jun We-Sa 11:00-19:00; Oct-Jun Su 10:00-19:00; Jul-Aug Tu, Su 10:00-19:00;
-    Jul-Aug We, Th 11:00-19:00; Jul-Aug Fr, Sa 11:00-21:30
+opening_hours: Oct-Jun Tu 10:00-13:00; Oct-Jun We-Sa 11:00-19:00; Oct-Jun Su 10:00-19:00;
+    Jul-Aug Tu,We,Th,Sa 11:00-19:00; Jul-Aug Fr 11:00-21:00; Jul-Aug Su 10:00-19:00
 website: https://cafelibrairie-letagarin.fr/

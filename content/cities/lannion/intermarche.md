@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /lannion/intermarche/
-shop: supermarché
+shop: gaz
 ---

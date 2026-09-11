@@ -1,6 +1,6 @@
 ---
-title: Saint-Jean-Brévelay
+title: Saint-Jean-Brevelay
 url: /saint-jean-brevelay/
-latitude: 47.847
-longitude: -2.725
+latitude: 47.845
+longitude: -2.707
 ---

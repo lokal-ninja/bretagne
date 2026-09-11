@@ -7,5 +7,5 @@ city: Saint-Brieuc
 street: Rue Saint-Guillaume
 housenumber: "10"
 phone: ""
-opening_hours: Tu-Fr 10:00-12:30,14:00-19:00; Sa 10:00-13:00,14:00-19:00
+opening_hours: Tu,Th-Sa 10:00-12:30,14:00-19:00; We 10:00-12:30,14:00-18:00
 website: https://www.bijoux-lechapelier.fr/

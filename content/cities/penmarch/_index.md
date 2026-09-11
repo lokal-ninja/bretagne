@@ -1,6 +1,6 @@
 ---
-title: Penmarch
+title: PENMARC'H
 url: /penmarch/
-latitude: 47.816
-longitude: -4.356
+latitude: 47.798
+longitude: -4.355
 ---

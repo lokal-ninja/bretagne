@@ -1,6 +1,6 @@
 ---
 title: Pleyber-Christ
 url: /pleyber-christ/
-latitude: 48.504
-longitude: -3.874
+latitude: 48.518
+longitude: -3.867
 ---

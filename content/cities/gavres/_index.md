@@ -1,6 +1,6 @@
 ---
-title: Gâvres
+title: Gavres
 url: /gavres/
-latitude: 47.697
-longitude: -3.352
+latitude: 47.696
+longitude: -3.347
 ---

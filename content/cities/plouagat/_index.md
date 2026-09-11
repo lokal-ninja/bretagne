@@ -1,6 +1,6 @@
 ---
 title: Plouagat
 url: /plouagat/
-latitude: 48.537
-longitude: -2.997
+latitude: 48.531
+longitude: -2.969
 ---

@@ -1,6 +1,6 @@
 ---
 title: Quistinic
 url: /quistinic/
-latitude: 47.905
-longitude: -3.133
+latitude: 47.904
+longitude: -3.136
 ---
