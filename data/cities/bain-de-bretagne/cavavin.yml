@@ -7,6 +7,5 @@ city: Bain-de-Bretagne
 street: Place Saint-Martin
 housenumber: "2"
 phone: ""
-opening_hours: Tu-We 09:30-12:30,14:00-19:00; Th-Sa 09:30-19:00; 2026 Aug 21,2026
-    Aug 22,2026 Aug 23,2026 Aug 24 off
+opening_hours: Tu-We 09:30-12:30,14:00-19:00; Th-Fr 09:30-19:00; Sa 09:30-13:00,14:00-19:00
 website: ""
