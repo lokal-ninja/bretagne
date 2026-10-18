@@ -1,5 +1,5 @@
 ---
 title: "Frans Bonhomme"
 url: /la-meziere/frans-bonhomme/
-shop: commerce
+shop: à faire soi-même
 ---

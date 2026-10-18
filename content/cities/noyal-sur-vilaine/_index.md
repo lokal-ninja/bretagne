@@ -1,6 +1,6 @@
 ---
 title: Noyal-sur-Vilaine
 url: /noyal-sur-vilaine/
-latitude: 48.11
-longitude: -1.529
+latitude: 48.106
+longitude: -1.521
 ---
