@@ -1,6 +1,6 @@
 ---
 title: Quintin
 url: /quintin/
-latitude: 48.41
-longitude: -2.919
+latitude: 48.403
+longitude: -2.91
 ---
