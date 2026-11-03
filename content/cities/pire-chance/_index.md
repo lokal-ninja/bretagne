@@ -1,6 +1,6 @@
 ---
 title: Piré-Chancé
 url: /pire-chance/
-latitude: 48.009
-longitude: -1.43
+latitude: 48.01
+longitude: -1.428
 ---

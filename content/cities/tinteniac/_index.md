@@ -1,6 +1,6 @@
 ---
 title: Tinténiac
 url: /tinteniac/
-latitude: 48.328
-longitude: -1.833
+latitude: 48.302
+longitude: -1.818
 ---
