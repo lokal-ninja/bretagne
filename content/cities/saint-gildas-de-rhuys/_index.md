@@ -1,6 +1,6 @@
 ---
 title: Saint-Gildas-de-Rhuys
 url: /saint-gildas-de-rhuys/
-latitude: 47.5
-longitude: -2.837
+latitude: 47.501
+longitude: -2.84
 ---

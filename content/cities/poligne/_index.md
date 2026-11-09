@@ -1,6 +1,6 @@
 ---
 title: Poligné
 url: /poligne/
-latitude: 47.887
-longitude: -1.689
+latitude: 47.895
+longitude: -1.686
 ---
