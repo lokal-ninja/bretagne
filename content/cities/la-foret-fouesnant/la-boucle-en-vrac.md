@@ -1,5 +1,5 @@
 ---
-title: "La boucle en vrac"
+title: "La Boucle en Vrac"
 url: /la-foret-fouesnant/la-boucle-en-vrac/
-shop: commodité
+shop: charcuterie
 ---
